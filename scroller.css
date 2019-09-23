@@ -1,0 +1,34 @@
+.container {
+  background-color: white;
+  /*height: 500px;*/
+  width: 100%;
+  /*overflow: scroll;*/
+  margin-top: 10px;
+}
+
+#bigmap {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+
+.photo-item {
+  border-top: 1px solid #DDD;
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+}
+
+.photo-item__image {
+  display: inline-block;
+  max-width: 100%;
+}
+
+.page-load-status {
+  background-color: white;
+  display: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /*border-top: 1px solid #DDD;*/
+  text-align: center;
+  color: #777;
+}
