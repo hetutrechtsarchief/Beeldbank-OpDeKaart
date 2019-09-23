@@ -10,7 +10,6 @@
   transform: scale(1.5); /* Equal to scaleX(0.7) scaleY(0.7) */
 }
 
-
 #bigmap {
   position: fixed;
   left: 0px;
@@ -18,14 +17,16 @@
 }
 
 .photo-item {
-  border-top: 1px solid #DDD;
-  display: inline-block;
+  /*width: 90%;*/
+  /*border-top: 1px solid #DDD;*/
+  /*display: inline-block;*/
   margin: 10px 10px 10px 10px;
 }
 
 .photo-item__image {
   display: inline-block;
   max-width: 100%;
+  width: 100%;
 }
 
 .page-load-status {
