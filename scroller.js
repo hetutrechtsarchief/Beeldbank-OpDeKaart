@@ -5,8 +5,8 @@ function initScroller() {
 
   var $container = $('.container').infiniteScroll({
     path: function() {
-      console.log("this: ",this);
-      console.log("path function", this.pageIndex);
+      // console.log("this: ",this);
+      // console.log("path function", this.pageIndex);
       return 'sparql.php?wikidataID='+window.wikidataID+'&page=' + this.pageIndex;
     },
     // load response as flat text
@@ -42,6 +42,10 @@ function initScroller() {
 
 var itemTemplateSrc = $('#photo-item-template').html();
 
+$( document ).tooltip({
+  track: true
+});
+
 function getItemHTML(itemData) {
   return microTemplate(itemTemplateSrc, itemData);
 }
@@ -65,19 +69,21 @@ function microTemplate( src, data ) {
 }
 
 function quoteattr(s, preserveCR) {
-    preserveCR = preserveCR ? '&#13;' : '\n';
-    return ('' + s) /* Forces the conversion to string. */
-        .replace(/&/g, '&amp;') /* This MUST be the 1st replacement. */
-        .replace(/'/g, '&apos;') /* The 4 other predefined entities, required. */
-        .replace(/"/g, '&quot;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        /*
-        You may add other replacements here for HTML only 
-        (but it's not necessary).
-        Or for XML, only if the named entities are defined in its DTD.
-        */ 
-        .replace(/\r\n/g, preserveCR) /* Must be before the next replacement. */
-        .replace(/[\r\n]/g, preserveCR);
-        ;
+  preserveCR = preserveCR ? '&#13;' : '\n';
+  return ('' + s) /* Forces the conversion to string. */
+    .replace(/&/g, '&amp;') /* This MUST be the 1st replacement. */
+    .replace(/'/g, '&apos;') /* The 4 other predefined entities, required. */
+    .replace(/"/g, '&quot;')
+    .replace(/<ZR>/g, ' ') /// 
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    
+    /*
+    You may add other replacements here for HTML only 
+    (but it's not necessary).
+    Or for XML, only if the named entities are defined in its DTD.
+    */ 
+    .replace(/\r\n/g, preserveCR) /* Must be before the next replacement. */
+    .replace(/[\r\n]/g, preserveCR);
+    ;
 }

@@ -26,7 +26,10 @@
   <link rel="stylesheet" href="scroller.css"/>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.css" />
   <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.js"></script>
-
+  
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  
 </head>
 <body>
 
@@ -60,7 +63,7 @@
 <script type="text/html" id="photo-item-template">
   <div class="photo-item" id="{{guid}}">
     <a data-fancybox="gallery" data-caption="<h2>{{description}}</h2>Datum: {{beginTimeStamp}} - {{endTimeStamp}}<br/>Licentie: {{rights}}<br/><a target='_blank' href='https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}'>https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}</a>" href="https://proxy.archieven.nl/thumb/39/{{guid}}">
-      <img class="photo-item__image" title="Catalogusnummer: {{catalogusnummer}}" src="https://proxy.archieven.nl/thumb/39/{{guid}}"/>
+      <img class="photo-item__image" title="{{description}}" src="https://proxy.archieven.nl/thumb/39/{{guid}}"/>
     </a>
   </div>
 </script>
