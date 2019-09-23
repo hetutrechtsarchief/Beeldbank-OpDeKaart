@@ -59,8 +59,7 @@
 <!-- .photo-item template HTML -->
 <script type="text/html" id="photo-item-template">
   <div class="photo-item" id="{{guid}}">
-    <a data-fancybox="gallery" href="https://proxy.archieven.nl/thumb/39/{{guid}}">
-      <!-- http://hualab.nl/beeldbank/?catalogusnummer={{catalogusnummer}}"> -->
+    <a data-fancybox="gallery" data-caption="<h2>{{description}}</h2>Datum: {{beginTimeStamp}} - {{endTimeStamp}}<br/>Licentie: {{rights}}<br/><a target='_blank' href='https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}'>https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}</a>" href="https://proxy.archieven.nl/thumb/39/{{guid}}">
       <img class="photo-item__image" title="Catalogusnummer: {{catalogusnummer}}" src="https://proxy.archieven.nl/thumb/39/{{guid}}"/>
     </a>
   </div>
@@ -92,8 +91,6 @@
   }
 
   function refreshMap(){
-
-    
     $.ajax({
           type: 'GET',
           url: 'gemeente-utrecht.geojson',
@@ -207,7 +204,7 @@
 
 </script>
 
-  <script src="scroller.js"></script>
+<script src="scroller.js"></script>
 
 
 </body>

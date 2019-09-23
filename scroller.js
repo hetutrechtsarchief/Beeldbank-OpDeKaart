@@ -31,7 +31,7 @@ function initScroller() {
     // append item elements
     
     $items.find(".photo-item__image").on("error", function() {
-      $(this).parent().parent().remove(); //remove DIV
+      $(this).parent().parent().remove(); //remove <FIGURE>
     });
 
     $container.infiniteScroll('appendItems', $items);
@@ -58,8 +58,26 @@ function microTemplate( src, data ) {
     // walk through objects to get value
     var value = data;
     key.split('.').forEach( function( part ) {
-      value = value[ part ];
+      value = quoteattr(value[part]); //.replace(/\"/g, "");
     });
     return value;
   });
+}
+
+function quoteattr(s, preserveCR) {
+    preserveCR = preserveCR ? '&#13;' : '\n';
+    return ('' + s) /* Forces the conversion to string. */
+        .replace(/&/g, '&amp;') /* This MUST be the 1st replacement. */
+        .replace(/'/g, '&apos;') /* The 4 other predefined entities, required. */
+        .replace(/"/g, '&quot;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        /*
+        You may add other replacements here for HTML only 
+        (but it's not necessary).
+        Or for XML, only if the named entities are defined in its DTD.
+        */ 
+        .replace(/\r\n/g, preserveCR) /* Must be before the next replacement. */
+        .replace(/[\r\n]/g, preserveCR);
+        ;
 }
