@@ -29,7 +29,7 @@
   
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-  
+
 </head>
 <body>
 
@@ -40,11 +40,11 @@
   <div id="plaatsinfo">
   </div>
 
-  <div id="wd">
-    <p>Dit kaartje toont de aantallen afbeeldingen in de beeldbank die met een straat zijn verbonden.</p>
+  <div id="bag">
   </div>
 
-  <div id="bag">
+  <div id="wd">
+    <p>Dit kaartje toont de aantallen afbeeldingen in de beeldbank die met een straat zijn verbonden.</p>
   </div>
 
   <div class="container"></div>
@@ -62,7 +62,8 @@
 <!-- .photo-item template HTML -->
 <script type="text/html" id="photo-item-template">
   <div class="photo-item" id="{{guid}}">
-    <a data-fancybox="gallery" data-caption="<h2>{{description}}</h2>Datum: {{beginTimeStamp}} - {{endTimeStamp}}<br/>Licentie: {{rights}}<br/><a target='_blank' href='https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}'>https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}</a>" href="https://proxy.archieven.nl/thumb/39/{{guid}}">
+    <a data-fancybox="gallery" data-caption="<h2>{{description}}</h2>Datum: {{beginTimeStamp}} - {{endTimeStamp}}<br/>Licentie: {{rights}}<br/><a target='_blank' href='https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}'>https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}</a>" 
+        href="https://proxy.archieven.nl/download/39/{{guid}}">
       <img class="photo-item__image" title="{{description}}" src="https://proxy.archieven.nl/thumb/39/{{guid}}"/>
     </a>
   </div>
@@ -189,20 +190,21 @@
     }
     $('#plaats').html(kopje);
 
-    if(props['wd'].length){
-      window.wikidataID = props['wd'];
-      initScroller();
-
-      $('#wd').html('<a target="_blank" href="http://www.wikidata.org/entity/' + props['wd'] + '">wikidata: ' + props['wd'] + '</a>');
-    }else{
-      $('#wd').html('huh');
-    }
-
     if(props['bag'].length){
       $('#bag').html('<a target="_blank" href="https://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/' + props['bag'] + '">bagid: ' + props['bag'] + '</a>');
     }else{
       $('#bag').html('');
     }
+
+    if(props['wd'].length){
+      window.wikidataID = props['wd'];
+      initScroller();
+
+     $('#wd').html('<a target="_blank" href="http://www.wikidata.org/entity/' + props['wd'] + '">wikidata: ' + props['wd'] + '</a><br><a href="https://druid.datalegend.net/HetUtrechtsArchief/beeldbank/">SPARQL: Maak je eigen query</a>');
+    }else{
+      $('#wd').html('huh');
+    }
+    
   }
 
 </script>

@@ -21,7 +21,7 @@ SELECT ?uuid, ?catalogusnummer, ?description, ?beginTimeStamp, ?endTimeStamp, ?r
   ?bbitem sem:hasEndTimeStamp ?endTimeStamp .
   ?bbitem dc:rights ?rights .
   BIND(REPLACE(str(?bbitem), "https://hetutrechtsarchief.nl/id/", "") AS ?uuid)
-} OFFSET '.(10*$page).' LIMIT 10';
+} OFFSET '.(10*($page-1)).' LIMIT 10';
 
 // echo $sparqlquery;
 // die();

@@ -30,8 +30,16 @@ function initScroller() {
     var $items =  $(itemsHTML);
     // append item elements
     
+    $items.find(".photo-item__image").on("load", function() {
+      $(this).hide();
+      $(this).fadeIn();
+    });
+
     $items.find(".photo-item__image").on("error", function() {
-      $(this).parent().parent().remove(); //remove <FIGURE>
+      console.log("image load error",$(this).attr("src"));
+      $(this).attr("src","https://hetutrechtsarchief.nl/templates/cust-utr-website/img/mediabank-noimage.png");
+
+      // $(this).parent().parent().remove(); //remove <FIGURE>
     });
 
     $container.infiniteScroll('appendItems', $items);
