@@ -39,3 +39,18 @@
 .ui-tooltip-content {
   font-size: smaller;
 }
+
+#lblOnlineOnly {
+  /*display: none;*/
+  font-weight: normal;
+  margin-top: 10px;
+  border-top: 2px solid white;
+  padding-top: 10px;
+}
+
+#lblOnlineOnly input {
+  margin-right: 5px;
+}
+
+
+
