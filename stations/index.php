@@ -29,12 +29,12 @@
 <div id="bigmap"></div>
 
 <div id="sidebar">
-	<h2 id="plaats">Straten Utrechts Archief</h2>
+	<h2 id="plaats">Stations in de beeldbank van Het Utrechts Archief</h2>
 	<div id="plaatsinfo">
 	</div>
 
 	<div id="wd">
-		<p>Dit kaartje toont de aantallen afbeeldingen in de beeldbank die met een straat zijn verbonden.</p>
+		<p>Dit kaartje toont de aantallen afbeeldingen in de beeldbank die met een station zijn verbonden.</p>
 	</div>
 
 	<div id="bag">
