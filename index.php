@@ -47,7 +47,7 @@
 
 			<p>In de beeldbank is ook de fotocollectie van de NS opgenomen. We hebben de beeldbank doorzocht op de namen van <a href="https://w.wiki/93C">stations die in Wikidata opgenomen zijn</a>.</p>
 
-			<p>Om de resultaten te bekijken hebben we drie kaartjes gemaakt.</p>
+			<p>Om de resultaten te bekijken (en te valideren) hebben we drie kaartjes gemaakt.</p>
 
 		</div>
 	</div>
