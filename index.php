@@ -77,6 +77,40 @@
 			<p>Er zijn 1179 stations in Nederland (geweest). Daarvan hebben we er 511 in de beeldbank gevonden op 12.256 afbeeldingen.</p>
 		</div>
 	</div>
+
+	<div class="row">
+		<div class="col-md-6">
+
+			<h2>Wikidata, BAG & LOD</h2>
+
+			<p>We hebben koppelingen gelegd naar zowel Wikidata als BAG identifiers. Binnen het kader van dit project zijn daarom - <a href="https://w.wiki/96X">op enige tientallen na</a> - alle straten binnen de provincie Utrecht op Wikidata van BAG id voorzien. Zo hebben anderen er ook weer wat aan.</p>
+
+			<p>Zowel de beeldbank metadata als de koppelingen met straten en stations zijn als linked open data (LOD) gepubliceerd en <a href="https://api.druid.datalegend.net/s/QGjcvpGVB">toegankelijk gemaakt via een SPARQL-endpoint</a>.</p>
+
+			<p>Doordat je meerdere endpoints in één query kunt bevragen kan je nu de beeldbank doorzoeken op <a href="https://api.druid.datalegend.net/s/QSyr9X8qW">stations van de architect Sybold van Ravenstein</a>. Of op <a href="https://api.druid.datalegend.net/s/xeAkkdMUS">in de jaren '90 opgeheven stations</a>.</p>
+
+			
+		</div>
+		<div class="col-md-6">
+
+			<h2>Toekomstig werk</h2>
+
+			<p>Er is, als altijd, natuurlijk nog genoeg te doen.</p>
+
+			<ul>
+				<li>De koppelingen met BAG en Wikidata URIs zouden opgenomen moeten worden in het eigen systeem</li>
+				<li>Als de leverancier mogelijkheden daartoe niet ingebouwd heeft kunnen de koppelingen ook als opzichzelfstaand bestand opgeslagen worden. Zo'n bestand moet dan wel duurzame URIs van beeldbankitems bevatten en duurzaam opgeslagen worden.</li>
+				<li>Beeldbankitems (en inventarisnummers, scans, etc.) moeten ook daarom persistente URIs krijgen</li>
+				<li>De koppelingen zijn scriptmatig tot stand gebracht, er kunnen dus goed vals positieven gevonden zijn. Denk aan straatnamen als 'Antillen' of het station genaamd 'Hembrug'. Hier kan nog naar gekeken worden.</li>
+				<li>Straten en stations die in de beeldbankbeschrijvingen met schrijfwijzes zijn aangeduid die afwijken van de gebruikte lijsten zouden nog (handmatig) gekoppeld kunnen worden.</li>
+				<li>In deze pilot is gekeken naar straten en stations. Andere geografische entiteiten, zoals plaatsnamen, andere gebouwen en gebieden zouden ook nog in kaart gebracht kunnen worden.</li>
+				<li>Dit project heeft zich beperkt tot de beeldbank. Het archief beheert natuurlijk meer collecties die geografische ontsloten zouden kunnen worden.</li>
+			</ul>
+
+		</div>
+	</div>
+
+
 </div>
 
 	
