@@ -37,9 +37,13 @@ function initScroller() {
 
     $items.find(".photo-item__image").on("error", function() {
       console.log("image load error",$(this).attr("src"));
-      $(this).attr("src","https://hetutrechtsarchief.nl/templates/cust-utr-website/img/mediabank-noimage.png");
 
-      // $(this).parent().parent().remove(); //remove <FIGURE>
+      if ($("#chkOnlineOnly").prop('checked')) {
+        $(this).hide();
+      } else {
+        $(this).attr("src","https://hetutrechtsarchief.nl/templates/cust-utr-website/img/mediabank-noimage.png");
+      }
+
     });
 
     $container.infiniteScroll('appendItems', $items);

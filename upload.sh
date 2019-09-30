@@ -1,0 +1,1 @@
+rsync -av --exclude .git . hualab.nl:/home/rick/sites/hualab.nl/opdekaart

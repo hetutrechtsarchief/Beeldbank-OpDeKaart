@@ -40,12 +40,17 @@
   <div id="plaatsinfo">
   </div>
 
+  <p id="intro">Dit kaartje toont de aantallen afbeeldingen in de beeldbank die met een straat zijn verbonden.</p>
+
   <div id="bag">
   </div>
 
   <div id="wd">
-    <p>Dit kaartje toont de aantallen afbeeldingen in de beeldbank die met een straat zijn verbonden.</p>
   </div>
+
+  <a id="sparqlTip" href="https://druid.datalegend.net/HetUtrechtsArchief/beeldbank/">Tip: Query zelf deze dataset met SPARQL</a>
+
+  <label id="lblOnlineOnly"><input id="chkOnlineOnly" checked type="checkbox">Toon alleen afbeeldingen die ik online kan bekijken</label>
 
   <div class="container"></div>
 
@@ -176,7 +181,8 @@
 
   function whenClicked(){
     $(".container").empty();
-
+    // $("#lblOnlineOnly").show();
+    $("#intro").hide();
 
     var props = $(this)[0].feature.properties;
     //console.log(props);
@@ -200,7 +206,7 @@
       window.wikidataID = props['wd'];
       initScroller();
 
-     $('#wd').html('<a target="_blank" href="http://www.wikidata.org/entity/' + props['wd'] + '">wikidata: ' + props['wd'] + '</a><br><a href="https://druid.datalegend.net/HetUtrechtsArchief/beeldbank/">SPARQL: Maak je eigen query</a>');
+     $('#wd').html('<a target="_blank" href="http://www.wikidata.org/entity/' + props['wd'] + '">wikidata: ' + props['wd'] + '</a>');
     }else{
       $('#wd').html('huh');
     }
