@@ -8,7 +8,7 @@ html, body{
 	margin:0;
 	padding-top: 0;
 	font-family: 'PT Sans', sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 	background-color: #E84B37;
 	color: #fff;
 	height: 100%;
@@ -36,7 +36,8 @@ html, body{
 }
 
 #hellothere{
-	margin-top: 60px;
+	margin-top: 30px;
+	margin-bottom: 160px;
 }
 #hellothere img{
 	width: 100%;
@@ -55,21 +56,21 @@ html, body{
 h1{
 	margin-top: 20px;
 	padding-bottom: 12px;
-	font-size: 42px;
-	font-family: 'Cardo', serif;
-	border-bottom: 2px solid #FC3272;
-}
-h2{
-	margin-top: 0;
-	padding-bottom: 6px;
-	font-size: 24px;
+	font-size: 32px;
 	font-family: 'Cardo', serif;
 	border-bottom: 4px solid #fff;
+}
+h2{
+	margin-top: 12px;
+	padding-bottom: 6px;
+	font-size: 20px;
+	font-family: 'Cardo', serif;
+	border-bottom: 3px solid #fff;
 	line-height: 1.4em;
 	cursor: pointer;
 }
 a, a:hover{
-	text-decoration: none;
+	text-decoration: underline;
 	color: #FFD6D2;
 }
 
