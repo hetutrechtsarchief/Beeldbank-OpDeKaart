@@ -1,5 +1,5 @@
 .container {
-  background-color: white;
+  background-color: #000;
   /*height: 500px;*/
   width: 100%;
   /*overflow: scroll;*/
@@ -27,7 +27,7 @@
 }
 
 .page-load-status {
-  background-color: white;
+  background-color: #000;
   display: none;
   padding-top: 20px;
   padding-bottom: 20px;

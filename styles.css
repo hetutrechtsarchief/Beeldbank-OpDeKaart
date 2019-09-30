@@ -47,9 +47,6 @@ html, body{
 .smaller{
 	font-size: 14px;
 }
-#vakgebieden{
-	text-align: right;
-}
 .table>tbody>tr>td{
 	border-top: 1px solid #FC3272;
 }
@@ -102,4 +99,7 @@ a, a:hover{
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
+}
+#sidebar .container{
+	padding: 0;
 }
