@@ -1,6 +1,8 @@
 function initScroller() {
-  var reachedTheEnd = false;
+  // var reachedTheEnd = false;
+  console.log("initScroller");
 
+  $('.einde').hide();
   $('.container').infiniteScroll('destroy');
 
   var $container = $('.container').infiniteScroll({
@@ -20,10 +22,18 @@ function initScroller() {
   $container.on('load.infiniteScroll', function(event, response) {
     var data = JSON.parse(response);
 
-    data = data.filter(function (obj) {
-      reachedTheEnd = ($("#"+obj.guid).length>0);
-      return !reachedTheEnd; //don't add if already exists
-    });
+    if (data && data.length==0) {
+      console.log("done..")
+      $('.container').infiniteScroll('destroy'); 
+      $('.einde').fadeIn();
+      // $('.container').append("<p>Einde...</p>");
+      return;
+    }
+
+    // data = data.filter(function (obj) {
+    //   reachedTheEnd = ($("#"+obj.guid).length>0);
+    //   return !reachedTheEnd; //don't add if already exists
+    // });
 
     var itemsHTML = data.map(getItemHTML).join('');
     // convert HTML string into elements

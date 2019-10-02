@@ -20,7 +20,7 @@
   <script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js" integrity="sha512-mNqn2Wg7tSToJhvHcqfzLMU6J4mkOImSPTxVZAdo+lcPlk+GhZmYgACEe0x35K7YzW1zJ7XyJV/TT1MrdXvMcA==" crossorigin=""></script>
   <link rel="stylesheet" href="styles.css" />
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> -->
   <script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.js"></script>
 
   <link rel="stylesheet" href="scroller.css"/>
@@ -53,6 +53,7 @@
   <label id="lblOnlineOnly"><input id="chkOnlineOnly" checked type="checkbox">Toon alleen afbeeldingen die ik online kan bekijken</label>
 
   <div class="container"></div>
+  <p class="einde">Einde...</p>
 
   <div class="page-load-status">
     <div class="loader-ellips infinite-scroll-request">
@@ -154,8 +155,8 @@
              d > 75 ? 8 :
              d > 35  ? 6 :
              d > 10  ? 4 :
-             d > 5  ? 3 :
-                       2;
+             d > 5  ? 4 : //3
+                      4 ; //2
   }
 
   function getColor(d) {
@@ -181,7 +182,6 @@
 
   function whenClicked(){
     $(".container").empty();
-    // $("#lblOnlineOnly").show();
     $("#intro").hide();
 
     var props = $(this)[0].feature.properties;
@@ -205,8 +205,7 @@
     if(props['wd'].length){
       window.wikidataID = props['wd'];
       initScroller();
-
-     $('#wd').html('<a target="_blank" href="http://www.wikidata.org/entity/' + props['wd'] + '">wikidata: ' + props['wd'] + '</a>');
+      $('#wd').html('<a target="_blank" href="http://www.wikidata.org/entity/' + props['wd'] + '">wikidata: ' + props['wd'] + '</a>');
     }else{
       $('#wd').html('huh');
     }
