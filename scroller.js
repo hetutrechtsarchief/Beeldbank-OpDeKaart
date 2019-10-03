@@ -9,7 +9,7 @@ function initScroller() {
     path: function() {
       // console.log("this: ",this);
       // console.log("path function", this.pageIndex);
-      return 'sparql.php?wikidataID='+window.wikidataID+'&page=' + this.pageIndex;
+      return window.apiBase + window.wikidataID+'&page=' + this.pageIndex;
     },
     // load response as flat text
     responseType: 'text',

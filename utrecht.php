@@ -83,6 +83,7 @@
   $(document).ready(function() {
     createMap();
     refreshMap();
+    window.apiBase = 'sparql.php?wikidataID=';
   });
 
   function createMap(){

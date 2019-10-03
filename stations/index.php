@@ -67,20 +67,22 @@
 
 	<a href="../"><img id="btnBack" src="../back.gif"></a>
 
+<!-- .photo-item template HTML -->
+<script type="text/html" id="photo-item-template">
+  <div class="photo-item" id="{{guid}}">
+    <a data-fancybox="gallery" data-caption="<h2>{{description}}</h2>Datum: {{beginTimeStamp}} - {{endTimeStamp}}<br/>Licentie: {{rights}}<br/><a target='_blank' href='https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}'>https://hetutrechtsarchief.nl/collectie/beeldmateriaal/catalogusnummer/{{catalogusnummer}}</a>" 
+        href="https://proxy.archieven.nl/download/39/{{guid}}">
+      <img class="photo-item__image" title="{{description}}" src="https://proxy.archieven.nl/thumb/39/{{guid}}"/>
+    </a>
+  </div>
+</script>
 
 <script>
 
-	
-
-	
-
 	$(document).ready(function(){
-
 		createMap();
-
 		refreshMap();
-
-
+		window.apiBase = '../sparql.php?wikidataID=';
 	});
 
 	function createMap(){
@@ -231,13 +233,13 @@
 
 		console.log('props',props);
 
-		// if(props['wd'].length){
-		// 	window.wikidataID = props['wd'];
-  //     initScroller();
-		// 	$('#wd').html('<a target="_blank" href="http://www.wikidata.org/entity/' + props['wd'] + '">wikidata: ' + props['wd'] + '</a>');
-		// }else{
-		// 	$('#wd').html('huh');
-		// }	
+		if(props['wd'].length){
+			window.wikidataID = props['wd'];
+      initScroller();
+			$('#wd').html('<a target="_blank" href="http://www.wikidata.org/entity/' + props['wd'] + '">wikidata: ' + props['wd'] + '</a>');
+		}else{
+			$('#wd').html('huh');
+		}	
 
 
 		// if(props['wd'].length){
@@ -261,7 +263,7 @@
 
 </script>
 
-
+<script src="../scroller.js"></script>
 
 </body>
 </html>
