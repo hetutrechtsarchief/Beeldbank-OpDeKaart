@@ -23,7 +23,7 @@
 
 	<script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.js"></script>
 
-  <link rel="stylesheet" href="/scroller.css"/>
+  <link rel="stylesheet" href="../scroller.css"/>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.css" />
   <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.js"></script>
   
@@ -65,7 +65,7 @@
 
 </div>
 
-	<a href="/"><img id="btnBack" src="/back.gif"></a>
+	<a href="../"><img id="btnBack" src="../back.gif"></a>
 
 
 <script>
