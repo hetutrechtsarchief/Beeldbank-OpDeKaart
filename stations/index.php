@@ -164,7 +164,8 @@
 				    },
 				    onEachFeature: function(feature, layer) {
 						layer.on({
-					        click: whenClicked
+					        click: whenClicked,
+                  mouseover: rollover,
 					    });
 				    }
 				}).addTo(map);
@@ -207,7 +208,7 @@
 
 	function rollover() {
     var props = $(this)[0].feature.properties;
-    this.bindPopup($(this)[0].options.title)
+    this.bindPopup(props["nm"]);
     this.openPopup();
     var self = this;
     setTimeout(function() {
