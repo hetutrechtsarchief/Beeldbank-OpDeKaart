@@ -108,3 +108,11 @@ a, a:hover{
 	margin-top: 10px;
 	display: none;
 }
+
+#btnBack {
+	position: absolute;
+	left:10px;
+	top: 10px;
+	width: 24px;
+	height: 24px;
+}

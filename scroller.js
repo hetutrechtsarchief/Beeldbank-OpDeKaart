@@ -1,8 +1,6 @@
 function initScroller() {
-  // var reachedTheEnd = false;
-  console.log("initScroller");
+  var reachedTheEnd = false;
 
-  $('.einde').hide();
   $('.container').infiniteScroll('destroy');
 
   var $container = $('.container').infiniteScroll({
@@ -25,8 +23,7 @@ function initScroller() {
     if (data && data.length==0) {
       console.log("done..")
       $('.container').infiniteScroll('destroy'); 
-      $('.einde').fadeIn();
-      // $('.container').append("<p>Einde...</p>");
+      $('.container').append("<p>Einde...</p>");
       return;
     }
 

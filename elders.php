@@ -66,6 +66,8 @@
 
 </div>
 
+<a href="/"><img id="btnBack" src="back.gif"></a>
+
 <!-- .photo-item template HTML -->
 <script type="text/html" id="photo-item-template">
   <div class="photo-item" id="{{guid}}">
@@ -92,8 +94,13 @@
 	        zoom: zoomlevel,
 	        minZoom: 1,
 	        maxZoom: 20,
-	        scrollWheelZoom: false
-	    });
+	        scrollWheelZoom: true,
+          zoomControl: false
+      });
+
+    L.control.zoom({
+        position: 'bottomright'
+    }).addTo(map);
 
 		L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
 			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -179,9 +186,10 @@
 	                     '#4575b4';
 	}
 
+
 	function rollover() {
     var props = $(this)[0].feature.properties;
-    this.bindPopup($(this)[0].options.title)
+    this.bindPopup(props["nm"] + (props["mun"] ? (", " + props["mun"]) : "") );
     this.openPopup();
     var self = this;
     setTimeout(function() {
