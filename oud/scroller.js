@@ -1,7 +1,7 @@
 function initScroller() {
   var reachedTheEnd = false;
 
-  $('.container').empty();
+  console.log($('.container').children().length);
   $('.container').infiniteScroll('destroy');
   $('.einde').hide();
 
@@ -17,8 +17,6 @@ function initScroller() {
     history: false,
   });
   //init
-
-
   $container.infiniteScroll('loadNextPage');
 
   $container.on('load.infiniteScroll', function(event, response) {
@@ -31,10 +29,10 @@ function initScroller() {
       return;
     }
 
-    data = data.filter(function (obj) {
-      reachedTheEnd = ($("#"+obj.guid).length>0);
-      return !reachedTheEnd; //don't add if already exists
-    });
+    // data = data.filter(function (obj) {
+    //   reachedTheEnd = ($("#"+obj.guid).length>0);
+    //   return !reachedTheEnd; //don't add if already exists
+    // });
 
     var itemsHTML = data.map(getItemHTML).join('');
     // convert HTML string into elements

@@ -29,7 +29,7 @@
 
 <div id="hellothere" class="container">
 
-	<h1 id="plaats">Pilot geocoderen beeldbank Utrechts Archief: straten en stations</h1>
+	<h1 id="plaats">Pilot geocoderen beeldbank Het Utrechts Archief: straten en stations</h1>
 	<div id="plaatsinfo">
 	</div>
 

@@ -65,7 +65,7 @@
 
 </div>
 
-<a href="/"><img id="btnBack" src="back.gif"></a>
+<a href="index.php"><img id="btnBack" src="back.gif"></a>
 
 <!-- .photo-item template HTML -->
 <script type="text/html" id="photo-item-template">
