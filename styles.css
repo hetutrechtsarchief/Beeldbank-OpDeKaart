@@ -17,11 +17,15 @@ html, body{
 @media only screen and (max-width: 900px) {
   	#bigmap {
 		width: 100%;
-		height: 80%;
+		height: 60%;
+	}
+	#sidebar{
+		margin-left: 0;
 	}
 }
 @media only screen and (min-width: 900px) {
   	#bigmap {
+  		position: fixed;
 		width: 75%;
 		height: 100%;
 		float: left;
