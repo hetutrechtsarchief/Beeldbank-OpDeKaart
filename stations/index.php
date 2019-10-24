@@ -40,16 +40,20 @@
 	<div id="plaatsinfo">
 	</div>
 
-	<p>Dit kaartje toont de aantallen afbeeldingen in de beeldbank die met een station zijn verbonden.</p>
+	
 
 	<div id="bag">
   </div>
 
-  <div id="wd">
+  <div id="wd"><p>Dit kaartje toont de aantallen afbeeldingen in de beeldbank die met een station zijn verbonden.</p>
   </div>
 
-  <a id="sparqlTip" href="https://druid.datalegend.net/HetUtrechtsArchief/beeldbank/">Tip: Query zelf deze dataset met SPARQL</a>
+  <div id="sparql">
+  </div>
 
+  <?php /*<a id="sparqlTip" href="https://druid.datalegend.net/HetUtrechtsArchief/beeldbank/">Tip: Query zelf deze dataset met SPARQL</a> */ ?>
+
+  
   <label id="lblOnlineOnly"><input id="chkOnlineOnly" checked type="checkbox">Toon alleen afbeeldingen die ik online kan bekijken</label>
 
   <div class="container"></div>
@@ -224,6 +228,34 @@
 		//console.log(props);
 		var naam = decodeURIComponent(props['nm']);
 		var kopje = naam;
+		if(props['wd'].length){
+      		var sparqlquery = 
+`
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sem: <http://semanticweb.cs.vu.nl/2009/11/sem/>
+
+SELECT ?widget WHERE {
+  ?cho dct:spatial <http://www.wikidata.org/entity/` + props['wd'] + `> .
+  ?cho edm:isShownBy ?img .
+  ?cho edm:isShownAt ?rec .
+  OPTIONAL{
+    ?cho sem:hasBeginTimeStamp ?chodate .
+  }
+  ?cho dc:description ?description .
+  BIND(CONCAT(
+    '<a href="',?cho,'"><img style="height:170px;" src="',?img,'"></a>',
+    ?description,'<br />','<strong>',?chodate,'</strong>'
+  ) AS ?widget)
+} 
+LIMIT 100`;
+
+			var encodedquery = encodeURIComponent(sparqlquery);
+			var endpointurl = 'https://druid.datalegend.net/HetUtrechtsArchief/beeldbank/sparql/beeldbank#query=' + encodedquery + '&endpoint=https%3A%2F%2Fdruid.datalegend.net%2F_api%2Fdatasets%2Fhetutrechtsarchief%2Fbeeldbank%2Fservices%2Fbeeldbank%2Fsparql&requestMethod=POST&tabTitle=Query&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=gallery'
+		}
 
 		if(props.cnt==1){
 			kopje += ', ' + props['cnt'] + ' rec';
@@ -238,7 +270,8 @@
 			window.wikidataID = props['wd'];
       initScroller();
 			$('#wd').html('<a target="_blank" href="http://www.wikidata.org/entity/' + props['wd'] + '">wikidata: ' + props['wd'] + '</a>');
-		}else{
+			$('#sparql').html('<a target="_blank" href="' + endpointurl + '">sparql het zelf</a>');
+	    }else{
 			$('#wd').html('huh');
 		}	
 
