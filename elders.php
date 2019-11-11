@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ tabindex="1"<!DOCTYPE html>
 <html>
 <head>
 	
@@ -71,7 +71,7 @@
 </div>
 
 <a href="index.php"><img id="btnBack" src="back.gif"></a>
-<input type="text" id="txtFilter" placeholder="Filter op straatnaam...">
+<input type="text" id="txtFilter" placeholder="Filter op straatnaam..." tabindex="1">
 
 <!-- .photo-item template HTML -->
 <script type="text/html" id="photo-item-template">

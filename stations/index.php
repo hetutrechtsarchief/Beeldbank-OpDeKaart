@@ -68,7 +68,7 @@
 </div>
 
 <a href="../"><img id="btnBack" src="../back.gif"></a>
-<input type="text" id="txtFilter" placeholder="Filter op naam...">
+<input type="text" id="txtFilter" placeholder="Filter op naam..." tabindex="1">
 
 <!-- .photo-item template HTML -->
 <script type="text/html" id="photo-item-template">
