@@ -1,7 +1,4 @@
-
-
 @import url('https://fonts.googleapis.com/css?family=Cardo:700');
-
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
 
 html, body{
@@ -24,8 +21,8 @@ html, body{
 	}
 }
 @media only screen and (min-width: 900px) {
-  	#bigmap {
-  		position: fixed;
+	#bigmap {
+		position: fixed;
 		width: 75%;
 		height: 100%;
 		float: left;
@@ -114,9 +111,18 @@ a, a:hover{
 }
 
 #btnBack {
-	position: absolute;
+	position: fixed;
 	left:10px;
 	top: 10px;
 	width: 24px;
 	height: 24px;
+}
+
+#txtFilter {
+	position: fixed;
+	left:50px;
+	top: 10px;
+	width: 240px;
+	height: 24px;
+	color: black;
 }

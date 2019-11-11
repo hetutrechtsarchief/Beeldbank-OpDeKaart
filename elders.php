@@ -71,6 +71,7 @@
 </div>
 
 <a href="index.php"><img id="btnBack" src="back.gif"></a>
+<input type="text" id="txtFilter" placeholder="Filter op straatnaam...">
 
 <!-- .photo-item template HTML -->
 <script type="text/html" id="photo-item-template">
@@ -88,6 +89,12 @@
 		createMap();
 		refreshMap();
     window.apiBase = 'sparql.php?wikidataID=';
+
+    var time_out;
+    $("#txtFilter").keyup(function(){
+      clearTimeout(time_out);
+      time_out = setTimeout(onFilter, 200); //throttle
+    });
 	});
 
 	function createMap(){
@@ -112,54 +119,24 @@
 			subdomains: 'abcd',
 			maxZoom: 19
 		}).addTo(map);
-
-	
 	}
 
-	function refreshMap(){
+  function onFilter() {
+    var s = $("#txtFilter").val().toLowerCase();
+    if (s=="") refreshData(allData);
+    else refreshData(allData.features.filter(function(el,i) {
+      return el.properties.nm.toLowerCase().indexOf(s)>-1;
+    }));
+  }
 
-		
+	function refreshMap(){
 		$.ajax({
 	        type: 'GET',
 	        url: 'buiten-utrecht.geojson',
 	        dataType: 'json',
 	        success: function(jsonData) {
-							if (typeof herkomsten !== 'undefined') {
-								map.removeLayer(herkomsten);
-							}
-
-	            herkomsten = L.geoJson(null, {
-	            	pointToLayer: function (feature, latlng) {                    
-		                return new L.CircleMarker(latlng, {
-		                    color: "#FC3272",
-		                    radius:8,
-		                    weight: 1,
-		                    opacity: 0.8,
-		                    fillOpacity: 0.8,
-	                      title: feature.properties.nm
-		                });
-		            },
-				    style: function(feature) {
-				        return {
-				            color: getColor(feature.properties.cnt),
-				            radius: getSize(feature.properties.cnt),
-				            clickable: true
-				        };
-				    },
-				    onEachFeature: function(feature, layer) {
-						layer.on({
-					        click: whenClicked,
-                  mouseover: rollover,
-					    });
-				    }
-				}).addTo(map);
-
-	            herkomsten.addData(jsonData).bringToFront();
-			    
-
-	            //map.fitBounds(herkomsten.getBounds());
-	            
-	            //$('#straatinfo').html('');
+            window.allData = jsonData;
+            refreshData(jsonData);
 	        },
 	        error: function() {
 	            console.log('Error loading data');
@@ -167,7 +144,39 @@
 	    });
 	}
 
+  function refreshData(jsonData) {
+    if (typeof herkomsten !== 'undefined') {
+      map.removeLayer(herkomsten);
+    }
 
+    herkomsten = L.geoJson(null, {
+      pointToLayer: function (feature, latlng) {                    
+          return new L.CircleMarker(latlng, {
+              color: "#FC3272",
+              radius:8,
+              weight: 1,
+              opacity: 0.8,
+              fillOpacity: 0.8,
+              title: feature.properties.nm
+          });
+      },
+      style: function(feature) {
+        return {
+          color: getColor(feature.properties.cnt),
+          radius: getSize(feature.properties.cnt),
+          clickable: true
+        };
+      },
+      onEachFeature: function(feature, layer) {
+        layer.on({
+          click: whenClicked,
+          mouseover: rollover,
+        });
+      }
+    }).addTo(map);
+
+    herkomsten.addData(jsonData).bringToFront();
+  }
 
 	function getSize(d) {
 		return d > 150 ? 11 :

@@ -69,6 +69,7 @@
 </div>
 
 <a href="index.php"><img id="btnBack" src="back.gif"></a>
+<input type="text" id="txtFilter" placeholder="Filter op straatnaam...">
 
 <!-- .photo-item template HTML -->
 <script type="text/html" id="photo-item-template">
@@ -81,13 +82,27 @@
 </script>
 
 
-
 <script>
   $(document).ready(function() {
     createMap();
     refreshMap();
     window.apiBase = 'sparql.php?wikidataID=';
+    
+    var time_out;
+    $("#txtFilter").keyup(function(){
+      clearTimeout(time_out);
+      time_out = setTimeout(onFilter, 200); //throttle
+    });
+
   });
+
+  function onFilter() {
+    var s = $("#txtFilter").val().toLowerCase();
+    if (s=="") refreshData(allData);
+    else refreshData(allData.features.filter(function(el,i) {
+      return el.properties.nm.toLowerCase().indexOf(s)>-1;
+    }));
+  }
 
   function createMap(){
     center = [52.090736, 5.121420];
@@ -119,40 +134,8 @@
           url: 'gemeente-utrecht.geojson',
           dataType: 'json',
           success: function(jsonData) {
-            if (typeof herkomsten !== 'undefined') {
-              map.removeLayer(herkomsten);
-            }
-
-            herkomsten = L.geoJson(null, {
-              pointToLayer: function (feature, latlng) {                    
-                  return new L.CircleMarker(latlng, {
-                      color: "#FC3272",
-                      radius:8,
-                      weight: 1,
-                      opacity: 0.8,
-                      fillOpacity: 0.8,
-                      title: feature.properties.nm
-                  });
-              },
-              style: function(feature) {
-                return {
-                    color: getColor(feature.properties.cnt),
-                    radius: getSize(feature.properties.cnt),
-                    clickable: true
-                };
-              },
-              onEachFeature: function(feature, layer) {
-                layer.on({
-                    mouseover: rollover,
-                    click: whenClicked
-                  });
-                }
-              }).addTo(map);
-
-              herkomsten.addData(jsonData).bringToFront();
-          
-              //map.fitBounds(herkomsten.getBounds());
-              //$('#straatinfo').html('');
+            window.allData = jsonData;
+            refreshData(jsonData);
           },
           error: function() {
               console.log('Error loading data');
@@ -160,27 +143,64 @@
       });
   }
 
+  function refreshData(jsonData) {
+    if (typeof herkomsten !== 'undefined') {
+      map.removeLayer(herkomsten);
+    }
+
+    herkomsten = L.geoJson(null, {
+      pointToLayer: function (feature, latlng) {                    
+        return new L.CircleMarker(latlng, {
+          color: "#FC3272",
+          radius:8,
+          weight: 1,
+          opacity: 0.8,
+          fillOpacity: 0.6,
+          title: feature.properties.nm
+        });
+      },
+      style: function(feature) {
+        return {
+          color: getColor(feature.properties.cnt),
+          radius: getSize(feature.properties.cnt),
+          clickable: true
+        };
+      },
+      onEachFeature: function(feature, layer) {
+        layer.on({
+          mouseover: rollover,
+          click: whenClicked
+        });
+      }
+    }).addTo(map);
+
+    herkomsten.addData(jsonData).bringToFront();
+
+    //map.fitBounds(herkomsten.getBounds());
+    //$('#straatinfo').html('');
+  }
+
   function getSize(d) {
     return d > 1000 ? 16 :
-             d > 600 ? 14 :
-             d > 400  ? 12 :
-             d > 200  ? 10 :
-             d > 75 ? 8 :
-             d > 35  ? 6 :
-             d > 10  ? 4 :
-             d > 5  ? 4 : //3
-                      4 ; //2
+           d > 600 ? 14 :
+           d > 400 ? 12 :
+           d > 200 ? 10 :
+           d > 75  ? 8 :
+           d > 35  ? 6 :
+           d > 10  ? 4 :
+           d > 5   ? 4 : //3
+                    4 ; //2
   }
 
   function getColor(d) {
     return d > 700 ? '#a50026' :
-             d > 500 ? '#f46d43' :
-             d > 300  ? '#fdae61' :
-             d > 100  ? '#fee090' :
-             d > 50  ? '#ffffbf' :
-             d > 20  ? '#abd9e9' :
-             d > 5   ? '#74add1' :
-                       '#4575b4';
+           d > 500 ? '#f46d43' :
+           d > 300 ? '#fdae61' :
+           d > 100 ? '#fee090' :
+           d > 50  ? '#ffffbf' :
+           d > 20  ? '#abd9e9' :
+           d > 5   ? '#74add1' :
+                     '#4575b4';
   }
 
   function rollover() {
