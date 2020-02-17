@@ -26,7 +26,11 @@ SELECT ?uuid, ?catalogusnummer, ?description, ?beginTimeStamp, ?endTimeStamp, ?r
 // echo $sparqlquery;
 // die();
 
-$url = "https://api.druid.datalegend.net/datasets/hetutrechtsarchief/beeldbank/services/beeldbank/sparql?query=" . urlencode($sparqlquery) . "";
+//Triplestore @ NDE
+$url = "https://api.data.netwerkdigitaalerfgoed.nl/datasets/hetutrechtsarchief/Beeldbank/services/Beeldbank/sparql?query=" . urlencode($sparqlquery) . "";
+
+//Triplestore @ DRUID
+// $url = "https://api.druid.datalegend.net/datasets/hetutrechtsarchief/beeldbank/services/beeldbank/sparql?query=" . urlencode($sparqlquery) . "";
 
 // echo $url;
 // die();
