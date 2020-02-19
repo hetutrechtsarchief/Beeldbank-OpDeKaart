@@ -85,9 +85,9 @@
 
 			<p>We hebben koppelingen gelegd naar zowel Wikidata als BAG identifiers. Binnen het kader van dit project zijn daarom - <a href="https://w.wiki/96X">op enige tientallen na</a> - alle straten binnen de provincie Utrecht op Wikidata van BAG id voorzien. Zo hebben anderen er ook weer wat aan.</p>
 
-			<p>Zowel de beeldbank metadata als de koppelingen met straten en stations zijn als linked open data (LOD) gepubliceerd en <a href="https://api.druid.datalegend.net/s/QGjcvpGVB"> toegankelijk gemaakt via een SPARQL-endpoint</a>.</p>
+			<p>Zowel de beeldbank metadata als de koppelingen met straten en stations zijn als linked open data (LOD) gepubliceerd en <a href="https://api.data.netwerkdigitaalerfgoed.nl/s/ri5kKD2o"> toegankelijk gemaakt via een SPARQL-endpoint</a>.</p>
 
-			<p>Doordat je meerdere endpoints in één query kunt bevragen kan je nu de beeldbank doorzoeken op <a href="https://api.druid.datalegend.net/s/QSyr9X8qW">stations van de architect Sybold van Ravenstein</a>. Of op <a href="https://api.druid.datalegend.net/s/xeAkkdMUS">in de jaren '90 opgeheven stations</a>.</p>
+			<p>Doordat je meerdere endpoints in één query kunt bevragen kan je nu de beeldbank doorzoeken op <a href="https://api.data.netwerkdigitaalerfgoed.nl/s/QY9kX9nB">stations van de architect Sybold van Ravenstein</a>. Of op <a href="https://api.data.netwerkdigitaalerfgoed.nl/s/76vSrt5C">in de jaren '90 opgeheven stations</a>.</p>
 
 			
 		</div>
