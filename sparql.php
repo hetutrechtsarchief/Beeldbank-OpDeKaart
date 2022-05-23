@@ -11,7 +11,7 @@ PREFIX dc: <http://purl.org/dc/elements/1.1/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX sem: <http://semanticweb.cs.vu.nl/2009/11/sem/>
-SELECT ?uuid, ?catalogusnummer, ?description, ?beginTimeStamp, ?endTimeStamp, ?rights WHERE {
+SELECT ?uuid ?catalogusnummer ?description ?beginTimeStamp ?endTimeStamp ?rights WHERE {
   ?bbitem dct:spatial <http://www.wikidata.org/entity/'.$wikidataID.'> .
   ?bbitem edm:isShownBy ?img .
   ?bbitem edm:isShownAt ?rec .
