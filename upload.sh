@@ -1,1 +1,0 @@
-rsync -av --exclude .git . vps:/home/rick/hualab/opdekaart/
