@@ -4,58 +4,27 @@ header("Content-type: text/json");
 $page = $_GET["page"];
 $wikidataID = $_GET["wikidataID"];
 if (!is_numeric($page)) die("404");
+if (!preg_match('/^Q[0-9]+$/', $wikidataID)) die("404");
 
-$sparqlquery = 'PREFIX edm: <http://www.europeana.eu/schemas/edm/>
-PREFIX dct: <http://purl.org/dc/terms/>
-PREFIX dc: <http://purl.org/dc/elements/1.1/>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX sem: <http://semanticweb.cs.vu.nl/2009/11/sem/>
-SELECT ?uuid ?catalogusnummer ?description ?beginTimeStamp ?endTimeStamp ?rights WHERE {
-  ?bbitem dct:spatial <http://www.wikidata.org/entity/'.$wikidataID.'> .
-  ?bbitem edm:isShownBy ?img .
-  ?bbitem edm:isShownAt ?rec .
-  ?bbitem dc:identifier ?catalogusnummer .
-  ?bbitem dc:description ?description .
-  ?bbitem sem:hasBeginTimeStamp ?beginTimeStamp .
-  ?bbitem sem:hasEndTimeStamp ?endTimeStamp .
-  ?bbitem dc:rights ?rights .
-  BIND(REPLACE(str(?bbitem), "https://hetutrechtsarchief.nl/id/", "") AS ?uuid)
-} OFFSET '.(10*($page-1)).' LIMIT 10';
+$json_path = __DIR__ . "/local-data/" . $wikidataID . ".json";
+if (!file_exists($json_path)) {
+  echo json_encode([]);
+  die();
+}
 
-// echo $sparqlquery;
-// die();
-
-//Triplestore @ NDE
-$url = "https://api.data.netwerkdigitaalerfgoed.nl/datasets/hetutrechtsarchief/Beeldbank/services/Beeldbank/sparql?query=" . urlencode($sparqlquery) . "";
-
-//Triplestore @ DRUID
-// $url = "https://api.druid.datalegend.net/datasets/hetutrechtsarchief/beeldbank/services/beeldbank/sparql?query=" . urlencode($sparqlquery) . "";
-
-// echo $url;
-// die();
-
-// Druid does not like url parameters, send accept header instead
-$opts = [
-    "http" => [
-        "method" => "GET",
-        "header" => "Accept: application/sparql-results+json\r\n"
-        // "header" => "Accept: text/csv\r\n"
-    ]
-];
-
-$context = stream_context_create($opts);
-
-// Open the file using the HTTP headers set above
-$response = file_get_contents($url, false, $context);
-
-// echo $response;
-// die();
-
+$response = file_get_contents($json_path);
 $json = json_decode($response, true);
+if (!isset($json["results"]["bindings"])) {
+  echo json_encode([]);
+  die();
+}
+
+$page = max(1, intval($page));
+$offset = 10 * ($page - 1);
+$bindings = array_slice($json["results"]["bindings"], $offset, 10);
 
 $items = [];
-foreach ($json['results']['bindings'] as $row) { 
+foreach ($bindings as $row) { 
   $item = [];
   $item["catalogusnummer"] = $row['catalogusnummer']['value'];
   $item["guid"] = $row['uuid']['value'];
