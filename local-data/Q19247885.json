@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25462130B9CB58A29F17D35BC5A59646"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Hendrika van Tussenbroeklaan 1 te Utrecht; op de achtergrond een huis in de Petristraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A4E8574781B534F93BCEA39B4CFF9F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68677"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hendrika van Tussenbroeklaan 3 (rechts) en 5 te Utrecht. Opmerking: Overgebracht uit archieven, 10 mei 1988."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B106938A1A55EB2A4B727A7F61573FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68676"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hendrika van Tussenbroeklaan 1 (rechts) en 3 te Utrecht. Opmerking: Overgebracht uit archieven, 10 mei 1988."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

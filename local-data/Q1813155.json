@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "727560791B99556696DF7EED3D970732"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166664"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Loenen te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-07-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-07-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

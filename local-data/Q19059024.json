@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D86228ED44AD55E8B4B805C333E04ACF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120313"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele in aanbouw zijnde huizen bij het Waterwinpark in de wijk Terwijde te Utrecht, bij avond, uit het noorden (hoek Edmond Audranstraat / Operettelaan)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0926C0A366855AF6BD17D14042A8B55B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70286"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soendastraat te Utrecht met rechts een deel van het hoekhuis Kanaalstraat 223 en links op de achtergrond de kruising met de Maetsuijkerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3478E5E2405D5288BA688856EF0C3233"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59781"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kanaalstraat 225-hoger en de rechter zijgevel van het huis nr. 225 te Utrecht; rechts de ingang van de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "398A5D89075D5A3C922E7B34F9DE626E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kanaalstraat te Utrecht ter hoogte van de kruising met de Soendastraat. Opmerking: Zie: Utrechts Nieuwsblad, 7 augustus 1998"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A925C9DA99D5579A1392D1192A34B29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59866"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kanaalstraat 226-lager te Utrecht met rechts de ingang van de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40AAFC87AA915DF8BEEED2137C7B4454"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26837"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en achtergevel van het pand Kanaalstraat 225 te Utrecht met op de voorgrond de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AB96A7D43DC5226918B23EC318F8AC3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Maetsuijkersstraat te Utrecht, uit het oosten, met op de achtergrond de hoek met de Soendastraat en de achtergevels van enkele huizen aan de Johannes Camphuysstraat. Opmerking: De foto is in een inzending geweest voor de fotowedstrijd \"Leefmilieu\", uitgeschreven door de Adviesraad voor het Milieu van de gemeente Utrecht, ca. 1980."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC6826B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "43779"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het met reclameborden behangen Sigarenmagazijn Madjoe (Maetsuijkerstraat 11, hoek Soendastraat) te Utrecht. Opmerking: In 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1943-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2C65C56B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127551"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het 25 jaar oude paard Tom in de Soendastraat te Utrecht, bij aanvang van het transport naar het rusthuis voor bejaarde paarden De Paardenkamp te Soest, met tweede van rechts Tom's eigenaar, de schillenboer W.J. Veenhof. Geheel rechts staat oud-cavalarist en paardenliefhebber C.E.M. Kemper die geld ingezameld heeft om Tom van de slachtbank te redden.<ZR><ZR>N.B. Tom is op 6 april 1968 overleden. Opmerking: Zie ook Utrechtsch Nieuwsblad, maandag 14 december 1964, blz. 2: \"TOM voelt zich al thuis in De Paardenkamp\" en maandag 8 april 1968, blz. 2: \"Paard Tom overleden\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6379A96B29B45D9180725B182115CFE3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26834"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kanaalstraat 228-hoger te Utrecht met links de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7224508428695C7AB15AF998EDAEBA29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70284"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soendastraat te Utrecht met links een deel van het hoekhuis Kanaalstraat 225 en rechts op de achtergrond de kruising met de Maetsuijkerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73F4272A45185003BB48573AFB1FD90D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59865"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kanaalstraat 222-226 te Utrecht met rechts de ingang van de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "96D651D11E645EB98768BF1CD1C75AC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26848"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kanaalstraat 222-226 te Utrecht met rechts de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D0A4E080667546EA0159569B13F695B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kanaalstraat 228-hoger te Utrecht met links de ingang van de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1FD839822905FC88B6317EF8253F79F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26840"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en achtergevel van het pand Kanaalstraat 225 te Utrecht met op de voorgrond de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ADB146643579558CA6E09B30A04BAB93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59779"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de winkelwoonhuizen Kanaalstraat 219 (rechts)-223 te Utrecht met uiterst links de ingang van de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8F4070B1BA35196883557999188C885"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59780"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kanaalstraat 221-223 en de linker zijgevel van het huis nr. 223 te Utrecht met links de ingang van de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B97DBA61B4E453C68FA5084536A7DFF9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70287"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soendastraat te Utrecht met links een deel van het hoekhuis Kanaalstraat 226."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB9778456EBD5A75B109DB7AC001325E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26846"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kanaalstraat 228-hoger te Utrecht met links de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BF4F80D240EA5E29AB70B8704A8DBB22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26852"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van het pand Kanaalstraat 225 te Utrecht met rechts de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C18B0F66B7815568A20DB0981DFFD459"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26838"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Kanaalstraat 225 te Utrecht met rechts de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD60207D54BC5E7B82C99A016B6DCBC4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819621"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van Tabakspeciaalzaak \"Acar\" (Kanaalstraat 225) te Utrecht; rechts de ingang van de Soendastraat.<ZR><ZR>N.B. In 1946 was hier een depot (depothouder  P.J. Jans) van Brood- en Banketbakkerij De Lubro gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0DA77DEFBA257009B94AE410082A2CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70285"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soendastraat te Utrecht met rechts het hoekhuis Kanaalstraat 228."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3CDE49F96225880914C933CCA93B000"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26849"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en zijgevel van het pand Kanaalstraat 228 te Utrecht met op de voorgrond de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBDD6A3A14EB549C8B44776185B2CE04"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26851"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kanaalstraat 225-hoger te Utrecht met rechts de Soendastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

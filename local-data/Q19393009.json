@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A77554C8D3125620BD413DD4CB014420"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805251"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht over de stad Utrecht, vanaf het ROVU-kantoorgebouw (Ravellaan 96), uit het noordwesten, met in het midden de Weg der Verenigde Naties en de woonwijk Nieuw Welgelegen met o.a. de Olof Palmelaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F77968063E9A508C83039A61085DAC4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805252"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht over de stad Utrecht, vanaf het ROVU-kantoorgebouw (Ravellaan 96), uit het noordwesten, met in het midden de Weg der Verenigde Naties, links het kantoorgebouw van Tiel Utrecht Verzekeringen (Uniceflaan 1), in het midden een woonblok aan de Uniceflaan en rechts de Olof Palmelaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02B656B242C75D10959287212824B94C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12445"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gemeenteschool voor openbaar lager onderwijs aan de Vrouwenhuisstraat te Montfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7111EFC3D8B541388CE5098A579BD2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12444"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gemeenteschool voor openbaar lager onderwijs aan de Vrouwenhuisstraat te Montfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

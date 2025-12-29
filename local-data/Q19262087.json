@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FDCD2B9C1CF5537BEEDCA6F12F2C75A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814649"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Parochiehuis Sint Joseph (Hortensialaan 30) te Zeist, behorende bij het klooster Maria-Oord."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

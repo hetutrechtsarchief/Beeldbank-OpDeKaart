@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F17D36EE08C588F9B610A258B6EC881"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de President Steijnlaan te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

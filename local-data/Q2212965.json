@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "278479A82F8B514BB03D8C292215B18A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170649"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de halte Zoetermeer Seghwaert aan de Zoetermeer Stadslijn te Zoetermeer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A81062A3A8E56C1ADA38A18EAF6076B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154042"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van \u00e9\u00e9n van de lichtdoorlatende panelen, vervaardigd door de kunstenaar Joost van Santen, bij het N.S.-station Zoetermeer Seghwaert te Zoetermeer. Opmerking: Lit.: W. van Leeuwen & H. Romers, Een spoor van verbeelding. 150 Jaar monumentale kunst en decoratie aan Nederlandse stationsgebouwen (Zutphen 1988), 136."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB0005DDC82B507D843474D03E456A7B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154043"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van \u00e9\u00e9n van de lichtdoorlatende panelen, vervaardigd door de kunstenaar Joost van Santen, bij het N.S.-station Zoetermeer Seghwaert te Zoetermeer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C62379F4486751B68A7BD938E642BCE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85263"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Overvecht te Utrecht, uit het zuiden. Op de voorgrond de Vader Rijndreef, in het midden de laagbouw rond de Hildebranddreef. Links op de achtergrond de Zamenhofdreef met een gedeelte van het Winkelcentrum Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9777BFE59BCB52AA8C31638A94D5B581"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602939"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pension Nieuw Zandbergen (Rembrandtlaan 2) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A82F6C7082DE5C8C8B206F76DD78098B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het landhuis Nieuw Zandbergen (Rembrandtlaan 2) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B85B0AB4F42058CB8966CD74FA5B9676"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602260"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rembrandtlaan te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

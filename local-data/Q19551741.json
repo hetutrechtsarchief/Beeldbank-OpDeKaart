@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A0D0B953E9E754408C9A76FBD50FB623"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808721"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouwwoningen aan de Visarendhof en de Stormvogelhof te Utrecht. Op de achtergrond de bouwkraan voor het toekomstige appartementencomplex Ledig Erf."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

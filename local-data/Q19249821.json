@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17E316F8B33B5F43BDF0E23613F05F08"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166001"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de handbediende bomen bij de spoorwegovergang in de Herenstraat te Voorhout, met links de overwegwachterspost en de dubbele wachterswoning nr. 44. Opmerking: De vlekken op de foto zijn het gevolg van aantasting van het negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E37604F609458A08FD873591DDE27FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166002"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de handbediende bomen bij de spoorwegovergang in de Herenstraat te Voorhout, met links de overwegwachterspost en de dubbele wachterswoning nr. 44. Opmerking: De vlekken op de foto zijn het gevolg van aantasting van het negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,828 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0115AEF27C6D584B9EB6FB490B9DA830"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155910"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron en het stationsgebouw van het N.S.-station Vlaardingen West te Vlaardingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02BA4AB9A7E45FF08AE509DC7BAA4A95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171877"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de overhandiging van een doos met gratis treinkaartjes door N.S.-ambassadrice Jeanne Vollemans aan een deputatie van Vlaardingse bejaardentehuizen ter gelegenheid van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen. Opmerking: NS fotonummer 22695"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10BF961F703D50E2A3874C5FE016BA9A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155912"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Vlaardingen West te Vlaardingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "256515BF574F5E57A0E0BF566599CDDE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155911"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het N.S.-station Vlaardingen West te Vlaardingen met op de achtergrond het stationsgebouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "28CCAF3A55265F87B1B0BDC98E79CC8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171866"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen, tijdens de toespraak door Chef Exploitatie-district Zuid West mr. J.K.J. Muller. Opmerking: NS fotonummer 22685"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "299F3F6C935A589CB42B059F8DC4E4E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171882"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het N.S.-harmonieorkest tijdens de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen. Opmerking: NS fotonummer 22701"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F5580DE79625EBAB01F6BB9C60B692E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171865"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het koersbord voor de openingsrit van het nieuwe N.S.-station Vlaardingen West te Vlaardingen. Opmerking: NS fotonummer 22683"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35A586C0FCAD522EA1944B3A86AF4726"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen, met links burgemeester mr. J. Heusdens en rechts N.S.-ambassadrice Jeanne Vollemans die bloemen overhandigt aan mevr. Heusdens. Opmerking: NS fotonummer 22684"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "418AE6D4E12B5CBE8D58FC4BD7E541E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150777"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de overweg bij de perrons van het N.S.-station Vlaardingen West te Vlaardingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60D677B759615F28B6EFBCBCD8AE59F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171880"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons en de spoorbaan bij het nieuwe N.S.-station Vlaardingen West te Vlaardingen, tijdens de offici\u00eble opening van het station. Opmerking: NS fotonummer 22698"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D5B8D9F3C0250A09E610062F0849EF8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150788"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Vlaardingen West te Vlaardingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81AC7900E1115306B9D1BF4656BD6333"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171868"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen, met links N.S.-ambassadrice Jeanne Vollemans en rechts burgemeester mr. J. Heusdens. Opmerking: NS fotonummer 22686"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8A479A2EB2865E68BACD14291CB0E7FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171876"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen door burgemeester mr. J. Heusdens. Opmerking: NS fotonummer 22694"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D2EC7B301EC566CBCEC088A54E6B60F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150782"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Vlaardingen West te Vlaardingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D93B9C5D6E05A3BBD22EB0E55387A9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156263"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Vlaardingen West te Vlaardingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1AAED3767775229AE6EC5749C3141FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171883"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de genodigden en belangstellenden op het perron van het nieuwe N.S.-station Vlaardingen West te Vlaardingen, tijdens de aankomst van de (eerste?) trein (een electrisch treinstel mat. 1940). Opmerking: NS fotonummer 22700"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B426F24E15585B16A332019211D6C89B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171875"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen, met van links naar rechts mevr. Heusdens, burgemeester mr. J. Heusdens, Chef Exploitatie-district Zuid West mr. J.K.J. Muller en N.S.-ambassadrice Jeanne Vollemans. Opmerking: NS fotonummer 22691"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B775C16D970E5FDA95C12BCAAE4D0C97"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171872"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen, met van links naar rechts mevr. Heusdens, burgemeester mr. J. Heusdens, Chef Exploitatie-district Zuid West mr. J.K.J. Muller en N.S.-ambassadrice Jeanne Vollemans. Opmerking: NS fotonummer 22692"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB18DF965D805392913AAAACB3FCFD2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171879"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de overhandiging van een doos met gratis treinkaartjes door N.S.-ambassadrice Jeanne Vollemans aan een deputatie van Vlaardingse bejaardentehuizen ter gelegenheid van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen. Opmerking: NS fotonummer 22697"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BCD113CD1BD15FCEB97DE9C7C16155F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156262"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Vlaardingen West te Vlaardingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD98AABF2D465C088AEF4088DCEAEDEA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171869"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen, tijdens de toespraak door burgemeester mr. J. Heusdens. Opmerking: NS fotonummer 22687"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFEFD28A31FD5BECB05355A8CB897109"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150783"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een looppad naar het perron bij het N.S.-station Vlaardingen West te Vlaardingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE2C3E9D6F2E560EAE565753D50661BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171874"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen door burgemeester mr. J. Heusdens. Opmerking: NS fotonummer 22690"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2F1D168BE195B6099FE18239D1D6C02"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169266"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rijwielstalling bij het N.S.-station Vlaardingen West te Vlaardingen. Opmerking: N.S. fotonummer 22790."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3CC1173CD615B2E891662CB2B47ED33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171871"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen door burgemeester mr. J. Heusdens. Opmerking: NS fotonummer 22689"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC75639AB6AF5FCD9289D6DEC7E49420"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171870"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen, met links burgemeester mr. J. Heusdens en in het midden N.S.-ambassadrice Jeanne Vollemans en Chef Exploitatie-district Zuid West mr. J.K.J. Muller. Opmerking: NS fotonummer 22688"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3AC62F1FC38557AA459309107F42C22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171881"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het N.S.-harmonieorkest tijdens de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen. Opmerking: NS fotonummer 22699"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7B46AD962105B679A95BB5F2B1DEF8E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171878"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de overhandiging van een doos met gratis treinkaartjes door N.S.-ambassadrice Jeanne Vollemans aan een deputatie van Vlaardingse bejaardentehuizen ter gelegenheid van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen. Opmerking: NS fotonummer 22696"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE836A3E764454F9B6B717AB2733D6DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171873"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Vlaardingen West te Vlaardingen door burgemeester mr. J. Heusdens. Opmerking: NS fotonummer 22693"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

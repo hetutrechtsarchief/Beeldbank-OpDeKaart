@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "230C0C78E25255A08EA0E8F585B1E2E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810272"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van de buitenplaats Rijnhuizen (Edisonbaan 14) te Nieuwegein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E18239214D05A7FBABE5C2F5F864867"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94309"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Rijnhuizen met omringend park (Edisonbaan 14) te Nieuwegein. Opmerking: lit. MIP Nieuwegein, p. 123-131."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E736F49D2AE55FC699C3F2FDB899E9FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119600"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van de buitenplaats Rijnhuizen (Edisonbaan 14) te Nieuwegein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

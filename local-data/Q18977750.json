@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D580599FE8DD5AB59BE496E400AFD788"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116812"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de grafsteen van mevr. Brouwer-Stolk op de R.K. begraafplaats aan de Burgemeester van de Weijerstraat te Bunnik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-08-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-08-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

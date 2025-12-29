@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6616B7CF24965AB1838A36C6E473DEF1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18754"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Berlagestraat te Utrecht met rechts een gedeelte van een huis aan de Jacob van Campenstraat; links tussen de huizen de ingang van de Prof. Wattjesstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92FCA7468ED15F8F9DF1B013B6B0FBC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53020"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het zuidwestelijke deel van de De Bazelstraat te Utrecht met de huizen nrs. 1-11 (vooraan), uit het noorden met links op de voorgrond de hoek van de M. de Klerkstraat, met een deel van nr. 40; na het huis nr. 11 de kruising met de Lelimanstraat en in het verlengde de Prof. Wattjesstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0369D2C653A596E8ABA2443413DEFF8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73365"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Prof. Wattjesstraat 2-4-6 te Utrecht; uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "165074742C8F5D4585ACA3A6079B6077"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59583"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingangspartij van de flat met de woningen Jungfrau 51-hoger te Utrecht, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D15642C517E51099C4EBEF7F4858D8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59584"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de flat met de woningen Jungfrau 11-13 (beganegrond, nr. 13 links) te Utrecht, uit het zuidoosten met op de eerste verdieping de achtergevels van de woningen 19 en 21, op de tweede verdieping van de nrs. 23 en 37."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9980FBCEE8935F3BB9342455456719D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59585"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de flat met de woningen Jungfrau 16-42 te Utrecht met de ingang, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

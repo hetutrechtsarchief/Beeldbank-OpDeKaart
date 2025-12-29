@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB6A2CB7656D595797DEA189843A0093"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de sporthal Beukenhal (Beukenlaan 47) te Soest, met daarachter het politiebureau (Raadhuisplein 31), uit het zuiden. Links op de achtergrond enkele huizen aan de Verlengde Talmalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

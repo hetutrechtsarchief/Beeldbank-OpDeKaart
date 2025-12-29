@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "47B212CBFCF45C02B9D40416BFDA29C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64309"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van der Mondestraat 31 (links)-lager te Utrecht; op de voorgrond de Zwaluwstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "88626319126F5638B408BDB915EB19C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21462"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Zwaluwstraat 2-hoger te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC6A8AB71AD45A5AB6239FAA7F623FDB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74827"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zwaluwstraat te Utrecht, vanaf de Van der Mondestraat. Op de achtergrond enkele huizen aan de Willem Arntszkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

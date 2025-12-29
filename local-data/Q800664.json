@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "84FFDA19B0AF18C7E0534701000AA308"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171996"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Diemen Zuid te Diemen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

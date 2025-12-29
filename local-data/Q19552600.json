@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "12997A10B8B158288CF0D3A726F75FEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Stoutenburg (Stoutenburgerlaan 5, in gebruik bij de Stichting Franciscaans Milieuproject) te Stoutenburg (gemeente Amersfoort)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-12-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-12-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02B5A3172E8D580A8C3D750E19A4B201"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bedrijfsverzamelgebouw aan de Otto Hahnweg 63 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5ADAE5E0244654B98C365FFE47376CCA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24070"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bedrijfsverzamelgebouw aan de Otto Hahnweg 63 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FDCBEBC9E0658ECB77F4DACFECAAA98"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85608"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van het industrieterrein Lage Weide te Utrecht, uit het noordoosten, met in het midden het terrein van SITA EcoService (Sophialaan 15) en rechts daarvan de autosloperijen aan de Leptonenweg. Daarachter, aan het Uraniumkanaal gelegen, de Afvalverwerking Rijnmond (AVR, Isotopenweg 3) en (aan de overzijde) de silo van Brokking's Veevoederbedrijf NV (Uraniumweg 61). Rechts de Plutoniumweg en geheel op de achtergrond de Uraniumweg (midden) en de Otto Hahnweg (rechts). Op de voorgrond de spoorlijn naar Amsterdam en rechtsonder het hoofdkantoor van Van Bentum Recycling Centrale (benedenverdieping van het donkere gebouw met sheddak, Sophialaan 21) en daarachter de werkplaats. De bovenverdieping en de ernaast gelegen gebouwen zijn in gebruik bij Allied Varekamp BV (Sophialaan 21)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1DD6BFF20CB1563C864F8E87F01AE41A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21558"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan het Schaduwrijk te De Meern (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

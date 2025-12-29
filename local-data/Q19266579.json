@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B11DF92DD6858FFB1CCD2AB266F7900"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69999"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Robert Schumannstraat te Utrecht vanaf de kruising met de Franz Schubertstraat. Op de achtergrond de Johann Sebastian Bachstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

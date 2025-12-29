@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36C8A812D0CB53EE87D63D807BC9346B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169400"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Stationsstraat te Ermelo. Opmerking: NS fotonummer 20024."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61367C9AB286547BB622B72F162FA8B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169401"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Stationsstraat te Ermelo. Opmerking: NS fotonummer 20025."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

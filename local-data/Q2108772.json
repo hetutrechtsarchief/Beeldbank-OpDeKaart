@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D3B58FF02B9A5A2384ABDFF654D6BA18"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164831"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Wognum-Nibbixwoud te Wognum. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

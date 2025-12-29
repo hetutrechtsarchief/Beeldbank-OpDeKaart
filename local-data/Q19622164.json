@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A91380282D65CD2B17F3F3B7F151DB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Lenneplaan met bebouwing en rijen bomen te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E37AFCFF4F2E53B39FAD32862B2398F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14438"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Lenneplaan met bebouwing te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B5AC5C1F86B56E0A541FC424C7584FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het weiland met schapen langs de Doude van Troostwijkstraat (rechts) te Abcoude, uit het zuidwesten; op de achtergrond de Koppeldijk. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

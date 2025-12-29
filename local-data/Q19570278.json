@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B9D1512EE82F513FA21400790B2099E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170483"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de nieuwe, tijdelijke spooraansluiting naar de Westhaven te Amsterdam, ter hoogte van de Transformatorweg, met links op de achtergrond de opstelsporen van de werkplaats aan de Zaanstraat. Opmerking: Zie ook De Koppeling, nr. 860, 18 juni 1982, blz. 7: \"Nieuwe verbinding naar Westhavens\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

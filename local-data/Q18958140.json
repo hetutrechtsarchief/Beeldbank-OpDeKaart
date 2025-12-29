@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75D5C8A358845A5583F6E2E3E6678F87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Lange Linschoten op de Nieuwe Linschoterkade te Oudewater uit het zuiden. Opmerking: De foto is afkomstig uit een album met 188 foto's van Oudewater en omgeving uit de periode 1865-1878, samengesteld door E.C. Rahms (1823-1907), graficus en fotograaf te Oudewater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1877-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1877-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ECF27231397E543FA15FD567A11B4F24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220972"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de afgraving van een stuk stadswal bij de Noord-Linschoterkade te Oudewater; met op de voorgrond een vletschuit. Opmerking: De foto is afkomstig uit een album met 188 foto's van Oudewater en omgeving uit de periode 1865-1878, samengesteld door E.C. Rahms (1823-1907), graficus en fotograaf te Oudewater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1877-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1877-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

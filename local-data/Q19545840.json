@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DF99330BC2D052B4B728A872277D80C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69499"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rio Brancodreef tijdens het aanleggen van een fietspad te Utrecht, vanuit het zuidoosten. Links op de achtergrond de huizen Rio Brancodreef 35-lager. Geheel rechts op de achtergrond een gedeelte van het flatgebouw aan de St.-Maartendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF066B5CB89E5151BFB9A5BDC86F89A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69498"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rio Brancodreef tijdens het aanleggen van een fietspad te Utrecht, vanuit het zuidoosten. Links op de achtergrond de huizen Rio Brancodreef 35-lager. Geheel rechts op de achtergrond een gedeelte van het flatgebouw aan de St.-Maartendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

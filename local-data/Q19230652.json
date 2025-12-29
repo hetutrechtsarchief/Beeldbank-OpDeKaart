@@ -1,0 +1,912 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D31CF227781582583AF6C1F2A9B8DEC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Tuindorpkerk (H.F. van Riellaan 5a) te Utrecht, vanuit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-02-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-02-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "12ECB4A4AE16591BA08B3221746FBFBC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23776"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de H.F. van Riellaan te Utrecht, met links de Tuindorpkerk (H.F. van Riellaan 5a)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15972054D4645E9BAFB61FC370EE6E7F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811589"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het grondwerk ten behoeve van de bouw van Brug 215 over het Zwarte Water tussen de H.F. van Riellaan en Mr. Sickeszlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "272AC1393EB25889ADC955BA8EA3767E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402440"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Tuindorpkerk (H.F. van Riellaan 5a) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2844E1F8D1AC5C59912566330493C419"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119275"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plantsoen langs de H.F. van Riellaan te Utrecht, uit het oosten, met op de achtergrond het houten, tijdelijke verenigingsgebouw annex schoolgebouw van de Ned. Herv. Gemeente en enkele huizen aan het Haverland. Opmerking: De huizenrij aan het Haverland is in 1963 gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34D9A344071F57CA9883EF7E0D4D4A9C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810834"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de voorspanstaven en hun verankering in het brugdek van Brug 215 over het Zwarte Water tussen de H.F. van Riellaan en Mr. Sickeszlaan te Utrecht. Opmerking: Litt.: Bibl. HUA XIX F 10, De Timmerwerf, dec. 1967, blz. 8-9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "442DC57BD51558B282623FCD3C71A28E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603735"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een georganiseerde autotocht op het verkeersplein tussen de Blauwkapelseweg en de Eykmanlaan (Eykmanplein) te Utrecht. Op de achtergrond de huizen aan de H.F. van Riellaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46A6AA241B5D53B9BA1B5B3AB1F0B4AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811590"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het grondwerk ten behoeve van de bouw van Brug 215 over het Zwarte Water tussen de H.F. van Riellaan en Mr. Sickeszlaan te Utrecht; links de huizen aan de Raiffeisenlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A4BAC40990F534AAAF1CCD23EF04C42"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plantsoen en water langs de Kardinaal de Jongweg te Utrecht, vanaf de brug in de Raiffeisenlaan, uit het zuidwesten. Rechts van het midden het pompgebouw en de daarachter de huizen H.F. van Riellaan 1-5; daarachter de gereformeerde Tuindorpkerk (Prof. Suringarlaan 1). Op de achtergrond tussen de bomen de huizen aan de Prof. Sjollemalaan en de Prof. Leonard Fuchslaan (midden)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C6507C8EE405577860FFEF84B7A57D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69481"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het voor- en rechter zijgevel van het  Willem de Vrieshuis (H.F. van Riellaan 19-50) te Utrecht, vanuit het zuidoosten. Opmerking: Het Willem de Vrieshuis (woongebouw voor alleenstaanden en twee persoonshuishoudens) werd gebouwd naar het ontwerp van architectenbureau De Gruyter, Amsterdam en Van der Jagt, Arnhem. Het werd geopend door de heer G. Luhoff, voorzitter van de woningbouwvereniging \"Eigen Haard\", op 8 juli 1980.<ZR><ZR>Lit.: Woningbouw Utrecht, nr. 44, p.3-5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4CB4C67B679159E89A8D45D5A41FBC73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24256"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van het Willem de Vrieshuis (H.F. van Riellaan 19-50) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55E22CDBB8CD54EFA8D79A44E52C3116"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30123"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Ezelsdijk te Utrecht uit het zuidoosten met op de achtergrond de Tuindorpkerk (H.F. van Riellaan 5a)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "57358E20FB105A3795589CA47436A061"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119274"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Tuindorpkerk (H.F. van Riellaan 5a) te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "593C29735E365A449362AAD107BE84A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810831"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden aan Brug 215 over het Zwarte Water tussen de H.F. van Riellaan (achtergrond) en Mr. Sickeszlaan te Utrecht. Opmerking: Litt.: Bibl. HUA XIX F 10, De Timmerwerf, dec. 1967, blz. 8-9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "650AEDBADA745F78B49EADB2F2BB9D96"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119419"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plantsoen aan de H.F. van Riellaan te Utrecht, met de Tuindorpkerk (H.F. van Riellaan 5a)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "662E74CFAE5E554CBE568F86692F8667"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810832"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de voorspanstaven en hun verankering in het brugdek van Brug 215 over het Zwarte Water tussen de H.F. van Riellaan en Mr. Sickeszlaan te Utrecht. Opmerking: Litt.: Bibl. HUA XIX F 10, De Timmerwerf, dec. 1967, blz. 8-9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7256583BCF5357749A73B859E2313461"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele auto's in de Dr. H.J. Lovinklaan te Utrecht, ter hoogte van de kruising met de H.F. van Riellaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "811443921F9F5A488A60F9933D1F8DB5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814227"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Eykmanplein te Utrecht, uit het zuidoosten, met op de achtergrond de huizen aan de H.F. van Riellaan (links) en de Dr. H.J. Lovinklaan (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81230C61CBE95EDD9B4353679400594E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechter zijgevel van het  Willem de Vrieshuis (H.F. van Riellaan 19-50) te Utrecht, vanuit het zuidoosten. Opmerking: Het Willem de Vrieshuis (woongebouw voor alleenstaanden en twee persoonshuishoudens) werd gebouwd naar het ontwerp van architectenbureau De Gruyter, Amsterdam en Van der Jagt, Arnhem. Het werd geopend door de heer G. Luhoff, voorzitter van de woningbouwvereniging \"Eigen Haard\", op 8 juli 1980.<ZR><ZR>Lit.: Woningbouw Utrecht, nr. 44, p.3-5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD70A401756E53D6B09EECDB6DC224DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127970"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het water langs de Kardinaal de Jongweg en de H.F. van Riellaan te Utrecht, met rechts de Tuindorpkerk (H.F. van Riellaan 5a)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ADF260EA1C2C5856BDED25D605EBE34E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37570"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Tuindorpkerk (H.F. van Riellaan 5a) te Utrecht uit het zuiden. Opmerking: Gedrukte reproductie van een pentekening van Chris Schut uit 1958, afkomstig uit het Jaarboekje van de Gerefomeerde Kerken, 1958-59."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3182295D1E2545F9E226B14D224EC49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406031"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe, tijdelijke schoolgebouw van de Ned. Herv. Gemeente aan de H.F. van Riellaan te Maartensdijk (Tuindorp), met geheel links ds. G. Gerbrandy (voorzitter van het schoolbestuur) en rechts van hem burgemeester H.H. Sch\u00fcller van Maartensdijk.<ZR><ZR>N.B. Het Tuindorp Maartensdijk is per 1 jan. 1954 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B4B9C5DB937E52AFB26B6F198D651ED1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603727"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de verkoopdag van de W.I.Z.O. (Women International Zionist Organisation) in het huis van mevr. S. Pinas-van Leeuwen (H.F. van Riellaan 5) te Utrecht ten bate van het jeugdzorgwerk in Isra\u00ebl."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-11-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-11-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7E4E7B002035A489249032F992EA65F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69485"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden H.F. van Riellaan 2-hoger te Utrecht, vanaf de Juliusstraat. Links van de huizen de ingang van de Prof. Leonard Fuchslaan met achter de bomen schuilgaande Zwarte Water. Rechts de kerktoren van de gereformeerde Tuindorpkerk (H. F. van Riellaan 5a)"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE6CE78CBF8458C783774A06B1A837C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115616"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de H.F. van Riellaan te Maartensdijk, vanaf de Lorentzlaan te Utrecht; links de Tuindorpkerk (H.F. Van Riellaan 14).<ZR><ZR>N.B. De H. F. van Riellaan is per 1 januari 1954 bij de gemeente Utrecht gevoegd. Opmerking: Litt.: Bibl.HUA UAT 513, GM Kwadraat, 2007 nr. 28, P. Notermans, Nico Jesse: het stadsleven zoals zich dat aan het oog van tijdgenoten in de bezettingsjaren vertoonde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C22DCC84CE265EBD9ACB4A7FB3021B43"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69484"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden H.F. van Riellaan 2-5 te Utrecht, vanaf de Juliusstraat. Op de voorgrond de verbindingsweg tussen Tuindorp en Tuinwijk. Rechts de kerktoren van de gereformeerde Tuindorpkerk (H. F. van Riellaan 5a)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D30B413CB6135BDAA51FB8AF8481EC89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802972"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over het water langs de Kardinaal de Jongweg te Utrecht op de huizen aan de Mr. Sickeszlaan; links de brug in de Raiffeisenlaan en rechts op de voorgrond de H.F. van Riellaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB3041BA923B58E892A5858B540772E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810830"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de voorspanstaven en hun verankering in Brug 215 over het Zwarte Water tussen de H.F. van Riellaan en Mr. Sickeszlaan te Utrecht. Opmerking: Litt.: Bibl. HUA XIX F 10, De Timmerwerf, dec. 1967, blz. 8-9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD408CB044B65F3089FA7DFC6D920639"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23154"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de aanleg van de Kardinaal de Jongweg te Utrecht, met op de achtergrond de Tuindorpkerk (H.F. van Riellaan 5A). Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5A82B2362505894A57DA15D8C16593A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810829"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden aan Brug 215 over het Zwarte Water tussen de H.F. van Riellaan en Mr. Sickeszlaan te Utrecht. Opmerking: Litt.: Bibl. HUA XIX F 10, De Timmerwerf, dec. 1967, blz. 8-9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD88BE56782F5638BFFFDE654DA26971"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59566"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kardinaal de Jongweg te Utrecht, uit het westen ter hoogte van de Tuindorpkerk (H.F. van Riellaan 5a). Opmerking: Fotopersbureau 't Sticht fotonummer: 6032-17."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FDE8690A63DB5AEAA35FE2E96C989077"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810833"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden aan Brug 215 over het Zwarte Water tussen de H.F. van Riellaan (achtergrond) en Mr. Sickeszlaan te Utrecht. Opmerking: Litt.: Bibl. HUA XIX F 10, De Timmerwerf, dec. 1967, blz. 8-9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

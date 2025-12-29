@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "115CFC23632456EDB2D0B38472CE7ED3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21632"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Griendhoeve te Vleuten (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43E0996BAF2759CA91DC86BD6C63A4C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lage Hoeve te Vleuten (gemeente Vleuten-De Meern) met op de achtergrond de Griendhoeve.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A327748A8AA95AAE999EE36B59B957A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21631"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Griendhoeve te Vleuten (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

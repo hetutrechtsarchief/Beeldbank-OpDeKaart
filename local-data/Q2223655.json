@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC35230FDE5B5058AFF81018F0768499"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161802"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het voormalige station Philippine (aan de spoorlijn Gent - Terneuzen) te Philippine. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

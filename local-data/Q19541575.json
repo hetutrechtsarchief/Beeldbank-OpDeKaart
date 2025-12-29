@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B33F04BC450B5E199FB8146C87AAA842"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803815"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Soestdijk (Spoorstraat 1) te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E7C71DD5109C579798454C3C113B8089"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803814"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Soestdijk (Spoorstraat 1) te Soest, met een electrisch treinstel mat. 1964 (plan V) als stoptrein naar Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C4AA48882AD51FAAB877061D9833AD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162791"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Vlaardingen Oost te Vlaardingen, met op de voorgrond de Mr. L. A. Kesperweg. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76D0CD1DBA525624BEFE2252D003D843"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164791"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het spoorviaduct over de Mr. L.A. Kesperweg bij het N.S.-station Vlaardingen Oost te Vlaardingen. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FA261E950305E4F975CEB00CDBCBFD1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164790"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het spoorviaduct over de Mr. L.A. Kesperweg bij het N.S.-station Vlaardingen Oost te Vlaardingen. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

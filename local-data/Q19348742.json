@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E564E7F322E58A08A6A4F36FAFE3D49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11770"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijdes van de huizen aan de Molenstraat te Rhenen, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29D0B29A2D4D566387D0B4A771B0E029"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12166"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Molenstraat te Rhenen, vanaf de Herenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43FF46DEA1D1548AB4E7D767E975185D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Koningin Elisabethplantsoen te Rhenen, met de uit de Molenstraat afkomstige waterpomp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB3B42B1672A50338119F6B0020AB171"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11844"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Molenstraat te Rhenen, vanaf de Herenstraat, met rechts een stadspomp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

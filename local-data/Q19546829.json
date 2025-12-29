@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15A0594F501352EFB745933385826580"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein en het N.S.-station te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "531F3D66D54A5A07924711E976E33ABE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150231"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein en het N.S.-station te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E6E55D3310053F3A575A91C19348F26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150201"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf het Stationsplein op het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

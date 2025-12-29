@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1AAF6786DF1957259BE46A5CC930A1D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12167"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parallelweg te Rhenen, vanaf de Grebbeweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

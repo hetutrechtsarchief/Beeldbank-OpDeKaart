@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B7882E8185859AF8BD2616155E5C260"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169148"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het viaduct over de Overschieseweg te Schiedam, met een passerend electrisch treinstel mat. 1954 (plan F) en op de achtergrond het N.S.-station Schiedam. Opmerking: N.S. fotonummer 15180."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83E43B9AF3C45F03E0534701000A071F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839926"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde viaduct over de Overschieseweg te Schiedam, met op de voorgrond de spoorwegovergang. Opmerking: NS fotonummer 13350"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-06-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-06-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3786B1F98405982981B025BF659A54F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169147"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het viaduct over de Overschieseweg te Schiedam, met op de achtergrond het N.S.-station Schiedam. Opmerking: N.S. fotonummer 15179."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

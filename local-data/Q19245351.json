@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0C6E11B1A6425B20A8DD3EF03BF43F7D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803172"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een tuinbouwbedrijf aan de Dorpeldijk in de Harmelerwaard te Harmelen, uit het noordoosten, met daarachter de Heldamweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F4DDBF0EEE4A537F9861BFC912383224"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803171"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een tuinbouwbedrijf aan de Dorpeldijk in de Harmelerwaard te Harmelen, uit het noorden, met rechts de Heldamweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

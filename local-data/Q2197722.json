@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78E96FAA7DB351A4ABE83BCBA9CBEE34"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162899"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het S.S.-station Gorssel te Gorssel. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

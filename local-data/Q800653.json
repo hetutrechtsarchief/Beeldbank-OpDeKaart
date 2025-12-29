@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "040D094052855E0F913B0999695E2C09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165170"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Delft te Delft. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0426ECE6853D5680ACD270ECC436A091"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155130"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Delft te Delft: hal met loketten en bagagebalie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0EE38B68C49D54CD83556AA3470B14B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155815"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de \"Leidse abri\" op het perron van het N.S.-station Delft Zuid te Delft met rechts op de achtergrond de voormalige wachtpost 36."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17CA8CCAC34651E5A830FDB7A7777DED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "168611"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het viaduct van het in aanleg zijnde hoogspoor door Delft, ter hoogte van het Bolwerk, met links een electrisch treinstel mat. 1940 van de N.S. op het lage (hulp-)trac\u00e9. Rechts op de achtergrond het perron van het N.S.-station Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1FCF9075EE495AC88DAA929F644F8890"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152410"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Delft te Delft: hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "28685BE430705F1FAFD0FEFEA14B9E49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154707"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het seinhuis Post III bij het N.S.-station Delft te Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E43C6F6C8815C89871AA5324767DB95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van stationsnaam \"Delft\" op tegeltjes tijdens een verbouwing in N.S.-station Delft te Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-07-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-07-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "56DA9F84FCF259BDBD8AA524D38C62BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165171"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Delft te Delft. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "59434ACE543C5601A7CEA8F5F388B5D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150234"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Delft te Delft tijdens een verbouwing."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-07-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-07-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5957324466E7575799FBA711A8A065A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167308"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een rongenwagen met haspels met kabels van de N.K.F. (Nederlandse Kabelfabriek) op de laad- en losplaats van het N.S.-station Delft te Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "59CCD02299FE5C7FA6F10F613EF211C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171154"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het muziekkorps van de Delftse Politiemuziekvereniging Excelsior op het perron van het N.S.-station Delft tijdens de feestelijke opening van het spoorviaduct door de stad."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61016E0250E15ED883A7325B949BAE3C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de groentenoverslag van boot naar trein bij het H.S.M.-station Delft te Delft. Opmerking: De originele foto bevindt zich in de collectie van het Nederlands Spoorwegmuseum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D06E0167E4558738C4365ECE3A924A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161265"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van gekostumeerde studenten van de Technische Hogeschool te Delft op het perron van het N.S.-station Delft. De studenten hielden een pick-nic in verband met de viering van het 100-jarig jubileum van het Delfts Studentencorps en werden daartoe met een speciale trein van Delft naar Voorschoten vervoerd. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "746CDF79813D53BC96D6FB1F6A2B024A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165172"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Delft te Delft. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "79A97B3F9EAB56FAAD17BF6C75B1F661"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171155"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het muziekkorps van de Delftse Politiemuziekvereniging Excelsior op het perron van het N.S.-station Delft tijdens de feestelijke opening van het spoorviaduct door de stad."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B6E838FA8A53F49EEFDE83ADB48982"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803854"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de keramische wandversiering van Nicolaas Wijnberg in de hal van het N.S.-station Delft te Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "855EBA04A0CD5081BB24E871264ED326"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162677"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Delft te Delft. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85C808396AB256EC9CA56AEEE0C6F291"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162676"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Delft te Delft. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8DB20DCA68D550EDBAA0E181A69F4AFD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167307"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het beladen van rongenwagens met haspels met kabels van de N.K.F. (Nederlandse Kabelfabriek) op de laad- en losplaats van het N.S.-station Delft te Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FB9A3B61BCC533993305600D7983CE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155913"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een electrisch treinstel plan T (mat. 1964) van de N.S. langs het perron van het nieuwe N.S.-station Delft Zuid te Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "982EFFEF10795AEDA5B9ECE529CDADED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154606"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Delft te Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98DA3F98F61652C1AA79D75338B3AD14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166261"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Delft te Delft: wachtkamer 3e klasse."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8A21869E58858B0BB821F66C77E2FCB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163785"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Delft te Delft, met versieringen in verband met de viering van het 100-jarig jubileum van het Delfts Studentencorps. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D5B4F1C0EB4759ABB6A17E2C39C2B39A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171156"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het muziekkorps van de Delftse Politiemuziekvereniging Excelsior op het perron van het N.S.-station Delft tijdens de feestelijke opening van het spoorviaduct door de stad."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA4CBCB0C13A55A49A800AF5BE5B491E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153067"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van wachtende reizigers op het perron van het N.S.-station Delft te Delft. Opmerking: De foto is rechtsonder beschadigd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD368CE7AC8F548197F17B2C29D7292C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154706"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het seinhuis (Post III) bij het N.S.-station Delft te Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE981BCC76A05BB388439F8F4586DF27"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166255"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Delft te Delft: wachtkamer 1e en 2e klasse."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6AE42AC646B58E4B26EE1F03EA113C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166067"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tijdelijke wachtkamer met restauratie op het 1e perron van het N.S.-station Delft te Delft."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-07-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-07-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F54183996DCA515192F4B9A1125B60E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155129"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de keramische wandversiering van Nicolaas Wijnberg in de hal van het N.S.-station Delft te Delft. Opmerking: literatuur: W. van Leeuwen en H. Romers: Een spoor van Verbeelding, 1988 (HUA NS K 295)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F64D50B69AD5557AA1407E967BB30E55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170458"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het emplacement van het N.S.-station Delft, tijdens ombouwwerkzaamheden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

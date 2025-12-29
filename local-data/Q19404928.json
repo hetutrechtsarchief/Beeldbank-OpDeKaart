@@ -1,0 +1,576 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "03D92B0E4CC65C3E922D8310BABF785D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68460"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pallaesstraat 2-14 te Utrecht; rechts het huis nr. 14."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "11ACD1309EC659DEB141FEBBD7D5954E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825277"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de R.K. Montessori Fr\u00f6belschool van de parochie van O.L. Vrouwe Hemelvaart(Pallaesstraat 3) te Utrecht, met enkele kleuters. Opmerking: Foto Pers Bureau Utrecht fotonummer 31137"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A632F01DE8F507EA51DB53BD01EA1F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pallaesstraat te Utrecht met de huizen nrs. 2 (links)-hoger; op de achtergrond de Kerkstraat. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C1F0309954A569DB841959A5C30AF88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819540"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pallaesstraat 2 - 8 (rechts) te Utrecht; de huizen maken deel uit van het hofje van de Ele\u00ebmosynae van Oudmunster, waarvan de overige huisjes in de Mgr. van de Weteringstraat staan. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C25E95120CB5056803B0FD94370914E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68461"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pallaesstraat 2-14 te Utrecht; rechts het huis nr. 14 en links de Mgr. van de Weteringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E7B0D7E9AFA503C9CBC78DB2574CE19"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819539"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pallaesstraat 10 - 14 te Utrecht; de huizen zijn gesticht door de Fundatie Maria van Pallaes. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F70601B480158CA8521C19743358C4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Mgr. van de Weteringstraat 52 - 54 te Utrecht; de huizen zijn onderdeel van het hofje van de Ele\u00ebmosynae van Oudmunster (Mgr. van de Weteringstraat 48 - 58 en Pallaesstraat 2 - 8) . Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "575908F65E325265BE62E1028E63EF16"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825278"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de R.K. Montessori Fr\u00f6belschool van de parochie van O.L. Vrouwe Hemelvaart (Pallaesstraat 3) te Utrecht, met enkele kleuters. Opmerking: Foto Pers Bureau Utrecht fotonummer 31136"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A89CD34601451C29D824CAFC2B57CE3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68794"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de R.K. Montessori Basisschool Buiten Wittevrouwen (Pallaesstraat 3) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F2EB69B4FBA5830A6B7047DC109126A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819541"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pallaesstraat 2 - 8 te Utrecht; de huizen maken deel uit van het hofje van de Ele\u00ebmosynae van Oudmunster, waarvan de overige huisjes in de Mgr. van de Weteringstraat staan. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9392115AD34B5E13BD9CC25C5C36CEEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819960"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van pand Pallaesstraat 1 te Utrecht.<ZR><ZR>N.B. Rond 1940 was in dit pand een bakkerswinkel van R. van Leeuwen gevestigd; nadere gegevens ontbreken. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ABE190EC38E8508AA830E8B733E3BA9D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pallaesstraat 2-14 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD12EFE8CF9D551086E2AAD09FCDB7B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832751"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde R.K. Montessorischool Buiten Wittevrouwen (Pallaesstraat 3) te Utrecht. Opmerking: De originele foto is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD539630540E579BAEAA1887BF28B1DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68457"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van de Montessorischool Buiten Wittevrouwen (Pallaesstraat 3) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0AC71358E5353AC8E47C77EB6400DC3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813626"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hoek van de Mgr. van de Weteringstraat (links) en de Pallaesstraat te Utrecht. Links de huizen van het Hofje Ele\u00ebmosynae van Oudmunster (Mgr. van de Weteringstraat 48 - 54) en rechts die van het Hofje van Maria van Pallaes (Pallaesstraat 2 - 14)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D2710DDAED22504599A72E16B7287D92"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819961"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pui van pand Pallaesstraat 1 te Utrecht.<ZR><ZR>N.B. Rond 1940 was in dit pand een bakkerswinkel van R. van Leeuwen gevestigd; nadere gegevens ontbreken. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DAA0EA12A569538ABDDF2F3768F76381"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73693"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Weistraat 60-hoger te Utrecht; links het hoekhuis nr. 60 en geheel links op de voorgrond de ingang van de Pallaesstraat.<ZR><ZR>N.B. de straatnaam Weistraat is in 1929 gewijzigd in Mgr. van de Weteringstraat. Opmerking: Zie ook.: \"Wijkkrant Buiten-Wittevrouwen\", februari 1983."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD8C53F4EA1251499DA270C202D4B091"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825276"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de R.K. Montessori Fr\u00f6belschool van de parochie van O.L. Vrouwe Hemelvaart(Pallaesstraat 3) te Utrecht. Opmerking: Foto Pers Bureau Utrecht fotonummer 31135"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F255ED2BF2965D07BB95A990C8620ECC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20165"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pallaesstraat 16-18 te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9720728B59C54F99CBB554E8800CE71"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68458"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pallaesstraat 2-14 te Utrecht; aan de linkerzijde het begin van de Adriaanstraat"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

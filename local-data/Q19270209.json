@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0312406A6CD057C0AD8FC596CAC7ABA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6923"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Achterweg/hoek Imminkstraat te Amerongen uit het westen.<ZR><ZR>N.B. Na 1945 is de straatnaam Achterweg gewijzigd in Burg. Jhr. H. van den Boschstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,632 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "009410185D43570C907B859824917E93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803321"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de wijk Tuindorp te Utrecht, vanaf een flatgebouw aan de Eykmanlaan, uit het zuidoosten, met op de voorgrond enkele huizen aan de Rauwenhofflaan en in het midden de Prof. Reinwardtlaan. Op de achtergrond enkele flatgebouwen in de wijk Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B2CF3DFB2D65F77915E0EFEB9A11420"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77332"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de volkstuinen bij de wijk Tuindorp-Oost te Utrecht; op de achtergrond de huizen aan de Prof. Westerdijklaan met rechts daarnaast de Prof. Reinwardtlaan. Opmerking: Literatuur: Door de tuin geleid. bibl. HUA LVI C 56.<ZR><ZR>Op dit terrein is later de Ornsteinsingel aangelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25346B741FC452B8806F1FEDE8405948"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822727"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe fiets- en voetgangersbruggetje over het Zwarte Water, van de Ornsteinsingel (op de voorgrond) naar de Prof. Reinwardtlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41BBBC619F645BABB3639BB728958C30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23777"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prof. Reinwardtlaan te Maartensdijk.<ZR><ZR>N.B. Deze straat is per 1 januari 1954 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E25599FF961537C938DA23A994E0705"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832579"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zwarte Water langs de Prof. Reinwardtlaan (rechts) te Utrecht, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5629BF140E0E5D9192AAAB701B3A9594"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822725"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe fiets- en voetgangersbruggetje over het Zwarte Water bij de Prof. Reinwardtlaan te Utrecht; op de achtergrond het Willem de Zwijgerplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D847A84DD8F526D96C305AB9C741705"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829112"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de oudbouw van het Gerrit Rietveldcollege (Winklerlaan) te Utrecht, die gesloopt wordt, vanaf de Prof. Reinwardtlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-01-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-01-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "722AB1CAAA095C3CA97A199ECA2BE5C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129835"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van het bruidspaar Simons-Van Hoeckel (Prof. Reinwardtlaan 20) te Utrecht, met twee bruidsmeisjes.<ZR><ZR>N.B. Het huwelijk is vermoedelijk in 's-Hertogenbosch voltrokken. Opmerking: In 2009 gemaakte afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-10-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-10-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7804A7C971825405BF2B703097B14547"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803320"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de wijk Tuindorp te Utrecht, vanaf een flatgebouw aan de Eykmanlaan, uit het zuidoosten, met op de voorgrond de Rauwenhofflaan en in het midden de Prof. Reinwardtlaan. Op de achtergrond de flatgebouwen in de wijk Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C70BC3753F152869B050B48085A6BFE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5050"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen aan de Prof. Westerdijklaan te Utrecht met rechts enkele huizen aan de Prof. Reinwardtlaan en geheel links enkele huizen aan de Dr. J.P. Thijsselaan; op de voorgrond het Zwarte Water."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B093262A1FB15D6889B90496140BEE25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822728"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe fiets- en voetgangersbruggetje over het Zwarte Water, van de Ornsteinsingel (op de achtergrond links) naar de Prof. Reinwardtlaan (rechts) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BA0ECA90164F514E84206CC4BD2BB177"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803326"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de wijk Tuindorp te Utrecht, vanaf een flatgebouw aan de Eykmanlaan, uit het zuidoosten, met op de voorgrond enkele huizen aan de Rauwenhofflaan en in het midden de Prof. Reinwardtlaan. Op de achtergrond enkele flatgebouwen in de wijk Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB0CBF78F85E5D1996E9D786EEDE1D80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het middelste deel van de Eykmanlaan te Utrecht en omgeving, uit het oosten, met in het midden de Prof. Jordanlaan en het gereformeerde Verzorgingstehuis De Lichtkring (Eykmanlaan 72). Rechts op de voorgrond de  Dr. J.P. Thijssenschool (Eykmanlaan 80). Op de achtergrond het Zwarte Water en de Prof. Reinwardtlaan met daarachter een deel van de wijk Tuindorp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC71575C883F5600B688DBAAA72D2DF5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het zuidelijke deel van de Eykmanlaan te Utrecht en omgeving, uit het oosten, met op de voorgrond de Prof. Jordanlaan en op de achtergrond de Prof. Sprengerlaan / Prof. Reinwardtlaan (Tuindorp) met het Willem de Zwijgerplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFD5AF4626E95375902623F75FA05F96"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501538"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het in aanbouw zijnde reformatorisch College Blaucapel (Winklerlaan 373) te Utrecht, uit het zuidwesten, met links op de voorgrond de Prof. Reinwardtlaan en rechts de R.K. U.L.O. (later St. Gerardus Majella MAVO, Winklerlaan 370-372). Daarachter het noordelijke deel van de Eykmanlaan en geheel op de achtergrond het volkstuinencomplex De Driehoek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D30E713E465A51D8BE7DE7D6D804E3D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77333"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de volkstuinen bij de wijk Tuindorp-Oost te Utrecht; op de achtergrond de huizen aan de Prof. Westerdijklaan en Prof. Reinwardtlaan (links); rechts enkele huizen aan de President Rooseveltlaan.<ZR><ZR>N.B. De straatnaam President Rooseveltlaan is op 17 oktober 1958 gewijzigd in Jordanlaan en op 31 oktober 1958 gewijzigd in Prof. Jordanlaan. Opmerking: Literatuur: Door de tuin geleid. bibl. HUA LVI C 56.<ZR><ZR>Op dit terrein is later de Ornsteinsingel aangelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB12C8859C885B5AB4D5F5BAE05C53F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832578"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prof. Reinwardtlaan te Utrecht, uit het zuiden, vanaf de hoek met de Winklerlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DC30406B95EF56D29264F71BDF2DA4A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822726"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe fiets- en voetgangersbruggetje over het Zwarte Water, van de Prof. Reinwardtlaan (links) naar de Prof. Leon Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DC4EE3315DD15673BDA0596957CCD1FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van kinderen die een rondedans maken om de Julianaboom in het plantsoen tussen de Prof. Joh. Westerdijklaan, Prof. Reinwardtlaan en de Dr. J.P. Thijsselaan (Tuindorp) te Utrecht, waarschijnlijk tijdens de viering van Koninginnedag of Bevrijdingsdag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DCC29FA1EB825C35921064C7676A5127"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30500"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prof. Reinwardtlaan te Utrecht vanuit de Prof. Jordanlaan, met de voor- en zijgevels van de huizen Prof. Reinwardtlaan nrs 15-20. uit het noordoosten. Rechts de stronk van een boom die tijdens de storm van 25 januari 1990 is omgewaaid. Links op de achtergrond de brug over het Zwarte Water."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E4E2177C5EF85F868117D36D799C64B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129834"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van mej. Van Hoeckel tijdens haar huwelijk met A.J.R. Simons (Prof. Reinwardtlaan 20) te Utrecht.<ZR><ZR>N.B. Het huwelijk is vermoedelijk in 's-Hertogenbosch voltrokken. Opmerking: In 2009 gemaakte afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-10-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-10-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA90475758075426B99C1E12BE1056B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Prof. Reinwardtlaan te Utrecht vanuit het noordoosten met op de voorgrond het Zwartewater. Opmerking: Uit: Utrecht in woord en beeld, 1937/38, nr. 27."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1937-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83BB9943CA2C5B9B90A561B6D13B36EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69866"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Scheldestraat 21/21 bis-lager te Utrecht; uit het zuiden met aan het eind de Balijelaan met   gezicht in de Zoomstraat en rechts een deel van de eerste \"Da Costa\"kleuterschool (Scheldestraat 12)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

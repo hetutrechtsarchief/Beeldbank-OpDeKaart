@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AB36AB2D02DDD1AE0534701000AE2E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838098"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw Haarlemmerhoutdreef - Henri\u00ebttedreef te Utrecht, met op de zijgevel zonnepanelen en op het dak een windturbine."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB3FBB84471C5517AC8B0EC399FF54E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812593"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Haarlemmerhoutdreef te Utrecht, vanaf de Henri\u00ebttedreef, met op de achtergrond het flatgebouw aan de Dorbeendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3A6A27CCA56529D8941CEC7E607B08D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119097"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen in de wijk Overvecht te Utrecht, vanaf de Rhonedreef, met links de flat aan de Henri\u00ebttedreef en rechts de flat aan de Haarlemmerhoutdreef. Op de voorgrond de kleuterschool Grutto (Henri\u00ebttedreef 20)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E59E3B024B9859C49ECA86DD7488AD1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Overvecht te Utrecht, uit het zuiden. Linksonder de lagere flatgebouwen aan de Taagdreef en de Ebrodreef, centraal links de hoge flatgebouwen aan de Haarlemmerhoutdreef en de Dorbeendreef, centraal rechts een gedeelte van Park de Watertoren."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0EA8300E4929503DAEAE0F23B3B0F46F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een historische optocht voor de Staatsmijnen te Heerlen (Bekkerweg), met een praalwagen met de (replica van de) stoomlocomotief De Arend van de H.S.M."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

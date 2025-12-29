@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5131EEB683055AE58B8B220CB55E9031"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85741"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanbouw zijnde Parkwijk in de wijk Leidsche Rijn te Utrecht, uit het noordoosten. Links de Monarchvlinderlaan, op de voorgrond de Donsvlinder en rechts op de achtergrond de Vuurvlindersingel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2002-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

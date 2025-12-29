@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A287177BF1F651839803B57B72644A42"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154210"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Willemsplein te Arnhem met enkele bushaltes van het G.V.A."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E65D7FB82BCE53C49F0B298CEE0921C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154197"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Willemsplein te Arnhem met bushaltes van het G.V.A."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

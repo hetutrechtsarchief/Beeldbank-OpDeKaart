@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32FD4B7B33DB57E2ABC81DC368F3677F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24248"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Louise Kerlinghof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B30896A688305924BE35EB6A25842103"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24247"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Louise Kerlinghof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1ACB059A93ED531B8ADF741FAFA3CAD5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153204"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1D408FD6ED845E8C91B98472F92DC6E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169082"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het emplacement van het N.S.-station Putten te Putten, met rechts een gashouder. Opmerking: N.S. fotonummer 20030."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "23DDE181ABE45B578F5D37BE6C1526AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "801272"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het versierde N.C.S.-station Putten te Putten, tijdens de viering van het 50-jarig jubileum van de N.C.S. (Nederlandse Centraal Spoorweg-Maatschappij). Opmerking: De afbeelding bevindt zich in het jubileumboek \"Nederlandsche Centraal Spoorweg Maatschappij - Dienstorder no. 621 20 augustus 1863 - 1913. (In particulier bezit)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D8A90CDC8FA5FB4BAD2A98E9F535597"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161930"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Putten te Putten. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5190AF67C39F59F1ACC57526689F5778"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153293"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf de voetgangersbrug op de sporen en de perrons van het N.S.-station Putten te Putten. In het midden een electrisch treinstel mat. 1964 (plan V) van de N.S. als stoptrein naar Zwolle."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F6664E5E30959A2B9FE1F5A35552D27"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150587"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C7C2D7EED685F01A2298B21EBDF26CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op perrons en de voetgangersbrug van het N.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7229EBA2A66251C68CE9A5DB0952579E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154652"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.C.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7746C2DC781B5EB5B43665C2AA207FDC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153205"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gashouder van de firma Benegas met links enkele ketelwagens. Op de voorgrond het 2e perron van het N.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB4DF5428BD3589EB5E479E87B893667"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150585"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het N.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD7A1E36069551068A195318E744A901"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150586"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de perrongevel van het N.S.-station te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B25D8EB77A5F5682935F76382C615834"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang nabij het N.S.-station Putten te Putten, met links een dienstwoning van de N.S. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BDCBEF5D3BF65E02B266108A66605F3F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165108"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.C.S.-station Putten te Putten. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5DCD7E625115515823D4DE2D9E7989E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154732"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bedieningsmechanisme voor de spoorwegovergang bij het seinhuis in het N.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C625DBFB88945847A48B9B6D3FF8F6D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Putten te Putten. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Reproductiefoto"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6BFFD5F9457517382A775967F3F4FBF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "159714"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bloktoestel in het N.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBED5465EEA15B91B1979643DC2E1D5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154653"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA58DF9BED2A52D589F986382BE77187"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150589"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op perrons en de voetgangersbrug van het N.S.-station Putten te Putten, met een naderende trein bestaande uit electrische treinstellen mat. 1954."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0999A51E4EE5E1DA866DEDD693DF799"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150590"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op perrons en de voetgangersbrug van het N.S.-station Putten te Putten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8340B87433555AD9D4ADA2C0CB797F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153292"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voetgangersbrug van het N.S.-station Putten te Putten met op de voorgrond drie baanwerkers van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA5F81E5B64A5D63AE528F310CF1786B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161931"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Putten te Putten. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

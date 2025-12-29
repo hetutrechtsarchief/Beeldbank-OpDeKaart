@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "011BDFC50DF050639E8CA16708E976D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601193"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Parkweg met omringende bebouwing te Vleuten (gemeente Vleuten-De Meern) uit het zuidoosten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "072095EF9DA15382A7B7BD6A4892DA3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50159"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een boerderij aan de Parkweg te Vleuten (gemeente Vleuten-De Meern), uit het noordwesten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1865B8061BB15BCB945283BE3E78BC72"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21658"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Parkweg 3 te Haarzuilens (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "187EDB6D6EC7513AB71B0381F1364F3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90076"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Parkweg te Vleuten (gemeente Vleuten-De Meern), vanaf de woontoren van kasteel Den Ham (Hamlaan 3), uit het oosten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "18D491A3585D5AB4ABE86486A7B8B0B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601191"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vleutensche Wetering en de Parkweg met bebouwing te Vleuten (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C172154FF195CE4857FE2EC7EA8B8D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "91909"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Parkweg te Vleuten (gemeente Vleuten-De Meern), uit het oosten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd. Opmerking: Op dit punt (vroeger genaamd De Wel) was voorheen een T-kruising. Door ruilverkaveling is de situatie gewijzigd door ter plaatse de Parkweg te verlengen tot aan de Rijndijk en de Rijndijk vanaf de Bochtdijk tot de aansluiting op de Breudijk in Harmelen door te trekken. De weg langs de boerderij links liep leidde aanvankelijk naar Harmelen, maar is hier doodlopend geworden. De Haarlaan (rechts) is voor publiek afgesloten en geeft alleen nog toegang tot het golfterrein in het Zuiderpark van kasteel De Haar te Haarzuilens."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DB562C8511A59AEBB6DD265850E3E7B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90172"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het westelijke deel van het dorp Vleuten (gemeente Vleuten-De Meern), uit het noordoosten, met op de voorgrond de Dorpsstraat, overgaand in de Parkweg. <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32CADE30C43A575881CF0C5505EF6D83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90168"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de woontoren van kasteel Den Ham (Hamlaan 3) en omgeving te Vleuten (gemeente Vleuten-De Meern), uit het westen, met links de Parkweg en op de achtergrond het dorp Vleuten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3563F234A8215077949F0416B6C3E9EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Parkweg met een Volkswagenbusje te Vleuten (gemeente Vleuten-De Meern), uit het oosten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36875FB5CE0B5356B2189A53613373A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89187"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het zuidoosten in de Parkweg te Vleuten, met op voorgrond enkele hooiende personen.  <ZR><ZR>N.B. De gemeente Vleuten is per 1 jan. 1954 opgenomen in de gemeente Vleuten-De Meern; deze gemeente is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C403C2525E05A72947FC420D9C96C1C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89191"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Parkweg 10-24 te Vleuten (gemeente Vleuten-De Meern). <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4EA69203F4525D43960C0C422973033C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parkweg te Vleuten (gemeente Vleuten-De Meern). <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "514CE5A6FD4C574F8C8DC7189797FBF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50158"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een boerderij aan de Parkweg te Vleuten (gemeente Vleuten-De Meern), uit het zuidwesten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6649A63B10685BC9B39E943D7708B7E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89189"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het noordwesten in de Parkweg te Vleuten (gemeente Vleuten-De Meern). <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B09E9F9188958E7946309918746DEB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803180"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van enkele tuinbouwbedrijven met kassen aan de Parkweg te Vleuten (gemeente Vleuten-De Meern), uit het noorden.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "760EC35DD2A8596789D8BFE3F2D22AB6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601194"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de brug over de Nieuwe Vaart in de Parkweg te Vleuten (gemeente Vleuten-De Meern) uit het zuiden.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C3A32AD3DA251E6AF8DBE612E3859C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95003"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Parkweg te nabij de Wel te Vleuten; met rechts de Vleutensche Wetering en op de achtergrond een boerderij.<ZR><ZR>N.B. De gemeente Vleuten is per 1 januari 1954 opgenomen in de gemeente Vleuten-De Meern; deze gemeente is per 1 januari 2001 bij de gemeente Utrecht gevoegd. Opmerking: De afbeelding is gepubliceerd in: Ons eigen land, 1908."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1907-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1907-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86C616EFA4515F6C8B22B19DFCE770F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "91910"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Parkweg te Vleuten (gemeente Vleuten-De Meern), uit het oosten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd. Opmerking: Op dit punt (vroeger genaamd De Wel) was voorheen een T-kruising. Door ruilverkaveling is de situatie gewijzigd door ter plaatse de Parkweg te verlengen tot aan de Rijndijk en de Rijndijk vanaf de Bochtdijk tot de aansluiting op de Breudijk in Harmelen door te trekken. De weg langs de boerderij links liep leidde aanvankelijk naar Harmelen, maar is hier doodlopend geworden. De Haarlaan (rechts) is voor publiek afgesloten en geeft alleen nog toegang tot het golfterrein in het Zuiderpark van kasteel De Haar te Haarzuilens."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "975E91E43E205B2B97A92D4AF36024C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89176"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parkweg te Vleuten (gemeente Vleuten-De Meern). <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C53F502144A5A95858536ABF38DC5F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89188"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het noordwesten in de Parkweg te Vleuten (gemeente Vleuten-De Meern). <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E91903BE2BF52F28AF7E3D60D178905"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89178"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parkweg te Vleuten (gemeente Vleuten-De Meern) met rechts de Haarlaan.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2272C20D4F859179CAD5DBB08781638"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88158"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Bijleveldweg te Vleuten (gemeente Vleuten-De Meern) gezien vanaf de Parkweg.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A61D14189DFC555BA8B3A0B70A9E2679"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90169"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Verticale luchtfoto van Haarzuilens (gemeente Vleuten-De Meern) en omgeving, met middenboven het Kasteel De Haar (Kasteellaan 1), links de Rijndijk, in het midden de Parkweg en rechts de Joostenlaan. Rechtsonder een gedeelte van de wijk Odenvelt te Vleuten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B42B1AB5D62058948F81703EBE106FA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90769"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de door blikseminslag beschadigde hooiberg bij de boerderij Parkweg 38 te Vleuten (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C430B7E8C3E2510B876DA75172C6B4A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94659"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Bijleveld op een boerderij aan de Parkweg te Vleuten (gemeente Vleuten-De Meern), uit het noordoosten.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE5AC4E8634054A7BA65B98C111CD14A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88162"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein aan de Camphuysenstraat te Vleuten (gemeente Vleuten-De Meern) met rechts op de achtergrond de achtergevels van enkele panden aan de Parkweg. <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D30D2A693B5F597996DF2275FC05C645"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "91049"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het tijdens een storm beschadigde koelhuis van het fruitteeltbedrijf van J. Plomp (Parkweg 28) te Vleuten (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E57F47DAB9E85923857878FEE5C6C1A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89395"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijndijk en het nieuwe fietspad te Haarzuilens (gemeente Vleuten-De Meern) met links de Parkweg.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F112D8288B1450DBBE8F210EE8C7D685"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85740"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de toren Den Ham (Hamlaan 3) bij Vleuten (gemeente Utrecht), uit het zuidoosten. Op de achtergrond de Parkweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE2CE881738253C5919E5180DE14085C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89190"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het noordwesten in de Parkweg te Vleuten (gemeente Vleuten-De Meern). <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

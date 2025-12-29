@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40A688FE03DE5B7ABDBA27E87967FE51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155607"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een electrisch treinstel mat. 1954 (plan F, G of M) van de N.S. langs het perron van het nieuwe N.S.-station Hengelo Oost te Hengelo. De conducteur geeft het vertreksignaal aan de machinist. Opmerking: De foto is gepubliceerd in De Koppeling nr. 552 (25 april 1975), p. 7."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

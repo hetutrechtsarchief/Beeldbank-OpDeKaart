@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3279C505453F518CA1603EAD04583CEC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832695"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama van het plantsoen aan het Driebergsebos te Vleuten (gemeente Utrecht), met de huizen aan het Leersumseveld,"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

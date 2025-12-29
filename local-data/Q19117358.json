@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44D1AC2A539950F98206B453A43C4E60"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12993"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Instituut P. van der Sluys, gevestigd in de villa Lusidina (Emmalaan 18) te Amersfoort. <ZR><ZR>N.B. Het instituut bestond uit een school voor lager onderwijs, MULO en een jongensinternaat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC62DBCF40F2549AA553C56DA2CD129A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350586"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Jongenshuis, internaat van het Leger des Heils (Villa Lisiduna - Emmalaan 18) te Amersfoort. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

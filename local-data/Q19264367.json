@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66094FD7C5625171A2DB81D39E47D530"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402839"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de heer Avci, (illegale) bewoner van het huis Hoveniersstraat 9 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FF445C975AF5A658BF62AD52A2143FB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementengebouw met de woningen Nieuwe Pijlsweerdstraat 75 (rechts)-hoger te Utrecht; rechts de ingang van de Hoveniersstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91B552E053485FC2B3798E5C724080FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23351"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Nieuwe Pijlstraat te Utrecht met rechts de Hoveniersstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

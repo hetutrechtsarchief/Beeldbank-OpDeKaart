@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7DAD94BA2FC41E68E0534701000AD746"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838626"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een vergadering van het managementteam van het Ontwikkelingsbedrijf Gemeente Utrecht, in een kantoorgebouw aan het Vivaldiplantsoen te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF9B040B9506561CBD453CC8E0936091"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402948"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele woonwagens op het terrein aan de Chaussonlaan te Utrecht (bij het Vivaldiplantsoen), met op de voorgrond de kinderen Tonnie, Rieke en Pietje Veraart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F41C2AF8E9D452848875273A96457330"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117307"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele kantoorgebouwen aan het Vivaldiplantsoen te Utrecht, vanaf de Weg der Verenigde Naties."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

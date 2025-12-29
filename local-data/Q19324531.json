@@ -1,0 +1,716 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0183BC9D0B825713B74215492DDEBB18"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62395"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 37-hoger te Utrecht, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1EDB939AA502532D964AB202C254BA16"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75024"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel in de Leliestraat van het naaiatelier Esdoornstraat 12 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "23158A429C7A51F3A658F32A6EDBA8B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70014"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Schutstraat 94-hoger te Utrecht met rechts de ingang van de Leliestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "263E4690DD7E567FADE706AAB41F5991"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807229"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amsterdamsestraatweg te Utrecht, met links de ingang van de Leliestraat en de panden Amsterdamsestraatweg 205 -lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F31EF8D2EB75F56946A51A21C7705B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70015"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Schutstraat 104-hoger te Utrecht met links de ingang van de Leliestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D4C7BD9CCB65525BBAAFF9CA3347106"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62398"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 32-hoger te Utrecht met links de ingang van de Esdoornstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "42C1712EEDE756ADB96EECF2DB875EB7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Magda Noppen, Kobi Kruse Koster en Riet Visch (v.l.n.r.), verontruste bewoners van de Leliestraat te Utrecht in verband met de op handen zijnde spoorverdubbeling, aan de voet van de spoordijk achter de straat. Opmerking: Zie ook Utrechts Nieuwsblad, dinsdag 20 maart 1990, blz. 13: \"Leliestraat ten einde raad door verdubbeling spoor\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-03-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-03-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F62B99D57E7563AB754BF7B71E285A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51827"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 1 (midden)- hoger te Utrecht met rechts de zijgevel van het hoekpand Amsterdamsestraatweg 205 ."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6179E8A904645AD8B8DF157675E38D1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 57-lager te Utrecht, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "67E36B5AD6DD5E71AB6B603D1109E9ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124409"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Anton van Hilten, lijstenmaker en antiekhandelaar, in zijn werkplaats (Leliestraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EC9D99C1BC059C0A926059A8ADDAAA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62399"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 50-lager te Utrecht met rechts de ingang van de Schutstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "815951C9FB0F565F919C7A48C1E1689D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62394"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 35-lager te Utrecht met links de ingang van de Schutstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82A2C044A9385D549FA5CEEDCEBE9DB9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekpand Amsterdamsestraatweg 207 te Utrecht met rechts de ingang van de Leliestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F75413627295777BE2100A1741D1900"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820116"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voormalige winkelpui van het hoekpand Leliestraat 25 te Utrecht; rechts de Esdoornstraat.<ZR><ZR>N.B. Van ca. 1935 tot 1950 waren in het pand de bakkers A. Stomp jr. en G. M\u00f6lder gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90BD3BAAB58459E68753FF4F10167593"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821234"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een uitschuifbare en verrijdbare ladder in de Leliestraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A186E006D65752EA8E2DB12283B24443"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21060"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 23-lager te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-10-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-10-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B9C9AC9742875DCD91E05F7FD1BCDB8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 25-lager te Utrecht met rechts een gedeelte van het hoekpand Esdoornstraat nr. 11."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C10EB7C8BA8F579B857AE765CC3A8C85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214107"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van het terrein tussen de Schutstraat / Leliestraat / Amsterdamsestraatweg te Utrecht; met aanduiding van de te verwerven percelen grond door de gemeente Utrecht en weergave van het bestaande en ontworpen stratenplan ten noordoosten van de Schutstraat. Opmerking: Zie ook nr. 214106.<ZR>De plattegrond is afkomstig uit: Gedrukte Verzameling 1932, nr. 139."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9EDA4BD559D5894AA89F723401770D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56606"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Esdoornstraat te Utrecht met de huizen nrs. 13 (rechts van het midden)-hoger; geheel rechts het huis Leliestraat 32."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D6C43EC6DED95B0CB123213046411691"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62397"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 30-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7017C1395335FE08504E27912E7CB4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820115"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Leliestraat 25 te Utrecht; rechts de Esdoornstraat.<ZR><ZR>N.B. Van ca. 1935 tot 1950 waren in het pand de bakkers A. Stomp jr. en G. M\u00f6lder gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDCF4C24291054E9AC4D6D38E6376195"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214106"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van het terrein tussen de Schutstraat / Leliestraat / Amsterdamsestraatweg te Utrecht; met weergave van het bestaande en ontworpen stratenplan ten noordoosten van de Schutstraat. Opmerking: Zie ook nr. 214107.<ZR>De plattegrond is afkomstig uit: Gedrukte Verzameling 1932, nr. 175."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC3DB1D1325455B381B3F014FA03B307"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62392"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Leliestraat 23-lager te Utrecht met links een gedeelte van het hoekpand Esdoornstraat nr. 12."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED9DE9ADDD46519FB1006BB641AC1C4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "43274"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Pijlsweerdstraat 213 te Utrecht, uit het oosten. Links op de achtergrond de bebouwing aan de Schutstraat (hoek Azaleastraat).<ZR><ZR>N.B. Het gedeelte van de Pijlsweerdstraat (ten westen van de spoorlijn) waar deze woning aan lag, heet tegenwoordig Leliestraat. Opmerking: Afdruk afkomstig uit archief D.O.W."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-03-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-03-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF999122BF1E5B689D286B24B37457AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23152"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Leliestraat te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

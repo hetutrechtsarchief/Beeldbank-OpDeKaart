@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "95D396F10B865886A6C1252716A4B491"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11375"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het gemeentehuis (Raadhuisstraat 17) te Linschoten; met rechts de theekoepel. <ZR><ZR>N.B. De gemeente Linschoten is per 1 januari 1989 bij de gemeente Montfoort gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83D3CEFC4CEEBE5BE0534701000A73C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839807"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van de aanwezigen bij de opening van het gemaal De Ruiter (Demmeriksekade 5) te Vinkeveen. Opmerking: De foto bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 502."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1923-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C54877D6FF185CF099DBBFD1C6ED4F01"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een goederentrein getrokken door de diesel-electrische rangeerlocomotief nr. 454 (serie 450, nrs. 451-460) van de N.S. langs de Peizerweg te Groningen (voormalige N.T.M.-lijn Groningen - Drachten). Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-06-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-06-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

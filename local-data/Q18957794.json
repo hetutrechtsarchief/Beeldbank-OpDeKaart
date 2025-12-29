@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D53756D89F7D50C2B1050E1F78E1119C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25392"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de restanten van de boezem, watermolen- en gemaalplaats Bloemendaalschehoek aan de Bloemendaalseweg te Vianen. Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-02-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-02-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

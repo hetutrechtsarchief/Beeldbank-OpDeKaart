@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61C38488E0735DA2BEF087AB927BC99F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50548"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Soest Zuid te Soest, uit het zuiden, met in het midden de Braamweg en links op de achtergrond De Eng."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

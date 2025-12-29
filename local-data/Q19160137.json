@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CCB3DE37A7C50EAAF87E71C8D43C15E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56839"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het beeld Drie Ezels, ter hoogte van de Jan van Galenstraat 99 te Utrecht, uit het zuidwesten; op de achtergrond de in aanbouw zijnde flatgebouwen aan het Kernkampplantsoen en Fruinplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

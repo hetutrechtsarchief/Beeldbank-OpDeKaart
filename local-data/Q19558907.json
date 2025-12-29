@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F7D03F3019351879AA1E442AF29E0F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602037"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Multatulischool (Sumatralaan 40) te Hilversum. Opmerking: De architect van het schoolgebouw is W.M. Dudok (geboren Amsterdam 1884, overleden Hilversum 1974)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

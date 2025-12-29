@@ -1,0 +1,884 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "03AE094863065B7EBDF85EB507D6A9CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "3802"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Van Beuningenplein te Utrecht met in het midden de Noorderkerk (Royaards van den Hamkade 20)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0FFA344753AF526A8DFC80DCCEE3459C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19716"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekpand Van Beuningenplein 4 te Utrecht met links de Mari\u00ebndaalstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "18E03FEAA95E5913B25D5DF7F6C0E889"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26879"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het wijkgebouw van de Gemeentelijke Geneeskundige Dienst (Van Beuningenplein 4) te Utrecht. Opmerking: Foto afkomstig uit het album van de G.G.D. van Utrecht, aangeboden aan de heer A. Britstra, t.g.v. zijn afscheid in 1934."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1926-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "20F87A3DCBC65CAAAE86485F792D3A8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125723"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het toedienen van een middel tegen hoofdluis bij een meisje in het gebouw van de Gemeentelijke Geneeskundige en Gezondheidsdienst (G.G. en G.D.) aan het Van Beuningenplein (Van Beuningenplein 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "348E253D0CEB5C5FAD1AE896E3A58669"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404349"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het voormalige gebouw van de Gemeentelijke Geneeskundige Dienst (Van Beuningenplein 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A7E44DDC5275AC897857AEDDCC614AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Van Beuningenplein 5 (rechts)-hoger te Utrecht met op de achtergrond de watertoren aan de Amsterdamsestraatweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C8DFB37C8FB560791D17B87C67FDA3B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "3803"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Van Beuningenplein te Utrecht met links de Noorderkerk (Royaards van den Hamkade 20)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F9FAD2DE5A1559A92F4B5B310995391"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404560"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een reclamebord dat het zicht op het verkeer ontneemt op de hoek van het Van Beuningenplein en de Amsterdamsestraatweg te Utrecht. Opmerking: Zie ook Utrechts Nieuwsblad, 29 september 1987: \"Reclameborden belemmering voor uitzicht op straat\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "512F146422775F7BB7552664B871B94E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117521"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van verkeersbrigadiers bij de oversteekplaats voor voetgangers in de Amsterdamsestraatweg te Utrecht, ter hoogte van het Van Beuningenplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55A9BF84EE2550199C1A0E75BD1A4096"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125724"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het toedienen van een middel tegen hoofdluis bij een meisje in het gebouw van de Gemeentelijke Geneeskundige en Gezondheidsdienst (G.G. en G.D.) aan het Van Beuningenplein (Van Beuningenplein 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "699C5F325C5154C887C080E4D1EBF65D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "43415"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het wijkgebouw van de Gemeentelijke Geneeskundige Dienst (Van Beuningenplein 4) te Utrecht. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B60BAD27A8C52BF997C60CC94583B12"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117523"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van verkeersbrigadiers bij de oversteekplaats voor voetgangers in de Amsterdamsestraatweg te Utrecht, ter hoogte van het Van Beuningenplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82E2A8DD4C2C2136E0534701000AE1CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125719"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het geven van spraakles met behulp van een spiegel in het gebouw van de Gemeentelijke Geneeskundige en Gezondheidsdienst (G.G. en G.D.) aan het Van Beuningenplein (Van Beuningenplein 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82E2A8DD4C2D2136E0534701000AE1CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125720"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het wegen van een jongen tijdens het medisch onderzoek naar kinderen in het gebouw van de Gemeentelijke Geneeskundige en Gezondheidsdienst (G.G. en G.D.) aan het Van Beuningenplein (Van Beuningenplein 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82E2B177D02726A3E0534701000AE7A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125722"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het onderzoek naar hoofdluis bij een meisje in het gebouw van de Gemeentelijke Geneeskundige en Gezondheidsdienst (G.G. en G.D.) aan het Van Beuningenplein (Van Beuningenplein 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83D028F80EE579E5E0534701000AC503"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75621"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een zuivelkraam op de markt op het Van Beuningenplein te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83D02F5327B18BECE0534701000AAFCB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75624"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een viskraam op de markt op het Van Beuningenplein te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87C2723A047950F89B9FC6AD173F8F94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122950"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een kinderspeelplaats op het Van Beuningenplein te Utrecht, uit het oosten; links de zijgevel van het huis Amsterdamsestraatweg 317 en daarnaast de huizen Van Beuningenplein 10-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9271EDE4D59253C485EBC086BE8E1F6C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117524"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een verkeersbrigadier bij de oversteekplaats voor voetgangers in de Amsterdamsestraatweg te Utrecht, ter hoogte van het Van Beuningenplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9174672D7D550D28FBE02CD78628649"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51859"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Van Beuningenplein 1(rechts)- 4 te Utrecht  vanaf de  Amsterdamsestraatweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE5039E2319856B5B01EF28775445A70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75623"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een fruitkraam op de markt op het Van Beuningenplein te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C1D3F2276B795F9CA586CAE0AC49C909"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75622"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een bloemenkraam op de markt op het Van Beuningenplein te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC8D77D472A15FAE9F22412777F11D21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19556"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Van Beuningenplein 1(rechts)-2 te Utrecht met geheel rechts op de achtergrond de Amsterdamsestraatweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFE2C13C4E6259E2A7BD9767B50DD02B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125725"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het onderzoek naar hoofdluis bij een meisje in het gebouw van de Gemeentelijke Geneeskundige en Gezondheidsdienst (G.G. en G.D.) aan het Van Beuningenplein (Van Beuningenplein 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D5F0F05D74B05C42A4B4140D253368FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808980"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Van Beuningenplein te Utrecht, vanaf de Amsterdamsestraatweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE04141817C1569CABDC3BE9355435A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53494"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een hoek van het Van Beuningenplein te Utrecht met de ingang van het wijkgebouw van de Gemeentelijke Geneeskundige Dienst. Opmerking: Uit: Architectura, Bouwkundig weekblad, 1933, nr. 43."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E865DB405F3950BAA943937D260D7E41"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19346"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Van Beuningenplein te Utrecht tijdens de wijkmarkt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F58ED8E361FB5069BA8C43651B76C58D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51858"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Van Beuningenplein 10 (links)- hoger te Utrecht  vanaf de  Amsterdamsestraatweg; rechts de zijgevel van het hoekpand Van Beuningenplein 1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5A662A9A8525F53BBA488C2980E7451"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125721"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het wegen van een jongetje tijdens het medisch onderzoek naar kinderen in het gebouw van de Gemeentelijke Geneeskundige en Gezondheidsdienst (G.G. en G.D.) aan het Van Beuningenplein (Van Beuningenplein 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FCDD0AD2475C559F92E94E78F6A31B3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51860"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de Jules Verneschool (Opzoomerstraat 1) te Utrecht met links de voorgevels van de panden Van Beuningenplein 10- hoger, gezien vanaf de  Amsterdamsestraatweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD69E45CF9865ABDA0E91E4D4A38FD8F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51861"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Van Beuningenplein 10 (midden)- hoger te Utrecht met links de voor- en zijgevel van het hoekpand Amsterdamsestraatweg 317."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

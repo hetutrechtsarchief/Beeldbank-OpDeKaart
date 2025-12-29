@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "506F04D28A825B32830A8F18073E043C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156407"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden ten behoeve van de aanleg van het hoogspoor te Eindhoven, ter hoogte van de Mathildelaan. Opmerking: De afbeelding staat in het album D\u00e9 Overweg / de oplossing van het probleem in foto's van Martien Coppens, aangeboden door het gemeentebestuur van Eindhoven, ter dankbare herinnering aan de totstandkoming en feestelijke in gebruikneming van de hoge spoorbaan en de nieuwe perrons. Eindhoven, 28 november 1953"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8EFAEF938585004A67B997EC2DA80E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160921"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de diesel-electrische locomotief nr. 2401 (serie 2400/2500) van de N.S. met een convooi van de Philips-fabrieken op de Mathildelaan te Eindhoven. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

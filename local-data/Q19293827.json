@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22EC487D5C285040AC8BEB96C2404A37"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814888"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kenyadreef te Utrecht, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A186E9BDF4D154C5BBDB21A8A72DDB76"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69279"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Ramsesdreef 197 (links)-lager te Utrecht, vanaf de kruising met de Kenyadreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

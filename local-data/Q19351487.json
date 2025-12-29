@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1181E397FD05649A98FE2F68BF38C63"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19701"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen Zwanenvechtlaan 226 (links)- hoger te Utrecht, gezien vanaf de kruising met de Kloplaan, uit het zuidwesten; op de achtergrond de Muiderslotlaan (links) en het Zwanenvechtplein (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

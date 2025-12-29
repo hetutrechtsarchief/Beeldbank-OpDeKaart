@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E3D9A2FA6605660A5DB499E7CFAE986"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele schuren en boerderijen in de omgeving van de Albers Pistoriusweg en Beusichemseweg te Houten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

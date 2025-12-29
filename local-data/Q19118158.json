@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "733A228D07DB5D698C8AF3AB2FD3ACDD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8863"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Engweg te Bunnik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E23FD66BC12570C95EF66DF74E7C6F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8864"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Engweg te Bunnik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

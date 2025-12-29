@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D77E4CE5003D536D99C0B01581C1D1B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803797"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kinderspeelplaats aan het Andrej Sacharowplein (Andrej Sacharowstraat) te Utrecht, vanaf de Pablo Nerudastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-04-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-04-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

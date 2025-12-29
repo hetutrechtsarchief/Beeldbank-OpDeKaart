@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83B4DAFBE1C651C2811803FB93FA985C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806711"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het diesel-electrische treinstel nr. 112 (plan U, DE 3) van de N.S. op het N.S.-station Venray te Venray. Opmerking: De foto (ektachrome) bevindt zich in het archief van de Dienst van Materieel en Werkplaatsen van NS (toegang 955, inv. nr. 781)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2CB2611D353534887D8FF1181B8179A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160139"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de borduitvoering van de stopseinlantaarn op het N.S.-station Venray te Venray. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

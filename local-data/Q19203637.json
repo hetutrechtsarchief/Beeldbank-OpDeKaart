@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6651EFDBC83F5FF2B97A90A58874E476"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57441"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Graafschap 39 (rechts)-hoger te Utrecht, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8529A7E913FC2BE0E0534701000AB45F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406560"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van voetballer Barni Liebhaber van FC Utrecht, in duel met een Gerdo Hazelhekke van de Graafschap."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B86E69989B1A5C97B677BF039E77C36F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "216001"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Kaart van de provincies Noord- en Zuid-Holland, Utrecht en aangrenzende delen van de Noordzee,  Zeeland, Noord-Brabant, Gelderland en de Zuiderzee;<ZR>met weergave van wegen, watergangen, waterschappen, steden en dorpen.<ZR>Rechtsboven het wapen van de Graafschap Holland met enkele allegorische voorstellingen en middenonder een schaalstok."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1680-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1700-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

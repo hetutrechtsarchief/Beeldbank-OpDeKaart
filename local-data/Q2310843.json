@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C74A9ADE2F95F7382B407B90CB5E5B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156873"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het station Vlissingen Stad van de Staatsspoorwegen te Vlissingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1872-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1880-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D745F2FDBF0554818670D6365A1CCBDF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156874"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het station Vlissingen Stad van de Staatsspoorwegen te Vlissingen. Opmerking: Gepubliceerd in: Gedenkboek Maatschappij tot Exploitatie van Staatsspoorwegen, 1863-1913, (bibl. HUA NS DF 14)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1872-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1880-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

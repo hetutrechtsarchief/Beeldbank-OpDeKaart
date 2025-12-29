@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37D59CD36A5352C2AFDB99A9A6E24F4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501341"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de ereboog met opschrift \"HULDE aan den BURGEMEESTER en zijn gezin\" voor het huis Kampdwarsweg 6, de burgemeesterswoning (?) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09E5ACABE0DE51669A82B885727B6554"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23422"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over het inundatiekanaal op de achtergevels van enkele panden aan Sudeten te Utrecht vanuit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "33D640D347AC53E58253E9297EC9BB84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71126"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een sloot met knotwilgen en een oude boomgaard nabij de Houtenseweg te Utrecht vanuit het oosten. Op de achtergrond de huizen Sudeten 57 (rechts)-163."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8141F76CC2215E26B04E73F8D2B8FA4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een kunstobject gelegen tussen de Treek en Sudeten te Utrecht vanuit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F68683A04A4159759ADBDC7F40A25433"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71127"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Sudeten 77-hoger te Utrecht vanuit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

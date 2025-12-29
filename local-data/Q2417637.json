@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E0BCE49B1505523BE7021B449073C9C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169730"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een reeks kleine laadkisten van de N.S. op het goederenstation Maastricht Boschpoort. Opmerking: NS fotonummer 1815."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-10-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-10-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

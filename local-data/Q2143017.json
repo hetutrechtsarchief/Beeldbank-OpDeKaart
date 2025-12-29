@@ -1,0 +1,912 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0048927F9440586EAA15B20AD28A19B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19079"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wulpstraat te Utrecht met de huizen nrs. 37- lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0714ACAA49675E2CADE18B678BD15FFF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500339"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wulpstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "134CD2147AD25C57B52ED71A0D3F1657"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19072"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Wulpstraat 10 (rechts)-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E99512E7A3B543B8C8AC8E265342446"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819471"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de gedenksteen boven het poortje tussen de huizen Wulpstraat 11 - 13 te Utrecht, dat toegang gaf tot de verdwenen Lakmoessteeg.<ZR><ZR>N.B. De gedenksteen steen herinnert aan de bouw van het Hofje van de Fundatie van Maria van Pallaes aan de Wulpstraat in 1938. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22391336985F532B962C9E649208557B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66140"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het terrein van het pand Oosterkade 18 te Utrecht; de bedrijfsgebouwen van het autoschadebedrijf A. Geurts uit het zuidzuidoosten met daarachter het terrein van aannemersbedrijf Jos van der Linden b.v. (Oosterkade 15A) en de achterzijde van de huizen aan de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2752CA1E33E85C8E80ECC01CDEBBAB1B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Albatrosstraat te Utrecht met de voorgevels van de huizen nrs. 17(rechts)-19; links de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "297691B72D3054DEAF670AF9679D3F86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808717"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plantsoen aan de Wulpstraat te Utrecht, met de daaraan gelegen huizen Gansstraat 41, 45 en 47. Rechts de achterzijde van het huis Gansstraat 51."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "340349F8AE7455309C79BAA83606902D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51554"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van de voormalige R.K. Martinus kleuterschool (Albatrosstraat 25) te Utrecht met uiterst rechts de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36F6BBF2DD4F513DB4DA18ADBB70028C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51558"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Albatrosstraat te Utrecht met de voorgevels van de huizen nrs. 14-lager; links op de voorgrond de ingang van de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BD469F3A9345274AFFC4CE7D8ADC829"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74266"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Wulpstraat 11 (rechts) en 13 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60F4BF85802A59059ADE23A1C0FA7269"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18539"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Martinuskleuterschool (Albatrosstraat 25) te Utrecht met geheel rechts de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C3E26EB39C850B18DC666D32FECD855"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74263"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wulpstraat te Utrecht met rechts van het poortje de huizen nrs. 11-lager. Rechts de zijgevel van het huis Wulpstraat 10."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "810D868F0F2D5BC4A99DEF78D9E4FACF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66138"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het terrein van het pand Oosterkade 15A te Utrecht; de bedrijfsgebouwen van het aannemersbedrijf Jos van der Linden b.v.uit het zuidoosten met rechts, boven de muur uit, delen van de achtergevels van de huizen Wulpstraat 33-35 en op de achtergrond de achterzijde van het huis Oosterkade 15."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9223384D76CA589BA769B8878E844DDC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819470"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het poortje in de hoek, tussen de huizen Wulpstraat 11 (rechts) - 13 te Utrecht, dat toegang gaf tot de verdwenen Lakmoessteeg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A601029D8225D578FB9A0AD38A2847E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828689"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van het voormalige schoolgebouw aan de Alkhof op de hoek van de Wulpstraat te Utrecht, met de muurschildering 'Le grand d\u00e9part 2015', naar een ontwerp van Lotte van Laatum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7CD35643904573B81307E3EF7CC0FF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819556"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Wulpstraat 5 - hoger te Utrecht; de huizen maken deel uit van het in 1938 gestichte hofje van de Fundatie van Maria van Pallaes (Wulpstraat 5-37 en 2-10) . Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACCB30C79E125B9B949BF3FD43395DCB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77951"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vrijwoningen Kameren van Pallaes aan de Wulpstraat te Utrecht. Opmerking: Identiek aan cat. nr. 74265."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1960DA2CEFF55FAA740229C152F8E90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74264"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het einde van de Wulpstraat te Utrecht met in het midden de zijgevel van het huis nr. 37. Rechts een deel van het schoolgebouw van de voormalige r.k. scholengemeenschap voor MAVO/LEAO (Gansstraat 55)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B9FB11A42EFC5E27A2D1ABF4E1F5260E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21238"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Wulpstraat 19-lager te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BA0BF461F3D156FB94DB519C45099489"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Wulpstraat 25 - lager te Utrecht; de huizen maken onderdeel uit van het in 1938 gestichte hofje van de Fundatie van Maria van Pallaes (Wulpstraat 5-37 en 2-10) . Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C3CC209F43345142B29F342DC289EC6A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19838"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het pand Oosterkade 7 te Utrecht met rechts de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C64248090B8352B4AA0F7B759B7DE19B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819558"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Wulpstraat 7 - 9 te Utrecht; de huizen maken deel uit van het in 1938 gestichte hofje van de Fundatie van Maria van Pallaes (Wulpstraat 5-37 en 2-10) . Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CEB808DA825D5FEDB8A1FFC1E39D205C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74265"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wulpstraat te Utrecht met rechts van het poortje de huizen nrs. 11-lager. Rechts de zijgevel van het huis Wulpstraat 10. Opmerking: Identiek aan cat. nr. 77951."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D83053D99AD351998B1BDA5CFCFAC408"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808719"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouwwoningen aan de Mantelmeeuwhof en de Zeemeeuwhof te Utrecht, vanaf de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9E46299B74D59BABE6AA26FEC461D66"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42076"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de opslagplaats van de Dienst Gemeentewerken aan de Oosterkade te Utrecht, uit het westen; links op de achtergrond, nog net zichtbaar achter de hooiberg, een gedeelte van het schoolgebouw Gansstraat 55.<ZR><ZR>N.B. Op dit terrein is later de Wulpstraat aangelegd. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E7B0D6249AC757DE88F41D8BF8EAA1D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819438"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het poortje tussen de huizen Wulpstraat 11 (rechts) - 13 te Utrecht, dat toegang gaf tot de verdwenen Lakmoessteeg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA0D84A1A9A85BE481E920DEB7F60AC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51555"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Albatrosstraat te Utrecht met de huizen nrs. 27 (links)-25 (midden; r.k. Martinus kleuterschool), uit het zuidoosten; rechts de doorgang naar de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF26081D9C6B522A8D1A21D5FFE87BF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808716"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wulpstraat te Utrecht, met de huizen Wulpstraat 23 (geheel links) -lager (voormalige vrijwoningen van de Fundatie van Maria van Pallaes)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5DB94264E795B70A32690EA2FB25AAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808720"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tot bedrijfsverzamelgebouw omgebouwde voormalige Geerteschool (Alkhof 55-58) te Utrecht, vanaf de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9DC961CF1055D19B70B48C5FB591ED1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19071"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Wulpstraat 5 (rechts)-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB26319609A05B60A40365180E40F7A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66132"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gevel van het huis Oosterkade 6-7-8 te Utrecht; links nr. 6 en rechts de ingang van de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE01FFD226F05ADC81FA2E6560CA2C79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20179"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de achtergevel van het huis Oosterkade 8 te Utrecht met rechts de Wulpstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D28F74BFA955C9BAB29D35A6B090043"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het electrische treinstel nr. 281 (mat. 1946) van de N.S. als trein 1427 (Amersfoort-Ede=Wageningen) bij het perron van de voormalige halte Doesburgerbuurt tussen Lunteren en Ede. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

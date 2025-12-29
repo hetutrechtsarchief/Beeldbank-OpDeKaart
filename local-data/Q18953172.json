@@ -1,0 +1,800 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09E5AA0755B1528289E45FE9D5032607"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108277"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een huis aan de Zenithstraat te Utrecht: woonkamer, met de bewoonster. Opmerking: De foto maakt deel uit van de serie \"Utrechtse interieurs\" van fotograaf Mari\u00ebtte Carstens (1959) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "173A0D7A374E575D951E6BDF154D4C50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met in het midden de Hazelaarstraat en links de nieuwbouwhuizen aan de Zenithstraat en de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29CCC3D746795BE8BAADD283D6517739"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601438"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor sloop bestemde huizen Zenithstraat 4-8 (rechts) te Utrecht, vanaf de hoek met de Meridiaanstraat. Links een groepje kinderen uit de Sterrenwijk op het slooppand Zentihstraat 11."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "39C0CBE7024F5896AC5BBE42E31898C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601430"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met op de voorgrond de Zenithstraat en haaks daarop, van linksonder naar rechtsmidden, de Meridiaanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A4664A64BCE52C98128F9A8DC4001B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74556"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Zenithstraat 8 (links) -hoger te Utrecht. In het midden, tussen de huizen, de ingang van de Meridiaanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5475BB73F0485C6790C233F241A1233A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het viaduct onder de Oosterspoorweg tussen de Ina Boudier-Bakkerlaan en de Zenithstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "549D82DB7B6159A18EA3EF0A7F7E5BC2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Zenithstraat 12 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5757821835B15A6C90E93EB78ABEE498"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402442"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hazelaarstraat te Utrecht, vanaf de hoek met de (nieuwe) Zenithstraat (links)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CE85284FE995CEAB1B45D6C2C2A8FF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Orionstraat te Utrecht vanaf de kruising met de Zenithstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "65B452829FCD5D3D9A123D849F8952F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811533"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouwhuizen in de Zenithstraat (rechts) te Utrecht met links de voor sloop bestemde huizen aan de Middellaan.<ZR><ZR>N.B. De straatnaam Middellaan is in 1979 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74D9850A18B55000821B0C3D0D26DDEF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40141"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een terrein met opslag van materiaal ten behoeve van de bouw van Sterrenwijk te Utrecht; rechts de Oosterspoorweg en, vermoedelijk, de kruising Komeetstraat/ Zenithstraat; op de achtergrond enkele huizen aan de Middellaan. Opmerking: Afdruk afkomstig uit archief DOW."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1918-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1922-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "852939DD50E25C4DBB7A18154C16D98E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601424"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met in het midden de Hazelaarstraat en links de nieuwbouwhuizen aan de Zenithstraat en de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B6D15BF76FE5F4A82C13A94982C0F1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74559"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de herbouwde Zenithstraat te Utrecht, uit het zuidoosten., met de nieuwe huizen nrs. 22 (rechts van het midden) -lager. Op de voorgrond de kruising met de Komeetstraat (links) en de Hazelaarstraat (rechts). Rechts een gedeelte van het voor afbraak bestemde huis Middellaan 14. Links de nog te slopen huizen Middellaan 1-5 (nr. 5 vooraan) en de huizen Equatorstraat 23-lager.<ZR><ZR>N.B. De straatnaam Middellaan is in 1979 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E8671E4E6125666B65A29AB4FA6CF6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zenithstraat te Utrecht. Rechts op de achtergrond enkele huizen aan de Komeetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F7076FBDC995EBE8AF3AB9504E566A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het voor sloop bestemde pand Zenithstraat 5 te Utrecht, met enkele mannen die dakpannen van het dak halen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9FE79D3A3589523C9B46438E4E95B963"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601431"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met op de voorgrond de huizen aan de Komeetstraat en rechts de Zenithstraat. Linksboven de huizen aan de Meridiaanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1AADC833DA55B46B135A021E1F2C987"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74555"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Zenithstraat 4 (links) en 6 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3F70C8218B85B239C9936A393628FB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. Op de voorgrond de Zenithstraat (links) en de Komeetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6B20E88015E5EF8B536077AC8B15195"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601417"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. Op de voorgrond de Zenithstraat (links) en de Komeetstraat (rechts). In het midden de Meridiaanstraat. Rechts het kaalgeslagen terrein aan weerszijden van de Krommerijnstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B00CD63562675ED2A7D5F92EEC9CAD07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, tijdens de werkzaamheden ten behoeve van de vernieuwing van de wijk. In het midden de nieuwbouw aan de Zenithstraat en de Orionstraat (ter plaatse van de voormalige Krommerijnstraat)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3D2489A4A0E5FD58B796732AE6CC665"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74558"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de nieuwe huizen Zenithstraat 16-22 (rechts) te Utrecht, uit het zuidoosten. Links de aan de Komeetstraat gelegen  linker zijgevel van het voor sloop bestemde huis Middellaan 7.<ZR><ZR>N.B. De straatnaam Middellaan is in 1979 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D22BA4217A745D78BFF4558B72E77D83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met de nieuw bebouwing tussen de Zenithstraat en de Saturnusstraat. Op de voorgrond de oude huizen aan de Komeetstraat en de Meridiaanstraat (links)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0535C2B71025EC5A4A8C265DF3A59E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84868"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met de nieuw bebouwing tussen de Zenithstraat en de Saturnusstraat. Op de voorgrond de oude huizen aan de Komeetstraat en de Meridiaanstraat (links)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E08A8B78640354B08D70A9AF33DE4363"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601436"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor sloop bestemde huizen Zenithstraat 7 (rechts) -11 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E22EABF690875FCFA56D509368E2458F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601104"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de feestelijke oplevering van de huizen Zenithstraat 10 (links) -22 in de Sterrenwijk te Utrecht, in het kader van de vernieuwing van de huizen in de wijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E29725D8676455C88CDA764281D5FE69"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30300"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en de voorgevels van de huizen aan de westzijde van de Meridiaanstraat te Utrecht met de hoek van de Zenithstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8F8A303A2DB513F852B86DFF35B409B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122575"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kromme Rijn te Utrecht, ter hoogte van de houtzagerij A.E. de Kieviet (Gansstraat 98), uit het noordwesten; geheel links de voorgevels van de huizen Zenithstraat 1 (rechts)-3.<ZR><ZR>N.B. De naam van de houtzagerij is later gewijzigd in Houthandel Malba. Opmerking: De foto is afkomstig uit een losbladig album met foto's die, vermoedelijk, door een aan het Domplein ingekwartierde en mogelijk bij de Festungs Pionier Stab van de Duitse Wehrmacht werkzame militair gemaakt zijn (informatie uit de bijschriften bij nrs. 122535 en 122545)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFE22D6930A959D9B38020AA8C70D756"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor sloop bestemde huizen Mercuriusstraat 15 (links) -lager te Utrecht, vanaf de hoek met de Zenithstraat. Op de voorgrond poseert een groepje kinderen uit de Sterrenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

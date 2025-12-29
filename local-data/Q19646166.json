@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "906DD73C1737520A953B64E3685EB4A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50228"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het ruitersportcentrum De Treekhoeve (Waterlooweg 32) te Leusden, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F32DB08FB2BE5464B771F528F33D4B65"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50227"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het ruitersportcentrum De Treekhoeve (Waterlooweg 32) te Leusden, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

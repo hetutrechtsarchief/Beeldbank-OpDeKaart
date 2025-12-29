@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "841E405104D14E3EE0534701000AF7CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840414"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van 3e Algemene Begraafplaats Tolsteeg (Maansteenweg 1) te Utrecht, vanuit het zuiden. Op de voorgrond de Waterlinieweg, links bebouwing in de Bokkenbuurt en de wijk Tolsteeg; op de achtergrond de spoorlijnen Utrecht-Arnhem en Utrecht-'s-Hertogenbosch, met de afsplitsing van de Oosterspoorbaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "841EB9B45F017F38E0534701000A29DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840415"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van 3e Algemene Begraafplaats Tolsteeg (Maansteenweg 1) te Utrecht, vanuit het zuidoosten. Op de voorgrond de Waterlinieweg, links bebouwing in de Bokkenbuurt en de wijk Tolsteeg; op de achtergrond rechts de spoorlijnen Utrecht-Arnhem en Utrecht-'s-Hertogenbosch, met de afsplitsing van de Oosterspoorbaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "882AED51021555E385B1277CE6438F64"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex op de hoek van de Gazellestraat (links) en Maansteenweg (rechts) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

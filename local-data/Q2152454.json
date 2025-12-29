@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E68C2EBA5175CCD8C95D1AD28F5B84F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161904"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Nijverdal te Nijverdal. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE962C9FEB1355039AF5ABBB07A0D05C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812114"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.H.-station Nijverdal te Nijverdal (spoorlijn Neede-Hellendoorn).<ZR><ZR>N.B. De naam van het station is later gewijzigd in Nijverdal Zuid. Opmerking: De afbeelding is afkomstig uit \"Voor Allen der H.IJ.S.M\", 1910, blz. 58.<ZR>Collectie De Pater, bibl. HUA De Pater DK52."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

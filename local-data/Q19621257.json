@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "076241282752575298303DB91E13822D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123589"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de ijzerwarenwinkel Koolschijn (Van Humboldtstraat 34) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0EC0DB247FF25BD999D4747A5BC834F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828708"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de garagebox behorend bij het pand Van Humboldtstraat 47 te Utrecht, met graffiti op de garagedeur."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1961BA69B0915524A4508E58C71A67C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73204"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de J. D. van der Waalsstraat te Utrecht met de huizen nrs. 7 (midden) -lager. Links het hoekhuis Van Humboldtstraat 81. Opmerking: Uit: Architectura, Bouwkundig Weekblad, 1933, nr. 43."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CE67855CEF6507D817DD5384DA97D5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123586"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de ijzerwarenwinkel Koolschijn (Van Humboldtstraat 34) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "20FA05C1D8DD5285890A404EF26A35A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58761"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de flatgebouwen met de woningen Van Humboldtstraat 108 - 114 (links) en 116 - 118 (rechts, Radiowinkel A.J. van Schaik) te Utrecht vanaf het Willem van Noortplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3927B55DD8A85325B71BE410511D3EBF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73205"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de J. D. van der Waalsstraat te Utrecht. Rechts de huizen Van Humboldtstraat 79-lager. Opmerking: Uit: Architectura, Bouwkundig Weekblad, 1933, nr. 43."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3FE7666D4DAF5B92929CC44C81276C41"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58764"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Humboldtstraat te Utrecht met de voorgevels van de huizen nrs. 66-hoger; links het huis  J.D. van der Waalsstraat 9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50A0A1289FB1581CBC107F489E21A7E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811492"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de leden van het comit\u00e9 ter voorbereiding van de bevrijdingsfeesten in de omgeving van de Van Humboldtstraat te Utrecht met o.a. de heren C.W. Slot (eigenaar Kantoorboekhandel en Leesbibliotheek Willem van Noortstraat 86) en De Vries (bedrijfsleider Heuzen's Lingerie Huis). Opmerking: Digitale scan van een in 1945 gemaakte foto. De originele foto is in particulier bezit.<ZR>Het bevrijdingsfeest werd georganiseerd door een Comit\u00e9, onder voorzitterschap van C.W. Slot, voor de straten Van Humboldtstraat, Floris Heermalestraat, Van 't Hofstraat, Van Musschenbroekstraat, Willem van Noortstraat, Willem van Noortplein, J.D. van der Waalstraat, Zaagmolenkade, 's Gravesandestraat en een gedeelte van de Van Swindenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "558F7D9898175CB2B4C776E2C354DA52"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123587"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de ijzerwarenwinkel Koolschijn (Van Humboldtstraat 34) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5AD689FC8EC25D50B2D14F18AF36FDBC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73207"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de J. D. van der Waalsstraat te Utrecht met de huizen nrs. 7 (midden) -lager. Links het hoekhuis Van Humboldtstraat 81."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "688AD3F8834C5C67ACCDBB61A0BA621A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802111"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de Sinterklaas optocht in de Van Humboldtstraat te Utrecht vooropgegaan door het straatorkest De Veermannen; geheel rechts, Geni Slot die het spandoek van de Ontspanningsvereniging Willem van Noort vasthoudt. Opmerking: Digitale scan van een omstreeks 1948 gemaakte foto. De originele foto is in particulier bezit.<ZR>Litt. Utrechts Nieuwsblad, 2 december 1946."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-11-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F62AB18E90357598131E0971619B5EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802118"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Willem van Noortstraat 55 (links)- hoger te Utrecht vanaf het nog braakliggende terrein aan de Van Humboldtstraat; rechts de zijgevel van de Sigarenfabriek Cuba (Willem van Noortstraat 73).<ZR><ZR>N.B. De adressen Willem van Noortstraat 55- hoger zijn later gewijzigd in Willem van Noortstraat 113- hoger. Het adres Willem van Noortstraat 73 is in 1923 gewijzigd in Van Humboldtstraat 68. Dit gebouw is in 1939 verbouwd tot winkels en woningen waarbij de huisnummering is gewijzigd in Van Humboldtstraat 68-70. Deze nummering is later weer gewijzigd in 108-114. Opmerking: Reproductie. De originele foto is in particulier bezit.<ZR>Zie ook cat. nr. 109255."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1911-09-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1911-09-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "784F2E4BAAE757B0A13A89BB18BB1F3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35394"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Van Humboldtstraat 22 te Utrecht. Opmerking: Gedrukte fotoreproductie van een pentekening, gesigneerd G.F. W., uit ca. 1950."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F8AEE2D8E145D70B25F21D971523F0D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73213"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de J. D. van der Waalsstraat te Utrecht met de huizen nrs. 6-lager. Rechts de huizen Van Humboldtstraat 79-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "818BC8DA903E59D38D1CA93A969D0E9E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Humboldtstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "84D7656FE9F453B8BA370B9582D85120"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "300340"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoet schoolkinderen in de Van Humboldtstraat te Utrecht, die achter een versierde kar op weg zijn naar de Willem Arnstzkade waar in het kader van de Boomplantdag bomen zullen worden geplant.<ZR><ZR>N.B. Het is het eerste jaar dat de boomplantdag in Utrecht wordt gehouden. Opmerking: De afbeelding is gepubliceerd in Bibl. HUA LXXXVI D 55-71 (NIET RAADPLEEGBAAR!), Utrecht in Woord en Beeld, een ge\u00efllustreerd familieweekblad voor stad en provincie, jrg. 1929, nr. 38."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-12-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-12-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92C23148A31F586C9675169C75B2AA07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Leeuwenhoeckstraat met de voorgevels van de huizen 9 (midden)-lager te Utrecht; links het hoekhuis Nieuwe Koekoekstraat 115; geheel rechts op de achtergrond enkele huizen aan de Van Humboldtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9583A4443F405D9898F78EFE135E0913"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811491"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de leden van het comit\u00e9 ter voorbereiding van de bevrijdingsfeesten in de omgeving van de Van Humboldtstraat te Utrecht met voorop in de optocht in de Menno van Coehoornstraat te Utrecht met v.l.n.r. de heren Van Dam (van de Brandstoffenhandel in de Van Humboldtstraat), Ockeloen (uit de J.D. van der Waalsstraat), onbekend, C.W. Slot (eigenaar Kantoorboekhandel en leesbibliotheek Willem van Noortstraat 86) en Van Dam (van de Drukkerij aan de Zaagmolenkade). Opmerking: Digitale scan van een in 1945 gemaakte foto. De originele foto is in particulier bezit.<ZR>Het bevrijdingsfeest werd georganiseerd door een Comit\u00e9, onder voorzitterschap van C.W. Slot, voor de straten Van Humboldtstraat, Floris Heermalestraat, Van 't Hofstraat, Van Musschenbroekstraat, Willem van Noortstraat, Willem van Noortplein, J.D. van der Waalstraat, Zaagmolenkade, 's Gravesandestraat en een gedeelte van de Van Swindenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "95A7C9968B6359CEB433E13554C8ECB9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602881"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de huldiging van J.C. Peeterse (Van Humboldtstraat 40) te Utrecht met een serenade en de aanbieding van een bedrag onder couvert en een doos sigaren vanwege zijn 50-jarig lidmaatschap van de P.T.T.-fanfare Onder Ons door voorzitter H.J. Stoopendaal. Geheel rechts staat A. Dieperink, directeur van het Hoofdpostkantoor te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, maandag 19 november 1956, blz. 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "97B2715F50E35006A721AC0973986242"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819645"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Van Leeuwenhoeckstraat 2  te Utrecht; op de voorgrond de Van Humboldtstraat.<ZR><ZR>N.B. Tot 1938 was in dit pand winkel no. 8 van Broodfabriek De Korenschoof gevestigd (vergelijk: catalogusnr. 121185). Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "985DC7B8DD195F52AFCACD05D7814212"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57451"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van 's Gravesandestraat te Utrecht met de voorgevels van de huizen nrs. 27 (midden)-lager; links op de voorgrond de ingang van de Floris Heermalestraat en geheel rechts op de achtergrond een gedeelte van enkele huizen aan de Van Humboldtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A0FD6921561855F09F3AB6D54C067E06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811500"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een tegeltbleau dat door de bewoners van de Van Humboldtstraat en omgeving op 30 april 1946 werd aangeboden aan voorzitter C.W. Slot van de Commissie die van 16-18 augustus 1945 in de Van Humboldtstraat en omgeving de bevrijdingsfeesten organiseerde.<ZR><ZR>N.B. De tekst is als volgt: Bevrijdingsfeesten 16-18 aug. '45/ dank van de bewoners van de v. Humboldtstraat en omgeving Utrecht/ C.W. Slot. De oorlog voorbij Nederland vrij, 10 mei 1940 - 5 mei 1945. Opmerking: Digitale scan van een in 1946 vervaardigd tegeltableau. Het tegeltableau is in particulier bezit.<ZR>Litt. Utrechts Nieuwsblad, 20 april 1946.<ZR>Het bevrijdingsfeest werd georganiseerd door een Comit\u00e9, onder voorzitterschap van C.W. Slot, voor de straten Van Humboldtstraat, Floris Heermalestraat, Van 't Hofstraat, Van Musschenbroekstraat, Willem van Noortstraat, Willem van Noortplein, J.D. van der Waalstraat, Zaagmolenkade, 's Gravesandestraat en een gedeelte van de Van Swindenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A75C32BC014C5115BF64D1DC22DF1586"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214171"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van het terrein tussen de Blauwkapelseweg / Kleine Singel / Weerdsingel O.Z. / Van Humboldtstraat / Zwarte Water / Ezelsdijk te Utrecht;  met weergave van wegen en watergangen, bebouwing (ged.), waaronder de gemeentelijke Gasfabriek, het Vaaltterrein en van het ontworpen stratenplan met bebouwing tussen de Gasfabriek/ Van Humboldtstraat / Zwarte Water / Ezelsdijk in de wijk Tuinwijk. <ZR>Met aanduiding van enkele ontworpen wegen door het Vaaltterrein en het terrein van de Gasfabriek en de ontworpen verbreding van de Blauwkapelseweg-Kleine Singel. Opmerking: De plattegrond is afkomstig uit: Gedrukte Verzameling, 1926, nr. 12.<ZR>Zie ook nr. 214170."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1926-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BA0477566CF15E2D976E5B3F70A56AAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de binnenplaats achter het huis van de Familie Hofman (Van Humboldtstraat 5) te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Binnenterreinen\" van fotograaf Jacquie Wessels en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C996CD19F2695A22B271D884A04512DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214170"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van het terrein tussen de Blauwkapelseweg / Kleine Singel / Weerdsingel O.Z. / Van Humboldtstraat / Zwarte Water / Ezelsdijk te Utrecht; met weergave van wegen en watergangen, bebouwing (ged.), waaronder de Gemeentelijke Gasfabriek, het Vaaltterrein en van het ontworpen stratenplan met bebouwing tussen de Gasfabriek / Van Humboldtstraat / Zwarte Water / Ezelsdijk in de wijk Tuinwijk. <ZR>Met aanduiding van de ontworpen verbreding van de Blauwkapelseweg-Kleine Singel. Opmerking: De plattegrond is afkomstig uit: Gedrukte Verzameling, 1926, nr. 12.<ZR>Zie ook nr. 214171."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1926-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9AC7C4992C15746885AE7CC5F54D358"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55330"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekpand Menno van Coehoornstraat nr. 2 te Utrecht met geheel links de Van Humboldtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC9A99EE36EE5D418D1C23112404DB4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108304"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de ijzerwarenwinkel Koolschijn (Van Humboldtstraat 34) te Utrecht, met de eigenaren de heer en mevrouw Koolschijn. Opmerking: De foto maakt deel uit van de serie \"Kleine middenstand in Utrecht\" van fotograaf Anita Pantus (1960) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D36FF45DAA6955EDA0C16DCC70B021B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58460"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van 't Hoffstraat te Utrecht, vanuit het zuidwesten met rechts de gevel van nr. 1 en geheel rechts op de achtergrond de Van Humboldtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4B3760FED325D69AA6FB79E90C9438A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58765"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Humboldtstraat te Utrecht met de huizen nrs. 64 (rechts)-lager, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2815FBB41C6579796EBAE55B89308E3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58762"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Humboldtstraat te Utrecht met de voorgevels van de huizen nrs. 79-lager en een gedeelte van de linker zijgevel van het hoekhuis nr. 79; op de voorgrond de J.D. van der Waalsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5EC69B61BC8531A9467BBD2686B0A28"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58760"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Humboldtstraat te Utrecht, uit het noorden. Opmerking: Uit: Utrecht in woord en beeld, 1927, nr. 13."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA78436E4703542E8CB419992E4990D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58763"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Humboldtstraat te Utrecht met de voorgevels van de huizen nrs. 81-hoger en een gedeelte van de rechter zijgevel van het huis nr. 81; op de voorgrond de J.D. van der Waalsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FDD9918B7D6A56F4BC40C9EB81CD762F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de ijzerwarenwinkel Koolschijn (Van Humboldtstraat 34) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FEEEB59148AA50A4960D30230629A181"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73208"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de J. D. van der Waalsstraat te Utrecht met de huizen nrs. 9 (rechts van het midden) -hoger. Rechts het huis Van Humboldtstraat 66 en links op de achtergrond enkele huizen aan de Floris Heermalestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

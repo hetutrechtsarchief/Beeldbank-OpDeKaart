@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA393209A9FE5E1F81D4FBD89D84ACF0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94449"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising Zwier Regelinkstraat / Goudse Straatweg te Oudewater, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

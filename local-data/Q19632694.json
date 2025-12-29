@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "602E735CD4C65B4FAF8C6335C9913DA1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170799"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het spoorviaduct over de Venneperweg te Nieuw Vennep, met rechts de opgang naar het 2e perron van het N.S.-station Nieuw Vennep. Opmerking: NS fotonummer 29226"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA85213244F65DF2A55931A0C9308B25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169134"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het spoorviaduct over de Venneperweg te Nieuw Vennep, met links de opgang naar \u00e9\u00e9n van de perrons van het N.S.-station Nieuw Vennep. Opmerking: N.S. fotonummer 29177."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

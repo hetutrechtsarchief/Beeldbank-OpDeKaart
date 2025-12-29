@@ -1,0 +1,520 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0101F9C439905EBE91CE792730050132"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "801410"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de silo van De Heus Voeders B.V. (Uraniumweg 63) te Utrecht; op de voorgrond het Uraniumkanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22EAC3477DF05BFAA25F9A9F19815396"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44471"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bocht in de parallelweg (Uraniumweg) langs de spooraansluiting naar het industrieterrein Lage Weide te Utrecht, uit het zuiden. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D8B2C84269152D795AC43B07A044669"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "801414"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de silo van De Heus Voeders B.V. (Uraniumweg 63) te Utrecht; met links de Plutoniumweg en in het midden het Uraniumkanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D5C88B8040C53568A8A4C1510F63CD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829248"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een treinwagon met graffiti, op het bedrijfsspoor tussen de Atoomweg en de Uraniumweg op het industrieterrein Lageweide te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "548CCEEAE231580FAF775223F0532B5A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44470"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spooraansluiting naar het industrieterrein Lage Weide te Utrecht, langs de juist aangelegde Uraniumweg, uit het noordwesten. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A281CD06D2E5A3BA98C65A852F8DAAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121255"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de nieuwe silo van de meelfabriek De Korenschoof aan het Uraniumkanaal te Utrecht. Op de achtergrond de Uraniumweg. Opmerking: Foto afkomstig uit archief van \"De Korenschoof\"<ZR>KLM-Fotonummer 72835"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69BA378824215FD998D30620498D46C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69209"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Protonhaven bij het industrieterrein Lage Weide te Utrecht, met op de voorgrond het motorschip \"Raffenberg\" uit Finland, met een lading voor de houtzagerij Jongeneel (Uraniumweg 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EA3ECE4D7C85030991D5675E461BCBF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71827"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Houthandel Jongeneel (midden, Uraniumweg 1) te Utrecht met v.l.n.r. de schaverij/ zagerij, de houtopslagplaats en de kraanloods; op de voorgrond de Atoomweg en rechts de Protonhaven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71C293D1E72A5F0F9517D5AA43F6A4DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44474"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de in aanleg zijnde uitbreiding van het industrieterrein Lage Weide te Utrecht, vanaf de gashouder van het G.E.V.U aan de Atoomweg, uit het zuiden. In het midden de juist aangelegde Uraniumweg en op de achtergrond de graafwerkzaamheden voor de aanelg van het stamkanaal (Uraniumkanaal). Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "751E908C7AF3503E919352175733764B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115507"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van Peugeot Talbot Nederland N.V. (Uraniumweg 25) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8378B7C218C2510E81569EE6886C3AC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800732"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de silo van Brokking's Veevoederfabrieken BV (Uraniumweg 61) te Utrecht; op de voorgrond het Uraniumkanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85937F1F04EF5FDCBBB55AF1D4F12FD4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61406"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Lageweide te Utrecht, uit het noordwesten, vanaf de kruising met de Uraniumweg (rechts) en Isotopenweg (links); links, tussen de bomen, de boerderij Lageweide 39."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "88DDA383C9ED5793B217FFD8EAFC06C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108103"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een braakliggend terrein op het industrieterrein Lage Weide te Utrecht, bij nacht, met op de achtergrond de silo van Brokking's Veevoederfabrieken BV (Uraniumweg 61). Opmerking: De foto maakt deel uit van de serie \"Stedelijke landschappen\" van fotograaf Luuk Kramer (1958) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FDCBEBC9E0658ECB77F4DACFECAAA98"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85608"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van het industrieterrein Lage Weide te Utrecht, uit het noordoosten, met in het midden het terrein van SITA EcoService (Sophialaan 15) en rechts daarvan de autosloperijen aan de Leptonenweg. Daarachter, aan het Uraniumkanaal gelegen, de Afvalverwerking Rijnmond (AVR, Isotopenweg 3) en (aan de overzijde) de silo van Brokking's Veevoederbedrijf NV (Uraniumweg 61). Rechts de Plutoniumweg en geheel op de achtergrond de Uraniumweg (midden) en de Otto Hahnweg (rechts). Op de voorgrond de spoorlijn naar Amsterdam en rechtsonder het hoofdkantoor van Van Bentum Recycling Centrale (benedenverdieping van het donkere gebouw met sheddak, Sophialaan 21) en daarachter de werkplaats. De bovenverdieping en de ernaast gelegen gebouwen zijn in gebruik bij Allied Varekamp BV (Sophialaan 21)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "94C20F5F545E5811B83AD92A493BAA69"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108522"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de goederensporen tussen de Uraniumweg en de Atoomweg te Utrecht, op het industrieterrein Lage Weide. Opmerking: De foto maakt deel uit van de serie \"De IJzeren Weg\" van fotograaf Jaap Bijsterbosch en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-11-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-11-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD7946D4363E542BA3BBA52BEC899818"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van Peugeot Talbot Nederland N.V. (Uraniumweg 25) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3BEF1BBB87F591EAAE7B7008C48E245"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71826"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Houthandel Jongeneel (midden, Uraniumweg 1) te Utrecht met v.l.n.r. de schaverij/ zagerij, de houtopslagplaats en de kraanloods; op de voorgrond het Centrale Op- en Overslagbedrijf Utrecht (Atoomweg 51) en de Protonhaven. Opmerking: Fotonummer 20267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD8A27774A4058FB9A952F6CAC5F9DBD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825676"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Uraniumkanaal te Utrecht, vanaf de Plutoniumweg, met rechts de silo van De Heus Voeders B.V. (Uraniumweg 63)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-12-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-12-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

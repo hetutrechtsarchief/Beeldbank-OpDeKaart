@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE47A501D9CC572A8FD766FE9FBBBC5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50535"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Overhees te Soest, uit het zuidoosten, met links de Di Lassostraat en rechts de Koningsweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFA448E427705E91AA54E4377E3E3E7E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Overhees te Soest, uit het zuidoosten, met links de Di Lassostraat en rechts de Koningsweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

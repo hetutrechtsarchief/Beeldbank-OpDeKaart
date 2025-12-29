@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "47B01340D2A6507CB6C06C1ABD53B8FB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809623"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Asserlaan te Utrecht, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

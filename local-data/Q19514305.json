@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC6096B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "43663"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen aan de Seringstraat te Amersfoort. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC60A6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "43664"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de achtertuinen van enkele woningen aan de Seringstraat te Amersfoort. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

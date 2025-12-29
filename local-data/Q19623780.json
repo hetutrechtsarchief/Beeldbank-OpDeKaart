@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F012C08AB88587EA5FD8315C0D0369E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Van Ostadeplein te Bilthoven uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D7B1EC181A35DCFADF5EB45534995E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827331"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Pension Boschwijck van J.W.A. Mulder (Van Ostadeplein 1) te Bilthoven. Opmerking: De originele prentbriefkaart is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

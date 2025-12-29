@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A63659EF83751B7866BCDBCF1185FE8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602907"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Haarweg te Maarsbergen (gemeente Maarn)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B26758E8D49158E0534701000AAA3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839607"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kruispunt Haarweg (voorgrond) / Woudenbergseweg (naar links en naar rechts) / Tuindorpweg (achtergrond) te Maarsbergen. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

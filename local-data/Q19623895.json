@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "21FEE19B4B1B5F1DB4ECE37C8A7B698A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de koninklijke koets met Koningin Wilhelmina en Prins Hendrik op weg van Paleis Soestdijk naar Paleis Het Loo, in de Van Persijnstraat te Amersfoort; met de voorgevel van de villa Casa Cara (Weijersstraat 5) en veel publiek.<ZR><ZR>N.B. De straatnaam Weijersstraat is later gewijzigd in Stadsring."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1902-08-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-08-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76D5E0357B3D7D37E0534701000A8EAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835088"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen De Munnikplein 11 (links)- lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-09-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-09-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB1996E9FF125AFF90CD5D50E8E97EAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64408"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de overblijvers tijdens het nuttigen van hun lunch in de aula van het Atheneum F. de Munnik (De Munnikplein 3) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

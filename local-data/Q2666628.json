@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D430B9051A5A5B998609E06317FEB733"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161326"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 5809 (serie 5800, nrs. 5806-5812) van de N.S. met trein 3666 bij de halte Herfte-Veldhoek te Herfte. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

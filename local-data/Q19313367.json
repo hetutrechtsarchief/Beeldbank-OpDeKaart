@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82C8E5A2571E5EDC8347E4E058A610BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "29349"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de boerderij Kouwenhoven aan de Kouwenhovenselaan te Zeist, ten oosten van het landgoed De Ni\u00ebnhof te Bunnik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-08-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-08-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "868DCB0F64251F4FE0534701000A5E38"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835562"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de boerderij Kouwenhoven (Kouwenhovenselaan 1) te Zeist. Opmerking: In 2019 gemaakte scan van een ca. 2000 vervaardigde reproductiefoto van een ca. 1940 gemaakte foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "97B406BF86BA553FA3DA75F17DFFA75C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404329"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de drie hooibergen van de boerderij Kouwenhoven aan de Kouwenhovenselaan te Zeist. Opmerking: Fotoreproductie van een ontwerp voor een kalenderblad voor de maand maart door Johan de Kruijf. Deze kalender zou bestaan uit 24 bladen, twee per maand, ge\u00eflustreerd met een topografische afbeelding in prent, omgeven door een voor het onderwerp toepasselijke randversiering. Echter niet alle bladen zijn gereed gekomen; de kalender is nooit gedrukt. De verblijfplaats van de prenten is niet bekend. <ZR>Vergelijk de tekening van deze boerderij met bouwkundige details en een situatieschets waarop deze drie hooibergen zijn aangegeven: nr. 206679."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

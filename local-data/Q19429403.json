@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C7246A9FBA95C20A664DAE4A80E0170"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14244"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Collage van gezichten te Baarn: <ZR>- Gedenknaald.<ZR>- Sluis in de Praamgracht.<ZR>- Paleis Soestdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

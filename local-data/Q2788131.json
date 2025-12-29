@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C61ED54B03C57FE8159BDE59EEB2C9E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164365"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de aanbieding van een tegeltableau ter gelegenheid van de opening van de D.E.-dienst Vlissingen-Nijmegen op het perron van het N.S.-station Ravenstein te Ravenstein. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Literatuur: <ZR>-\"Per feesttrein door juichend Brabant\", in: Nieuw Spoor, juni 1950, blz. 182-183 (bibl. HUA NST 9, jrg. 1950).<ZR>-\"De feestelijke ingebruikneming van de geelectrificeerde lijnen in Noord-Brabant en de Diesel-electrische verbinding Nijmegen-Vlissingen\", in: Op de Rails, 1950, blz. 62-64."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3378F9088AB15357918A0D6331214A09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160142"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het inrijsein (bordessein met vertakkingsseinen en voorsein) van het N.S.-station Ravenstein te Ravenstein (zijde Wijchen). Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4DE8B501D73D53938165F5578F16D35C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150894"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Eijgelshoven te Kerkrade. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82BA4574766D5FACB5F04FA00BFA755E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150895"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Eijgelshoven te Kerkrade met een diesel-electrisch motorrijtuig DE 1 (\"Blauwe Engel\") van de N.S. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

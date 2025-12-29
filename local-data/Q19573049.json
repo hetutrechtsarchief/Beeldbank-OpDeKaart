@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98DD3C28C21252E192A72D0163250432"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832765"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de schoorsteen van de bandenfabriek U.B.O. (Kanaalweg 69) te Utrecht, vanaf de Truus van Lierlaan. Opmerking: De originele foto is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE457242061257C7AA5D39DB3291E568"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het parkeerterrein van de Jaarbeurs aan de Truus van Lierlaan te Utrecht. Opmerking: De foto is gemaakt voor de website www.bouwpututrecht.nl"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-10-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-10-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6E64176A59156B599EFDC59B78BFD65"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "301165"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bezoek van een Tourdelegatie aan het parcours van de openingstijdrit van de Tour de France, op de Truus van Lierlaan te Utrecht; links Tourdirecteur Christian Prudhomme met rechts naast hem perschef Cyrille Tricart; rechts geeft Commissaire G\u00e9n\u00e9ral Yannick Goasduff uitleg. Opmerking: De foto maakte deel uit van de, door Jeroen Wielaert samengestelde, tentoonstelling Tour sous le Dom - een lobby in foto's die van 4 maart t/m 3 juli 2015 werd gehouden in het Stadskantoor. De tentoonstelling was een van de vele activiteiten die werden georganiseerd ter gelegenheid van Le Grand D\u00e9part, de start van de Tour de France in Utrecht.<ZR>Litt.: Bibl.HUA K 2015 58, J. Wielaert - De Tour van Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "20502F685EBF50FA8A88B987747F509A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15578"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Kersbergenplein met plantsoen met vijver en bebouwing te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B405B20FA0352DFBBE646AB522D19D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver aan het Kersbergenplein te Zeist. Opmerking: Fotonummer V.H. 3482<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A10B8FA5CB5F53AEBC37B4C0FD99567E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15579"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Kersbergenplein te Zeist met plantsoen met vijver en op de achtergrond enkele huizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

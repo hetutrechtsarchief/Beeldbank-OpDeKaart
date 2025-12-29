@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "804C708878E15D7CAF4097D58E42E4DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Mesdagplein te Baarn uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

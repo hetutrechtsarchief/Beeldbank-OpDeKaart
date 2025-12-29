@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34EBBAF17BB054B589734A40631C803A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163009"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een trein naar Dokkum, getrokken door een stoomlocomotief uit de serie 7100 van de N.S., op het N.F.L.S.-station Metslawier te Metslawier. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68526CEF4C0953629D15C4E49FA66F2F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161782"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het voormalige station Metslawier te Metslawier. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-09-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-09-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B043B270D7C25C60A456DC4B54F8E969"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Metslawier te Metslawier. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

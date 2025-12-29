@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "572474C8E0105D02AE66F69883742CE2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822908"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Mr. J.M.M. Hamersplantsoen 2 - 2A te Utrecht, met de onlangs gerestaureerde muurreclame van de \"Eerste Nederlandsche Fabriek van Gereedschappen\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7ACF90844D455F24B0B8A859215CBBA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822909"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het onlangs gerestaureerde logo van de \"Eerste Nederlandsche Fabriek van Gereedschappen (ENGF)\" op de gevel van het pand Mr. J.M.M. Hamersplantsoen 2 - 2A te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

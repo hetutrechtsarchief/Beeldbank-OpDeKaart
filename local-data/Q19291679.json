@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "218DAB849D955DB48E7B8948EBBAF7D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120166"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een bovenleidingsportaal in de spoorlijn Utrecht - 's-Hertogenbosch ter hoogte van het Oude Houtensepad te Utrecht, uit het noordoosten; op de achtergrond enkele huizen aan de Kariboestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2003-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2003-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F8BDEF311995111BB4CCF17056F5189"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829451"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pas geschilderde elektriciteitshuisje met graffiti, bij het fietspad tussen de Briljantlaan en de Kariboestraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC6ECDC874E8534BA0EEF09AA14F8188"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402638"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Bokkenbuurt te Utrecht, uit het noordwesten, met op de voorgrond de Gazellestraat, links de Kariboestraat en in het midden de ingang van de Lamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

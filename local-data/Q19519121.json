@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A4C6DF734E05B6EAAD998EB573E6791"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400217"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Het Rond te Zeist, met links het raadhuis en op de achtergrond de Slotlaan (Donkere Laan). Opmerking: Fotonummer 53561<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-06-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-06-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F24EA7BFC405E6BAD0BB6C3D7DC98E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15487"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Collage van gezichten te Zeist:<ZR>- 't Slot.<ZR>- Ma Retraite.<ZR>- Walkartpark.<ZR>- Rooms-katholieke kerk.<ZR>- Raadhuis.<ZR>- Slotlaan,<ZR>- Molen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1EA6B390BFD953FB82C8F84AE3FFFC79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15773"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de Gereformeerde kerk (Slotlaan) te Zeist uit het noordoosten. <ZR><ZR>N.B. De kerk is in ca 1934 afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "200F39A239EB5193AF48486F8042A0EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Slotlaan te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A09675E010D54D19F113776B8DA6C0B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15812"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter loofbomen schuilgaande voorgevel van het Protestants Weeshuis (Weeshuislaan/Slotlaan) te Zeist.<ZR><ZR>N.B. Het weeshuis is in 1958 afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38D87608EB805A32BBCBE8D6BAA02E4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94780"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Slotlaan met bebouwing en verkeer te Zeist uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4ACC9C81A62355CFAB2F5C6A7746F6AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405239"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het autobusstation van de N.B.M. aan de Slotlaan te Zeist, met enkele autobussen en op de achtergrond de busremise (vroegere tramremise). Opmerking: De foto maakt onderdeel uit van een serie foto's met betrekking tot het 75-jarig jubileum van de N.B.M. in 1954.<ZR>Zie ook \"Vijf en Zeventig Jaar N.B.M.\", door P. van Campen (1954), blz. 35."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C09F49CAAA3561793CC26155E43F9B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405238"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van personeel van de N.B.M. tijdens onderhoudswerkzaamheden aan de motoren van autobussen in de (oude) busremise aan de Slotlaan te Zeist. Opmerking: De foto maakt onderdeel uit van een serie foto's met betrekking tot het 75-jarig jubileum van de N.B.M. in 1954."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "806DE90DF4275D48AA4B1763DFADDE7D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126166"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoor van de Nutsspaarbank (Slotlaan 86 - 90) te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81EEB383C03956E7A37EC01261D13EFD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de busremise van de N.B.M. aan de Slotlaan te Zeist, met enkele autobussen. Opmerking: De foto maakt onderdeel uit van een serie foto's met betrekking tot het 75-jarig jubileum van de N.B.M. in 1954."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "84B4883726DD4130E0534701000A1F49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840506"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele nieuwe gebouwen op het terrein van het Medisch Kindertehuis Kinabu (Verlengde Slotlaan 109) te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87C3B7E3328C7DF3E0534701000AD7A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "842184"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het raadhuis (Het Rond 1) te Zeist, met rechts de Slotlaan. Opmerking: De kleinbeelddia bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 1358."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9864C78ECAFF5A20AFCF20CC1D59701D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94783"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Slotlaan met bebouwing en verkeer te Zeist uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A6ADE8BA849530BAA38C98C56CE5D87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94786"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kopgevel van het busstation (voorheen tramremise) aan de Slotlaan te Zeist uit het zuidwesten.; met links de voorgevel van het kantoor van de VVV.<ZR><ZR>N.B. Het busstation is later afgebroken. Opmerking: Lit. Zeist, Groei en Bouw, dl. Patijnpark, Dorpskern en Wilhelminapark, p,. 214-215."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A97F5D6BA4AA527F890AAFD9219703F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94782"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Slotlaan met bebouwing en verkeer te Zeist uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-09-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-09-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B2D2FFE2A3B4536192E813F96A8BC281"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16057"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het Hotel 't Wapen van Zeist (Slotlaan 303) te Zeist. Opmerking: Lit. Zeist, Groei en Bouw, deel Patijnpark, Dorpskern en Wilhelminapark, p. 210-211."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6369CFCDAB458A386CB36CEE04D74BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16056"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Hotel Parkoord met voorgelegen tuin (Slotlaan) te Zeist.<ZR><ZR>N.B. Het hotel is later afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B811ACEE228055E0A146D384F7DE02B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94781"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Slotlaan met bebouwing en verkeer te Zeist uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-09-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-09-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC25901B299457C891BDB6189C722D00"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15655"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Slotlaan met bebouwing, loofbomen en verkeer te Zeist uit het noordoosten; met rechts de voorgevels van de winkelwoonhuizen nrs. 175-183. Opmerking: Lit. Zeist, Groei en Bouw, deel Patijnpark, Dorpskern en Wilhelminapark, p. 207."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "784B31B7CA3C5E5BAE2BA69ABA634279"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803260"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het N.S.-station Zeist (alleen goederenverkeer) aan de Slotlaan (rechts op de voorgrond) te Zeist, met links de Steynlaan, op de achtergrond de gasfabriek en rechts de busremise van de N.B.M."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D0E77761E8C50939FAF0E82C4C5AC53"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803261"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het N.S.-station Zeist (alleen goederenverkeer) aan de Slotlaan (voorgrond) te Zeist, met links de Steynlaan, op de achtergrond de gasfabriek en rechts de busremise van de N.B.M."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC0B852EE4085863937F724E83993DAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het nieuwe kinderherstellingsoord Bethani\u00eb (Verlengde Slotlaan) te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D326FFCD9676598984AA0AB7792803F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94784"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Slotlaan met bebouwing en verkeer te Zeist uit het zuidwesten; met middenlinks de voorgevel van het warenhuis HEMA met bovengelegen Ireneflat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7AC5D814A7357D7A6752804746DDA00"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "826219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele jongens die buiten schoenen aan het poetsen zijn, aan de achterzijde van kinderherstellingsoord Bethani\u00eb (Verlengde Slotlaan) te Zeist. Opmerking: De foto bevindt zich in het album X van het archief Beeldmateriaal van het Diakonessenhuis, toegangsnummer 1812, inv.nr. 39."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8583617C34659CC8AAF4EC5F1A438D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15641"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Boulevard (links) en de Verlengde Slotlaan (rechts) met beplanting te Zeist uit het zuidwesten; met in het midden de toren van de Nederlands-Hervormde kerk (Boulevard 2A). Opmerking: Lit. Zeist, Groei en Bouw, deel Huis ter Heide, Lyceumkwartier en Austerlitz, p. 70-74."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB03EAE388815216A144558B47B45FB7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405235"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van personeel van de N.B.M. tijdens onderhoudswerkzaamheden aan autobussen in de busremise aan de Slotlaan te Zeist. Opmerking: De foto maakt onderdeel uit van een serie foto's met betrekking tot het 75-jarig jubileum van de N.B.M. in 1954.<ZR>Zie ook \"Vijf en Zeventig Jaar N.B.M.\", door P. van Campen (1954), blz. 59."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE290A1F15D95338910C7F339382153C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15656"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Slotlaan met winkels en verkeer te Zeist uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEEDEF655E6E5D5B95489F116F7CF25B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24784"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tramstation van de N.B.M. aan de Slotlaan te Zeist, tijdens de paasdrukte, uit het oosten. Op de voorgrond het Bethanieplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6626300C0AE506E87373BBEE2C76A4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwe busremise van de N.B.M. aan de Slotlaan te Zeist, met enkele autobussen. Opmerking: De foto maakt onderdeel uit van een serie foto's met betrekking tot het 75-jarig jubileum van de N.B.M. in 1954."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6A032075FE45889B80EE579574A785C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405237"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de (oude) busremise van de N.B.M. aan de Slotlaan te Zeist. Opmerking: De foto maakt onderdeel uit van een serie foto's met betrekking tot het 75-jarig jubileum van de N.B.M. in 1954.<ZR>Zie ook \"Vijf en Zeventig Jaar N.B.M.\", door P. van Campen (1954), blz. 36."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA778B66F14A524F9485C9789641D32B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602978"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Het Rond te Zeist met links het Raadhuis (Het Rond 1) en op de achtergrond de Slotlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF2A0CCDAB955F139349BC552366CC8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16055"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het Hotel Parkoord met voorgelegen tuin (Slotlaan) te Zeist.<ZR><ZR>N.B. Het hotel is later afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA950A174B665F1E9B190E0BE56630D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15799"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toren en voorgevel van de Nederlands-hervormde kerk (Boulevard 2A) met voorgelegen plantsoen te Zeist uit het zuidwesten; met rechts de Verlengde Slotlaan met rijen loofbomen. Opmerking: Lit. Zeist, Groei en Bouw, deel Huis ter Heide, Lyceumkwartier en Austerlitz, p. 70-74."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1926-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD20744C17BF5E54B1F8D701F70C6DAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "826218"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een groep meisjes met een verpleegster op de brandtrap van kinderherstellingsoord Bethani\u00eb (Verlengde Slotlaan) te Zeist. Opmerking: De foto bevindt zich in het album X van het archief Beeldmateriaal van het Diakonessenhuis, toegangsnummer 1812, inv.nr. 39."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

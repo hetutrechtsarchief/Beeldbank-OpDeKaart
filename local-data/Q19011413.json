@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8FD0DFFB5E35170BD50E427717A162B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832691"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vleuterweideweg te Vleuten (gemeente Utrecht), met links de Stroomrugbaan en de nieuwbouw aan De Vuursche."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

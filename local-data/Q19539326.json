@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DF2F94530265826B8BFA7DE177DC14C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14873"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van drie blokken woningen  aan de Spoorlaan te Vinkeveen. <ZR><ZR>N.B. De gemeente Vinkeveen is per 1 januari 1989 opgenomen in de nieuw gevormde gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

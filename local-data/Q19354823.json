@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1523856DB66C53E896E2BF750B26D76B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166848"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Karselaan te Amstelveen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "157A938E74055FC6BE9577600FD09AE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154632"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Karselaan te Amstelveen met de stoomtrein naar Amsterdam Haarlemmermeer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

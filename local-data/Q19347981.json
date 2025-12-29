@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3E58CFEEE01562F8F45C6F753B7C3AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84927"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de wijk Tuindorp-Oost te Utrecht, vanaf het dak van het Bejaardencentrum SABU-huis (Jan van Galenstraat 90), uit het zuidwesten; op de voorgrond de Kardinaal de Jongweg en het flatgebouw Molengraaffplantsoen 11-43; links de Van Everdingenlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3FFED1E936954C19DB40785FD108E3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84928"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de wijk Tuindorp-Oost te Utrecht, vanaf het dak van het Bejaardencentrum SABU-huis (Jan van Galenstraat 90), uit het zuidwesten; op de voorgrond de Kardinaal de Jongweg en de ingang van de Van Everdingenlaan met het flatgebouw Molengraaffplantsoen 11-43."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

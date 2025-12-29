@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1B69C22B5BE5C86B82FB15A6F0CB736"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee politieagenten op de spoorwegovergang in de Leyenseweg te Bilthoven (gemeente De Bilt), bezig met toezicht houden in verband met een storing van de AHOB."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

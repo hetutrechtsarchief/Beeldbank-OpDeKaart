@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1AF519BAD9E056AA96BB239AC770EB2F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402190"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het eetcaf\u00e9 In den Kooperen Ploert (Koestraat 8) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

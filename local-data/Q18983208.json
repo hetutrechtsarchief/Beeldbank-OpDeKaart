@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AF3BFDED0995F94BCDE391AB2099CAE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404415"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van mevr. M. van Buuren uit de Cor Ruyslaan te Utrecht die een bij haar bezorgd pamflet van de Centrum Partij laat zien."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

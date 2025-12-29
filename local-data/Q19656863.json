@@ -1,0 +1,828 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01905507F2B75432ABE308AF5127FEB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20785"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Willem de Zwijgerstraat 1-hoger te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04EA4EE7E7DB57E18A4CF0FE8B7AF2DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825289"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Koningslaan 62 (links) -65 te Utrecht, met links de ingang van de Willem de Zwijgerstraat en rechts op de achtergrond de Prins Hendriklaan. Opmerking: Foto Pers Bureau Utrecht fotonummer 31046."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05F49F8164495386A770E31EBA0D06BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73876"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Willem de Zwijgerstraat 31-lager te Utrecht, vanaf de Stadhouderslaan, vanuit het noorden. In het midden Tapperij de Zwijger (Willem de Zwijgerstraat 31). Links daarvan het pand Stadhouderslaan 101-107. Links daarvan het hoekhuis Rembrandtkade 20/Jan van Scorelstraat 1. Geheel links het St. Antoniusziekenhuis (Jan van Scorelstraat 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A175FB5E9EE5C42932032A78F08AAD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825201"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Willem de Zwijgerstraat 9 (rechts) -hoger te Utrecht. Opmerking: Scan uit 2014 van een fotokaart. De originele foto bevindt zich in particulier bezit. Van deze afbeelding kunnen geen reproducties geleverd worden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1912-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1916-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30D37809156C5F328CB0BB2A4B430177"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73892"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Willem de Zwijgerstraat 27-31 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30E51F31058E58F186B2717F3D369BC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600131"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willem de Zwijgerstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "349D56177B5C53AAAD47E22D14E77AEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126575"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willem de Zwijgerstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "362628DBA7175111B5B9066283B3941F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810990"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willem de Zwijgerstraat te Utrecht met op de voorgrond de kruising met de Stadhouderslaan; links de Drogisterij De Zwijger (Willem de Zwijgerstraat 31)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3799ED45F91E5D2DBC177A99567E7292"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73888"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het westelijke gedeelte van de Willem de Zwijgerstraat te Utrecht, tijdens de verbetering van het wegdek. Opmerking: Zie: Utrechtsch Nieuwsblad, 2 november 1962"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4CDC37727F5F52F783517941FC842184"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "2854"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willem de Zwijgerstraat te Utrecht, vanaf de Stadhouderslaan. Opmerking: Zie ook cat. nr. 824202."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1911-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "527C4A99760F550896BA6D879A774321"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810992"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het huis Prins Hendriklaan 10A te Utrecht; op de voorgrond de Prins Hendrikbrug en op de achtergrond de achtergevels van enkele huizen aan de Willem de Zwijgerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2B4BC36B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "2050"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stadhouderslaan te Utrecht met (links) de huizen nrs. 99-lager; (rechts) de huizen nrs. 112-lager; geheel links de voorgevel van het huis Willem de Zwijgerstraat 26."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2C3C3F6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "98813"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van de leden van de afdeling Utrecht van de Nederlandse Maatschappij tot bevordering der Geneeskunde tijdens een feestelijke bijeenkomst in Hotel Wageningse Berg te Wageningen ter gelegenheid van de viering het 75-jarig jubileum van de vereniging.<ZR><ZR>N.B. De volgende personen waren hierbij aanwezig:<ZR>(1) onbekend; (2) onbekend; (3) onbekend; (4) Weenink, arts te Noordeloos; (5) L. van der Perk, Catharijnesingel 31, arts; (6) J.B.A. Touw, Prins Hendriklaan 37, chirurg; (7) G.H. de Kleijn, Brigittenstraat 5, chirurg; (8) dr. E.H. Jannink, Plompetorengracht 5, arts; (9) dr. M. den Boer (?), Ramstraat 43, internist; (10) B.E.J.H. Becking, Van Hogendorpstraat 14, kinderarts; (11) prof. U.G. Bijlsma; (12) C.R.J. Versteegh sr., Wittevrouwensingel 27, oorarts; (13) Versteegh jr., oorarts; (14) A.A. Bouv\u00e9 (de), Weerdsingel OZ. 17, arts (15) Onbekend; (16) dr. J.P. Wefers Bettink, Wittevrouwensingel (?) Moreelsepark 9; (17) Onbekend; (18) v.d. Wal (?); Rijksinstituut v.d. Volksgezondheid (?); (19) C.J. Idenburg, Burg. Reigerstraat 82, arts; (20) Van Spanje, Zuilenstraat; (21) J. v.d. Berg; (22) dr. S.W. van Praag, Militair Hospitaal, Biltstraat 132, chirurg orthop.; (23) dr. M.J.E. Steyns, Lucasbolwerk 5, vrouwenarts; (24) Greidanus; (25) Welfers, arts te Achttienhoven; (26) J.H.A.M. Warndorf, F.C. Dondersstraat 9, arts; (27) dr. D.G. Cohen Tervaert, Frederik Hendrikstraat 42; (28) Westendorp, Vleuten; (29) dr. W.G. de Haan, Maliebaan 38, chirurg; (30) Brevee te Bunnik; (31) Van Lidth de Jeude; (32) Onbekend; (33) Mayer te De Bilt; (34) Stolte te Zeist; (35) Steyling te Maartensdijk; (36) dr. H. de Groot, Rijnkade 4, mondchirurg; (37) dr. A. van der Minne, Willem de Zwijgerstraat 12, arts Militair Hospitaal; (38) C.J. Idenburg, Burg. Reigerstraat 82, arts; (39) Vincent; (40) dr. F.J. te Cate, Stationstraat 10, arts; (41) C.A. Tjeenk Willink, Zeist; (42) dr. H.G. Hamaker, Mariahoek 4; (43) I. Alma, Van Limburg Stirumstraat 15; (44) dr. C.J.C. van Opmerking: Met tweede exemplaar waarop cijfers zijn aangebracht op de personen op de groepsfoto die verwijzen naar de opsomming in de beschrijving."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "65F9DBECC8615D9892864D3A93FE4A25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600725"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van drogisterij De Zwijger (Willem de Zwijgerstraat 31) te Utrecht. Opmerking: De drogisterij was tijdens de bezettingsjaren een contactadres waar boodschappen van en voor het verzet konden worden doorgegeven. In de drogisterij van eigenaar Wim Thies was tevens een illegaal wapendepot gevestigd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "677FD6D071E35247A18897DC0B715C52"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73878"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Willem de Zwijgerstraat 6-hoger te Utrecht. Links de ingang van de Mauritsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E818F9EB54BBECDE0534701000AA31D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "202806"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Huize de Poort (Willem de Zwijgerstraat 31) te Utrecht. Opmerking: \"HS\" (hors s\u00e9rie)"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "716C4E961404525F91667FBC24A2F40B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73890"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Willem de Zwijgerstraat 1-hoger te Utrecht, vanuit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E5C1BF47B3650928D30B58F4C0A3BAE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73891"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Willem de Zwijgerstraat 27-29 te Utrecht"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D8A9A65C3CA5CA096088478D8C28A1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70708"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Stadhouderslaan 101-107 te Utrecht; rechts de ingang van de Willem de Zwijgerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A264BB837E2251A48E20CFC4E21DB8E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "63991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Mauritsstraat 117-123 te Utrecht met links de Willem de Zwijgerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A26AAA42A62351A1992B0ECEF9A738DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810989"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele huizen aan de Willem de Zwijgerstraat te Utrecht; op de voorgrond de Minstroom."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AEA459AD635B5D14B199267C9C159E57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "2852"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willem de Zwijgerstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B640AC4B64AC576D873C32E0F315BDFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810874"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van het Wilhelminapark te Utrecht met op de achtergrond de huizen aan de Koningslaan tussen de Prins Hendriklaan (rechts) en Willem de Zwijgerstraat (links)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB7C8A3CA3ED511F9740336A7E3C7490"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126257"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willem de Zwijgerstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C259EC38F2DD533E8011693F2235CD5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73877"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Willem de Zwijgerstraat 16-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4E06D32093F550D81D8D0017DC0A701"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73889"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het westelijke gedeelte van de Willem de Zwijgerstraat te Utrecht, tijdens de verbetering van het wegdek. Opmerking: Zie: Utrechtsch Nieuwsblad, 2 november 1962"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DAE480F95D3D5A35933D6E90F377A6DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824202"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willem de Zwijgerstraat te Utrecht, vanaf de hoek met de Stadhouderslaan. Opmerking: Scan uit 2014 van een fotokaart. De originele foto bevindt zich in particulier bezit. Van deze afbeelding kunnen geen reproducties geleverd worden.<ZR>Zie ook cat. nr. 2854."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1911-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2C4E74D720F57578508D946342800F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73887"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willem de Zwijgerstraat op de hoek met de Stadhouderslaan te Utrecht, vanuit het zuidoosten. Opmerking: Gepubliceerd in: Fockema Andreae, De hedendaagsche stedenbouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1912-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1912-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA532BB83F8C51DDBAF1BE7FE6E9341B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56769"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Frederik Hendrikstraat 144-146 te Utrecht, vanaf de Stadhouderslaan (midden), uit het noordnoordwesten met op de achtergrond het St. Antoniusziekenhuis (Jan van Scorelstraat 2); rechts de huizen Stadhouderslaan 101-107 met de ingang van de Willem de Zwijgerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

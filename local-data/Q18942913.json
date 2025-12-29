@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7417A676C58C2E97E0534701000AB37A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837313"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij Aerderoort (Barneveldsestraat 37) te Renswoude."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7417A676C58E2E97E0534701000AB37A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837314"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Melm (Barneveldsestraat 34) te Renswoude."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7417A676C5922E97E0534701000AB37A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837315"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Kleine Melm (Barneveldsestraat 41) te Renswoude."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "754347E217D85D76BE5EBCC46F92F263"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50488"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de camping De Lucht aan de Barneveldsestraat (achtergrond) te Renswoude, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

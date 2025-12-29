@@ -1,0 +1,744 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "03AA042CBEA8539D8BF2F688FB565307"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18915"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 83-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D855ADF3CAB5D38A340CBF168D9C8A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18873"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hermannus Elconiusstraat 2- hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2479DCA8B2CE5F788B275FBDD93F74B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18914"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 80-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F4E2E29336550769D9CE6B03430D28E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18919"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 45-hoger; rechts het hoekhuis Hubert Duyfhuysstraat 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7025A84BC94952A083431F5C00D52DB9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18911"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 99-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "759B5C3BC1425B78A045021E55A69524"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18902"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 104-lager; rechts het hoekhuis Sweder van Zuylenweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CFAF214FDCE55A08D77A05C5A5A70DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18872"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met het flatgebouw met de woningen Taco Sybrantshof 5-15; op de achtergrond de voorgevel van enkele huizen aan de Cornelis Mertenssstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E15103CD5BF5A75AD15068B05ECFAB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18918"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 40-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EDDF2D6198E5C278676343289765A8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18871"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs.1-3 (rechts van het midden) met op de voorgrond het hoekhuis Herman Modedstraat; rechts op de achtergrond de voorgevels van enkele huizen aan de Cornelis Mertenssstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81C86D632E1C5D0CAB5F4CB75D7A1876"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18901"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nicolaas Sopingiusstraat te Utrecht met de huizen nrs.1 hoger; rechts op de voorgrond een gedeelte van de huizen Hermannus Elconiusstraat 95 (hoekhuis)- lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8296E08C018C5FA0ADD1BB56772E9C4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51889"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het pand Amsterdamsestraatweg 509 te Utrecht met in het midden de voorgevels van de panden Petrus Dathenusstraat nrs.1- 7; op de achtergrond (links) de voorgevel van het pand Hermannus Elconiusstraat 85."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8826A7D0AEA755DFBEB7CB16D561DFA8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18874"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 5- hoger; rechts op de voorgrond de ingang van de Herman Modedstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9302F2F7711D587C8A6AA051539E6075"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18744"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Petrus Dathenusstraat te Utrecht met de huizen nrs. 2-4 vanaf de Hermannus Elconiusstraat (voorgrond)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A3211C264765659B5D84B5E7CCD7080"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71178"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Taco Sijbrantshof 5-51 te Utrecht vanuit de Hermannus Elconiusstraat (rechts). Links de Cornelis Mertenssstraat met de zijgevel van de Oranjekerk (Amsterdamsestraatweg 441)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-10-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-10-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C9076A2C4415EC584DD2F8193DD2A0A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18912"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 97-99; links op de achtergrond de Sweder van Zuylenweg en rechts de Nicolaas Sopingiusstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A090C5787A5F51A4BED41AC6EE2FE1D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51734"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechter zij- en de achtergevel van de Oranjekerk (Amsterdamsestraatweg 441A) te Utrecht op de hoek van de Cornelis Mertenssstraat (links) en de Hermannus Elconiusstraat (rechts), uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A68B9481A8C756F6AC506B8A02AFC924"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18852"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sweder van Zuylenweg te Utrecht ter hoogte van de Hermannus Elconiusstraat (links) met de huizen nrs. 15 (links)- lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BBEED9DD650E527BB1EB8948D81880AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18913"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 87-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9B73988D35659D2ACCBB2B47BEF4F45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Zuilen.<ZR><ZR>N.B. Deze straat is per 1 januari 1954 bij de gemeente Utrecht gevoegd. Opmerking: Uit: Utrecht in woord en beeld, 1930, nr. 11."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CCDAE39FAA6256B29463EF0B6E4675D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18916"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 55-hoger met op de voorgrond de Jodocus van Lodensteinstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D031114E6F8554149BD67DFB392B7FB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18917"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 50-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D3211A7C42E4527F89D9A75F0A0FC235"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18869"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Herman Modedstraat te Utrecht met de huizen nrs. 2 (links,het hoekhuis)- hoger vanaf de kruising met de Hermannus Elconiusstraat (voorgrond)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E114CC999046533EA0167A1077A29B5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18920"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met de huizen nrs. 25-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC20403A30E05808A41D5BAF0F92A4A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18743"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Petrus Dathenusstraat te Utrecht met de huizen nrs. 7 (links)-lager vanaf de Hermannus Elconiusstraat (voorgrond)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF2C4267343A5F5784EABA299AF5EE70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18900"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nicolaas Sopingiusstraat te Utrecht met de huizen nrs. 2 hoger; links op de voorgrond het hoekhuis Hermannus Elconiusstraat 97."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F704C13A3D3753C2A783C985DAEDBDBE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51735"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechter zij- en de achtergevel van de Oranjekerk (Amsterdamsestraatweg 441A) te Utrecht op de hoek van de Cornelis Mertenssstraat (links) en de Hermannus Elconiusstraat (rechts), uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

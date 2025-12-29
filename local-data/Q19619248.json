@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FB528010EE95BCBBF6B54AF5D3E4CA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831444"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het fiets- en wandelpad Oosterspoorbaan te Utrecht, tijdens het openingsweekend; rechts op de achtergrond de Van de Hulsthof en links de achtergevels van enkele huizen aan de Neptunusstraat"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

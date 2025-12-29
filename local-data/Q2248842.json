@@ -1,0 +1,156 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CF24BC4D892562BB66EAFECA8A28546"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156024"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Visvliet te Visvliet."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6AB5C40D85E55767AD489305903EE259"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166129"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Visvliet te Visvliet: plaatskaartenkantoor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F73F427692B55618B34CCF21819E7DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153735"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Visvliet te Visvliet: wachtkamer met loket."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85763B08963158CEABFDDE274056503E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150779"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Visvliet te Visvliet."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D5C1A4E550B5B11B0EE9C59CA9F0C76"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150780"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Visvliet te Visvliet."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

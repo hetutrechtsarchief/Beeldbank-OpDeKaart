@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1232B64216225FA5BA2503F43216213B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220973"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Papenhoef en de Westsingel met loofbomen te Oudewater uit het noordwesten. Opmerking: De foto is afkomstig uit een album met 188 foto's van Oudewater en omgeving uit de periode 1865-1878, samengesteld door E.C. Rahms (1823-1907), graficus en fotograaf te Oudewater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1865-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1875-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE8EE9FF40B25E7F855833573F80260A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220999"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hoek Broeckerstraat/Westsingel (?) met beplanting te Oudewater. Opmerking: De foto is afkomstig uit een album met 188 foto's van Oudewater en omgeving uit de periode 1865-1878, samengesteld door E.C. Rahms (1823-1907), graficus en fotograaf te Oudewater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1865-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1875-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B195C2FE16E589FB754D36ECA24120F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814730"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Caracasdreef te Utrecht, met op de voorgrond enkele vuilcontainers met huisvuil."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

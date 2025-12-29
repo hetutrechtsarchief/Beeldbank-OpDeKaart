@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "332625001B895F6487B6C013DE1B2C26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164841"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Wageningsestraat te Zetten, met links wachterswoning nr. 11 bij het N.S.-station Zetten-Andelst. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CAD55C892818550A85440DEECD220B3F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Wageningsestraat te Zetten, met links een deel van wachterswoning nr. 11 bij het N.S.-station Zetten-Andelst."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

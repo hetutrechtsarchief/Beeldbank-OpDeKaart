@@ -1,0 +1,828 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06762D896A5453E38F5D8CC0D6B91C4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126788"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe kantoorgebouw aan de Overste den Oudenlaan van de N.V. Utrechtse Metaalindustrie Heycop (Kanaalweg 76) te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, woensdag 9 april 1969: \"Nieuw gebouw van Heycop N.V. geopend\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F5ADCC58AB95D6090C33EB037468663"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128765"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de fotograaf L.H. Hofland die omwille van een fotografieopdracht zich op hoogte heeft laten brengen met behulp van een heftruck op de Overste den Oudenlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2287C15EB12151698ED54452F80C574D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129026"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het baksteenreli\u00ebf in de aan de Overste den Oudenlaan gelegen gevel van de  bandenfabriek U.B.O. NV (Kanaalweg 69) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36B4C6FD034550C88E6CE4350BC1B17A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832757"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegangspoort aan de Overste den Oudenlaan naar het terrein van de bandenfabriek U.B.O. NV (Kanaalweg 69) te Utrecht, vanaf de Grebbeberglaan. Opmerking: De originele foto is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4256C2D73F1F5FAD8D3CA90B887112C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24416"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over het Merwedekanaal en op het kantoorgebouw aan de Overste den Oudenlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46BD3DAB55B8580D8F8A3A01DC16AC04"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24356"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over het Merwedekanaal en op de zijgevel van het Holland Casino (Overste den Oudenlaan 2) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "561576BFD9EC521DAA8C31D3C37C1DCB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een gedeelte van het baksteenreli\u00ebf in de aan de Overste den Oudenlaan gelegen gevel van de  bandenfabriek U.B.O. NV (Kanaalweg 69) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60B0A3D2860B5329A924B42568DAFC3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809635"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Overste den Oudenlaan te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69C96AE488BF5418899D79CD72842001"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824521"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Overste den Oudenlaan 49 (links) -lager  te Utrecht. Opmerking: De afbeelding behoort tot de collectie foto's en dia's aangelegd door P. Vlaanderen en  J.P. van Alff, directeuren van de gemeentelijke plantsoenendienst te Utrecht, resp. van 1926  tot 1954 en van 1954 tot 1978."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71DA7DE7D6345F7AAAF154442FA3E339"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809521"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overste den Oudenlaan te Utrecht, vanaf het Anne Frankplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-10-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-10-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "72E289CDCA0A5E919B50B49DB37C7C4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806304"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een kermis op het parkeerterrein van de Jaarbeurs aan de Overste den Oudenlaan te Utrecht. Opmerking: De originele foto bevindt zich in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78792FEA167251C3BA88FB5CC6112C95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128763"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het baksteenreli\u00ebf in de aan de Overste den Oudenlaan gelegen gevel van de  bandenfabriek U.B.O. NV (Kanaalweg 69) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AC88D742EF05E7CE0534701000A3F89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838190"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een graffiti van een Utrechtse kabouter (KBTR) en de tekst 'BEAPS', op een schakelkastje bij de Overste den Oudenlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AF54C0244E7CAE0E0534701000AB606"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838319"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein ter plaatse van het voormalige defensieterrein aan de Overste den Oudenlaan te Utrecht, met links het gerestaureerde kantoorgebouw van het voormalige carrosserie- en constructiebedrijf van Jan Jongerius (Kanaalweg 64) . <ZR>N.B. Op het terrein zal de nieuwe stadswijk Merwedekanaal worden gerealiseerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AF54C0244E8CAE0E0534701000AB606"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838320"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein ter plaatse van het voormalige defensieterrein aan de Overste den Oudenlaan te Utrecht.<ZR>N.B. Op het terrein zal de nieuwe stadswijk Merwedekanaal worden gerealiseerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "984C86ACEA8857538FCED7549B29E9A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127436"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de regulering door de politie van het wegverkeer op de Weg der Verenigde Naties te Utrecht, ter hoogte van de kruising met de Overste den Oudenlaan (links), met op de achtergrond een opstelling van diverse bouwkranen ter gelegenheid van de Voorjaarsbeurs."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D6AFC11AAC55375ACFC95D12A3FDDEB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "76015"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het nieuwe gebouw van de Confectie Industrie N.V. Rocob\u00e9 (Overste den Oudenlaan 30) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A492BEE2CE27502986780E9556A67F17"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71998"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het begin van de Weg der Verenigde Naties tijdens de graafwerkzaamheden bij de Overste den Oudenlaan te Utrecht, vanuit het zuidwesten. Op de achtergrond de Paul Krugerbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A978BE096C445F9FADAD313D123014AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128762"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het baksteenreli\u00ebf in de aan de Overste den Oudenlaan gelegen gevel van de  bandenfabriek U.B.O. NV (Kanaalweg 69) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE4847E988B25396A966A64200E3C8B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120066"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Koningin Wilhelminalaan te Utrecht, uit het zuidoosten. Links een gedeelte van Transwijk Noord en rechts Transwijk Zuid met de achterzijde van het bejaardencentrum Huize Transwijk (Lomanlaan 49). Halverwege de Koningin Wilhelminalaan het Anne Frankplein met links de Overste den Oudenlaan en rechts de Europalaan met de busremise van het G.E.V.U. Opmerking: Fotonummer 36780.<ZR>Afdruk van origineel negatief, 2002."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-03-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-03-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B0FCF98BC7E95BC89DA4E67296931F83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe gebouw van het automatiseringsbedrijf Cap Gemini op de hoek van de Weg der Verenigde Naties en de Overste den Oudenlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3B2C23FB8A85503A98E324C9FC7D6BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85519"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijke deel van het bedrijventerrein Kanaleneiland te Utrecht, uit het oosten. In het midden het Merwedekanaal, links de Koningin Wilhelminalaan met de Balijebrug, rechts op de voorgrond de Jekerstraat en op de achtergrond de Overste den Oudenlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BBC798FA880D53A9809C8A712CC72F14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128764"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de fotograaf L.H. Hofland tijdens het fotograferen van het baksteenreli\u00ebf in de aan de Overste den Oudenlaan gelegen gevel van de  bandenfabriek U.B.O. NV (Kanaalweg 69) te Utrecht, met behulp van een heftruck."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CCC0E743A820580CB2097A13DBECAFF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84151"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Anne Frankplein in de Koningin Wilhelminalaan te Utrecht, uit het noorden; op de voorgrond de Overste den Oudenlaan en op de achtergrond de Europalaan. Opmerking: Fotonummer 34049."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD535AD7DBFC5BA79AD0B24E56B74703"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832764"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bandenfabriek U.B.O. (Kanaalweg 69) te Utrecht, vanaf de Overste den Oudenlaan. Opmerking: De originele foto is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DECE9E84D6675A8DA4D1CD9061724C74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108102"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegangspoort aan de Overste den Oudenlaan naar het terrein van de bandenfabriek U.B.O. NV (Kanaalweg 69) te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Stedelijke landschappen\" van fotograaf Luuk Kramer (1958) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E478D57FA4C0546C9343814326628AB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127438"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van bezoekers en geparkeerde auto's in verband met de Voorjaarsbeurs op de hoek van de Overste den Oudenlaan en Admiraal Helfrichlaan (voorgrond) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E912E73E785150D3B7DD25F1EA448D6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24414"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw aan de Overste den Oudenlaan (links) hoek Admiraal Helfrichlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE0544487B225889A42E2FACD7949E5A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de regulering door de politie van het wegverkeer op de Weg der Verenigde Naties te Utrecht, ter hoogte van de kruising met de Overste den Oudenlaan (links), met op de achtergrond een opstelling van diverse bouwkranen ter gelegenheid van de Voorjaarsbeurs."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

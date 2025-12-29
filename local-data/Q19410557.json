@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D5EA182B5FE58B6B4C7E43700F80537"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117013"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel en de zuidelijke zijgevel van het bedrijvenverzamelgebouw Cartesiusweg 90 (voormalig Centraal Autoherstelbedrijf, C.A.B.) te Utrecht, vanaf de toekomstige Perronlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

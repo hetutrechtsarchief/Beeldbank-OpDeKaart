@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "18DA9811AE125775B7712841A55511CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69398"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Rembrandtkade 66 (rechts)-lager te Utrecht met rechts op de voorgrond de ingang van de Pieter Breughelstraat. Opmerking: Uit: Utrecht in woord en beeld, 1930, nr. 50."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1BF92827CA665603A3A74F175BBA3F16"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825280"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Pieter Breughelstraat 35 (rechts) -hoger te Utrecht. Opmerking: Foto Pers Bureau Utrecht fotonummer 31152"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24BC10510DFD50BB9B63D0BC5B4703C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815205"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pieter Breughelstraat 9 (rechts)-13 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F050343ADFB5BDAB85908A05B09B6B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405079"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekhuis Pieter Breughelstraat 49 te Utrecht, vanaf de hoek met de Jacob van Ruisdaelstraat. Opmerking: Foto Pers Bureau Utrecht fotonummer 31045"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41F047D7C4925CC1BFAF1E864DBA5824"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816476"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de St.-Aloysiuskerk (Adriaen van Ostadelaan 2) te Utrecht, vanaf de Pieter Breughelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46BDEF1237D15D0BBEEDBEB7D6E31BA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54597"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pieter Breughelstraat te Utrecht met links de huizen van de zuidwestelijke straatwand, vanaf de kruising met de Jan van Scorelstraat (voorgrond), uit het zuidoosten; op de voorgrond links een deel van het huis Jan van Scorelstraat 145, en rechts het winkelhuis Jan van Scorelstraat 143."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B7771DEA6DB50719CFE5CA13F9CE628"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70049"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jan van Scorelstraat te Utrecht met in hoofdzaak de noordwestelijke straatwand met de huizen nrs. 143 (links)-lager, uit het zuidwesten; tussen de huizen nrs. 145 en 143 (Berger's Wijnwinkel) de kruising met de Pieter Breughelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5EC475352997584F80CC71AF00B0DEA3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54596"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Pieter Breughelstraat 9 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "787DA3D5944B5450BBB7FE0BD56CC335"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808247"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pieter Breughelstraat te Utrecht, met op de achtergrond de koepel van de St.-Aloysiuskerk (Adriaen van Ostadelaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "833B89DFEDBE50DB8BE8BB90A9607378"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808250"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jan van Scorelstraat te Utrecht, uit het zuidwesten, vanaf de kruising met de Pieter Breughelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B37E57934F25A50A5D23DE271C1C83B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70002"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Jan van Scorelstraat 142-lager te Utrecht vanuit het zuidwesten vanaf de kruising met de Pieter Breughelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A632EDD01E025B9B98D074F8B074FE3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816595"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pieter Breughelstraat te Utrecht, vanaf de hoek met de Jan van Scorelstraat. Op de achtergrond de St.-Aloysiuskerk (Adriaen van Ostadelaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE25578CB2F05666A3F340CD10AB17A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70050"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jan van Scorelstraat te Utrecht met in hoofdzaak de noordwestelijke straatwand met de huizen nrs. 157 (links)-lager, uit het zuidwesten; tussen de huizen nrs. 145 en 143 (Berger's Wijnwinkel) de kruising met de Pieter Breughelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AED1200A2DED567DA9779B052D53006B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70003"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Jan van Scorelstraat 144-hoger te Utrecht vanuit het noordwesten vanaf de kruising met de Pieter Breughelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7D44B7EA48C5A2E88E598049C81FBF1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30645"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Minstroom en de Rembrandtkade te Utrecht uit het zuidwesten, met links de voorgevels van de huizen aan de Waldeck-Pyrmontkade en rechts de ingang van de Pieter Breughelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C426F1DAE68C531EBB6FA015ECC21740"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "221126"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Rembrandtkade 66 (rechts)- lager te Utrecht met rechts op de voorgrond de ingang van de Pieter Breughelstraat. Opmerking: Neg.nr. 33231.<ZR>De foto is een contactafdruk in \u00e9\u00e9n van de 8 plakboekjes (dummies) die, vermoedelijk, door Nico Jesse zelf zijn samengesteld en als Verzameling 200 is opgenomen in de collectie Beeldmateriaal. De meeste foto's in die boekjes zijn, in tegenstelling tot deze contactafdruk, tevens afgedrukt op het formaat 18x24 cm.<ZR><ZR>Litt.: Bibl.HUA UAT 513, GM Kwadraat, 2007 nr. 28, P. Notermans, Nico Jesse: het stadsleven zoals zich dat aan het oog van tijdgenoten in de bezettingsjaren vertoonde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C73EE50D6B4F557BA3A54D4CDD421CF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405086"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Pieter Breughelstraat 20 (links) -26 en het hoekhuis Jacob van Ruisdaelstraat 75 (rechts) te Utrecht.<ZR><ZR>N.B. Het adres Jacob van Ruisdealstraat 75 is later gewijzigd in Jacob van Ruisdaelstraat 109. Opmerking: Foto Pers Bureau Utrecht fotonummer 31044"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1E84C8F7AF853EBA59652CB8DA489F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54595"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pieter Breughelstraat te Utrecht tijdens het plaatsen van de Windvaan op de toren van de St.-Aloysiuskerk (Adriaen van Ostadelaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D580912FA9C6518586BA33829D81D677"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70048"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jan van Scorelstraat te Utrecht met in hoofdzaak de noordwestelijke straatwand met de huizen nrs. 141 (rechts)-hoger, uit het noordoosten; aan het eind van de straat een gedeelte van het Diakonessenhuis (Bosboomstraat 1); tussen de huizen nrs. 143 (Berger's Wijnwinkel) en 145 de kruising met de Pieter Breughelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD76324B6CF451FDBA2D5CC27559C414"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816517"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pieter Breughelstraat te Utrecht, vanaf de hoek met de Jan van Scorelstraat. Op de achtergrond de St.-Aloysiuskerk (Adriaen van Ostadelaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF9FCA8D83D65B6FA0FC48DEEFE2E867"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70051"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jan van Scorelstraat te Utrecht met in hoofdzaak de noordwestelijke straatwand met de huizen nrs. 161 (Chinees restaurant New Garden, links)-lager, uit het zuidwesten; tussen de huizen nrs. 145 en 143 (Berger's Wijnwinkel) de kruising met de Pieter Breughelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE223D976CD45D8BA9FF4ED688460DD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164963"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de ingraving voor de spoorlijn tussen Oosterbeek en Arnhem, met het viaduct in de Schelmseweg te Oosterbeek. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF74B5272C6C5377AEBDF68BF09FB27D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "151055"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een electrisch treinstel mat. 1964 (plan V) van de N.S. gezien vanaf het viaduct van de Schelmseweg te Oosterbeek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F04E6C5B25C55B2C958BA609CD68CF8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "151056"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van drie gekoppelde electrische treinstellen mat. 1964 (plan V) van de N.S. gezien vanaf het viaduct van de Schelmseweg te Oosterbeek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "512D91AF087652C882D4C4CD40681FB7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828655"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een doek beschilderd met het gedicht 'Huizen in de Binnenstad', gespannen op het hek bij de bouwplaats aan het Westplein te Utrecht. Op de achtergrond de Ulu Camii Moskee op het Moskeeplein bij de Kanaalstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B505015664BD56FD841B478CE6B22553"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825703"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwe Ulu Moskee en het appartementencomplex Buenos Aires aan het Moskeeplein te Utrecht, vanaf het Westplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

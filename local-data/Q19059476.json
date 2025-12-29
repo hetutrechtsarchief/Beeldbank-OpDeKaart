@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "421FC774663F5968BC1A93A520E51095"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119444"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex Stag (Voorsterbeeklaan 17-31) te Utrecht, uit het westen, met links een complex aan de Eelderdiephof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2008-08-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2008-08-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

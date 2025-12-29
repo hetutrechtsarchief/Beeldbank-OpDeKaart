@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C7056AAF640524B9B0643499621D58C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14566"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Veldmaarschalk Montgomeryweg met bebouwing en loofbomen te Soesterberg (gemeente Soest) uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "67DD3B2CCA9D56F8AD0BC96BCF3F6D12"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14565"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Veldmaarschalk Montgomeryweg met omringend bos met naaldbomen te Soesterberg (gemeente Soest). Opmerking: Lit. MIP Soest, p. 100."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "77562D1063265E26AA1E2EF676DB0CC0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14584"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama van de landingsbaan van de vliegbasis Soesterberg te Soesterberg (gemeente Soest) uit het noordoosten; met op de voorgrond de Veldmaarschalk Montgomeryweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

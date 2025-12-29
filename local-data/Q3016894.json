@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14A516FC9B6C59F6A830B8D768CBA8B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12474"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op De Plaats te Montfoort, uit het westen, met links de onderwijzerswoning De Plaats 4, in het midden de Christelijke lagere school Mannenhuisstraat 1 en rechts het huis De PLaats 5. Geheel links de Vrouwenhuisstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

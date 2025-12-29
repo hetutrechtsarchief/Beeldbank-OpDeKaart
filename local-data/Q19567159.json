@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4883AA4AA32858C2AEA104D076AB3EC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802595"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de educatieve tuin (schooltuin) in Koppelsteede (Koppeldijk 115) te Utrecht, uit het zuiden; linksboven enkele huizen aan de Lombardije en rechtsboven aan de Tirol."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D372E6116DB55AB0AB211DC9FACA159C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71308"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Tirol 139-lager te Utrecht met links Westfalen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

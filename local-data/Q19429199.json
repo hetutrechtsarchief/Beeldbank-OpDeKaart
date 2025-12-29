@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A074A1DEFEB15BF1A818649D56DB4DFA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5939"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de stoomkorenmolen (Pothuizerweg)  te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd. Opmerking: In 1979 vervaardigde reproductie van een omstreeks 1905 gemaakte foto. De originele foto is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

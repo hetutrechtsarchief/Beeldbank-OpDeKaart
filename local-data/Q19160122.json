@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A7666BC7C4BF157E0534701000ADDEA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835173"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van enkele huizen aan de Frontoweg in de wijk Nyevelt I te De Meern (gemeente Vleuten-De Meern); boven de Zandweg, in het midden de Leidsche Rijn en Rijksstraatweg en links onderaan de boerderij Rijksstraatweg 124."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

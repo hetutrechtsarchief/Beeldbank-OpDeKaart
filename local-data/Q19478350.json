@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9ECDE77BAD1751858E7AD3E8F23A04D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50923"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanleg zijnde wijk De Horden en de wijken De Heul, Noorderwaard en Frankenhof te Wijk bij Duurstede uit het zuidwesten; met midden links de Romeinenbaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

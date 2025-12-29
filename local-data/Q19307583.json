@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0AF6A3EA8FA6557D9E30DF77BD6248CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50547"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Klaarwater te Soest, uit het zuiden, met op de voorgrond de Koningsweg, rechts de Dalweg en op de achtergrond de Beukenlaan. Geheel op de achtergrond de wijk Soestdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "888E95D4FEB05F1FAB5B3A85F761BF45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Overhees te Soest, uit het zuidoosten, met rechts de Koningsweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB07B102F6E45D358C49FA5F1E1ACECD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50546"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Smitsveen te Soest, uit het zuidoosten, met links en op de voorgrond de Koningsweg en rechts de Nieuweweg.."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

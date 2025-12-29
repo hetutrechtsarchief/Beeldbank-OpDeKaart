@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10DBB9F45FD65D3F8ED6FFBE55BF813A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834444"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Burchtpoort te Utrecht (Vleuterweide), vanaf de Utrechtse Heuvelrug (straatnaam), met de \"Zingende Toren\" van de Cultuurcampus Vleuterweide."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF7ACCCE368C5D7D9A3444C94E48656E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834447"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Zingende Toren van de Cultuurcampus Vleuterweide (Burchtpoort 5) te Utrecht (Vleuterweide)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

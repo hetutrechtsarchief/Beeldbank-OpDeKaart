@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09EB5118BC1A5EBEBF42C13FFD357E89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164984"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het S.S.-station Schinnen te Schinnen. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1917-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1922-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2ACD3CD57E3D52E7AFA59D83784B8893"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150663"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Schinnen te Schinnen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2B61D9283555EFBB5D19942B0BD0A64"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153256"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Schinnen te Schinnen kort voor de afbraak."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB9172C3DB755D1FB557FD99907470E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153257"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Schinnen te Schinnen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

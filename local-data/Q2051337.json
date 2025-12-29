@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "290B8F88A7D05B4DBD23C9EBD25FDD44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35512"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Ledig Erf te Utrecht vanuit het huis van de kunstenaar (Sterrenburg 1) met in het midden caf\u00e9-restaurant De Gelderse Bloem kort voor de afbraak en rechts van het midden de ingang van de Gansstraat en de brug over de Vaartsche Rijn bij de Ooster- en Westerkade. Opmerking: Fotoreproductie naar een tekening in zwart krijt van Hans van Dokkum uit 1958."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-02-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-02-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83804B3E57E6EBECE0534701000A3368"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62207"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Ledig Erf te Utrecht, vanuit het noorden; op de voorgrond de Tolsteegbrug; links de Gansstraat en op de achtergrond de Ooster- en Westerkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

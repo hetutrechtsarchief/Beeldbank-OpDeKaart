@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "324DB4E326F850AB95698B6C79F35D11"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62830"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Lijnpadstraat 17-lager te Utrecht met op de voorgrond de Jeremiestraat, op de achtergrond de Catharijnesingel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7924411B6D2F5DD092F3D4385484391E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Lijnpadstraat 7-hoger te Utrecht, vanaf de Bleekstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED8A7C811086583AACE67734F24D01C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62829"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Lijnpadstraat 19-lager te Utrecht met op de voorgrond de Jeremiestraat, op de achtergrond de Catharijnesingel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FEF49ECBE2B7533DBA2CFC629C5A3433"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62827"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lijnpadstraat te Utrecht met op de achtergrond de Catharijnesingel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

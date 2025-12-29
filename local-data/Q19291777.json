@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04A219030C595F1DBD53DAB22B25EDD7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5718"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van twee flatgebouwen aan de Karolingersweg te Wijk bij Duurstede uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A74D883F3E2C5FECADC6A6CC48AA4E44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5723"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de woningen aan de Karolingersweg te Wijk bij Duurstede uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

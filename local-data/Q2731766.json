@@ -1,0 +1,436 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1DAEFC0D48F45F2DBD77FC8CF40F7894"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn, met rechts het Hotel de la Promenade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24E9B27336665883A9C7417B9A4531B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7415"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F6F932B25BA5BF486F1717427B568BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7416"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B0E099936585C5A85CCE9D97B255A5A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7422"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn, met rechts het Hotel de la Promenade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FE89F4E66325D6EB4A31D293945341E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7414"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat bij de kruising met de Laanstraat te Baarn uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C8FBE0668455BCCA9D8FD08156A012C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7411"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D6263A08A6F5D8C803D72AF208444F4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat bij de kruising met de Laanstraat te Baarn uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71AD5EF7BBE25DE2B13B701B9905A422"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7649"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Hotel de la Promenade te Baarn, met links de Nieuwstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "89425EE3E80357159F9342BBD2AFDA8F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7650"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Hotel de la Promenade te Baarn, met links de Nieuwstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "984C42B550C550F9AACC428CE4A71BDE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7410"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE0E9975CCF45996BB1B1372FF884A92"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E42FDC2A1EF15E3EB19DA6033AA38ABB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7419"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn, met rechts het Hotel de la Promenade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E66454D3C68554A4B2362CA0B9A07B0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7417"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC59854288835E778AB7D32B7DAA31E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7421"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Baarn, met rechts het Hotel de la Promenade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8365209B4235599BB72F191BED1FBCD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7652"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Hotel de la Promenade te Baarn, met links de Nieuwstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

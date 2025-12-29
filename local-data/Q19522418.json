@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C563171ED28599CA33962C9E37BD8CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50543"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van enkele flatgebouwen in de wijk Smitsveen te Soest, uit het zuidwesten, met links de Smitsweg, op de voorgrond de Veenbesstraat, rechts de Varenstraat en op de achtergrond de Weegbreestraat.."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

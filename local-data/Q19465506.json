@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5BB495D6BEFE55F4956D06A367227819"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811005"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rhodosdreef te Utrecht met op de achtergrond de Moezeldreef en de achterzijde van een flatgebouw aan de Korfoedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "880026F29CE25B62A228BE73EC08838F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831315"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouw van enkele flatgebouwen in de wijk Overvecht te Utrecht; op de voorgrond, vermoedelijk de Naxosdreef, rechts de achtergevel van een flatgebouw aan de Rhodosdreef en op de achtergrond de Moezeldreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D533189B5DC8526C8C5BE7C3A1371D70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812595"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Rhodosdreef te Utrecht, tijdens renovatiewerkzaamheden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40000ED533AA584CBBA78D02B0FE918C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808302"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kasteel Oudaen (Zandpad 80) te Breukelen, met op de voorgrond de Vecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "439E7E27E56853BCAC0ECB687458B311"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14046"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de linker- en voorgevel van kasteel Oudaen (Zandpad 80) te Breukelen uit het westen. Opmerking: lit. MIP Breukelen, p. 436-444."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1901-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E07FD00F25305F2CBA9F2863937C615B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van kasteel Oudaen met omringende boerderijen en schuren (Zandpad) te Breukelen. Opmerking: KLM Aerocarto fotonr. 17678."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1FD6468B1CAC530A8A59D05855F8BA44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127632"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Queekhoven (Zandpad 39) te Breukelen, vanaf de Vecht. Opmerking: In 2007 vervaardigde afdruk van origineel negatief.<ZR>Zie ook catalogus nr. 128048."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2033D3C44849518D98C5A39862E35277"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14047"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de voorgevel van het landhuis Queekhoven met het linker bijgebouw  (Zandpad 39) te Breukelen uit het westen. Opmerking: lit. MIP Breukelen, p. 407-412."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "205FBF457D6C5C74AB7A78E580EA0AE6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405282"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht en het jaagpad (Zandpad) te Breukelen uit het zuiden; met op de achtergrond de bebouwde kom en de klapbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AFF096287EA5D55A1E2E48B13EF71D9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8707"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Groenevecht aan het Zandpad nr. 37 te Breukelen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "49452ACDBB575B1DA42C0410401079C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Queekhoven met een gedeelte van de beide bijgebouwen (Zandpad 41) te Breukelen. Opmerking: Tekening van Chris Schut gemaakt in 1980 in opdracht van het Provinciaal Comit\u00e9 Utrecht Monumentenjaar 1975 voor een map met 20 reproducties van het Vechtgebied (Bibl. HUA DK2013-61)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51B7CEC0D8985EFDA6A91CEFBE7FD39A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116778"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Nijenveght (Zandpad 86) te Breukelen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CBA456B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht en het Zandpad te Breukelen bij de afslag naar Tienhoven, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7BD83A282CC155D3957BE3536A22130B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8717"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zandpad te Breukelen uit het zuiden, met rechts op de achtergrond de linkerzijde van het kasteel Gunterstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1906-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85BADEC9D14452A5ABF2A58FFF1CE62B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8772"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zandpad te Breukelen uit het zuiden, met links op de achtergrond de dorpskom en rechts de linkerzijde van het kasteel Gunterstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9838B27AE20655B1B42F3C46052F3652"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5417"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de voorzijde van het huis Queekhoven (Zandpad 39) te Breukelen uit het westen, met links het linkerbouwhuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D84767E5C1153C7B0EC99DA74DF667B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116777"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Nijenveght ( Zandpad 86) te Breukelen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B691A051BC1F54E5B7F2E2AEA60D9035"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117809"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de rotstuin met rozenbogen van het huis Groenevecht (Zandpad 37) te Breukelen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C698BDD5E94C5C59B30B61480722E161"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127631"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht te Breukelen, met rechts \u00e9\u00e9n van de bouwhuizen van het huis Queekhoven (Zandpad 39). Opmerking: In 2007 vervaardigde afdruk van origineel negatief.<ZR>Zie ook catalogus nr. 128048."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1ABDC409DB65DABAC54B9385587E292"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128048"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht te Breukelen, met rechts het huis Queekhoven (Zandpad 39). Opmerking: In 2007 vervaardigde afdruk.<ZR>Zie ook de catalogus nrs. 127631 en 127632."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DC14988AF64154FD8DD701DA47D642BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8708"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Groenevecht aan het Zandpad nr. 37 te Breukelen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2218ADAE6835F48929ABBECC2298A4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8770"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zandpad te Breukelen uit het zuiden, met rechts op de achtergrond de linkerzijde van het kasteel Gunterstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E998B250D37C5789B24F5222BCCCF0C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92836"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Queekhoven (Zandpad 41) te Breukelen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA8F5A50F4CB5D6D9CDD1D08B63C73E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8706"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Groenevecht aan het Zandpad nr. 37 te Breukelen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1894-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED721C691F7654969583A7437B257C60"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8709"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Groenevecht aan het Zandpad nr. 37 te Breukelen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F243FA2BFABC50ED93843CC923A27A4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5227"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het rechter toegangshek van het huis Queekhoven (Zandpad 39) te Breukelen uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3A20F3DD1675600A49954EB857F9FDE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8771"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zandpad te Breukelen uit het zuiden, met links op de achtergrond de dorpskom en rechts de linkerzijde van het kasteel Gunterstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF42CA1F68A354B291F2E96471737696"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8779"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Vegt en Hoff aan het Zandpad 43 te Breukelen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF77EBDB153D5360B1BBB795C02D8853"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8715"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zandpad te Breukelen uit het zuiden, met rechts op de achtergrond de linkerzijde van het kasteel Gunterstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

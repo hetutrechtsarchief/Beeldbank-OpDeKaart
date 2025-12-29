@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "680250E3E383551297297DAB4237D681"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84926"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de wijk Tuindorp-Oost te Utrecht, vanaf het dak van het Bejaardencentrum SABU-huis (Jan van Galenstraat 90), uit het zuiden; op de voorgrond de Kardinaal de Jongweg en de huizen De Vooysplantsoen 45-51; rechts de Van Everdingenlaan"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3A6A346F2B256678359BD4A14317EBD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen De Vooysplantsoen 14-41 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB992D984AD55FB69FAB319ECF1825A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19475"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis De Vooysplantsoen 49 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34CBA61D7411567E94C4C79C36D1BF14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "102860"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de installatie van zanger Ronnie Tober (links) als Prins Carnaval van de Utrechtse carnavalsvereniging De Jokers in het technisch centrum van de Stichting vakopleiding Kappersbedrijf (Nevadadreef 36) te Utrecht, met rechts komiek Andr\u00e9 van Duin. Opmerking: Zie ook Utrechts Nieuwsblad, 17 november 1980, blz. 3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "350AB081D8C2525991E8C1B6DDF61CFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64772"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nevadadreef te Utrecht; vanuit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "455C32D20C6D52EA820AAA14B0630544"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "102861"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de installatie van zanger Ronnie Tober als Prins Carnaval van de Utrechtse carnavalsvereniging De Jokers in het technisch centrum van de Stichting vakopleiding Kappersbedrijf (Nevadadreef 36) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

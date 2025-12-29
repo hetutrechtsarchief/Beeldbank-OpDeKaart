@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3B61FF6AF385A19ACB9BBD008E20361"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58446"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dr. P. van Hoeklaan met de voorgevels van de huizen nrs. 5-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

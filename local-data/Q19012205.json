@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BEE139F24945EFAAEBFE8A6D46C759F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55853"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde huizen Dolomieten 82-lager te Utrecht; vanaf de Houtenseweg uit het oosten, rechts de linker zijgevel van het in aanbouw zijnde huis St. Gotthard 39."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6820F5D280FA58B8811C48FE496D3288"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dolomieten te Utrecht, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2002-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A84F619D29465D428EDCF006D183C5B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70199"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de in aanbouw zijnde panden Simplonbaan 38-40-42 te Utrecht, vanuit het zuidwesten. Rechts de hoek met de Dolomieten, met de voorgevels van de panden Dolomieten 36-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB846283DA3A52A399B8DC4E5B1DB57E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde panden aan de Simplonbaan te Utrecht, vanuit het noorden. Rechts van de rioolbuis de panden aan de westelijkew straatwand, links daarvan de oostelijke straatwand (nrs. 24-hoger). Geheel links de panden aan de Dolomieten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

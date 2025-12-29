@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F60AE992337A55CD9980FB81B8B825BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85290"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Bedrijventerrein Overvecht te Utrecht, uit het westen. Op de voorgrond de hoek Ontariodreef (links) / Mississippidreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

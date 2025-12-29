@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A595C8EA8B15553A4A1C103721C438B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5376"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Mecklenburgstraat te Breukelen uit het zuiden, met links de achterzijde van de Julianaschool."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30D811CEBBB15E94A85DE82F50F14289"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5374"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Mecklenburgstraat te Breukelen uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A5503BC49DC5ED7BE1B60F9B817E7EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5373"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Mecklenburgstraat te Breukelen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

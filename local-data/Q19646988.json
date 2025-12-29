@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B69B4E0020A5DF486FA76B80F4EF291"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8160"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Waterweg te De Bilt uit het zuiden, met rechts de voorzijde van de huizen nrs.10-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D3EB3F6E2094573E8FB1C776C4FB12D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8159"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Waterweg te De Bilt uit het zuiden, met links de voorzijde van de huizen nrs. 13-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

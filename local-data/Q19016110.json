@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F490E9A49D95644BB1681089C0E3C02"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55756"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het kunstwerk Vogelnesten in het plantsoen aan de Detroitdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

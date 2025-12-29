@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F214C5A3817C52F69FCB7FA903A630A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8340"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van een huis aan de Bachlaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

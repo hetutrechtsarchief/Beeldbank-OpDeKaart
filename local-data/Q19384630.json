@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C13D9E52BBC5BD48BD0A72DE4D6ABE4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oasedreef te Utrecht, met op de achtergrond de flatgebouwen aan de Ibisdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ABB67D739DBC532B887DF4C49A5BA2AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814885"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Ibisdreef te Utrecht, vanaf de Oasedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

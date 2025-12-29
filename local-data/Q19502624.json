@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B560EC489BAD59D786076743D7DE6C54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802291"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het sluizencomplex in het Merwedekanaal te Utrecht, uit het zuidoosten; op de voorgrond het nieuwe wooncomplex aan de Adlikade, Salawatihof en Keulsekade; op de achtergrond de voormalige Central Soya fabriek (Everard Meijsterlaan 3)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

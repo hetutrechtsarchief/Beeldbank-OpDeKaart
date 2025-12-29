@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BC7E687FA8052DF8D6F954C1A9E9DD1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405005"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Debussystraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

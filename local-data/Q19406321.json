@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E7773587D3451708FBB71F57EEC0C53"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15489"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Fantasiekaart met als voorstelling: een tekening van een duiventil met duiven en een foto met een gezicht op een herenhuis aan de Schaerweide-Parklaan te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

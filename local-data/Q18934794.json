@@ -1,0 +1,884 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "007DA53C59505F9290C355CD1C805DA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214195"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van het noordoostelijke gedeelte van de wijk Overvecht Zuid te Utrecht; het terrein tussen de Albert Schweitzerdreef / Darwindreef / spoorweg Utrecht-Amersfoort / Berezinadreef / Moldaudreef; met weergave van hoofdwegen en het stratenplan. <ZR>Met lijst van straatnamen. Opmerking: Bijlage II.<ZR>Zie ook nr. 214194, 214196."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02AC20E2CFBB510C97A49665FE29BCC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85304"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de polder De Gagel te Utrecht, uit het zuidwesten. Op de voorgrond de Albert Schweitzerdreef, rechts het Tuincentrum Overvecht (Gageldijk 3) en de Einthovendreef. Op de achtergrond de Ruigenhoeksedijk te Maartensdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "074BA633C3AD566A961982E84CA311A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123834"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde flatgebouw aan de Pahud de Mortangesdreef te Utrecht, vanaf het flatgebouw aan de Dommeringdreef. Op de achtergrond de Gageldijk en het trac\u00e9 voor de toekomstige Albert Schweitzerdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08641F932FBA521095378D434A9BBC2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87131"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gemaal langs de Albert Schweitzerdreef te Utrecht. Opmerking: Fotonummer 15595."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0887B76CB2B55F63A746ED2AC1E307A6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Pahud de Mortangesdreef (rechts van het midden) te Utrecht; rechts een gedeelte van het eraan gekoppelde flatgebouw aan de Dommeringdreef; op de voorgrond de aanleg van de Albert Schweitzerdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0C181F5ED98C5D14953303665C12543B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22960"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen St.-Anthoniedijk 115 (uiterst links) -hoger te Utrecht, ter hoogte van de kruising met de Gageldijk.<ZR><ZR>N.B. De huizen zijn medio jaren '60 gesloopt ten behoeve van de aanleg van de Albert Schweitzerdreef. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15F6A9E96AD35BD0AE09A944DA3CC32C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833532"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kleine gemaal van het Hoogheemraadschap Stichtse Rijnlanden op de hoek van de Moldaudreef en Albert Schweitzerdreef te Utrecht, met rondom een muurschildering met o.a. een afbeelding van een zwaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "21832912331854CB8D9704EA992C193D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118188"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Tuincentrum Overvecht (Gageldijk 3) te Utrecht. Op de voorgrond de Einthovendreef en een gedeelte van het Fort Blauwkapel. In het midden de Albert Schweitzerdreef en links een deel van de wijk Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25FC4BE404DD53C0BD3CF86B3B275FBB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85294"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Tuincentrum Overvecht (Gageldijk 3) te Utrecht, uit het noordoosten. Links de Einthovendreef en een gedeelte van het Fort Blauwkapel. Op de achtergrond de Albert Schweitzerdreef en een deel van de wijk Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "275B4397362450E884EFFDEADB282B25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127050"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele te slopen huizen aan de St.-Anthoniedijk te Utrecht, ter hoogte van de kruising met de Gageldijk.<ZR><ZR>N.B. De huizen zijn in de tweede helft van de jaren zestig gesloopt in verband met de aanleg van de Albert Schweitzerdreef. Opmerking: Zie ook Utrechtsch Nieuwsblad, maandag 5 juli 1965, blz. 4: \"Er staan nog steeds huizen aan St.-Anthoniedijk\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "496FE71D94215EF4B919F764E7F163FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50654"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Overvecht Zuid te Utrecht, uit het zuiden, met in het midden de flatgebouwen aan de Cleopatradreef en de Jeanne d'Arcdreef. Op de achtergrond de Albert Schweitzerdreef en de Gageldijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51EBA5FD417950E29EE85C3CA5A00EAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70028"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nog aan te leggen Albert Schweitzerdreef te Utrecht vanaf het Henri Dunantplein vanuit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "582549F3F18F5BD3B24FCB6B48704A6E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85295"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Tuincentrum Overvecht (Gageldijk 3) te Utrecht, uit het oosten. Op de voorgrond de Einthovendreef en links de Albert Schweitzerdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D3BB8593D885702919CC578DF7DBF80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kleine gemaal van het Hoogheemraadschap Stichtse Rijnlanden op de hoek van de Moldaudreef en Albert Schweitzerdreef te Utrecht, met rondom een muurschildering met o.a. een afbeelding van een koolmees."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60E342CE9E41532B9939E160513FEC89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214194"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van de wijk Overvecht Zuid te Utrecht; het terrein tussen de Albert Schweitzerdreef / spoorweg Utrecht-Amersfoort / Vecht / Einsteindreef; met weergave van hoofdwegen, wijkverbindingswegen/ stratenplan (ged.) en gedeeltelijke bebouwing.<ZR>Met lijst van straatnamen. Opmerking: Bijlage I.<ZR>Zie ook nr. 214195-214196."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC1816B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42582"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bebouwing aan de St.-Anthoniedijk (hoek Gageldijk) te Utrecht.<ZR><ZR>N.B. De huizen zijn medio jaren '60 gesloopt ten behoeve van de aanleg van de Albert Schweitzerdreef. Opmerking: Afdruk afkomstig uit archief DOW."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC1836B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42583"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bebouwing aan de St.-Anthoniedijk (hoek Gageldijk) te Utrecht.<ZR><ZR>N.B. De huizen zijn medio jaren '60 gesloopt ten behoeve van de aanleg van de Albert Schweitzerdreef. Opmerking: Afdruk afkomstig uit archief DOW."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC1856B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42584"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bebouwing aan de St.-Anthoniedijk (hoek Gageldijk) te Utrecht. Het huis in het midden (met mansardedak) is het huis St.-Anthoniedijk 113 A.<ZR><ZR>N.B. De huizen zijn medio jaren '60 gesloopt ten behoeve van de aanleg van de Albert Schweitzerdreef. Opmerking: Afdruk afkomstig uit archief DOW."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6328D0AFB0F75CC5AA85165F6DB7AC9D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802973"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over het Robert Kochplein te Utrecht in de Albert Schweitzerdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6ED0B26273C65329A2B5855FC585DCD7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "801325"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Ruigenhoeksche Polder en Polder De Gagel te Maartensdijk met op de voorgrond de Einthovendreef, het Tuincentrum Overvecht (Gageldijk 3) en links de Albert Schweitzerdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F476FB1B912513B801CFC959B8DC735"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een sluisgebouwtje bij de Moldaudreef ter hoogte van de Albert Schweitzerdreef te Utrecht, met graffiti met de tekst \"TROK\". Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE73AC0B0FA45760A3225993913BD785"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821782"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Overvecht Zuid te Utrecht, met in het midden de flatgebouwen aan de Pahud de Mortangesdreef en Dommeringdreef. Rechts op de voorgrond de Albert Schweitzerdreef en de Gageldijk. Opmerking: De foto is gemaakt voor de website www.bouwpututrecht.nl"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B159AD291BB25634A10D934A0E044E1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214196"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van de wijk Overvecht Zuid te Utrecht; het terrein tussen de Albert Schweitzerdreef / spoorweg Utrecht-Amersfoort / Vecht / Einsteindreef; met weergave van hoofdwegen, stratenplan (ged.), gedeeltelijke bebouwing en overig grondgebruik.<ZR>Met legenda en schaalstok. Opmerking: Zie ook nr. 214194-214195."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-08-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C1301E8D4E1F55EEA84A21B633175144"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84940"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Overvecht te Utrecht, tijdens de bouw, uit het oosten; op de voorgrond de grotendeels nog aan te leggen Albert Schweitzerdreef langs de Gageldijk. In het midden, van links naar rechts, de St.-Anthoniedijk. Opmerking: Fotonummer 36361."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBA8B7D06DD158DE8D569705ED0124CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833533"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kleine gemaal van het Hoogheemraadschap Stichtse Rijnlanden op de hoek van de Moldaudreef en Albert Schweitzerdreef te Utrecht, met rondom een muurschildering met o.a. een afbeelding van een koolmees."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DF54F73CFF6651748602766E6814D7DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55235"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Centaurusdreef te Utrecht met enkele parkeerplaatsen; op de achtergrond het singeltje met daarachter de Albert Schweitzerdreef en op de achtergrond de Gageldijk. Opmerking: Zie: Utrechts Nieuwsblad, 3 juli 1972."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5CD6AE9313D563197060DD6E5AEBDF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70030"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nog aan te leggen Albert Schweitzerdreef te Utrecht vanuit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E90D9018B0C154AB99CFE257BEFE1268"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833531"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kleine gemaal van het Hoogheemraadschap Stichtse Rijnlanden op de hoek van de Moldaudreef en Albert Schweitzerdreef te Utrecht, met rondom een muurschildering met o.a. een afbeelding van een zwaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F23260B9407E59C79567DB7E75562737"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70029"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nog aan te leggen Albert Schweitzerdreef te Utrecht ter hoogte van het Henri Dunantplein vanuit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F248F6B03834516EB3F9C5C32A7AAF06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Sportpark De Dreef in de wijk Overvecht te Utrecht, uit het oosten. Rechts de Albert Schweitzerdreef met parallel daaraan de Gageldijk. Op de achtergrond het Henri Dunantplein. Links op de achtergrond de flatgebouwen aan de Scharlakendreef, Stroyenborchdreef en de Schooneggendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8DFBCA762C950F2962EE01A6520CC86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87130"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gemaal (vijzelgemaal) langs de Albert Schweitzerdreef te Utrecht. Opmerking: De fotograaf, A.F.S.J. Hulskamp, fotografeerde o.a. veel in opdracht van de Dienst Bouw- en Woningtoezicht van de Gemeente Utrecht.<ZR><ZR>Fotonummer 15594."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

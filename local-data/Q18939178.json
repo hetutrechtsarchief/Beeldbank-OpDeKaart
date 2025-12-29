@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F3727AACB1457849A9DA498A29B4211"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58057"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Hebriden 42-hoger te Utrecht en het Inundatiekanaal, uit het noordnoordwesten; op de achtergrond de Orkaden en de Azoren."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C3DC78BEE1095930ABBD7599571C8D92"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58056"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Hebriden 4-hoger te Utrecht, uit het noordnoordoosten met op de voorgrond de dijk langs het Inundatiekanaal met een reclamebord van Lunetten b.v.; achteraan de Orkaden en de Azoren."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

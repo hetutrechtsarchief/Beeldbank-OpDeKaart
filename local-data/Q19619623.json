@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "49081FE08A55548795D7E0C8D39D2B57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pui van de kruidenier en winkel in rookartikelen in het pand Van der Goesstraat 29 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9DE58349DAA5C33931C9279F4D6F8A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Groenendaalstraat te Utrecht, vanaf de Fruitstraat, met op de achtergrond de kruising met de Croeselaan en de Van der Goesstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

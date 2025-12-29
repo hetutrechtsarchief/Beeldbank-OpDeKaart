@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "076AC921EFEB5D3288437FCFFAD7E841"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169357"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Sarphatistraat te Amsterdam, met naar links de sporen naar het goederenstation aan de Doklaan en rechts de sporen naar de Hoogte Kadijk (goederenenplacement Nieuwe Vaart). Links op de achtergrond de electrische centrale van het G.E.B.<ZR><ZR>N.B. De afbeelding maakt deel uit van een serie foto's met betrekking tot de Spoorwegwerken te Amsterdam. Opmerking: NS fotonummer 5651."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

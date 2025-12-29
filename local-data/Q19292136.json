@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0489F74522235419AE97413365AF25C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10357"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kastanjelaan te Groenekan (gemeente Maartensdijk) uit het westen.<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente de Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C1EBC12D8820593CAF8729D760383877"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10342"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kastanjelaan te Groenekan (gemeente Maartensdijk) uit het zuidwesten.<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente de Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3BD55D3060A5E858B0642D2B7D60A12"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kastanjelaan te Groenekan (gemeente Maartensdijk) uit het zuiden.<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente de Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

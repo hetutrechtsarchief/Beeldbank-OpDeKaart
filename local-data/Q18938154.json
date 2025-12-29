@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4E596F0E4C95EB9A181F199639820AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153461"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een Algemeene Abonnementskaart voor de derde klasse van mevrouw J. Drieveld wonende in de St.Annastraat 210 te Arnhem."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-02-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-02-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

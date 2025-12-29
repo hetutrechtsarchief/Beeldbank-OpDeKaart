@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7701ADA5C9F15131A13FE391EF4181FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809627"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stempelslaan te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78B7374BE246501DA3AA40E7FC6EB339"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823783"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de Stempelslaan (op de voorgrond) en de Egginklaan in de wijk Transwijk te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

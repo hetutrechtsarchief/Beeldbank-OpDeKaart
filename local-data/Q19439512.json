@@ -1,0 +1,996 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07B4CF9F268F5787B62D5CD005B4B5DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45743"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden ten behoeve van de omlegging van het Zwarte Water te Utrecht, tussen de Raiffeisenlaan en de Prof. Leonard Fuchslaan (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09F0CB2C6A4D561D9E9168EA54E48FC8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45470"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het storten van de wanden van het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F3782CF41EE51EF94C433514D138B73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het zuidelijke deel van de Eykmanlaan (rechts) te Utrecht en omgeving, met links de Prof. Sprengerlaan, het Zwarte Water en de Prof. Leonard Fuchslaan (Tuindorp). In het midden de spoorlijn naar de Gasfabriek. Middenboven het gereformeerde Verzorgingstehuis De Lichtkring (Eykmanlaan 72)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "119168EC0C6450B18E78AC5A77C5EA33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129685"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele huizen aan de Burgemeester van de Voort van Zijplaan te Utrecht vanuit een zolderraam van het huis Prof. Leonard Fuchslaan 5; in het midden de Prof. Sprengerslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1343F2623823507C9B5AAFA602638EB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129281"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17D2244EFDF55F97BFC276C55D84BAF1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501535"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het zuidelijke deel van de Eykmanlaan te Utrecht en omgeving, met op de voorgrond de Prof. Sprengerlaan, het Zwarte Water en de Prof. Leonard Fuchslaan (Tuindorp). In het midden de spoorlijn naar de Gasfabriek. Links de Rauwenhofflaan en rechts van het midden de Prof. M. Treublaan. Op de achtergrond de prof. Jordanlaan en de in aanleg zijnde straten van Tuindorp Oost (Cohenlaan, Boekelaan)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1EF654D65082576AB794BB79C4FA73AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45745"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de in aanleg zijnde spuirioolput tijdens de werkzaamheden ten behoeve van de omlegging van het Zwarte Water te Utrecht, tussen de Raiffeisenlaan en de Prof. Leonard Fuchslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "274307C251485F1A81F7F9D65C8D52F4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45464"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de wapening van de te storten vloer van het rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29951C8CDB0159348B5B71DF005D9EFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45466"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het storten van de vloer van het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D1B9E38094754A782C6503E9EDEDDF8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501666"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van spelende kinderen die een \"tentenkamp\" hebben gemaakt op een bouwterrein aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-06-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-06-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3265245156775124BB55D6F66DC7C1F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45746"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de in aanleg zijnde spuirioolput tijdens de werkzaamheden ten behoeve van de omlegging van het Zwarte Water te Utrecht, tussen de Raiffeisenlaan en de Prof. Leonard Fuchslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "345AFFB4C0845C979098D8D4043C1860"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45476"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het betonskelet van het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34A1FC15A0F458219C81EA78315153B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de spanknoppen en wapening van het in aanleg zijnde spuirioolput tijdens de werkzaamheden ten behoeve van de omlegging van het Zwarte Water te Utrecht, tussen de Raiffeisenlaan en de Prof. Leonard Fuchslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A4BAC40990F534AAAF1CCD23EF04C42"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plantsoen en water langs de Kardinaal de Jongweg te Utrecht, vanaf de brug in de Raiffeisenlaan, uit het zuidwesten. Rechts van het midden het pompgebouw en de daarachter de huizen H.F. van Riellaan 1-5; daarachter de gereformeerde Tuindorpkerk (Prof. Suringarlaan 1). Op de achtergrond tussen de bomen de huizen aan de Prof. Sjollemalaan en de Prof. Leonard Fuchslaan (midden)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FD7A42ABAA955078DCE37203CAE311A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45747"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de spanknoppen en wapening van het in aanleg zijnde spuirioolput tijdens de werkzaamheden ten behoeve van de omlegging van het Zwarte Water te Utrecht, tussen de Raiffeisenlaan en de Prof. Leonard Fuchslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5DB4DC61F9065A06AE52832E9DE6AAA1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "62FC81F421FB594EA72FAA33C91E0A90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45473"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "670F70A2B63C57A9AF4153B28E743020"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45468"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het storten van de vloer van het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "808716B5ACE95C0EA52FBC85B3BE3A47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45475"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het betonskelet van het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "96AE7854681A5FEA87E720864A0DD700"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9AE5DBBFF48857A290B7D5BBF2C0D16C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45749"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de spanknoppen en wapening van het in aanleg zijnde spuirioolput tijdens de werkzaamheden ten behoeve van de omlegging van het Zwarte Water te Utrecht, tussen de Raiffeisenlaan en de Prof. Leonard Fuchslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A41E2845483051099D084132BD99ADB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84903"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Tuindorp te Utrecht, uit het zuidoosten. Op de voorgrond de Prof. Leonard Fuchslaan en het Zwarte Water, links de Mr. Sickeszlaan en rechts de Linnaeuslaan. Opmerking: Gepubliceerd in: Met de Dom als Middelpunt (kalender 1976, weekblad \"Groot Utrecht\")."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A5BFDD7D4F565114A340F29E7C2F804F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45467"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het storten van de vloer van het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF931F469E795CFCB765F4281A63DAD4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht. Opmerking: Hulskamp fotonummer 15977"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AFFD07F0CD30544199BBD79B7E967590"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45742"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden ten behoeve van de omlegging van het Zwarte Water te Utrecht, tussen de Raiffeisenlaan (links) en de Prof. Leonard Fuchslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B10565575B2658C6B1FF9C0807F61C0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45744"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de in aanleg zijnde spuirioolput tijdens de werkzaamheden ten behoeve van de omlegging van het Zwarte Water te Utrecht, tussen de Raiffeisenlaan en de Prof. Leonard Fuchslaan. Op de achtergrond het rioolgemaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7E4E7B002035A489249032F992EA65F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69485"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden H.F. van Riellaan 2-hoger te Utrecht, vanaf de Juliusstraat. Links van de huizen de ingang van de Prof. Leonard Fuchslaan met achter de bomen schuilgaande Zwarte Water. Rechts de kerktoren van de gereformeerde Tuindorpkerk (H. F. van Riellaan 5a)"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B92BBBA57C2F51ECB72E5C562D3924A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56773"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prof. Leonard Fuchslaan te Maartensdijk.<ZR><ZR>N.B. Deze straat is per 1 januari 1954 bij de gemeente Utrecht gevoegd. Opmerking: Uit: Utrecht in woord en beeld, 1937/38, nr. 27."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1937-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6FF7B086B345C13869CCC4E51C7F1FB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht. Opmerking: Hulskamp fotonummer 15978"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D745576972285966B6853FD56FEE02F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45474"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het betonskelet van het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8B65D2F614D5B09B7258F46C704D2F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45471"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het storten van de wanden van het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D90EB29319E45DE0BC3A1A7C7E333138"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45469"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het leggen van de zinker door het Zwarte Water naar het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDAFA1E3C152598883168B478D21CBE1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56774"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prof. Leonard Fuchslaan te Maartensdijk, uit het noorden met het Zwartewater.<ZR><ZR>N.B. Deze straat is per 1 januari 1954 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1937-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA40B6BA8B48527F88F2404D65CEEC50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het storten van de vloer van het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFB843B8482A5EC49EC7921476D6EE07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45472"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde rioolgemaal aan de Prof. Leonard Fuchslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

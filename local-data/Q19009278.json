@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E795AE64BCA5A96AC2A8BBD7ED624EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85638"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Joncheerelaan te Harmelen, uit het zuidwesten, met middenboven Huize Harmelen (Kasteellaan 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2002-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C2EC750059A538495FBCCAABA5A4744"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5750"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de verplaatsing van een tuinhuisje door een kraanwagen bij een huis aan de Joncheerelaan te Harmelen. <ZR><ZR>N.B. De gemeente Harmelen is op 1 januari 2001 bij de gemeente Woerden gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E89B4520E585D6F911DB0FAC3B71ADF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10507"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen aan de Joncheerelaan te Harmelen uit het noordoosten; met rechts de voor- en rechtergevel van het postkantoor. <ZR><ZR>N.B. De gemeente Harmelen is op 1 januari 2001 bij de gemeente Woerden gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

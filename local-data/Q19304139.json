@@ -1,0 +1,576 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17A33301C3675F32BCC44564F8B56F21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20968"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kloksteeg te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1D13D9356D0653A78622B76D699F1077"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60329"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kloksteeg te Utrecht met rechts de gedeeltelijk dichtgemetselde voorgevels van de huizen Kloksteeg 2-5; kort voor de afbraak. Opmerking: N.B. Dit is een in 1982 gemaakte afdruk van de Fotodienst GAU naar een kleurennegatief in particuliier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1DDBF3EBC63158AFA01707953146812A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60328"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen in de Kloksteeg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E11308F64D35A6C90D939C2029E2888"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61529"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kloksteeg te Utrecht met links de achtergevels van de huizen Lange Jufferstraat 50-52 (vooraan nr. 52, gedeeltelijk), uit het noordnoordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "206A7186377B5C4782A84959FB753933"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen Keizerstraat 47 (links)-hoger te Utrecht, vanaf het dak van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) met in het midden het pand dat met de noordelijke kopgevel aan de Kloksteeg staat; rechts, nauwelijks zichtbaar, de Keizershof en links op de achtergrond het dak van de Utrechtse Universiteitsbibliotheek (Wittevrouwenstraat 11)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C700A0F0D5058919B4C8CDD526CBF28"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "2803"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wittevrouwenstraat te Utrecht uit het oosten vanaf de Wittevrouwenbrug met links de ingang van de Kloksteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CA8031B844452B8B67D15FDFFA7CBAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819009"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kloksteeg te Utrecht, vanuit het einde van de steeg naar de Wittevrouwenstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AF7966F31FF5294A8A70918CE0EFEEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819007"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kloksteeg te Utrecht, vanaf de Wittevrouwenstraat naar het zuidwesten. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F839114E9BF50069DA5E7E42CADA6E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819010"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de westelijke gevelwand van de Kloksteeg te Utrecht, vanuit het einde van de steeg naar de Wittevrouwenstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50F506DB59555E30BCA29D3B6E5BA7CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828649"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de muurschildering met Utrechtse taferelen in de Kloksteeg te Utrecht, vanuit de Wittevrouwenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC2FD6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42903"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pand Lange Jufferstraat 62 te Utrecht, vanaf de Wittevrouwenstraat. Links van het midden de Lange Jufferstraat en rechts de Kloksteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1932-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C993A816E345FADA1E4BF50A1DB48DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kloksteeg te Utrecht, vanaf de Wittevrouwenstraat naar het zuidwesten; rechts de zijgevel van het pand Wittevrouwenstraat 23 en de panden Kloksteeg 1 - hoger. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B051174367B509FBFFEA4D5F82B9ECE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400337"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kloksteeg te Utrecht, met op de achtergrond een deel van het politiebureau Wittevrouwen (Wittevrouwenstraat 44)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83C2661D09DC56C19EE953D14B302D8E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het hoekpand Wittevrouwenstraat 23 (\"TeleCom-Today\") te Utrecht; links de Kloksteeg.<ZR><ZR>N.B. Vanaf ca. 1860 waren in dit pand de volgende bakkers gevestigd: W. Verhoeven, J.C. Martens, P.H. van der Meer en vanaf 1904 tot 1974: Banketbakkerij Huinck. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A002526EDE6457AD8395BEF06C92F620"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25059"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kloksteeg te Utrecht. Opmerking: Afdruk van origineel negatief, 2003"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B00A9879E3645B1AB29F29E234EB73CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820063"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Wittevrouwenstraat 23 (\"TeleCom-Today\") te Utrecht; links de Kloksteeg.<ZR><ZR>N.B. Vanaf ca. 1860 waren in dit pand de volgende bakkers gevestigd: W. Verhoeven, J.C. Martens, P.H. van der Meer en vanaf 1904 tot 1974: Banketbakkerij Huinck. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BDA9D9C43E0C53468B892704AAAD6CF0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60330"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het eind van de Kloksteeg te Utrecht met rechts de voorgevels van de pakhuizen Kloksteeg 4-5; kort voor de afbraak."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C07D88196A9D5616BC5FB6EC244BB7F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60097"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Keizerstraat 47-49 te Utrecht, uit het zuidwesten met rechts een gedeelte van het huis nr. 45 (drukkerij Utrechts Nieuwsblad) met daartussen de Korte Rietsteeg en links de achterzijde van een nieuw gebouwd huis aan de Kloksteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0646B4208705D2482234ADA3A02B94C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60060"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in afbraak zijnde komplex huizen tussen de Keizerstraat (voorgrond, buiten beeld) en Kloksteeg (achtergrond) te Utrecht, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBE1262C942F58348EDE8F0C2BBC4E4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35444"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kloksteeg te Utrecht uit het zuiden, met links de voorgevels van de huizen 2-3, rechts de achtergevels van de huizen Lange Jufferstraat 62-lager en op de achtergrond een gedeelte van het politiebureau Wittevrouwen (Wittevrouwenstraat 44). Opmerking: Fotoreproductie gemaakt in 1981 naar een tekening van Kees van Berendonk uit 1975"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

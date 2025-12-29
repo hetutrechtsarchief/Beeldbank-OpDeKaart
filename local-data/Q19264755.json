@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "59BB94D6749E5FB39F457D3E0468C364"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802415"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Terwijde in het stadsdeel Leidsche Rijn te Utrecht, uit het zuiden; op de voorgrond het Waterwinpark, in het midden de Jean Gilbertlaan en op de achtergrond het bedrijventerrein De Wetering Noord met links de Rioolzuiveringsinstallatie Leidsche Rijn (Proostwetering 60)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2E9B06E7F4C583C8A33A968D857771A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Terwijde in het stadsdeel Leidsche Rijn te Utrecht, uit het zuiden; op de voorgrond het Waterwinpark, in het midden de Jean Gilbertlaan en op de achtergrond het bedrijventerrein De Wetering Noord."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

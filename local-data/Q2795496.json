@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "620C6AA32487568C992EEBF38B6A6142"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "159957"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een met AHOB's beveiligde spoorwegovergang bij het N.S.-station Spaubeek te Spaubeek tijdens het passeren van een getrokken trein bestaande uit rijtuigen plan E en plan W van  de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76D149A8ED7656C78C0FBCCB6A5BF6BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153283"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een electrisch treinstel mat. 1946 (plan A/B) van de N.S. in geel/grijze-huisstijl bij het N.S.-station Spaubeek te Spaubeek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A53502A9F32856C3A305FF62604D5EEB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "159955"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een met AHOB's beveiligde spoorwegovergang bij het N.S.-station Spaubeek te Spaubeek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B9A02AFA8C67513EA60E0B2E85477BC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153282"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Spaubeek te Spaubeek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

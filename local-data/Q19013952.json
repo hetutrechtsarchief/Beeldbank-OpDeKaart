@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01090F2CBDE15000A77A21EE36C4861C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Dorbeendreef te Utrecht, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7B6010F9BCC57B180E0F0A7C4012275"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56171"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kindercreche in een uitbouw aan een flat in de Dorbeendreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB3FBB84471C5517AC8B0EC399FF54E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812593"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Haarlemmerhoutdreef te Utrecht, vanaf de Henri\u00ebttedreef, met op de achtergrond het flatgebouw aan de Dorbeendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED1F3E76F9675998ADF557C849582C60"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119094"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het water langs de De Charmantedreef te Utrecht, uit het westen, met links het flatgebouw aan de Dorbeendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

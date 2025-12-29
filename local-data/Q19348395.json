@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5089DAE96B7E5629BE2164C6E1417E19"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50403"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Overvecht (gemeente Utrecht) uit het zuidwesten, met de begraafplaats en het crematorium Daelwijck, de Gageldijk met bebouwing; het recreatiegebied de Maarsseveensche Plassen, Molenpolder (gemeente Maarssen), de Polder Binnenweg en de Polder De Gagel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-03-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-03-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D100316B91885CE89B9CADC8C352BCEC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de provinciale weg N230 (Zuilense Ring) en de Gageldijk met bebouwing te Utrecht uit het zuidoosten; met in het midden een gedeelte van de Polder Binnenweg, het recreatiegebied de Maarsseveensche Plassen en de Westbroekse Binnenweg met bebouwing te Molenpolder (gemeente Maarssen)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-04-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-04-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

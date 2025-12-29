@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1BE25841FF5B5501BA048E3A658B5714"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8451"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het pension Boschwijk aan de Van Ostadelaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

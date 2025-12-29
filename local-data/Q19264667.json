@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3ADADAC8D7AE57FEA7AF246A5FD85D66"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402351"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe pand van autohandel Verkerk Utrecht BV (Hudsondreef 54) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69A58EEF994763AEE0534701000AE116"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406376"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Wim en Agnes Verkerk van de Volvo-garage Verkerk (Biltstraat 74) te Utrecht. De garage zal binnen afzienbare tijd verhuizen naar de Hudsondreef.<ZR>Zie ook het Utrechts Nieuwsblad, woensdag 12 april 1989: \u201cGarage Verkerk weg uit Wittevrouwen\u201d."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DCE71582D12C583D91A901EB51434275"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816969"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Mississippidreef te Utrecht, uit het zuidoosten, met op de achtergrond de hoek met de Hudsondreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F51EB0D34DB65557A55C6E087DDE62D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23104"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hudsondreef te Utrecht vanuit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

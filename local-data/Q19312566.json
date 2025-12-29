@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FA73E19EF1B5661E0534701000A7AEF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Korte Meentweg (tertiaire weg nr. 6, T6) vanaf de brug over de Kollensloot bij de Slikkendam te Woerdense Verlaat. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over tertiaire wegen in de provincie Utrecht in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 470."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FA909E011CD03FAE0534701000A888D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839276"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Korte Meentweg te Woerdense Verlaat, met op de voorgrond de Kollenbrug over de Kromme Mijdrecht, uit het oosten. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over tertiaire wegen in de provincie Utrecht in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 470."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "56567010D471555682206D6666D34773"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62498"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Lichtenberchdreef (rechts) te Utrecht, vanaf de bouwspeelplaats aan de Neckardreef; links de Korfoedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-02-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-02-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5BB495D6BEFE55F4956D06A367227819"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811005"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rhodosdreef te Utrecht met op de achtergrond de Moezeldreef en de achterzijde van een flatgebouw aan de Korfoedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

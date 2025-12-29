@@ -1,0 +1,940 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0C437E00BA715068B70641CDA0B98897"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813750"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Piet Heinstraat 1 (rechts)-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1EC589526A2D5F008D8BB452E7AADFDC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31443"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de kwekerij Emmelot aan de Minkade langs de Minstroom (Minstraat 5) te Utrecht, met links de hoekhuizen aan de Piet Heinstraat en rechts de Piet Heinbrug en het gebouw met de schoorsteen van wasserij De Zon (Zonstraat 25)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30B132D3E7425A0190187E562B60351E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58085"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 4 (links)- hoger te Utrecht uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "33583EDE450A5C988EE43585BB6F7085"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58088"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 32(rechts)- lager te Utrecht uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C9469D4ED8650E1B47E9FB5505ACC14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58078"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 17 (rechts)- 25 te Utrecht met geheel links de achtergevels van de panden aan de Homeruslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "414B0C7EFD1653F8A393E1A1E09451C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815491"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Minstroom te Utrecht; links de Zonstraat met de ingang van de Zonnehof en rechts het bruggetje naar de Piet Heinstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "47C3ADCBB00E5F9792B5360142A6EC4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58075"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 7(rechts)- 17 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A67089AD68A559DB86E24F4D3FD54DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805931"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Piet Heinstraat 26 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4EF8FA2E8A2E569CB920E0D0C9C5A0CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58087"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de panden Piet Heinstraat nrs. 22(rechts)- 32 te Utrecht uit het westen. Geheel links een gedeelte van de voorgevel Piet Heinstraat nr. 25."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "54A892BEAE6C5CF8A8EF44A7DAE4D0C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58072"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de panden Piet Heinstraat nrs. 1 (links)- 23 te Utrecht uit het zuidoosten. Geheel links enkele panden aan de Abstederdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "597FD39000715257AD7F283BC4E246BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58089"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de panden Piet Heinstraat nrs. 32 (midden)- lager te Utrecht uit het zuidwesten met op de achtergrond de panden aan de Zonstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66CD7A8C3AA2542EBEDA23CFCBA0A76B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58077"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 17 (links)- 25 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D618DB8DFBB5C30ACED2A5306FEE50B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815500"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Piet Heinstraat te Utrecht naar het noorden vanaf de Abstederdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FAAA3DDBCAD5BE8847417320353A6C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815497"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Abstederdijk te Utrecht ter hoogte van de Piet Heinstraat naar het zuiden; rechts op de hoek snackbar \"Ria's Taria\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "70C773ED2FCF5D7F849809EBD006BCA8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820809"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Piet Heinstraat 2 te Utrecht; op de voorgrond de Abstederdijk.<ZR><ZR>N.B. In de jaren '50 van de 20e eeuw was in het pand bakkersartikelenwinkel \"Abstede\" (eigenaar: A. van Bentem) gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-07-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-07-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75C06578872C5C289E66E6AB98FFA8CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 2 (midden)- hoger te Utrecht uit het zuidoosten met op de voorgrond de Abstederdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76C1B9018B135F9293AE944A0908C04E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58090"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 32 (rechts)- lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "772D954B99EF5DC189CD3087ED09F3A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58074"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 1A (rechts)- 7 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82934F26CD6955DFB5BCCEFAAD1935B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 2 (midden)- 8 te Utrecht uit het zuidoosten met op de voorgrond de Abstederdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8369D33569805B7F93339A88F34AF5DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de onderpui van het hoekpand Piet Heinstraat 2 te Utrecht; op de voorgrond de Abstederdijk.<ZR><ZR>N.B. In de jaren '50 van de 20e eeuw was in het pand bakkersartikelenwinkel \"Abstede\" (eigenaar: A. van Bentem) gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-07-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-07-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "919120B19F285F36ABBACF9ED20A4083"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20735"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Piet Heinstraat 25 (links)-lager te Utrecht met op de voorgrond de Piet Heinbrug. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9222200210F3582BA895057FE1235810"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58073"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 1 (rechts)- hoger te Utrecht uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92DF6DC2667357688EE2728FC48BAF55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58080"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 19 (rechts)- 25 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E803336B5785405AE45CF0AFFC499B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815496"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Piet Heinstraat 8 -hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7BE54044A1F563B852B484A7F69E0AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58086"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs.20 (links)- 32 te Utrecht uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BBF8861F5DF75029B3551ED75C4A1BD6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815498"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein aan de achterzijde van de nieuwbouwwoningen aan de Abstederdijk (rechts) en de achterzijde van de huizen aan de Piet Heinstraat (even zijde) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9B1B186F2415504A7CB3E358C7EFB46"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58079"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Piet Heinstraat te Utrecht met links de voorgevels van de nrs. 26-32 en rechts de voorgevels van de nrs.19-25; op de achtergrond de achtergevels van de panden aan de Homeruslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E222AA51B3815BE491F9E4F66E1E3326"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85376"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van Oudwijk te Utrecht, uit het zuiden, met in het midden de Oudwijkerdwarsstraat. Op de voorgrond de Minstroom en de Zonstraat, met rechts de Minstraat en de Piet Heinstraat. Achter de Zonstraat de Homeruslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E7A39B698A5C5648A1009794572431F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58076"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 9(rechts)- 25 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED598280D0865E4996DF782A65E540BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51170"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Abstederdijk 178-lager te Utrecht, vanaf de oprit naar het huis nr. 180 A, uit het noordoosten; op de voorgrond een moestuin met links een deel van de achtergevel van het huis nr. 180 en geheel rechts de achterzijde van de huizen aan de Piet Heinstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF5C6CCAD84D59AA8879E88EFCA1E384"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58082"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 2 (midden)- 8 te Utrecht uit het zuidoosten met op de voorgrond de Abstederdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2DBEE5D2A925173962AA550E30F5607"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58081"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Piet Heinstraat nrs. 23-25 te Utrecht met links de Piet Heinbrug over de Minstroom. Op de achtergrond de panden aan de Homeruslaan"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F44471F8487D5AD689E221D440ABDCEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600161"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een optocht, voorafgegaan door een fanfare, tijdens een buurtfeest in de Piet Heinstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32D4EC40DE075004A75607DCF6A172C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809137"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw Van Eechoudlaan 17-135 te Utrecht, vanaf de hoek met de Azi\u00eblaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D9FB79F5A1D5E0982CF90F4193A51AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809138"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Eechoudlaan te Utrecht, vanaf het plantsoen aan de Azi\u00eblaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

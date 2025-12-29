@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8020E0B5DF29B5AEE0534701000A2293"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839303"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provinciale weg P03 te Wilnis (tegenwoordig de Ingenieur Enschedeweg), met links de Hervormde Kerk. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P03 (Woerden-Vinkeveen) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 480."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "80215FCCE42C703DE0534701000AF0BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839316"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provinciale weg P03 (Ingenieur Enschedeweg) te Wilnis, met rechts de Hervormde Kerk. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P03 (Woerden-Vinkeveen) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 480."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB5C788F5C115485A8679E50A3C8936B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50505"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Polder Wilnis-Veldzijde te Wilnis uit het zuiden; met in het midden de Wilnisse Zuwe en de provincialeweg N212 (Ir Enschedeweg).<ZR><ZR>N.B. De gemeente Wilnis is per 1 januari 1989 opgenomen in de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

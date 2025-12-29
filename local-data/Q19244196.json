@@ -1,0 +1,156 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "42FE1C865A5A5C2D994735E6414D21B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50011"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het gebouw van de Stichting Centrale Woningzorg (Heiligenbergerweg 60) te Amersfoort uit het zuiden. Opmerking: Het gebouw van de Stichting Centrale Woningzorg is op de foto geaccentueerd door een kaderlijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-07-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-07-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "47894D534A5B51299E0527C41D72F7CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13037"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het landhuis Randenbroek (Heiligenbergerweg 113) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D3D90B14EF2653779D4F551C28AF44DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13036"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Randenbroek met omringend park (Heiligenbergerweg 113) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0AC76344892583CA0938DF34490F078"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13154"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Heiligenbergerweg met loofbomen te Amersfoort uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7134F9D49675757837FA7B67CFBDA5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50016"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het gebouw van de Stichting Centrale Woningzorg (Heiligenbergerweg 60) te Amersfoort uit het westen. Opmerking: Het gebouw van de Stiching Centrale Woningzorg is op de foto geaccentueerd door een kaderlijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

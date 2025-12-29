@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D351480B1AD51719F0E17F2A4E18598"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805261"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Abstederdijk 131 te Utrecht met links de Abstederhof. Opmerking: Op de plaats van de in 1973 afgebrande boerderij zijn in 1988 de woningen Abstederdijk 129-129A-131 en Abstederhof 1 gebouwd.<ZR>In de gevel van Abstederdijk 131 is een door Joop Wouters vervaardigde gevelsteen geplaatst voorstellende twee ineengeslagen handen (samenwerking van de buurtbewoners met gemeente) en de tekst Basta 1988 (Basisprogramma voor de Stadsvernieuwing Abstede)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DBB262E322C5B11943E16BF92B2E200"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23462"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Abstederhof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

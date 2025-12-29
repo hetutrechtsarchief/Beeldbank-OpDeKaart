@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22BDB704311E5021842EC2018D061F28"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350714"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park De Koppel in de wijk Lunetten te Utrecht, met links de huizen aan de Seychellen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3FBB1BDE7A0F547199CF6F5FCEEC62F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23402"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Seychellen te Utrecht met rechts het Park de Koppel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "64CA803A12CA51DABFE3B6A9AAEC2F58"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30517"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van huizen in de wijk Lunetten te Utrecht: links Filipijnen 19-21-23, in het midden twee blokken wooneenheden aan de Seychellen en rechts (met het lage dak) Seychellen nrs. 1-3, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-10-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

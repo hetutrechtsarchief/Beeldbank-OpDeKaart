@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E7AAE8E99676505582A0A8B652D5B5BA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816062"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de (afgesloten) doorgang naar de binnenplaats van de nieuwbouwwoningen aan de Overwinningslaan te Utrecht, met links het huis Eisenhowerlaan 45 en rechts het huis Eisenhowerlaan 43."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

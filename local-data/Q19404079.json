@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EE7B025EF1059FC890CEEAC45787A04"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500645"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een ooievaar op een lantaarnpaal in de P.G. van Nieuwkerkstraat te Utrecht. Opmerking: Zie ook Utrechts Nieuwsblad, 27 maart 1986: \"Ooievaar betrekt lantaarnpaal in stad\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D94B250C379D5FFFB05A20106FF9DED9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65711"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde huizen Burgemeester Norbruislaan 256-258 te Utrecht; links de zijgevel van het huis P.G. van Nieuwkerkstraat 47, met een viertal bergingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

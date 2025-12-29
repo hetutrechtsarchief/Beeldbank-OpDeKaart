@@ -1,0 +1,912 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0312B6A9084A5DDFB43F7169124DB890"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de omloop van het restaurant WT Urban Kitchen (Heuveloord 25A) te Utrecht, gevestigd op de bovenste verdieping van de watertoren aan de Vaartsche Rijn. Opmerking: De foto is gemaakt voor de website www.bouwpututrecht.nl"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D288DEDADE95DB984E01CE1F1116D61"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "36029"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vaartsche Rijn te Utrecht op de achterzijde van de huizen aan de Heuveloord, nrs 19-25, uit het noordwesten. Opmerking: De tekening is ook uitgegeven als prentbriefkaart: cat.nr. 603273."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC-ND 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B0B02B35BBA5143BD0BC06841ECCBB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71844"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Vaartsche Rijn gelegen gebouwen te Utrecht, vanuit het noorden. Geheel rechts op de achtergrond enkele panden aan het Heuveloord. links van het midden enkele panden aan de Helling."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "204069631CCF5721860D971EB29BE3CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25454"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele gebouwen van de tegelfabriek Westraven te Utrecht, hier in gebruik als bedrijfsruimte voor Witteveen Verwarming (Heuveloord 17). Op de voorgrond de Vaartsche Rijn. Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25E0E8B6079A55FE8510EBF90E4E42FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20210"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vaartsche Rijn te Utrecht met op de achtergrond enkele huizen aan het Heuveloord; rechts de watertoren aan de Vaartsche Rijn en links enkele bedrijfsgebouwen. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "28D8E54B6A1D5CF98DD7A250E33A0AAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vaartsche Rijn te Utrecht op de achterzijde van de huizen Heuveloord 19 - 25, uit het noordwesten. Opmerking: De originele tekening is beschreven onder cat.nr. 36029."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC-ND 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2CF950B8B2DD5848801E4998778DFA01"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20209"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele gebouwen van de tegelfabriek Westraven (Heuveloord 112) te Utrecht met op de voorgrond de Vaartsche Rijn. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40D14CF43FFC58BF84E838B497016324"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw Heuveloord 27 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "428519F951A75C809993CF6CBF9A0F28"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815471"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vaartsche Rijn te Utrecht vanaf de Jutfaseweg uit het noorden; centraal de watertoren aan het Heuveloord."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43471C6AEC045A77B4A3021DFFFF85E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58388"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van de tegelfabriek Westraven (Heuveloord 112) te Utrecht, tijdens de sloop, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "487879B3F4C05C5FB3F93718D3C73564"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25455"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tegelfabriek Westraven (Heuveloord 112) aan de Vaartsche Rijn te Utrecht, uit het noordwesten. Het gedeelte rechts van het midden is in gebruik als bedrijfsruimte voor Witteveen Verwarming (Heuveloord 17). Rechts de watertoren. Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4ECB7474B36952F6B24C26A1406D54E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69615"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vervallen gebouwen van de voormalige wasserij Staatsen (Rotsoord 24) te Utrecht vanuit het oosten. Op de voorgrond de Briljantlaan en rechts op de achtergrond de watertoren aan de Heuveloord."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A2C2496A66E5F4B99F1E1CD3B794FDE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808141"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vaartsche Rijn te Utrecht, vanaf de spoorbrug, uit het noorden, met links de watertoren aan het Heuveloord."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-09-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-09-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D0ED1109EA555C9925F0078AF7C17B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20626"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voet van de watertoren aan de Vaartsche Rijn te Utrecht met op de achtergrond het gebouw Heuveloord 27. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F243917AE2397E7E0534701000A8DED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406486"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de gerestaureerde watertoren aan het Heuveloord te Utrecht, tijdens een open dag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76DFE76B623255CDBE8C41B1EBDDE822"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71863"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vaartsche Rijn te Utrecht, met rechts op de achtergrond de watertoren (Heuveloord, tussen nr. 25 en nr. 27)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78E2F86992731DF1E0534701000A17F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837773"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de watertoren aan het Heuveloord te Utrecht, met op de voorgrond de Vaartsche Rijn. Opmerking: De foto (18 x 24 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 384. De foto is gemaakt ten behoeve van de publicatie \"Watertorens\" (Stichtse Monumenten Reeks), door Roland Blijdenstijn. Fotografie: Henk Bol (1992)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "799D508F728B5D9A9DAA0D9C1590B4CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de watertoren aan de Vaartsche Rijn te Utrecht, bij avond, met op de bovenste verdieping gevestigd het restaurant WT Urban Kitchen (Heuveloord 25A). Opmerking: De foto is gemaakt voor de website www.bouwpututrecht.nl"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D98269EE7F95D1C892C6BFF75F98872"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800547"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een loods van de voormalige tegelfabriek Westraven te Utrecht (Heuveloord 17) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "820D1810657D529B929EA4973716FCB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815472"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het voormalige kantoorgebouw van de Tegelfabriek Westraven (Heuveloord 112) te Utrecht.<ZR><ZR>N.B. Boven de voordeur een klein tegelplateau dat verwijst naar de voormalige eigenaar."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C58FF4865FD5C41A272D57CFE507C3C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58387"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van de tegelfabriek Westraven (Heuveloord 112) te Utrecht, tijdens de sloop, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A55B6BB9E6A50AA946D0C24F2D40A51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815287"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pand Heuveloord 27 te Utrecht; op de achtergrond de Vaartsche Rijn en de Jutfaseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CA20828CECB5E4393DD186642597B0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58385"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Heuveloord te Utrecht, uit het noorden met op de achtergrond de watertoren aan de Vaartsche Rijn. Opmerking: In 1981 vervaardigde reproductie van een omstreeks 1950 gemaakte foto.<ZR>De originele foto bevindt zich in particulier bezit, Utrecht, 10 februari 1981."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E09243142675AA3AC2FDF6423B0A2EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vaartsche Rijn te Utrecht met enkele huizen aan het Heuveloord; op de achtergrond de watertoren aan de Vaartsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE9A3885A10C5A35A9BBC3022DF72BBA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van de tegelfabriek Westraven (Heuveloord 112) te Utrecht, tijdens de sloop, uit het noorden met links de watertoren aan de Vaartsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD44D7E7CA555B03854A8206C695AE1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vaartsche Rijn te Utrecht, uit het noorden, met links de garage van Auto Boll (Helling 5) en de concertzaal Tivoli De Helling (Helling 7), in het midden de watertoren aan het Heuveloord en rechts de Jutfaseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-04-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-04-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D2A47EDBE7E25B939992F49656D6E63C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71859"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vaartsche Rijn te Utrecht, met rechts de Jutfaseweg. Links de achtergevels van de panden Heuveloord 17-25 met de watertoren en de panden Rotsoord 3-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB7B7BDBD3B05DBE89916BCB48CADDEA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35389"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en een gedeelte van de achtergevel van het huis Heuveloord 27, gelegen aan de Vaartsche Rijn te Utrecht, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E25811228EFA5E4FBBB640E3C10BF363"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815291"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het kantoorgebouw van de tegelfabriek \"Westraven\" (Heuveloord 112) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6497B14E1D857E8A624214705349C57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58386"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de tegelfabriek Westraven (Heuveloord 112) te Utrecht, tijdens de sloop, uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F33C722217B55AAF8C20DD8BB161BA26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94538"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vaartsche Rijn met enkele bedrijfsgebouwen te Utrecht uit het zuiden; met op de achtergrond de watertoren aan het Heuveloord. Opmerking: Een in 1992 gemaakte fotoreproductie van een in ca 1915 vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5CB7070C4445E9AA360B516568E695F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58389"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van de tegelfabriek Westraven (Heuveloord 112) te Utrecht, tijdens de sloop, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

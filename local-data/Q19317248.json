@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "547C8C6D4F7A5E009C03EBE6F198CAB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50226"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een boerderij aan de Laapeerseweg te Leusden, uit het oosten. Op de achtergrond het Valleikanaal en de wijk Bosveld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

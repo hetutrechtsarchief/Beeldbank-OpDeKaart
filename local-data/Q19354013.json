@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4DBC50DAADD25ACE8158731BEA9B1720"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Niasstraat te Utrecht, uit het oosten; op de achtergrond de Groeneweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "808014A259C4532FB6921F94B461D1B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127066"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Niasstraat 8 (links, Tandartsenpraktijk Jaffapark)- lager te Utrecht; links de ingang van de Sapoerahof en rechts op de achtergrond de Groeneweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

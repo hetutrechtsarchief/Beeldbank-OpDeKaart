@@ -1,0 +1,828 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08725C84071E56F986FB8FC61CF1C4DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54689"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht, uit het noorden, met de huizen nrs. 27 (links)-lager; op de achtergrond de kruising met de Vleutenseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08AB3AD367DD578D808F1A65C811B987"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54690"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de dependance van de basisschool Villa Nova (Rhijnvis Feithstraat 2/ Bakhuizen van de Brinkstraat 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0FF472BC130B5CE68C0515337CB8DE21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814955"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden ten behoeve van de verbetering van het wegdek van de Vleutenseweg te Utrecht. Op de achtergrond de ingang van de Busken Huetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A8C98313BC95ED7985D22DCE1BAB48E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72311"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Vleutenseweg 341 (rechts) -347 te Utrecht. Links de ingang van de Hasebroekstraat en rechts de ingang van de Busken Huetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "334BF4318F0B5460860D01A4095C363F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500723"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen H.J. Schimmelplein 44 (rechts) -hoger te Utrecht, na de bestrating van het plein. Links op de achtergrond de Busken Huetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35D9C5A5C15550008E2458A31FC565D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72310"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Vleutenseweg 335 (midden) -lager (rechts) en de huizen Busken Huetstraat 1(links van het midden) -hoger (links) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3988FCADEBE058589FC4E5CF48294D2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19403"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen in de Busken Huetstraat te Utrecht vanuit de Bakhuizen van den Brinkstraat. Opmerking: Zie: Utrechts Nieuwsblad, 7 augustus 1998"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "476E7DB33A535F9489C3157D0CD1186D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85570"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de Vleutenseweg en omgeving te Utrecht, uit het zuiden. Op de voorgrond een gedeelte van de wijk Lombok. In het midden het gedeeltelijk kaalgeslagen terrein tussen de Busken Huetstraat en de Bosboom Toussaintstraat (Alberdingk Thijmstraat en omgeving). Daarachter de nieuwe Villa Novaschool (Staringstraat 1) en het H. J. Schimmelplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "48F2C113E2F55BE49D15D86C95CB690F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403745"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het (modderige) H.J. Schimmelplein te Utrecht, met de huizen H.J. Schimmelplein 44 (rechts) -hoger. Links op de achtergrond de Busken Huetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-12-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-12-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D69FD6F198451AA8B5F9E2634CEFE57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52903"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Bakhuizen van den Brinkstraat te Utrecht met de huizen nrs. 2-hoger; rechts de huizen nrs. 1-hoger en links op de voorgrond de zijgevels van de huizen Busken Huetstraat 54-58."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "53E32A6D4C2D5C6EA01845139627043C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822826"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Staringstraat te Utrecht vanuit de Busken Huetstraat naar het oosten; links nieuwbouw van de R.K. Basisschool Villa Nova."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "59D96942B4A2582783AD85F12CBCDEEA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Vleutenseweg 335 (Wilfred Mulder - Haarmode) - lager te Utrecht; links de ingang van de Busken Huetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5AA0906D7AC45F0C97658842FFB8154A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54696"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de huizen nrs. 48 (rechts)-lager; geheel rechts de ingang van de Bakhuizen van der Brinkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CBDE06B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500001"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St. Franciscusschool (R.K . Fr\u00f6belschool, Thomas \u00e0 Kempisstraat 1/ R.K. Meisjesschool, Rhijnvis Feithstraat 2) te Utrecht, vanaf de kruising met de Busken Huetstraat.<ZR><ZR>N.B. De straatnaam Thomas \u00e0 Kempisstraat is in 1934 gewijzigd in Bakhuizen van den Brinkstraat.<ZR>In het schoolgebouw is ca. 1980 de dependance van de Thomas \u00e0 Villa Novaschool gevestigd. In ca. 1993 is het gebouw gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1923-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B7E3B65C590579B8F27F3BF1A1D8B54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54695"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de huizen nrs. 48 (midden op de acgregrond)-lager; links de huizen nrs. 27 (links)-lager; op de achtergrond enkele huizen aan de Vleutenseweg; rechts een gedeelte van de dependance van de basisschool Villa Nova (Rhijnvis Feithstraat 2/ Bakhuizen van de Brinkstraat 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CF480427DEC5F41B0714E50BA406C5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19402"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele voor de sloop bestemde huizen in de Busken Huetstraat te Utrecht vanuit de Bakhuizen van den Brinkstraat. Opmerking: Zie: Utrechts Nieuwsblad, 7 augustus 1998"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "84504E21F3685E3DAA0A7D175B342A7E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602264"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Busken Huetstraat 2 (links) -18 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-07-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-07-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "95613D3E23F55D56B908AC02633C17BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52901"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dependance van de basisschool St. Thomas \u00e0 Villanova (Bakhuizen van den Brinkstraat 1/ Rhijnvis Feithstraat 2) te Utrecht, vanaf de kruising met de Busken Huetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB0D8DF37AEE569EAD66DB17FEDD81BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123298"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekhuis van de Busken Huetstraat (links) met deThomas \u00e0 Kempisstraat te Utrecht.<ZR><ZR>N.B. De straatnaam Thomas \u00e0 Kempisstraat is in 1934 gewijzigd in Bakhuizen van den Brinkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD32832D1A2B52A18B68A438FEEBC9C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72309"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Vleutenseweg 335 (links) -329 te Utrecht. Geheel links de ingang van de Busken Huetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B115C7C6BE0A5753A891668019EA5999"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69432"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linker zijgevel van de dependance van de Thomas \u00e0 Villanovaschool (Rhijnvis Feithstraat 2) te Utrecht; geheel links de ingang van de Busken Huetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD354643FB125D0BA84D8BBF358B2CB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "81193"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouwencomplex, waaronder  een  kerk, verschillende scholen en een huizencomplex, in de Parochie van O.L. Vrouw van Goeden Raad bij de Busken Huetstraat te Utrecht. Opmerking: Litt.: Ge\u00efllustr. weekblad voor Nederland, 7 juli 1923"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1923-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1923-07-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD3FE0AB4E5E50DDA732E862706932DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19400"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele voor de sloop bestemde huizen in de Busken Huetstraat te Utrecht vanuit de Bakhuizen van den Brinkstraat. Opmerking: Zie: Utrechts Nieuwsblad, 7 augustus 1998"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD6E186B89E05FC2930D067F9CB08B7F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54691"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de voorgevels van de huizen nrs. 9 (rechts)-1; links op de achtergrond de ingang van de Alberdingk Thijmstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9D8F0EFC79E568F9CB26D80FEE85792"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54694"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de voorgevels van de huizen nrs. 46 (rechts)-lager; links een vuilniswagen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE8DEA13CD2353C49DA0B83A5D33EFFE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822829"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Busken Huetstraat (rechts) - hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEF89455F63D5CB9B1CF6BC7F22BE096"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54693"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de huizen nrs. 17 (rechts)-29; op de achtergrond het kerkgebouw O.L. Vrouw van Goeden Raad (Bosboom Toussaintstraat 18) en de aangebouwde pastorie (Busken Huetstraat 29)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB046746E1DE5651BDFC70DAB5FC1A95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19398"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele voor de sloop bestemde huizen aan de Busken Huetstraat te Utrecht; links de Alberdingk Thijmstraat. Opmerking: Zie: Utrechts Nieuwsblad, 7 augustus 1998"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F000786AF7FB5DC8998EB659BE05B3A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54692"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de huizen nrs. 11 (midden)-lager; links de Alberdingk Thijmstraat met de huizen nrs. 30 (hoekhuis)-lager; rechts op de achtergrond de kruising met de Vleutenseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

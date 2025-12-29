@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4DEC6E9B5ECC5FD3BCE76681DE027AC8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160112"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Swalmen te Swalmen: bloktoestel. De rechterhelft van het toestel is aangepast aan de NX-beveiliging van Roermond. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-07-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-07-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9801AE477725E42892A90DD8EBB627E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160161"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een enkelvoudig vertakkingssein met voorsein als inrijsein van het N.S.-station Swalmen te Swalmen (zijde Roermond). Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-08-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-08-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

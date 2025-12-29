@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "040453D1C1BB5E4988F4A0ADBBDF3A4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117132"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hazenhof 20 (links) -30 te Vleuten (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46552DB2E3E15B309124C70F2459ED35"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Vrijthof te Vleuten (gemeente Utrecht) uit het zuidoosten; links de ingang van de Hazenhof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6CCB53B5FA145A9E9493EFBCA95B77EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Vrijthof te Vleuten (gemeente Utrecht) met op de achtergrond de achtergevels van enkele huizen aan de Koningshof; rechts de ingang van de Hazenhof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

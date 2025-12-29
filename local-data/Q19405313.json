@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CB5A17AAB1850B38DD235703E429A3C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50989"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het landgoed Dijnselburg te Zeist, uit het zuiden, met op de voorgrond de rijksweg A28, haaks daarop de Panweg en de daaraan gelegen sporthal Dijnselburg (Badmeester Schenkpad 2) en het kampeerterrein De Dijnselhoek (Badmeester Schenkpad 1). In het midden de Amersfoortseweg en daarachter Bosch en Duin."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D2C89A90987351198209E38C26C5CA1C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15620"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Panweg met de voorgevels een rij huizen (type H) en beplanting te Zeist. Opmerking: Lit. Zeist, Groei en Bouw, deel Patijnpark, Dorpskern en Wilhelminapark, p. 159-166."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

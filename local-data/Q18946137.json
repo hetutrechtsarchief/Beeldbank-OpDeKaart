@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3320AF2C19C6585CAB8D3679DB0AF40C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158024"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog vernielde spoorviaduct over de Benedendorpsweg te Oosterbeek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1908202B6C752838F9600D2627E52CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158023"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog vernielde spoorviaduct over de Benedendorpsweg te Oosterbeek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B28E650079075BBBBA72DC1947C89DBC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158025"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tijdens de oorlog vernielde spoorbaan tussen het N.S.-station Oosterbeek Laag en de Rijnbrug te Oosterbeek, uit het noorden. Op de voorgrond het spoorviaduct over de Benedendorpsweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

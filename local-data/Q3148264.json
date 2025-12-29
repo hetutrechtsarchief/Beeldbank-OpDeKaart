@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A7EE0CA6F595A4A8FBA9D5B1C92DC6B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150229"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de wachtruimte (\"Leidse Abri\") van het N.S.-station Delfzijl West te Delfzijl."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

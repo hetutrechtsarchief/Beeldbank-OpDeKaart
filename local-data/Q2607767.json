@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "421783D033AF5CF8BDA120CE0C542FC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Heerenweg te Warmond, met op de achtergrond de spoorwegovergang en overwegpost bij het station Warmond van de H.S.M. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB7EE3E252FA563BA6636A0639AFB2C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164807"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Warmond te Warmond, met links van de overweg het seinhuis post T. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

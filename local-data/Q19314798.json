@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D152C4DF16D5C148ED373030A9D9E4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7369"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Krugerlaan te Baarn uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A883A0334FD254BEBC4BC54EA9787504"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7775"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Villa Hooggelegen aan de Krugerlaan te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFA132254C5E57A8B08A36568ECFB5B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7807"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linkerzijde van het huis Wilhelminahoeve aan de Krugerlaan te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

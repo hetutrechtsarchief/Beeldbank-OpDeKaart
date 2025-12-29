@@ -1,0 +1,2816 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "004AA7C0C1BE511C8DA200063AA02174"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93211"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de achtergevel van het landhuis Nieuwerhoek met omringend park  (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "027D08C7B7BF5B48818C1C8163892C10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): versiering van een deur naar een vertrek met daarboven stucwerk met een figuur in de gang. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0283851F93B25785B3BCC96371C6B9B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11436"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het noorden; met op de achtergrond het latere restaurant Het Koetshuis (Rijksstraatweg 106)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04CED2CCC798583A82922DA4BE19CE31"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93227"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): het dak met roedenverdeling van de koepelserre. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09D8F419823A541BBED0FD98398E0C74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11435"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het noorden; met links op de achtergrond het latere restaurant Het Koetshuis (Rijksstraatweg 106) en rechts de linkergevel van het hotel Raadhuis van Kronenburg (Rijksstraatweg 113-115)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1901-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A0F553B1D2B5D67B19E3D063293037A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het noorden; met rechts de voorgevels van de huizen nrs. 75-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1907-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DCB2B6B082C53CCBB4645DC8B6CD6A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11424"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het zuiden; met links de voorgevels van de huizen nrs. 73-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1034114280315D0BB4A34C381D5610CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93250"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Rijksstraatweg 116-114/Molendijk 1 te Loenen  (gemeente Loenen aan de Vecht); met links de voorgevels van de huizen Spinnerie 1-3. Opmerking: Lit. MIP Loenen, p. 395 (Rijksstraatweg 116-114/Molendijk 1) en p. 420-421 (Spinnerie 1-3)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10F77D9A91F651F39FADCB17E635BAFF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11441"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijksstraatweg met de voorgevels van een rij huizen te Loenen uit het westen; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1558A4A7EA3D5ABE9E82449DE0C5223D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het restaurant 't Koetshuis (Rijksstraatweg 106) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1AB5102C172458B0A6E99ECA63BDA9DD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linkergevel van het landhuis Middenhoek (Rijksstraatweg 55) te Loenen.  <ZR><ZR>N.B. Het landhuis is in 1956 afgebrand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CBC82E947405EB8BD50596E3E1AFF79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93256"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de boerderij  'T- Huis Te Velde met zomerhuis (Rijksstraatweg 168-170) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 397-398."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "214AB71D5C855ABF97AB7B74AEA35150"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93257"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het erf en de linkergevel van de boerderij Rijksstraatweg 105 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24831D3439975E5BBFA2520F40ED81E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93224"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): een gedeelte van het beschilderde behang met arcadisch landschap in de blauwe kamer. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "26A375F82C8B5B549EBE13E006A436F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93265"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van het Raadhuis van Kronenburg (Rijksstraatweg 113-115 (ged.)) en het herenhuis Rijksstraatweg 117 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 395-396."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D6E1E2505025C61A06DFE8777718298"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93266"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de deur van het herenhuis Rijksstraatweg 117 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 395-396."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31DEBCAF8B7854C39935786DCD893729"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93246"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van twee winkelpanden aan de Rijksstraatweg te Loenen (gemeente Loenen aan de Vecht); met links een dorpspomp en op de achtergrond de toren van de Nederlands Hervormde Ludgeruskerk.<ZR><ZR>N.B. De winkelpanden zijn later afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32E6011F47065CF7AE5EF29C3E6E9CD4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93215"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de deur van de dienstingang van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3536131A89585B60BEEBDE14F0463DE8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linkergevel van het landhuis Middenhoek met het inrijhek (Rijksstraatweg 55) te Loenen.  <ZR><ZR>N.B. Het landhuis is in 1956 afgebrand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "395B7D0641E456988CEE3CFE61CAF18E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93235"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van het Rechthuis van Loenen en Nieuwersluis met koetshuis (Rijksstraatweg 102-104) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 390-392."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BB4CEE9844F58119D752068F570148B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11554"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de villa Het Uijltje (Rijksstraatweg) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1918-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1922-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C0FE659FF415CD59A7380E5CF25A0C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11540"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van de buitenplaats Middenhoek (Rijksstraatweg 55) te Loenen; met links de voorgevel van het landhuis. <ZR><ZR>N.B. Het landhuis is in 1956 afgebrand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4458278984745164AEC00B5C626B0CED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11427"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het zuiden; met rechts een theekoepel. <ZR><ZR>N.B. De theekoepel is later afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46EF60185AB559E29E518A42DC25C434"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93252"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijksstraatweg met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "48C7840834AA54248A77C56B0E492362"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93244"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het restaurant  met doorrijschuur 't Koetshuis (Rijksstraatweg 106) te Loenen (gemeente Loenen aan de Vecht); met rechts een gedeelte van de voorgevel van het Raadhuis van Loenen en Nieuwersluis (Rijksstraatweg 104)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A05FAEB438555C39392473B81B5EB78"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11539"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van de buitenplaats Middenhoek (Rijksstraatweg 55) te Loenen; met links de voorgevel van het landhuis. <ZR><ZR>N.B. Het landhuis is in 1956 afgebrand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4CC5B61A58975D8AA75BC49BE2DCB381"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11547"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4CF02DD366655D859B425820317A7012"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93259"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het Raadhuis van Kronenburg (Rijksstraatweg 113-115) en de linkergevel van het herenhuis Rijksstraatweg 117 (ged.) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 392-396."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "509D89B323EF5DBBAADCEBAF1A62E3AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93213"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een grote tuinvaas in het park van de buitenplaats Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "570C6D7A99FD5913AC9305C457CAE4D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93240"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van 't  Koetshuys met doorrijschuur (Rijksstraatweg 106) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "57B9A3AACDC35D4D983FD42162EE017A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93249"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Rijksstraatweg 116-114/Molendijk 1 te Loenen  (gemeente Loenen aan de Vecht); met links de voorgevels van de huizen Spinnerie 1-3. Opmerking: Lit. MIP Loenen, p. 395 (Rijksstraatweg 116-114/Molendijk 1) en p. 420-421 (Spinnerie 1-3)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A951782517254A58E30A70F871785DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93254"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij  'T- Huis Te Velde (Rijksstraatweg 170) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit MIP Loenen, p. 397-398."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CD69FCEC4E35EC79A4D8B3937409D1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11442"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijksstraatweg met bebouwing te Loenen uit het westen; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D564BB2C786548DB4047E4FE4FB107D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): de deur aan de tuinzijde van de koepelserre met planten en een rieten stoel. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60C0543EBE395A4CA5F1676D949488FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93218"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): de dubbele deur naar een vertrek met daarboven een figuur in stucwerk. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6467DAE6724D5E298E7C9F660D4616EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11431"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het westen; met links een doorrijschuur en op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B890769BB08585686BFD134F0549D95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93243"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de doorrijschuur van het restaurant 't Koetshuis (Rijksstraatweg 106) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FBB11A6EC7F5F8CABDFAEA3FE008D2F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): het dak met roedeverdeling van de koepelserre. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "763E6F6F683D5AF391D2D5AFD500218F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11429"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het noorden; met links de voorgevel van het gemeentehuis (Rijksstraatweg 104)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "788509FB50DA525790058C0FC6162F88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11541"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Middenhoek met omringend park (Rijksstraatweg 55) te Loenen.  <ZR><ZR>N.B. Het landhuis is in 1956 afgebrand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "79F0DA1B8DC055E780F37E4AD91157BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93228"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): rustieke rechterwand met planten in de koepelserre. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B0203D949065014BF3CA552B74CA07D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93251"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het huis Rijksstraatweg 116-114/Molendijk 1 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 395."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C408AD1339156B38CC1BF6DAD403670"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11533"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel met het hotel Raadhuis van Kronenburgh (Rijksstraatweg 113-115) te Loenen; met een groep personen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1903-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "80DE977AAD7F552EA740C3CE4DCA0DE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): de trap naar de eerste verdieping met leuning in houtsnijwerk. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81CDCD22D0CE5764A0439FB37386A853"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93264"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van het Raadhuis van Kronenburg (Rijksstraatweg 113-115 (ged.)) en het herenhuis Rijksstraatweg 117 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 395-396."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8894EE11776A5BDC85A7DE98C58B3059"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93212"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel met koepelserre van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C624C9156BF55EA91F0CC91A7C0A13C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93260"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het Raadhuis van Kronenburg (Rijksstraatweg 113-115) en de linkergevel van het herenhuis Rijksstraatweg 117 (ged.) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 392-396."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CB4484F62A55AF5BE49E47E6C5CA1B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93263"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het herenhuis Rijksstraatweg 117 en de voorgevel van de boerderij 't Amsterdammetje (Rijksstraatweg 119) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 395-397."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9273464BDC395FE6B9099D162FD00AE4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93226"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): de koepelserre met planten en rieten stoelen. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "950F0D1FEC085DF3A8E41E60EB434416"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het toegangshek van de buitenplaats Klein Kronenburg (Rijksstraatweg 84) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 384."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "961324C5FEAA500F84A578D512A3E1C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11531"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel met het hotel Raadhuis van Kronenburgh (Rijksstraatweg 113-115) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1901-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98ECE3011E6A511985D19234C2F26D29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11434"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het oosten; met rechts de voorgevel van het herenhuis Rijzicht.<ZR><ZR>N.B. Het herenhuis Rijzicht is later afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C68689F513E55E58AB9C53BF85AF5D9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93253"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij  'T- Huis Te Velde (Rijksstraatweg 170) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 397-398."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A404D776E1355DD2B8DBFA9EFDF67007"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93208"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 376-379.<ZR>Een in 1979 gemaakte reproductie van een ca 1895 vervaardigde foto. De originele foto bevindt zich in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A4742B69E4935912BB001861A13A2F98"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11514"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van de lagere school te Loenen (Rijksstraatweg 98-102); met op de voorgrond een grote groep kinderen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A48BC2BF62A958508036D8A4D574AB4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127633"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht tussen Loenen en Nieuwersluis, uit het noorden, met rechts de buitenplaats Nieuwerhoek (Rijksstraatweg 78) te Loenen. Opmerking: In 2007 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA43C7C31A94570F9DAD654E843BF181"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93261"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het Raadhuis van Kronenburg (Rijksstraatweg 113-115) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 392-395."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ABAC48FF51545D148C86C3E24C4B5F24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93216"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): de gang met stucplafond, bloemenvazen en de deuren aan de Vechtzijde. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ADF924A0600D51ABAD43CBC1E775289A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11552"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het zuiden; met links de voorgevel van de villa Het Uijltje."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF6E2533E0E1527DA14A75F780CA5B19"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11433"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het westen; met links de voorgevel van het herenhuis Rijzicht.<ZR><ZR>N.B. Het herenhuis Rijzicht is later afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B44ACEBDF74A5C6D95C9735558E825AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93267"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de boerderij Rijksstraatweg 119 te Loenen (gemeente Loenen aan de Vecht); in gebruik als studio. Opmerking: Lit. MIP Loenen, p. 396-397."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6647CC912DA5E1C9B07FF3C7AF9A257"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93210"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6A19CC55116569DA23432F72B8EFEFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het zuiden; met links de voorgevel van de villa Het Uijltje."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6EBD4726D4C587DAAA1A362DB4C9D99"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het voormalige koetshuis annex tuinmanswoning (Rijksstraatweg 80) van de buitenplaats Nieuwerhoek te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 379-380."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B72ADC5C8ACB5EB995CE21A682C69B9D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11543"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Middenhoek met omringend park (Rijksstraatweg 55) te Loenen.  <ZR><ZR>N.B. Het landhuis is in 1956 afgebrand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7DC783C238752939AE5BE9C1CC57966"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93220"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): de trap naar de tweede verdieping met leuning in houtsnijwerk. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BDD0134E42B650C585863C99A369EC18"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93245"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelpand annex werkplaats Rijksstraatweg 110 en de rechtergevel van het pand Grutterstraat 119 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C003CEEC33955AB9A5FD78608748189B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93238"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Rechthuis van Loenen en Nieuwersluis (Rijksstraatweg 104) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 390-392."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C21985908C9E5DFF8B2F3114B395341D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93281"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in 1976 nieuw gebouwde theekoepel aan de Rijksstraatweg in de tuin van het herenhuis Grutterstraat 12 te Loenen (gemeente Loenen aan de Vecht); met op de achtergrond de toren van de Nederlands Hervormde Sint Ludgeruskerk. Opmerking: Lit. MIP Loenen, p. 225-226."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C30B5ABCDE555B128FA765731ABB485A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11548"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de achtergevel van het landhuis Nieuwerhoek met omringend park (Rijksstraatweg 78) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C46A927AF84357E79AB5B231160788DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg/Molendijk te Loenen uit het zuiden.<ZR><ZR>N.B. Dit gedeelte van de Rijksstraatweg was ook bekend als het Plein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1901-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C61326C9F7A555B59FCAC3E463CD7674"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93239"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Rechthuis van Loenen en Nieuwersluis (Rijksstraatweg 104) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 390-392."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C974B8F09F895CEABA46F11F906D8336"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen aan de Rijksstraatweg te Loenen uit het westen; met op de achtergrond de toren van de N.H. kerk.<ZR><ZR>N.B. Dit gedeelte van de Rijksstraatweg was ook bekend als het Plein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9CC8A3E325750E48E11B2C8F46EEC0D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93241"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het lunchrestaurant Het Koetshuys (Rijksstraatweg 106) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA270FE644E358998FC54FD3B68A6BA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93262"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het Raadhuis van Kronenburg (Rijksstraatweg 113-115) te Loenen (gemeente Loenen aan de Vecht); met op de voorgrond enkele geparkeerde auto's. Opmerking: Lit. MIP Loenen, p. 392-395."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CACEC2FD8C8A52BABDA93A1FA7FA619E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11546"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBBF5076BEFE5427B2E54AEF7E23AC36"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93303"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de afzetting van de Rijksstraatweg met een vrachtwagenaanhanger met de tekst Loenen Vrijstaat te Loenen (gemeente Loenen aan de Vecht); met op de achtergrond de toren van de Nederlands Hervormde Sint Ludgeruskerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE92BBEDBA6F5002AA72527B1AD730D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11542"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Middenhoek met omringend park (Rijksstraatweg 55) te Loenen.  <ZR><ZR>N.B. Het landhuis is in 1956 afgebrand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF383E03E328544695436AE5C90FABAE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11430"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het noorden; met links de voorgevel van het gemeentehuis (Rijksstraatweg 104)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D35F68DA57255D2AB2A9E8918980EB4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11440"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen aan de Rijksstraatweg/Molendijk te Loenen uit het zuiden; met  links een muziektent en een dorpspomp. <ZR><ZR>N.B. Dit gedeelte van de Rijksstraatweg was ook bekend als het Plein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1918-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D47FA85096BA50E7A96F0D4B40DB5B1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het zuiden; met rechts de voorgevel van het gemeentehuis (Rijksstraatweg 104) en het latere restaurant Het Koetshuis (Rijksstraatweg 106)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1907-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D535DFA9747A56CE93ABCA4708F5AECB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93237"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevels van het Rechthuis van Loenen en Nieuwersluis met koetshuis (Rijksstraatweg 102-104) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 390-392."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9575484034E52F3B3492C7670952EE1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93234"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de herenhuizen Eigen Haard (Rijksstraatweg 73-75) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9FD22FCA8C85A26BA8F19A8C326D560"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11432"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het westen; met links een doorrijschuur en op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDB7A6D09A0E5D5BA2458DF23ED7BF4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11515"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de lagere school met onderwijzerswoning (Rijksstraatweg 98-102) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DFECA7EBB28654B5B8C5A04A0A023592"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93231"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het voormalige koetshuis annex tuinmanswoning (Rijksstraatweg 80) van de buitenplaats Nieuwerhoek te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 379-380."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E46DE4A92C085955AD11A8E2E6D1F787"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93214"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de studeerkamer in het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht) op de Vecht en het tuinhek; met op de achtergrond een boerderij aan de Mijndensedijk. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8FE99217A5B557FA5EFA8730E25D2C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93268"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij  Koppellust (Rijksstraatweg 169) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 398-399."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC43A24E07445A06B50044D569BFEE7D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11423"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijksstraatweg te Loenen uit het zuiden; met links de voorgevels van de huizen nrs. 73-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EDABDDD23E3A5D48A1EA5461EE9B295F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): stucwerk met een figuur boven een deur in de gang. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EDE426F2BFDB55B283900600AEAACE0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93223"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): de eetkamer met balkenplafond, schouw met kachel en meubilair. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF0A7E8BABE9507685E48FB4BB737170"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11532"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel met het hotel Raadhuis van Kronenburgh (Rijksstraatweg 113-115) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1837D2DC5B95E6B890D8531B394765F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93236"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van het Rechthuis van Loenen en Nieuwersluis met koetshuis (Rijksstraatweg 102-104) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 390-392."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F29E0B34EA97556EA70490F80B2F640B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93247"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van een winkelpand aan de Rijksstraatweg te Loenen (gemeente Loenen aan de Vecht); met op de achtergrond de toren van de Nederlands Hervormde Ludgeruskerk.<ZR><ZR>N.B. Het winkelpand is later afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F487B7771F4950BE8B42D72AC5C5F827"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93217"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): de gang met stucplafond en de deuren aan de tuinzijde. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F4D280C86F5352B09CA2963822928F5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93229"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht): rustieke linkerwand met planten in de koepelserre. Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F57955CB4CD45BD69821735522F2D44E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93255"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de boerderij  'T- Huis Te Velde (Rijksstraatweg 170) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 397-398."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F928551E0DAC5DE6927F7579C9F111B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "200658"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Slootdijk te Loenen uit het noodwesten, met op de achtergrond te toren van de Nederlands Hervormde kerk.<ZR><ZR>N.B. de naam Slootdijk is later gewijzigd in Rijksstraatweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1728-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1728-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBCFD736A8DD564A93DAAC590D32A68D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93258"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het Raadhuis van Kronenburg (Rijksstraatweg 113-115) en de linkergevel van het herenhuis Rijksstraatweg 117 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 392-396."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD2B32DD94565C339697C590F0A130E3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93209"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over het gazon op de voorgevel van het landhuis Nieuwerhoek (Rijksstraatweg 78) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 376-379."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

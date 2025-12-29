@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5AB35DBE75055582B2C3C8ECEEE70748"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117310"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele kantoorgebouwen aan de Kobaltweg te Utrecht, met rechts het gebouw van computergroothandel Primax International BV (Kobaltweg 59-61)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F8370F1B84A5815B4C268809A134F6F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805579"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van het industrieterrein Lage Weide te Utrecht met links de A2 en (aan de plas) het kantoorgebouw van WE International BV (Reactorweg 101); in het midden de Kobaltweg"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A71A7A2AFF6F50398E99191FA1927E81"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117300"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van Baxter Healthcare (Kobaltweg 49) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

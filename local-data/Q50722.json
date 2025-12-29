@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5EE484CC09FD5545A394BDCD4F827D3C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155646"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van dubbeldekstrein (DDM-I) van de N.S. bij het N.S.-station Amsterdam Lelylaan te Amsterdam."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90D114A54E6B5A55ACEEF36A3C9D0078"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156272"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Amsterdam Lelylaan te Amsterdam met een electrisch treinstel plan F (mat. 1954) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE7C98E1B0545DF3A998893D43F259AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156271"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Amsterdam Lelylaan te Amsterdam met een trein bestaande uit electrische treinstellen plan Z (ICM) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0705EBF3BF105A17BAC893A54288CF00"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een appartementencomplex aan de Antonlaan te Zeist, ter hoogte van het Van Doornlaantje."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C81C0F0A3B6A57EB85D7EF25B1D17F7B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814509"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Antonlaan te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

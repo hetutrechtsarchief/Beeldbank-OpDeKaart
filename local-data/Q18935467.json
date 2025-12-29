@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A5052584CE8E53319A1C697384CBFF7E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93709"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Andersteinweg 1-3 te Maarsbergen (gemeente Maarn); met op de voorgrond een  grootformaat bord met de tekst: UITVERKOCHT."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

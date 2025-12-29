@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC69EF9E90925D78B4491667578C3ABF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50770"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van De Wis te Vianen (Z-H) uit het westen; met in het midden de Prins Bernhardstraat en op de achtergrond het centrum van Vianen en aangrenzende bebouwing. <ZR><ZR>N.B. De gemeente Vianen is per 1 januari bij de provincie Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

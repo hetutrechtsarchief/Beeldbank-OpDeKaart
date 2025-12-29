@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10549A98D90056C392A937CD2C092DB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832686"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Bonistraat te Utrecht, met op de achtergrond de toren van de Gerardus Majellakerk (Thomas \u00e0 Kempisweg 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC52B727C96D5454A4DEA8D8DEEC859D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een maquette van het \"plan Vleutenseweg\" te Utrecht, met de huizen aan het Thomas \u00e0 Kempisplantsoen (links) en de huizen aan het Spinozaplantsoen en de Bonistraat (rechts). Linksonder een plattegrond van een afzonderlijk huis en rechtsboven een gezicht op enkele woningen aan het Thomas \u00e0 Kempisplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DC4BC9456B5539DBCF9B2D328B0E72F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "135405"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de wapenschilden van zes Utrechtse ridderhofsteden en hun bezitters: linksboven Lievendaal / Dirk van Eck van Panthaleon, rechtsboven Zuilenstein / Frederik van Nassau, middenlinks Natewisch / David van Zuylen van Natewisch, middenrechts Zuilenburg / Gerrit van Amstel en Mynden, linksonder Hardenbroek / Van Hardenbroek en rechtsonder Sterkenburg / Van Aeswijn. Opmerking: Pagina 7 in een gebonden handschrift uit ca. 1660 met afbeeldingen van de ridderhofsteden in het Nedersticht, voorafgegaan door pagina's met afbeeldingen van de wapens van de vijf Utrechtse kapittels, van de vijf steden, van de ridderhofsteden en hun bezitters en van verschillende onbekende wapens en wapenbekroningen (verzameling 1119)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1650-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1670-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "918E63754B0F5F40994AB33BDFF04AB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802640"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Vleuterweide te Vleuten (gemeente Utrecht, stadsdeel Leidsche Rijn), uit het oosten; op de voorgrond de Landschapsbaan (links) en Europalaan; in het midden de Hardenbroek"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

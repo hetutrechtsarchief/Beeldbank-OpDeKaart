@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "450D1B574FC45E5C9086BDCBD35E3A98"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94658"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een kassencomplex bij de Appellaan te Harmelen uit het noorden; met op de voorgrond een weiland met schapen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CBA536B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350140"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Appellaan te Harmelen. <ZR><ZR>N.B. De gemeente Harmelen is op 1 januari 2001 bij de gemeente Woerden gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CD237FFFB8D5D448E6250DD27DE062E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169387"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Kleverlaan te Bloemendaal. Opmerking: NS fotonummer 16128a"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1A346049F015281BBB2BD6FBE89048F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169386"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Kleverlaan te Bloemendaal. Opmerking: NS fotonummer 16127"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

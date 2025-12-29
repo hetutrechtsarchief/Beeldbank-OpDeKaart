@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B4919C8A7CA5937BFA691C5139EC74A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68674"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen op de hoek van de Petrarcalaan (voorgrond) en de Schillerlaan (rechts) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC0E76B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604304"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goethelaan te Utrecht, vanaf de voortuin van het huis Goethelaan 73. Links de ingang van de Byronstraat en rechts de hoek met de Schillerlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC0E96B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604306"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het \"achterom\" voor de huizen Goethelaan 75 -lager te Utrecht, vanaf de Schillerlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

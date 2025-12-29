@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31AF2D5A7E0C56A486D5203CBB5A3104"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de bewoners van de boerderij Atteveld (Houtenseweg 2) te Odijk.<ZR><ZR>N.B. De gemeente Odijk is per 1 september 1964 bij de gemeente Bunnik gevoegd. Opmerking: In circa 1981 vervaardigde reproduktie van een in ca 1920  gemaakte foto. <ZR>Lit. MIP Bunnik, p. 105-106."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

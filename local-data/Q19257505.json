@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "082CCC9E2C725A65B0EEF6D0078D3BCC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164401"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdelijke N.S.-station Amsterdam Bijlmer te Amsterdam, met links op de achtergrond de nieuwe verhoogde spoorbaan en het viaduct in de Hoogoorddreef. Opmerking: fotonummer C 3 93892"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

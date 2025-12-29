@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F119F2546115AE68ECDE10894029CA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5388"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wilhelminastraat te Breukelen uit het zuiden, met links de appartementengebouwen aan de Otterspoor, het Hofwerk, het Boomrijk en het Ameland."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A674B2FC3C955B3E86D8E13E27D3BC00"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wilhelminastraat te Breukelen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

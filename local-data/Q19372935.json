@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "54AD208ABA0B5A9F9F3455140E178769"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Reamur te De Meern (gemeente Utrecht), vanaf de Noorderbreedte."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C54BC7025465D46AF78B51B986D536E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21562"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Noorderbreedte te De Meern (gemeente Utrecht); op de voorgrond het fietspad naast de Burgemeester Middelweerdweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "77E73376AD675C1B9861E9EF09CA6DF1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21561"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Noorderbreedte te De Meern (gemeente Utrecht); links de ingang van de Beaufort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB5F72480EFD57F59FB836EAB9007664"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90170"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwrijp maken van het terrein voor de te bouwen wijk 't Weer (3e fase) te De Meern (gemeente Vleuten-De Meern), uit het westen, met op de voorgrond de toekomstige IJsheiligen. Op de achtergrond de huizen aan de Noorderbreedte (links) en de Evenaar.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

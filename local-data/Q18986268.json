@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DF663A8A167053C087D11B8E0255A9BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de speelplaats en Euroflats op de hoek Theemsdreef met de Chiosdreef te Utrecht, vanaf een flatgebouw aan de Patmosdreef. Opmerking: Fotonr. 9806/17"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

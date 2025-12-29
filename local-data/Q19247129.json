@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5DE60CEC29C52E6AA6ADE3F28929F81"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161461"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 3701 (serie 3700/3800) van de N.S. met een goederentrein Alkmaar-Amsterdam bij de Hemweg te Amsterdam. Rechts de stoomlocomotief nr. 4498 (serie 4300/4400/4500, \"Austerities\", ex War Department nr. 79238) als losse locomotief Amsterdam-Zaandam. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

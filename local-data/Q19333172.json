@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05C5565BD5F1562AA6C69549C0DF0BF9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40992"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele spelende kinderen bij een vernield scheidingsmuurtje bij de Maaspleinschool (Maasplein 1) te Utrecht. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1207CFB77B555EA6950C960EFCAEC152"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126816"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de straattekenwedstrijd voor kinderen op het Maasplein te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, zaterdag 17 mei 1969, blz. 2: \"Straattekenen\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A4FDB590722555A87EE94610928FD9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350235"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het publiek op het Maasplein te Utrecht, tijdens de opvoering van het kinderzangspel \"Jan Lustig\", ter gelegenheid van het bezoek van Koningin Juliana en Prins Bernhard aan de stad Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DB6AA1DAAA25998941F6F5CF5334234"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "100093"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bezoek van Koningin Juliana en Prins Bernhard aan de stad Utrecht, tijdens een opvoering van het kinderspel \"Jan Lustig\" op het Maasplein door kinderen van de jeugdclub Dichters- en Riveirenwijk. Opmerking: Zie ook Utrechtsch Nieuwsblad, vrijdag 17 juni 1949, blz. 3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "33EF67127B265E4DBA394E5213C9A00C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816865"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bezoek van Koningin Juliana en Prins Bernhard aan de stad Utrecht, tijdens de opvoering van het kinderspel \"Jan Lustig\" op het Maasplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35ADD5904CFA56BABFA9ACD2E388AA91"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115732"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Maaspleinschool (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36D57AE2629F5FE78C3DF93308903680"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "28212"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Maasplein te Utrecht uit het zuiden met de Maaspleinschool (Maasplein 1) en met links de Rijnlaan en rechts de Maasstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41DBC2C55BB955D496272AA3973433D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815376"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Maaspleinschool voor openbaar lager onderwijs (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50E6AEFABC3E50EE8E9BACEF8F7B9B38"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bezoek van Koningin Juliana en Prins Bernhard aan de stad Utrecht, tijdens een opvoering van het kinderspel \"Jan Lustig\" op het Maasplein door kinderen van de jeugdclub Dichters- en Rivierenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BBA716B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40990"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Maasplein te Utrecht, uit het zuiden; links de Rijnlaan en rechts de Maasstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BBA736B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de Maaspleinschool (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2C4F446B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121032"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Openbare Lagere School Maasplein (Maasplein 1) te Utrecht; links de Rijnlaan en rechts de Maasstraat. Opmerking: De school is op 2 februari 1925 in gebruik genomen.<ZR><ZR>De afbeelding is gepubliceerd in Bibl.HUA LXV E 22, Het Bouwbedrijf, 1925, nr. 9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2C4F466B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121033"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van de Maaspleinschool (Maasplein 1) te Utrecht. Opmerking: De school is op 2 februari 1925 in gebruik genomen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CBDD46B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405210"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Nellie van Veen van de jeugdclub Dichters- en Rivierenwijk die namens de bewoners van de Rivierenwijk bloemen aanbiedt aan Koningin Juliana en Prins Bernhard op het Maasplein te Utrecht, tijdens het bezoek van Koninklijk paar aan Utrecht. Links van de Koningin staat burgemeester jhr. mr. C.J.A. de Ranitz."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76FAE325ECCA568BB38BC0025238EF8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "767"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Maasplein te Utrecht met links de Maaspleinschool (Maasplein 1); rechts enkele huizen aan de Maasstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7816E52C1AB853509AFD3C5664EC4F43"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800765"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Maaspleinschool (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81D6583076A25F0EA05CA4E2CF4EB91A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603840"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de kinderen bij de poppenkast op het Maasplein te Utrecht, tijdens de viering van Bevrijdingsdag. Opmerking: Zie ook het Utrechtsch Nieuwsblad, maandag 5 mei 1958, blz. 2: \"Na 13 jaar viert Utrecht nog blij het Bevrijdingsfeest\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-05-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-05-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "861E2BC0AA8B5699E0534701000A6744"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840874"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een onlangs geplaatste ondergrondse textielcontainer op het Maasplein te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "861E2BC0AA8C5699E0534701000A6744"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840875"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de onlangs geplaatste ondergrondse afvalcontainers op het Maasplein te Utrecht, met op de achtergrond de Rijnlaan en de ingang van de Zuiderzeestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C1218B02F255765B8D1B319665A5D5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79119"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Maaspleinschool voor openbaar lager onderwijs (Maasplein 1) te Utrecht. Opmerking: Gepubliceerd in: Utrecht in woord en beeld, 1928, nr. 9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D4AC8484E105C60A8EB6A563A05F9D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603576"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de openbare lagere Maaspleinschool (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E319301AC6F5739B354558B6A9A3AD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815372"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de Maaspleinschool voor openbaar lager onderwijs (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9EFB0FE61B375661AC2AF29F3FB9EB03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800764"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Maaspleinschool (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A06A80FC180F51AA8DBA21CA17282D7D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115733"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Maaspleinschool (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B28567163D385BADBB0CD8649F6469E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805091"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Maaspleinschool voor openbaar lager onderwijs (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BBE387FE04D95293A3F2D5B0B5912640"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79120"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Maaspleinschool voor openbaar lager onderwijs (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3C194A26E5D547D920D6882FD3753F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115734"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Maaspleinschool (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6EA77FB6C0E5E6D8BAE4BABC9EDFF28"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816959"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bezoek van Koningin Juliana en Prins Bernhard aan de stad Utrecht, tijdens de opvoering van het kinderspel \"Jan Lustig\" op het Maasplein. Links van de Koningin staat burgemeester jhr. mr. C.J.A. de Ranitz."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ECD51B91F49C5D558890C64EC68284A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817594"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de nieuwgebouwde Maaspleinschool (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F316C5EA13315786B9AFACEE7501EAF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115794"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Maaspleinschool (Maasplein 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

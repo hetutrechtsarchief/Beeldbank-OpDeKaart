@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FCAA93B231F52368E1FDDE0FCA8D2D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73896"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de R.K. St.-Ludgerusschool voor kleuteronderwijs en lager onderwijs (St.-Willibrordusstraat 9) te Utrecht; vanaf de St.-Bonifaciusstraat (voorgrond) uit het westen, links het gymnastieklokaal, met in de lage aanbouw de ingang van de lagere school, rechts in de vleugel op de begane grond het t.v.-lokaal, het handenarbeidlokaal en de lokalen van de cr\u00e8che met op de verdieping de lokalen verhuurd aan de Gemeentelijke Muziekschool en daarvoor het schoolplein van de lagere school. Opmerking: De oostelijke vleugel (jongensschool) werd 11 april 1929 ingewijd. Het gebouw werd 14 juli 1982 gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

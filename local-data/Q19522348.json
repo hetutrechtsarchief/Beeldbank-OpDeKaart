@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CB7839C38CE57CFBAE8794E2C9E4CF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18818"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de flatgebouwen aan de Smirnoffstraat te Utrecht uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0D9F309C7855CD3992109E5DB6CA320"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18759"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Plesmanlaan te Utrecht met links een gedeelte van een flatgebouw aan de Smirnoffstraat en op de achtergrond de Lelimanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

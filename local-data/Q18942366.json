@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9EAC6C75890D58F1899BCE346705841C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12158"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Bantuinweg te Rhenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E073DBD8AEF85DE2BFA325AEDED87C16"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6240"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde openbare bibliotheek (Bantuinweg 2) te Rhenen, tijdens het bereiken van het hoogste punt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

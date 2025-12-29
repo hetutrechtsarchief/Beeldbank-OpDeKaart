@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25ADCAA358705A76B2A0A0762BE29F10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 7121 (serie 7100, nrs. 7111-7125) van de N.S. met een trein op het N.S.-station Dokkum-Aalsum te Dokkum. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Reproductiefoto"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "451E7E75022F5700A9C6B89364EC526D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161189"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 7118 (serie 7100, nrs. 7111-7125) van de N.S. met een trein langs het perron van het N.S.-station Dokkum-Aalsum te Dokkum. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Reproductiefoto"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1936-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E25570C437E156D085EDCA812FEF51F4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160795"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 36 van de N.T.M. met tram 211 naar Leeuwarden langs het perron van het N.S.-station Dokkum-Aalsum te Dokkum. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-07-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-07-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

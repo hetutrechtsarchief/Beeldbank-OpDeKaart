@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13E73194E3D35B29A0F942C75CEB93C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59973"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kapelstraat 12-14 te Utrecht; vanuit het zuidoosten en linkerzijgevel van Kapelstraat nr. 12, links de Leistraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2347B0F8DC85876A93A0A3B9DB36347"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24307"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de St. Janshovenstraat te Utrecht met rechts de Leistraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9C191436B695CE490DF521063A564BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52803"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Leistraat 5 -hoger te Utrecht, met rechts de ingang van de Staalstraat. Opmerking: Omstreeks 1955 vervaardigde reproductie van een rond 1910 gemaakte foto. Afdruk van origineel negatief, 1996."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

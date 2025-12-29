@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "49AF6175C21258F7A1932F56B3C5DB9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164610"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de doorgang onder het spoor in de Amstellaan bij het N.S.-station Amsterdam Amstel te Amsterdam. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR><ZR>De afbeelding maakt onderdeel uit van een album \"Opening Amstelstation Amsterdam 13 10 '39\", bevattende 14 in kopderdiepdruk uitgevoerde foto's van de stations Amsterdam Muiderpoort en Amsterdam Amstel (cat. nrs. 164597 t/m 164610)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      }
+    ]
+  }
+}

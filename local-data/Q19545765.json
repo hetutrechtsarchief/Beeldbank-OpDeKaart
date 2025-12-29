@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8337B9101A42430FE0534701000A5C14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840266"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Heilige Familiekerk (St. Willibrordusstraat 19) te Soest: het priesterkoor met de muurschildering van A.P.Stokhof de Jong."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

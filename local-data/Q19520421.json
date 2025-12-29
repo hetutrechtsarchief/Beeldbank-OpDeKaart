@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CDC958BB611D54B19EC0A64D322A1FA8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8862"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Smalleweg te Bunnik uit het zuidoosten, met op de achtergrond de rechterzijde van de boerderij Smalleweg nr. 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3054521B1D75809BD9E92716C3EB8ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8857"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Smalleweg te Bunnik uit het zuidoosten, met rechts de rechter- en achterzijde van het huis Agatha."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

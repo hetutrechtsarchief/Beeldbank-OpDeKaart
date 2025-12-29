@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AACBA97DA5257739DB562138B41BD25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164130"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de overwegpost aan de Biltstraat te Utrecht, met links op de achtergrond het voormalige N.S.-station Utrecht Biltstraat. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Het station was tot 1939 in gebruik. In 1961 is het gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

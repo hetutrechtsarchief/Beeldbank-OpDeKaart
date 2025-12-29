@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "282663B0B43F56DFB31F181DDE324E53"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Klaarwater te Soest, uit het zuiden, met in het midden de Van Hamelstraat en de Gustaaf Gelderhof en rechts de Titus Brandsmastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

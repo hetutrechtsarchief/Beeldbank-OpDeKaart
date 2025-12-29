@@ -1,0 +1,660 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "000DFFE9234A57C5A8A422C60AD53BC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62102"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Lauwerecht te Utrecht met de huizen nrs. 123-hoger aan de oostelijke straatwand, uit het zuiden; rechts op de voorgrond de ingang  van de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F5D988C6C52537DAFEC33554B21CCB7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62099"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Lauwerecht 101-115 te Utrecht, uit het zuidwesten; geheel links de ingang van de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35D94828C363538BAB4B79C471A43D0B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833502"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het deels gesloopte huizenblok Verenigingstraat 77-81 te Utrecht, met rechts op de achtergrond het hoekpand Verenigingdwarsstraat 28-30 en het zuidelijk deel van de Verenigingstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CDD86DF67AA51CCA4819235C3AB8884"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825079"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Verenigingdwarsstraat te Utrecht, met de huizen Verenigingdwarsstraat 36 -lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46F79AB7F9345D2C839A822F6F8F40E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828427"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een grote banner gespannen op de zijgevel van de flat op de hoek van de Verenigingdwarsstraat en Goeman Borgesiuslaan te Utrecht, met daarop reclame voor zelfbouwkavels in de Verenigingstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC7346B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833856"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein dat ontstaan is na de sloop van huizenblokken aan de Vereniginstraat (links), Schermerhornstraat (achter) en Goeman Borgesiuslaan (rechts) te Utrecht, vanaf de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D3ACBFF926B587C893A7E973A176EF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20313"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Lauwerecht te Utrecht met de huizen nrs. 123 (rechts)-hoger; rechts op de voorgrond de ingang van de Verenigingdwarsstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "708794F3F63C542DACDBBCCDFB444EC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828713"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een vervallen garagebox in de Verenigingdwarsstraat te Utrecht, met graffiti van het I Tjing-symbool op de garagedeur."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7659CAD0E7375E07AF3AE5EF5E5567AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62101"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Lauwerecht te Utrecht met rechts de huizen nrs. 123-hoger aan de oostelijke straatwand, uit het zuiden; v\u00f3\u00f3r het huis nr. 123 de ingang van de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AB36AB2D03ADD1AE0534701000AE2E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838101"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de panden Lauwerecht 123-hoger, van bij de Verenigingdwarsstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-12-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-12-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AC8063F62FC9380E0534701000ADFE7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838184"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lauwerecht, van bij de Verenigingdwarsstraat te Utrecht naar het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7ACD73612E67B75EE0534701000AFD33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de graffiti 'FAME' op de houten deuren naast het pand Verenigingdwarsstraat 36 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-04-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-04-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B01B59C55D3AFC1E0534701000A45C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838342"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein aan de Goeman Borgesiuslaan te Utrecht, waar enkele zelfbouwkavels worden bebouwd; links de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B06EE0B5FCA6ADBE0534701000AAE5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838365"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouw op de zelfbouwkavels aan de Goeman Borgesiuslaan te Utrecht; links de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-10-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-10-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8591681FE55FDFCAE0534701000A9ACB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840694"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouwpanden Goeman Borgesiuslaan 19-26 (rechts) te Utrecht, met links de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92B61C4B1FC05354888F9C9C5BBF80DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62100"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Lauwerecht 115 te Utrecht, uit het noorden; links op de voorgrond de ingang van de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DA90E2E24175A34AEDB2A6CE2DC5697"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825074"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Verenigingstraat te Utrecht, vanaf de Verenigingdwarsstraat, met rechts het hoekpand Verenigingdwarsstraat 28/30."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A240FBB4807851A1B0CB5C8FC9689909"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62103"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Lauwerecht te Utrecht met links de voorgevels van de huizen nrs. 129-lager aan de oostelijke straatwand, uit het noorden; na het huis nr. 123 de ingang van de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2C5FA9F853D5570BE4870C4750EC288"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825080"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen Goeman Borgesiuslaan 19 - 24 te Utrecht, vanaf de hoek met de Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C74C8B5BE1A5572A9CFF775CA552AA09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62180"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Lauwerecht 92-hoger te Utrecht; vanaf de hoek van de Verenigingdwarsstraat (rechts op de voorgrond)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C799D43142D35B94AE9A1ABB39BF9588"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62175"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Lauwerecht 80-hoger te Utrecht; vanaf een braakliggend terrein uit het zuidzuidoosten met rechts de zijgevel van het huis Lauwerecht 123, hoek Verenigingdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC149866F87857E1987A2E5646580005"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819701"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kinderspeelplaats op het binnenterrein tussen de Lauwerecht, Verenigingdwarsstraat en Verenigingstraat te Utrecht. Links achtergevels van panden aan de Lauwerecht.<ZR><ZR>N.B. Op dit terrein stonden de huisjes van de verdwenen Bloempoort. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-09-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-09-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF89EFC88CE8537087198A8B6AB0DC4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119510"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele woningen in het nieuwbouwcomplex aan de Verenigingdwarsstraat te Utrecht; rechts de Lauwerecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

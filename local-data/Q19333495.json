@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD5450E7D02A5129B907862CEDBDC80B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94894"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dubbele groepsschuilplaats met fundering aan de Machinekade z..n. te Maarssen uit het oosten. Opmerking: Lit. MIP Maarssen, p. 262-263."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

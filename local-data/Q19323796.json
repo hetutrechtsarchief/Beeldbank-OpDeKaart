@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98D7FDF5DFBF50E08662117E28965DFA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833341"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een boze Utrechtse kabouter (KBTR), op een schakelkastje op de hoek van de Nieuwe Keizersgracht en de Leeuwerikstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-01-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-01-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

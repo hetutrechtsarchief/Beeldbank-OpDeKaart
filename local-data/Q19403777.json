@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1443B14A0DE1530D9889F19043791F86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68382"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Ovidiuslaan 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66A677C3F07D5A91822FBFE0E0B33936"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68383"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Ovidiuslaan 6 (rechts) en het huis Ovidiuslaan 8 (geheel links) te Utrecht; uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "701617D306869E84E0534701000ABC0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "502315"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over, vermoedelijk, de Kromme Rijn in de wijk Rijnsweerd te Utrecht; rechts enkele huizen aan de Horatiuslaan en Ovidiuslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

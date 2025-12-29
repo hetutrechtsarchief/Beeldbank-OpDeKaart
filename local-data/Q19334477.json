@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "338F502D525F558DBB8356A6CC038DD9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23115"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een toekomstig bedrijfsterrein aan de Manitobadreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50BBC8CC19E7566D82ADE9F1A701A60A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126350"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van de spelers van de Utrechtse Rugby Club (U.R.C.) op het Sportpark Overvecht Noord aan de Manitobadreef te Utrecht, met staande van links naar rechts K. Haspers, T. van Brink, K. van Schaik, A. van de Breul, E. Mastwijk, W. van Groningen, K. Huyding en trainer-coach J. van de Waard. Gehurkt van links naar rechts: C. Laterveer, B. van de Boogaard, B. Stulen, W. van Wolferen, J.D. Postma, K. Calisvaart, A. Elbersen en H. Cornelissen. Opmerking: Zie ook: Utrechtsch Nieuwsblad, maandag 11 september 1967, blz. 10: \"Nederlaag voor Utrechts rugby\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

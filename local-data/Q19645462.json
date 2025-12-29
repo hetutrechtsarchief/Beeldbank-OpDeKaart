@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "933E1DA650BD55CDB7A30365B625399F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829756"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de met een rolluik afgesloten entree van Verswinkel Ten Have (Warmoesstraat 1A) te Utrecht, met op het rolluik graffiti van WTIP."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "945E1C59F7D5503191E7BD5A17C12202"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75367"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelpand Sigarenmagazijn De Kroon\" (Warmoesstraat 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9A11EDA90AF5662A03D291EF796FD67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti op de zijgevel van het leegstaande schoolgebouw (Oudenoord 390) in de Warmoesstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD1D81C9841E5569975056F79DA530D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24903"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde flatgebouw met de huizen Oudenoord 28 - 58 te Utrecht. Links de hoek met de Warmoesstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5394EE78FA9B501881962CECB9CC2639"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819746"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Geulstraat 28 te Utrecht.<ZR><ZR>N.B. Van 1928 tot 1938 was in dit pand een winkel van Broodfabriek De Korenschoof gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "939E7CB7392C5CE69C85C81A0C15977F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811460"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Geulstraat te Utrecht tijdens de renovatie van de huizen; links de huizen nrs. 21- lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5191DB8A86053D49073E5E1CF44F0F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819747"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pui van het pand Geulstraat 28 te Utrecht.<ZR><ZR>N.B. Van 1928 tot 1938 was in dit pand een winkel van Broodfabriek De Korenschoof gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

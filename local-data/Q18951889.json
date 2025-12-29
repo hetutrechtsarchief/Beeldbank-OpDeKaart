@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "494CA2B301A2555EADCC24C12481ACFD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831267"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de woning Zebradreef 181 te Utrecht: keuken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-ND 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9404D15A36B65E6DA4B3F851BFEAF5A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831269"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de woning Zebradreef 181 te Utrecht: woonkamer met links tegen de muur een door de meubelmaker Uiterwaal vervaardigd dressoir."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-ND 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B60E649E95E354E7989F2D38E8D0BE0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831268"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de woning Zebradreef 181 te Utrecht: slaapkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-ND 4.0"
+        }
+      }
+    ]
+  }
+}

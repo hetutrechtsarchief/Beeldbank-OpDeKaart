@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5BAEDFC84D20539AB6556A167E6A6ABF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831934"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een brug in de Overeindseweg te Nieuwegein over het Inundatiekanaal, vanaf de Heemstederbrug over het Amsterdam-Rijnkanaal; op de voorgrond de Heemsteedsekanaaldijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

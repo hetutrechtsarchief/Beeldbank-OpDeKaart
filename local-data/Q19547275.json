@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7764A5640D4252C6E0534701000AEB1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het voormalige stationsgebouw (Stationsweg 3) te Maarn Opmerking: De foto (18 x 24 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 378. De foto is gemaakt ten behoeve van de publicatie \"Spoorwegarchitectuur\" (Stichtse Monumenten Reeks), door Roland Blijdenstijn, J.G.C. van de Meene en Henk Bol (1994)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

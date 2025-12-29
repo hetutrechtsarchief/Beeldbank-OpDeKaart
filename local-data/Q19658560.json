@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3486296B8C0057CF8BA96BB69F6AED60"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50506"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de lintbebouwing langs de Burg. Padmosweg/Herenweg/Bozenhoven te Wilnis uit het zuidoosten; met op de achtergrond het industrieterrein van Mijdrecht en rechts de Wilnisse  Zijweg.<ZR><ZR>N.B. De gemeente Wilnis is per 1 januari 1989 opgenomen in de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

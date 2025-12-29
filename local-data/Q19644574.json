@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FE6169DFAC05E5CA1C1AF59979E664B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812609"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het door G.Th. Rietveld ontworpen huis Wagnerlaan 21 (\"huis Schmidt\") te Bilthoven (gemeente De Bilt)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

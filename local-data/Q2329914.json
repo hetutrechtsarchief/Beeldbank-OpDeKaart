@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1967A011CE3658568B91CA8733C3A776"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164264"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het publiek bij de feesttrein ter gelegenheid van de opening van het ge\u00eblectrificeerde baanvak Den Dolder - Baarn, vermoedelijk op het N.S.-station Soest Zuid te Soest. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEB1F07D1F5C5DD1805FAE005BE46E87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164262"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een versierd electrisch treinstel bestaande uit rijtuigen mat. 1924 (\"Blokkendozen\") van de N.S. ter gelegenheid van de electrificatie van het baanvak Den Dolder - Baarn, vermoedelijk op het N.S.-station Soest Zuid te Soest. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

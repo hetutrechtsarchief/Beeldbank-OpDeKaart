@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37FD9F7B695257EBADB4FA32B1F89ECF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19678"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jongeriusstraat te Utrecht met links de ingang van de Miltenburgstraat; rechts op de voorgrond de Van Zijlstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B57ADD88305E5428AC303AD23E53BC60"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23322"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jongeriusstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "54875CE965C55528B3ABCE190DAC463C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171066"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gesloten spoorwegovergang in de Linschoterweg (?) te Woerden, met wachtende scholieren op de fiets en een passerend electrisch treinstel mat. 1954 van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74767B5732C05C7D8CA591682D621E83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171067"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Linschoterweg (?) te Woerden, tijdens de opening van de spoorbomen en met enkele wachtende scholieren op de fiets."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "132AB3251A245F15A484AA822465A5D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93947"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de voorgevel van het landhuis Het Huys ten Bosch (Zandweg 44) te Maarssen. Opmerking: Lit. MIP Maarssen, p. 374-377."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40B896B74D8350FA944F8C7441A364DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93719"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht en de Zandweg te Maarssen uit het zuidoosten; met op de achtergrond de voorgevels van enkele huizen aan de Langegracht. <ZR><ZR>N.B. De gemeenten Maarssen en Maarsseveen zijn per 1 januari 1949 samengevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43C7CC118C625F3694FFC3087A171FD3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6556"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht met rechts de voorgevels van de huizen Zandweg 29A-30D te Maarssen uit het zuiden.<ZR><ZR>N.B. De straatnaam van dit gedeelte van het Zandpad in later gewijzigd in Zandweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50A997EC7E3C5453A09DA5E4D6235A90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93942"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel van het koetshuis (Zandweg 45) van het landhuis Het Huys ten Bosch te Maarssen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69DF8B0EC78C5B429DB00845607033BA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93889"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de transportbrug over de Zandweg tussen de steenfabriek De Ysvogel en de Vecht (Oostwaard 11) te Maarssen.<ZR><ZR>N.B. De fabriek is later afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6CDA613AC2B453939910B7D7D01E3C97"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93946"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Oud Luxemburg (Zandweg 30d) te Maarssen. Opmerking: Lit. MIP Maarssen, p. 371."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7374D24660DB5761ABAED32F19FB9957"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93948"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sloop van de Dr. Van Lingebrug over de Vecht aan de Zandweg te Maarssen: het brugdek wordt weggetakeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78D147BA04A954DC844632B2AC573A59"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93944"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Zandweg 5-4 te Maarssen. Opmerking: Lit. MIP Maarssen, p. 367-368."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A510EB51B8995AA5A6F5EE2DF77863B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93718"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht en de Zandweg te Maarssen uit het zuidoosten ter hoogte van de buitenplaats Vechtenstein (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1884-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1884-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF9D999B971B59D090608EDAFC833C56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93945"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de complex herenhuizen  Overkerck (Zandweg 29-30a-30-b) te Maarssen. Opmerking: Lit. MIP Maarssen, p. 369-370."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4FE0B1E73765D01863AEFAB49E6896E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93943"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de Zandweg met bebouwing  te Maarssen uit het zuidoosten. Opmerking: N.B. Een in 1995 gemaakte afdruk van een ca 1935 vervaardigd glasnegatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEC927DDC53C5557B7B5CB06EAB4E676"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6566"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht en de Zandweg te Maarssen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF17CDA6068A5C78BAE165EC69112006"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6574"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht met de Van Lingebrug en de Zandweg te Maarssen uit het zuiden"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFF4DC9B09C55609B4015FD0CF4D776B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6503"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Collage van gezichten te Maarssen:<ZR>- de Schippersgracht;<ZR>- de Vecht;<ZR>- de Zandweg;<ZR>- het Merwedekanaal;<ZR>- de Vecht met de Zandweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1908-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

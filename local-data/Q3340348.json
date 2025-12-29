@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40B9E4D158F05EFA84108492884956DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162780"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Engelbert te Engelbert, tijdens de offici\u00eble opening van de spoorlijn Groningen - Weiwerd, met links de feesttrein bestaande uit motorrijtuigen van de serie omBC 1904-1910 van de N.S. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>De foto bevindt zich ook in het archief NS Materieel & Werkplaatsen, toegangnummer 955, inv. nr. 747."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

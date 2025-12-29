@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "217661D547B45E259540A2435C398221"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404501"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van (v.l.n.r.) Kitty van Rossum, Jan Pater en Joyce Grootendorst van de stichting Voorheen De Pan in de speeltuin De Pan aan de Prof. Dr. Magnuslaan te Utrecht. Opmerking: Zie ook Utrechts Nieuwsblad, dinsdag 25 april 1989, blz. 15: \"De Pan gaat opgeknapt weer open\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

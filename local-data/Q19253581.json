@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FE9626E8FBF55E0E0534701000A2B80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838915"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de priorij Gods Werkhof (Hollendewagenweg 20) te Werkhoven (gemeente Bunnik)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

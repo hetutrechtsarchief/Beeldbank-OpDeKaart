@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "907CC43DCFAB58EF818A366543801B75"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127082"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Schaarsbeekstraat te Utrecht, vanaf de hoek met de Molenbeekstraat, uit het noordwesten; op de achtergrond de Bolksbeekstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C64F2E4267B15D7CAB9CA169AC900AAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Molenbeekstraat te Utrecht, met links de huizen nrs. 37- hoger, uit het noordwesten; op de achtergrond de Schaarsbeekstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

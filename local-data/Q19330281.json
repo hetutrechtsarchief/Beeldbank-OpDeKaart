@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E5B9F8C0FE15329A501AEA86C3F9693"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23499"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele panden aan de Louis Saalbornlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7271BCD93C525629AB43F8A3726503EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69786"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijdes van de huizen Louis Saalbornlaan 87 (rechts)-lager te Utrecht vanuit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

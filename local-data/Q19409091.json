@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "62758151588F507690293F8AD27D99A6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paulus Buyslaan met bomenrijen en bebouwing te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7B0A916761E5E3B9B23E0D337981551"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12992"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Instituut P. van der Sluys (Paulus Buyslaan 3-5) te Amersfoort. <ZR><ZR>N.B. Het instituut bestond uit een school voor lager onderwijs, MULO en een jongensinternaat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1903-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

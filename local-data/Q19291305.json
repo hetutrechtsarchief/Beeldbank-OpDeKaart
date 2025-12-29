@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4C7075C51A45EBBB4314219235E1C30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115482"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de wijk Lunetten te Utrecht, uit het westen, met op de voorgrond het Inundatiekanaal en de Lunettenbaan (rechts) en op de achtergrond het kunstwerk Tenttoren en de Stelviobaan met daarachter de huizen aan de Karawanken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D2B1D9172F5C5BF29E184CA7A762CCAA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25057"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatwoningen aan de Karawanken te Utrecht; op de voorgrond de Stelviobaan. Opmerking: Afdruk van origineel negatief, 2003"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

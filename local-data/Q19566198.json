@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "155EA23B784C52AF8E26124C0C8E3C29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65968"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Thomas van Nykerckenstraat 2-hoger te Utrecht; rechts van het midden het huis nr. 2, links een gedeelte van de voor- en zijgevel van het hoekhuis Jacob van der Borchstraat nr. 38."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DF29265A40F5B2A8D5BE8FBE44E15BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64314"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van der Mondestraat 115A (links van het midden)-lager te Utrecht; geheel links het hoekhuis Thomas van Nykerckenstraat 8."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85B22364604C58AEB483BA1A573D9E56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64315"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van der Mondestraat 117 (rechts)-hoger te Utrecht; geheel rechts op de voorgrond de ingang van de Thomas van Nykerckenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A5C65C874A545FCC9C080C59039D59E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54226"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het huis Jacob van der Borchstraat 40 te Utrecht met rechts de huizen nrs. 42-hoger; links de Thomas van Nykerckenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

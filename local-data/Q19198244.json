@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "80ACEB7122745E619C9C80187CE03478"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156879"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een fabrieksgebouw aan de Havenstraat te Zutphen met op de achtergrond het kolenpark bij de locomotiefloods van de S.S. en de spoorbrug over de IJssel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1876-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1886-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA1CF54E8CD358888741372EF0F49939"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Havenstraat te Zutphen met op de achtergrond, tussen de bomen, het reservoirgebouw van de S.S., rechts de locomotiefloods en geheel rechts de goederenloods van de S.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1865-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1880-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

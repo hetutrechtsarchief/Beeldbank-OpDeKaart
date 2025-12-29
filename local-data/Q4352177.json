@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "713611AF540253ABB47A227F3A296DD0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sporen en de perrons van het N.S.-station Rotterdam Kleiweg te Rotterdam met rechts het oude stationsgebouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F067F04B2FDC5EA2A8DFA4D4B91DBC96"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150629"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en achtergevel van het N.S.-station Rotterdam Kleiweg te Rotterdam met treindienstleiderspost (post T)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

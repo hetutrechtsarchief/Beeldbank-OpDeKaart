@@ -1,0 +1,912 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3804F115CAE55015AF0995AAF7E3ADB7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12725"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort uit het  zuidwesten"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41D7B603F4075C3C8188FB9D6C085E97"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6118"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort, vanaf de Kamp. Opmerking: Fotoreproductie van een tekening (pen en penseel in grijs, 230 x 290 mm)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1729-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1729-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46A905F7399657D3A6CC65235D996520"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gerestaureerde Kamperbinnenpoort te Amersfoort uit het zuidwesten. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FD442D319075F78A355AA411EEC8A34"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6066"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort, vanaf de Kamp, met op de achtergrond de Langestraat. Opmerking: Reproductie van een omstreeks 1915 in het tijdschrift 'Buiten' gepubliceerde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1912-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50C36392876F5C57A2724FBC7A2E1F40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350475"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kamp te Amersfoort, uit het noordoosten; met op de achtergrond de Kamperbinnenpoort. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "536172FD22825179BBDEFCF794693DA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12716"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kamp met bebouwing en publiek te Amersfoort uit het noordoosten; met op de achtergrond de Kamperbinnenpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6071103E741F5BE29ADFBFD44666AFCF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602250"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort, vanuit de Kamp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CB7B66B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "210006"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort, met de erachter gelegen huizen, vanaf de Muurhuizen, uit het noorden. Opmerking: De afbeelding is afkomstig uit het Gildeboek, tijdschrift voor kerkelijke kunst en oudheidkunde, 1877."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1911-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1911-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "64EEC17AF24E5CC1B2F9015CF5BFDEFF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12719"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kamp en de Kamperbinnenpoort met bebouwing en publiek te Amersfoort uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EB4924BAFA65968A3A77A2EBC64DFD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123799"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kamp te Amersfoort, met op de achtergrond de Kamperbinnenpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74BCF8578D495F909DFDF343D3A159AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12718"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kamp en de Kamperbinnenpoort met bebouwing en publiek te Amersfoort uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "885FB7F37333535ABBA4CAC9396C41C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400059"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort, met op de achtergrond de Langestraat. Opmerking: Fotonummer V 40-44<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9187A8314FF851478DA53754C88119BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort, vanaf de Kamp, met rechts het huis de Gekroonde Byekorf (Kamp 10). Opmerking: In 2000 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "953CF49B4EC358D1A66702B1FEE00A83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gerestaureerde Kamperbinnenpoort te Amersfoort, uit het noordoosten. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A2117AEEABA5391B6CD2680F6EC9C0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11726"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Kamperbinnenpoort in de Langestraat met bebouwing te Amersfoort uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F109B3E07DD5E3898E53AF05310415A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5986"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kamperbinnenpoort te Amersfoort, vanuit de Langestraat, met op de voorgrond de kruising met de Muurhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1895-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A14B939DAFC250869FE3F743B8F8BCBC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12723"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort uit het  noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A29440C1B69656A7BB2CE563D332CD24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350476"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort uit het zuidoosten; tijdens de restauratie. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7428C6EB4585B24937ACDC9E8A56FB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "202808"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de binnenzijde van de Kamperbinnenpoort te Amersfoort vanuit de Langestraat. Opmerking: Gedrukte reproductie van een pentekening van Jan Wilmink uit 1962."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-09-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-09-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1BE20749B27571884EE01F3B3C25663"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12727"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort uit het  zuidwesten"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B98DDF391BAD5CC28AB68320104E2D0B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350503"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort, na de restauratie, met de voorgelegen bebouwing in de Langestraat, uit het zuidwesten. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C044B832C39C5D5CAA8288F1F19C169E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12724"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort uit het zuidwesten"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C06C28253F7F54B78FD54FD2B9C71600"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12713"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C47356B9AD845FE89417886AB8E8E738"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12714"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC8DFABB03AC564BA05CF1C1A027466D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12717"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kamp met bebouwing en publiek te Amersfoort uit het noordoosten; met op de achtergrond de Kamperbinnenpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFD00347CBA8546ABFDAC2F170C73025"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12720"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kamp en de Kamperbinnenpoort met bebouwing en publiek te Amersfoort uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1D2908C546759C48BF299A88F5F380E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92789"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Kamperbinnenpoort met omgeving te Amersfoort uit het noordoosten; met op de voorgrond de Kampstraat en op de achtergrond de Langestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D3F4D898B9795FDE8D0514DF8F0140D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gerestaureerde Kamperbinnenpoort te Amersfoort uit het zuidwesten. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0F4737635125E1D91BA9514FDA8790D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12726"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort uit het  zuidwesten"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E12028AF838855A5882D19F47C6C51C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6065"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort, vanaf de Kamp. Opmerking: Circa 2000 gemaakte afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F61E0D6E68915DA0B53F11688D01E917"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12722"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kamperbinnenpoort te Amersfoort uit het  noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F91A6C26615C541287FE048991436DC6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12715"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kamp met bebouwing te Amersfoort uit het noordoosten; met op de achtergrond de Kamperbinnenpoort en de Langestraat met bebouwing."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

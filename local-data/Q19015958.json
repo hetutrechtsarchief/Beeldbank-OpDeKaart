@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F815F47DF8E5738BB1C543FC02AF20B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402668"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het demonteren van een sloopauto bij het autodemontagebedrij Brabebo (Eerste Zijweg 2A) te Mijdrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3AE903A59855AB8A4CED8AA37E8A073"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402667"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het demonteren van een sloopauto bij het autodemontagebedrij Brabebo (Eerste Zijweg 2A) te Mijdrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-10-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-10-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

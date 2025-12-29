@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "802A3BDD387D569A9E9C3ADB16E68090"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "29258"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands Hervormde kerk te Kockengen (Kerkplein 9) tijdens de restauratie van het koor, gezien vanaf het huis Groenlust (Korte Kerkweg 2), langs de Heicop.<ZR><ZR>N.B. Kockengen is per 1 januari 1989 bij de gemeente Breukelen gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F7EDBAC1ECC5901A80FA8B54BACFEA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92702"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Heicop op de voorgevels van enkele huizen aan de Heicop/het Kerkplein te Kockengen uit het noorden.<ZR><ZR>N.B. De gemeente Kockengen is per 1 januari 1989 bij de gemeente Breukelen gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

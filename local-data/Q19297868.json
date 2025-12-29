@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1721338004075C71B457D1B2783EEB29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600648"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het kantoor van de Kruisvereniging voor de stad Utrecht (Kernkampplantsoen 71-73) te Utrecht vanaf de Kardinaal de Jongweg (voorgrond)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CCB3DE37A7C50EAAF87E71C8D43C15E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56839"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het beeld Drie Ezels, ter hoogte van de Jan van Galenstraat 99 te Utrecht, uit het zuidwesten; op de achtergrond de in aanbouw zijnde flatgebouwen aan het Kernkampplantsoen en Fruinplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "537BED24C1BE5DD5BC940FBCA9C799C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600649"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de groenstrook bij het Kernkampplantsoen te Utrecht vanaf de Kardinaal de Jongweg (voorgrond)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE78A3AE79185C45928087CF5E383835"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60214"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kernkampplantsoen 8-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

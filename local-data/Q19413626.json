@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07FEBB0B5EF55E7B8BEF38E69D3E38AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127073"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen in de Pieter Bernagiestraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EEE3B5002875B96B9DD80A17405FE75"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127074"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pieter Bernagiestraat te Utrecht, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA98EF9F523155DA819F83347B9EDD22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127079"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een appartementencomplex op de hoek van de Jutfaseweg en Pieter Bernagiestraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

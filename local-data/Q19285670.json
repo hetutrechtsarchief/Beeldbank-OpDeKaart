@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7096A127472F56D3B6A37A23DE3862B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88738"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het westen op de bouw van enkele panden aan de Kameniersterlaan te De Meern (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      }
+    ]
+  }
+}

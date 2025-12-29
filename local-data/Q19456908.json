@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F6C872A0EBD5D7D8115C76AC4F7AF17"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50519"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het politiebureau (Raadhuisplein 31) te Soest, met daarachter de sporthal Beukenhal (Beukenlaan 47), uit het westen. Links op de voorgrond de Dalweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D928B66D260549EA1AAC66B59C53401"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50531"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het gemeentehuis (links, Raadhuisplein 1) te Soest, uit het noordwesten, met daarachter de Dalweg. Rechts van het gemeentehuis het politiebureau (Raadhuisplein 31) en de sporthal Beukenhal (Beukenlaan 47). Op de achtergrond de bebouwing aan de Molenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7A7992061F3555BB61B79B80AF50BD5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het gemeentehuis (Raadhuisplein 1) te Soest, uit het noorden, met daarachter de Dalweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

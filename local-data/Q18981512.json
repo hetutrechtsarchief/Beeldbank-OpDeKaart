@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8490E6078D8254F5A2FCC0378DB53A9C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10183"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Buzziburg (Buzziburglaan 14) te Rijsenburg. <ZR> <ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

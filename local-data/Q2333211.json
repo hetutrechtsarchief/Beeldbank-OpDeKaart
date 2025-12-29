@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29BF5CFA00A657F6BAF88A29200AC174"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155907"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe N.S.-station Maassluis West te Maassluis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8199E48B26F55BFB8AFAA8F71B176C8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron en de spoorbaan bij het N.S.-station Maassluis West te Maassluis met twee gekoppelde electrische treinstellen plan Y (\"Sprinter\") van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E26F47FFAE2A5319A0ABCF6051CC5F1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155906"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe N.S.-station Maassluis West te Maassluis met een naderend electrisch treinstel mat. 1946 van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

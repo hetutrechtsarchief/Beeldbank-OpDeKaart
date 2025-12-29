@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B40FEB995015D65B74D2F123CD1CF7E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de Verheul autobus nr. 605 van de G.T.W. als lijn 12 naar Doetinchem op het Stationsplein te Zutphen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB0AA338DE865B2AACE022D484CC14EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154220"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de Verheul autobus nr. 611 van de G.T.W. als lijn 6 naar Doetinchem op het Stationsplein te Zutphen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC34E8562917528896F5175985B2F991"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee Verheul autobussen van de G.T.W. op het Stationsplein te Zutphen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

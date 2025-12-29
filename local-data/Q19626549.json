@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D87ACF7BF0715453B55BA5002F93D0A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350660"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Van Tuyllstraat met bebouwing en beplanting te Hooglanderveen (gemeente Hoogland) uit het zuidoosten. <ZR><ZR>N.B. De gemeente Hoogland is per 1 januari 1974 bij de gemeente Amersfoort gevoegd. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

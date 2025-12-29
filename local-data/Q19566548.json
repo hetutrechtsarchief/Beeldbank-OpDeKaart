@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "293A435FF5955C70879E725DF6498FC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen aan het Tidorepad te Utrecht, met op de voorgrond de Timorkade en de Leidsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-05-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-05-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41B23B301EBB579AB5F5EB68C3B393C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809350"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen aan het Tidorepad te Utrecht, met op de voorgrond de Timorkade en de Leidsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-05-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-05-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "897463BA8AD85EEC8BB8D2E20F3A1013"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24091"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van het pand Tidorepad 11-13 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A5BECFA78E5059BFA318BF042061355F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71302"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Tidorepad te Utrecht met op de voorgrond de Timorkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1AC341E4DD725C6CA67240A18A2FBF17"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de educatieve tuin (schooltuin) aan de Vancouverdreef te Utrecht, uit het zuiden; op de achtergrond het Gandhiplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31E22B09ABA25C7DB36D71ED118C5C30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802556"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de educatieve tuin (schooltuin) aan de Vancouverdreef te Utrecht, uit het zuidwesten; op de achtergrond het Gandhiplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93BED6D933B258D4AE6F5A30A5AB527B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802558"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de educatieve tuin (schooltuin) aan de Vancouverdreef te Utrecht, uit het oosten; rechts het Gandhiplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99FE47F1E067516B9FE8DB2BD13C918A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23134"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Vancouverdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

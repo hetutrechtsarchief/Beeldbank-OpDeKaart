@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1935B222984521C8A181F9B4DBCE0FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400901"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het fietspad langs de Tritondreef te Utrecht, met twee dames die hun honden uitlaten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

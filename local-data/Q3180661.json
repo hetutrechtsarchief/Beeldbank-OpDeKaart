@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B809186600065AA29FC3200B555200A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156928"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nieuwe Maas te Rotterdam met op de voorgrond de Maaskade en links de Willemsspoorbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1878-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1888-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

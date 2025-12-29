@@ -1,0 +1,828 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09F7657E46C356A682FADCAC019D36BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "210046"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegronden van de protestantsche kerk (Dorpskerk, Woudenbergseweg) te Maarsbergen, alsmede enkele doorsneden van een contrefort (steunbeer). Opmerking: De tekening is gesigneerd, o.a. door de architecten F.W. van Gendt en A.R. Freem."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1880-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1884-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "20DE8C71316F52ECBEFD82252AD645A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602501"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het terrein van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn), met op de voorgrond \u00e9\u00e9n van de paviljoens.<ZR>Met de tekst van het tweede deel van het \"Valkenheide-Lied\". Opmerking: De afbeelding bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511. Voor het eerste deel van het Valkenheide-Lied, zie cat. nr. 602500."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2BB18E9005315B6BB39CF3570B77C824"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het jongenspaviljoen van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn). Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4058AC4797DB5B29840E07283D47DA94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602506"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op \u00e9\u00e9n van de gebouwen van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn). Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "480BB6CCA5505F9E8C5A54A54675EBCB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602502"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de akkers van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn), met links op de achtergrond \u00e9\u00e9n van de paviljoens en in het midden het hoofdgebouw. Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6AF6C113D5C8518D94B272370B9AD696"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93691"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Het Blauwe Huis (Woudenbergseweg 42) te Maarsbergen (gemeente Maarn). Opmerking: Lit. MIP Maarn, p. 198-199."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EDAD471771D5A9DB318CC411405498E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602509"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tuinmanswoning en de produktietuinen van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn). Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7933CD68B62B55279F84F9AD9AC9D89E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602510"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn), met op de voorgrond de weide met koeien. Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A7ED65E901750898D3D13C846AA820C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602505"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op \u00e9\u00e9n van de gebouwen van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn). Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CB64A1A4B1B59A0B7893BC35DFF89B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206529"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en de voorgevel van de Nederlands Hervormde kerk aan de Woudenbergseweg te Maarsbergen. Opmerking: Tekening van Chris Schut gemaakt ca.1977-1982 in opdracht van het Provinciaal Comit\u00e9 Utrecht Monumentenjaar 1975 voor een map met 20 reproducties getiteld Hedendaagse tekeningen van de Utrechtse Heuvelrug en omstreken, uitgegeven in 1983 (Bibl. HUA DK2013-62)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EB32FAAF54C556981FD98A7144495FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602500"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het terrein van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn), met op de voorgrond het hoofdgebouw.<ZR>Met de tekst van het eerste deel van het \"Valkenheide-Lied\". Opmerking: De afbeelding bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511. Voor het tweede deel van het Valkenheide-Lied, zie cat. nr. 602501."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B0B5EDC451108AE0534701000A8F95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839596"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provincialeweg P11 (Woudenbergseweg) te Maarsbergen, ter hoogte van de spoorwegovergang, met links de wegwijzer voor de aansluiting met Rijksweg 12. Opmerking: De foto bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 491."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B0E5DCFCEB5B4EE0534701000A9FB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839597"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provincialeweg P11 (Woudenbergseweg) te Maarsbergen, ter hoogte van de spoorwegovergang, vanaf het viaduct van Rijksweg 12. Opmerking: De foto bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 491.<ZR>Inclusief een transparante 'overlay' met de gewenste verkeerssituatie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B1586353B8044BE0534701000ACD20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839598"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provincialeweg P11 (Woudenbergseweg) te Maarsbergen, uit het zuiden. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B1586353DA044BE0534701000ACD20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839600"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provincialeweg P11 (Woudenbergseweg) te Maarsbergen, uit het zuiden, na het verbeteren van de weg en het kappen van de meeste bomen. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B20C8F5BDF068BE0534701000A85B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839604"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Woudenbergseweg te Maarsbergen, uit het noorden, bij de aansluiting met de Haarweg (naar links). Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B20C8F5BEA068BE0534701000A85B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839605"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Woudenbergseweg te Maarsbergen, uit het zuiden. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B26758E8F19158E0534701000AAA3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839608"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Woudenbergseweg te Maarsbergen, uit het zuiden, na de verbetering van de weg. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B26758E8F89158E0534701000AAA3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839609"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Woudenbergseweg te Maarsbergen, uit het zuiden. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B2A0FD0A3DE614E0534701000A373B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839611"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Woudenbergseweg te Maarsbergen, uit het zuiden, ter hoogte van het viaduct van Rijksweg 12. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B2A0FD0A4FE614E0534701000A373B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839612"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Woudenbergseweg te Maarsbergen, uit het noorden, met links het Motel Maarsbergen en op de achtergrond het viaduct van Rijksweg 12. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8DAF5298ACD65BA7AF4808E91C9B6910"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602508"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn). Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9BB7FB87285A58629903A1F907A90A7E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "210044"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Doorsneden van de protestantsche kerk (Dorpskerk, Woudenbergseweg) te Maarsbergen. Opmerking: De tekening is gesigneerd, o.a. door de architecten F.W. van Gendt en A.R. Freem."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1880-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1884-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACBEC0B3819357B485CA7DFD52E2B99C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166539"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Woudenbergseweg te Maarsbergen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D80C0CF9718C511DB8A395ED405023E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "210045"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Opstanden van de voor-, zij- en achtergevel van de protestantsche kerk (Dorpskerk, Woudenbergseweg) te Maarsbergen. Opmerking: De tekening is gesigneerd, o.a. door de architecten F.W. van Gendt en A.R. Freem."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1880-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1884-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E4F3FB7243F65DEEB7ECD1FD90AF89BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602511"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de watertoren van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn). Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F432DFFB4122593387F1F8D531BAF132"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602503"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoofdgebouw van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn). Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F63E8D67CF5D5197AE1AC2F73B95B1EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602507"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een dienstwoning van het opvoedingsgesticht Valkenheide (Woudenbergseweg) te Maarsbergen (gemeente Maarn). Opmerking: De prentbriefkaart  bevindt zich in een boekje met tien prentbriefkaarten \"In Utrechts Heuvlenrij - Valkenheide 1909 herfstmaand1934\". Zie de cat. nrs. 602500 t/m 602511."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC6DDC24C7B4520BBA72CF69E51108CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166538"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Woudenbergseweg te Maarsbergen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

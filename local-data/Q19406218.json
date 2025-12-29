@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93343AB7B56459A5B5A82A53A0D63A37"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8397"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parklaan te Bilthoven uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DEE43E823555DD9AF6260742E1B2270"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parklaan te Bilthoven uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B902EBBD5C985F4CBD4E444170F59F84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8395"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parklaan te Bilthoven uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

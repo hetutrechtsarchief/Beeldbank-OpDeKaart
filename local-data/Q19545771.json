@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "017DBDF7D72455EA93B583C1350B69D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45512"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht vanaf de watertoren aan de St.-Anthoniedijk te Utrecht van de in aanleg zijnde wijk Overvecht, uit het zuidwesten, met in het midden de toekomstige Wezerdreef. Op de achtergrond de Gageldijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0469CF612CE25C20A00698DC3D223496"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30029"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Anthoniedijk te Utrecht uit het zuiden met de watertoren en opgespoten zand op het bouwterrein waar de wijk Overvecht zou worden gebouwd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0C181F5ED98C5D14953303665C12543B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22960"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen St.-Anthoniedijk 115 (uiterst links) -hoger te Utrecht, ter hoogte van de kruising met de Gageldijk.<ZR><ZR>N.B. De huizen zijn medio jaren '60 gesloopt ten behoeve van de aanleg van de Albert Schweitzerdreef. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "275B4397362450E884EFFDEADB282B25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127050"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele te slopen huizen aan de St.-Anthoniedijk te Utrecht, ter hoogte van de kruising met de Gageldijk.<ZR><ZR>N.B. De huizen zijn in de tweede helft van de jaren zestig gesloopt in verband met de aanleg van de Albert Schweitzerdreef. Opmerking: Zie ook Utrechtsch Nieuwsblad, maandag 5 juli 1965, blz. 4: \"Er staan nog steeds huizen aan St.-Anthoniedijk\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "27BDFFB360FB56B89B5886662C8D072A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810798"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele huizen aan de St.-Anthoniedijk te Utrecht, ter hoogte van de kruising met de Gageldijk. Op de achtergrond  een deel van het flatgebouw aan de Dommeringdreef en de Pahud de Mortangesdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "315C1E19FE2C50D2905B07144AD87A1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Anthoniedijk te Utrecht, vanuit het noordoosten met in het midden op de achtergrond een gedeelte van het flatgebouw aan de Pahud de Mortangesdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35084E48AAAB5983B7A93D1A61F0CC55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85257"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de spoorlijn Utrecht-Amersfoort te Utrecht, uit het westen. Links de Brailledreef en het Sportpark Loevenhoutsedijk, op de voorgrond de St.-Anthoniedijk en rechts de Vecht. In het midden de Dr. H. van der Hoevenkliniek (Willem Dreeslaan 2) en het in aanbouw zijnde Centrale Belasting Kantoor (Gerbrandystraat 20). Op de achtergrond de Talmalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4682FE9B7D4A50598C8F420E6703EF19"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45410"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht vanaf de watertoren aan de St.-Anthoniedijk te Utrecht van het bouwrijp maken van het terrein in het kader van het uitbreidingsplen Overvecht Zuid, uit het noordwesten. Op de voorgrond de toekomstige Lotsydreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4CB2022BE4335A6D9FBF2D650B7B6561"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56793"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een weiland met op de achtergrond de boerderijen (Gageldijk 83-85) te Utrecht, vanaf de St.-Anthoniedijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FCEC23F4C2D5527A7FD65929BAA0377"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de (toekomstige) Neckardreef en de St.-Anthoniedijk te Utrecht, vanaf de watertoren, uit het zuiden, met links de in aanbouw zijnde huizen rond de Hogenhorstdreef. Opmerking: Deze afbeelding is gepubliceerd in het Utrechts Nieuwsblad van 29 februari 1964."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D382A5B8A7B5FD0879E2B9681966C56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56792"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een weiland met op de achtergrond de boerderijen (Gageldijk 83-85) te Utrecht, vanaf de St.-Anthoniedijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6037AC033CC053C489F7997D01C12575"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Anthoniedijk te Utrecht, vanuit het noordoosten met in het midden op de achtergrond een gedeelte van een flatgebouw aan de Pahud de Mortangesdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC1816B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42582"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bebouwing aan de St.-Anthoniedijk (hoek Gageldijk) te Utrecht.<ZR><ZR>N.B. De huizen zijn medio jaren '60 gesloopt ten behoeve van de aanleg van de Albert Schweitzerdreef. Opmerking: Afdruk afkomstig uit archief DOW."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC1836B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42583"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bebouwing aan de St.-Anthoniedijk (hoek Gageldijk) te Utrecht.<ZR><ZR>N.B. De huizen zijn medio jaren '60 gesloopt ten behoeve van de aanleg van de Albert Schweitzerdreef. Opmerking: Afdruk afkomstig uit archief DOW."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC1856B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42584"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bebouwing aan de St.-Anthoniedijk (hoek Gageldijk) te Utrecht. Het huis in het midden (met mansardedak) is het huis St.-Anthoniedijk 113 A.<ZR><ZR>N.B. De huizen zijn medio jaren '60 gesloopt ten behoeve van de aanleg van de Albert Schweitzerdreef. Opmerking: Afdruk afkomstig uit archief DOW."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EC66F1227745AACA7CDA1425AC9082C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108560"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het water tussen de weilanden ter hoogte van de St.-Anthoniedijk te Utrecht, uit het noorden, met op de achtergrond de wijk Overvecht. Opmerking: De foto maakt deel uit van de serie \"Reizigers van weleer\" van fotograaf Bert Creyghton en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "959B1C4F285F56E2A23F984EC0B8D260"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19985"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Watertoren aan de St.-Anthoniedijk te Utrecht met een deel van de wijk Overvecht tijdens de aanleg. Opmerking: Afdruk van dia, 2000."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-02-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-02-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B50345783DD527A834D9F75B2D53B11"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56780"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gageldijk te Utrecht, met een autobus van de N.B.M. naar Loosdrecht; links de St.-Anthoniedijk. Opmerking: Op het negatiefzakje stond als straatnaam de Klopdijk aangegeven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B5BB9C0F6FF5A08A4669C3EF113FA65"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85303"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de polder De Gagel te Utrecht, uit het zuidwesten. Op de voorgrond de Albert Schweitzerdreef, in het midden de St.-Anthoniedijk en op de achtergrond het Fort Ruigenhoek te Maartensdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0622608E1365B43B42B33276FFFB088"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52239"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen St.-Anthoniedijk 112-113 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-09-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-09-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C1301E8D4E1F55EEA84A21B633175144"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84940"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Overvecht te Utrecht, tijdens de bouw, uit het oosten; op de voorgrond de grotendeels nog aan te leggen Albert Schweitzerdreef langs de Gageldijk. In het midden, van links naar rechts, de St.-Anthoniedijk. Opmerking: Fotonummer 36361."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C2A8A0C4125257CF8B9FCF002A362E85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56781"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het huis St.-Anthoniedijk 111 te Utrecht (het laatste oude huis langs de dijk op deze hoogte) met op de achtergrond het flatgebouw aan de Dommeringdreef. Opmerking: Persfotobureau 't Sticht fotonummer: 9114-11."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-03-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-03-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4A01544B34C51D5918C666C9A9C395C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52229"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de St.-Anthoniedijk te Utrecht, vanuit het zuidwesten met op de voorgrond enkele onbewoonbaar verklaarde huizen aan de Loevenhoutsedijk; geheel links op de achtergrond de watertoren (aan de huidige Neckardreef)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5F3A83418B153F2AA6715236D877816"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45511"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht vanaf de watertoren aan de St.-Anthoniedijk te Utrecht van de in aanleg zijnde wijk Overvecht, uit het noordwesten, met op de voorgrond de toekomstige Neckardreef, links de Lotsydreef en de Elbedreef en op de achtergrond de Moldaudreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8A71D44C61F56399E73E26998ABB1FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "80187"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de watertoren aan de St.-Anthoniedijk te Utrecht. Opmerking: In 1973 vervaardigde reproductie van een omstreeks 1935 gemaakte foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1936-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D3C3F5937E725EDC97801D8F7CFC3959"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20644"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de St.-Anthoniedijk te Utrecht met enkele panden. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DFE5A13C7630595DBBEA95150136997C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30028"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Utrecht met de St.-Anthoniedijk en de watertoren vanaf de Gageldijk, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E1762A7EA8AB58B3B5F39ACE6312C7D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52231"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Anthoniedijk te Utrecht met weilanden, ter hoogte van de kruising met en vanaf de Gageldijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E27B6D4F5F8058FE9E8E0AE14715A2F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20645"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pand St.-Anthoniedijk 111 te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3C9AB939B4F521C89C73BD14800B47C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20647"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het pand St.-Anthoniedijk 118 te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E418EB3333A95A0CAAF25615F9500302"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45405"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht vanaf de watertoren aan de St.-Anthoniedijk te Utrecht van het bouwrijp maken van het terrein voor het uitbreidingsplan Overvecht Zuid, uit het noordoosten. Rechts de St.-Anthoniedijk en op de achtergrond de in aanleg zijnde Marnedreef. Opmerking: Literatuur: \"Overvecht\", door ir. C. J. A. Felperlaan, in De Timmerwerf, nr. 60, december 1960, pp. 3-6 (bibl HUA XIX F 9)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEE762895F2C5AD5B3F5C3D3ECE5EB19"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19984"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Watertoren aan de St.-Anthoniedijk te Utrecht met een deel van de wijk Overvecht tijdens de aanleg. Opmerking: Afdruk van dia, 2000."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-02-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-02-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F20C55B2F68652B8B36CF4A79EA48E75"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20646"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pand St.-Anthoniedijk 115 te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC2BB2DD339B59898D605D131724FC1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30131"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gageldijk te Utrecht uit het noordwesten in de richting van de St.-Anthoniedijk met rechts op de achtergrond de watertoren."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      }
+    ]
+  }
+}

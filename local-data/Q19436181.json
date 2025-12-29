@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1EF958E640245B628DFCAF7EEACB1495"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402572"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Priokstraat te Utrecht, met op de voorgrond de poort tussen de huizen Vleutenseweg 440 en 442."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FB2F15190B757139AF74E4FFAF316C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Vleutenseweg 440-442-444 te Utrecht. In het midden de poort van de Priokstraat met het pand Priokstraat 2. Op de achtergrond de Bataviastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F652F1CA4445D7AA8FCB5BC3248A0B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402630"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Priokstraat te Utrecht, met op de voorgrond de poort tussen de huizen Vleutenseweg 440 en 442."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEB0F85DB44E5FF1B3469365DA922DAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Vleutenseweg 432-440 te Utrecht, vanuit het oostnoordoosten. Rechts een gedeelte van het pand Priokstraat 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

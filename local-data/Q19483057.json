@@ -1,0 +1,380 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4908B2285DDB533FB50CF2113C5FA095"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814654"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St. Jozefkerk (Rozenstraat 20) te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4CE23171BA565EBC93ACBA32D4D20768"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814853"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het klooster Maria-Oord (Rozenstraat 19) te Zeist: hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "54E19E7F793D59008BE16C89D34F277B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814854"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het klooster Maria-Oord (Rozenstraat 19) te Zeist: kapel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5AFB6B9DE4605F938FCA22425DC83785"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814841"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het klooster Maria-Oord (Rozenstraat 19) te Zeist: keuken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "632BF65013B45B81B1911B84A721BB4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St. Josephkerk (Rozenstraat 20) te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7DAF2C5083A950F98195E8B7F67977B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814653"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pastorie van de St. Jozefkerk (Rozenstraat 20) te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9AB5DD5D76E25267A0B0832F59D016FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117421"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de St. Josephkerk (Rozenstraat 20) te Zeist: schip, gezien richting het orgel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9FC1F4CBCF29594EAE31F2A8C7A45D74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117423"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de St. Josephkerk (Rozenstraat 20) te Zeist: zijkapel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9750AB0C9BD5E07A4535B7348E4351E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117422"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de St. Josephkerk (Rozenstraat 20) te Zeist: schip, gezien richting het koor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C54D09E257775AC7B897C995CAA29F67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814651"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het klooster Maria-Oord (Rozenstraat 19) te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD0F9B8A5C375C02A0E6966DF14B7CC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814840"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het klooster Maria-Oord (Rozenstraat 19) te Zeist: spreekkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D321F4133CAD5EA798E536999F72C59B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814652"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pastorie van de St. Jozefkerk (Rozenstraat 20) te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F47385EBBA1B52DC89288C2A4E400091"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814650"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het klooster Maria-Oord (Rozenstraat 19) te Zeist, met links de ingang van de Leliestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

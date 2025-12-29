@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "836E3F34556FFADAE0534701000A52FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839754"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de met knipperlichten beveiligde spoorwegovergang in de Provincialeweg te Mijdrecht, uit het oosten, met op de achtergrond de aansluiting op de Mijdrechtse Zuwe. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P19 (Uithoorn-Vreeland) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 498."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

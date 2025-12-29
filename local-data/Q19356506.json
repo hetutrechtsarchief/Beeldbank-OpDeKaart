@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37AF3ABA845E52828F3615DF1659A91B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823358"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het reinigen van een vuilniswagen op de Gemeentewerf van de Dienst Gemeentewerken (Nijverheidslaan 2) te Veenendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7946ECCF4617589887BB5878F559554B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823359"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de entree van de Gemeentewerf van de Dienst Gemeentewerken (Nijverheidslaan 2) te Veenendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

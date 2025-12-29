@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07A6869B3C6354909DCE97AE2F7A375D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814790"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Santiagodreef te Utrecht, vanaf de Belo Horizontedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13D03DF2BE245FC3B9C9E3044E86733D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814782"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de speelplaats aan de Valparaisodreef te Utrecht, met op de achtergrond het flatgebouw aan de Santa Cruzdreef en rechts het flatgebouw aan de Santiagodreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

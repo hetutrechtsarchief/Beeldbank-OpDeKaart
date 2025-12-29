@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F919AA6FF2956AA8F8E0DED4FD87022"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163661"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voetgangersbrug en spoorwegovergang in de Linnaeusstraat te Amsterdam, met links de overwegpost en rechts het seinhuis Post C.<ZR><ZR>N.B. De afbeelding maakt deel uit van een serie foto's met betrekking tot de Spoorwegwerken te Amsterdam. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

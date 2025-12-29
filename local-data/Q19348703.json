@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E7100F8354A5B04B5BF108E1B97892D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810442"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands Hervormde kerk (Molenstraat 11 / Dorpsstraat 53) te Nieuwegein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE014DABF2C25E4D943B295D68C85563"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechter- en achtergevel van de Nederlands-hervormde kerk (Molenstraat 11 / Dorpsstraat 53) te Nieuwegein. Opmerking: Lit. MIP Nieuwegein, p. 231-232."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

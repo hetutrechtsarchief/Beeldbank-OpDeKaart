@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1AE1859475145D4AAA719FA4E4D7CCC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15692"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wilhelminalaan met bebouwing en beplanting te Zeist uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7338D82C377D5E6BA5FC365641E65059"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15693"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wilhelminalaan met bebouwing en beplanting te Zeist uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "94C694E7ED8853CAAE062E4BB2E1905A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15694"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wilhelminalaan met bebouwing en beplanting te Zeist uit het zuiden; met rechts de voorgevels van de huizen nrs. 28-lager. Opmerking: Lit. Zeist, Groei en Bouw, deel Patijnpark, Dorpskern en Wilhelminapark, p. 234-238."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

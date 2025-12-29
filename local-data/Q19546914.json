@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4357C579F2CA5122A64D24AB0CDD4A4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14835"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het monument voor de slachtoffers van de bezettingsperiode 1940-1945 op het Stationsplein te Veenendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A51353AF6C65E39BEEFB91895F53501"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14834"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het monument voor de slachtoffers van de bezettingsperiode 1940-1945 op het Stationsplein te Veenendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6A80092EDB79531B8B9E1AD10140B180"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14836"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het monument voor de slachtoffers van de bezettingsperiode 1940-1945, met neergelegde kransen en bloemstukken, op het Stationsplein te Veenendaal. Opmerking: N.B. Een in ca 1990 gemaakte reproduktie van een in ca 1955 vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA42D21AF54A500389FBD83C43C34333"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14745"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein met rijen loofbomen en een kiosk te Veenendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

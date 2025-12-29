@@ -1,0 +1,996 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B47596DB5B7507AB29B048C3AF2E963"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824246"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het restant van het spoortje naar de DEMKA, vanaf het terrein van de voormalige Bovenbouwwerkplaats van N.S. (2e Daalsedijk 14) te Utrecht, met de achterzijdes van de huizen aan de Seringstraat en links de spoorlijn naar Amsterdam."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "196BD2CF0623500FAFE845545BA3842C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19258"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 21 (rechts)-hoger; rechts de ingang van de Tijmstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E45A949682A529094336D57F73F928B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829788"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een Utrechtse kabouter (KBTR) met de armen over elkaar, op het geluidsscherm bij Station Utrecht Zuilen, ter hoogte van de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E5D4E15449A5034AE83939FD14975D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19202"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 45 (rechts) - hoger; geheel rechts de ingang van de Distelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22CB1785DFD454D6B060EB99475B2CB5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het hoekhuis Bremstraat 62 te Utrecht met rechts een gedeelte van een huis aan de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D57FD8FFF515B6880CB18B4A434EC4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19255"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Tijmstraat te Utrecht met in het midden de huizen nrs. 44 en 46; vanaf de kruising met de Seringstraat; rechts het hoekhuis Seringstraat 19."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31646B1AEDD25278A29643309711DD15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18725"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Distelstraat 26-30 te Utrecht vanaf de Bremstraat (voorgrond); op de achtergrond enkele huizen aan de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B0BDB66E5BB5656A8925A0E4883061E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19201"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs 134 (rechts) - lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F381A76367659AABDCDCD217D2F1AFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19270"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 12 (links)-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F9AC152503B5F3EB6398322E1996F2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19269"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 1 (rechts)-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "49D3D7FE55BE5317BC99DA4BA5EED299"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829787"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met de gestileerde tekst \"BEAPS\", op het geluidsscherm bij Station Utrecht Zuilen, ter hoogte van de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BC2A2E2C10852E3B76AFCFEDCC32576"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19203"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 162 (links) - hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "524A56F5FC145F978355B6E095FE4B0A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19271"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 10 (rechts)-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC5F36B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831767"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een laagvliegend Amerikaanse B-17 (Flying Fortress) vliegtuig dat zojuist boven het afwerpterrein (Stapelterrein van de N.S., Lage Weide) te Utrecht voedselpakketten heeft afgeworpen; links de zijgevel van het huis Geraniumstraat 56 en rechts de achtergevels van de huizen Seringstraat 176 (midden)- lager. Opmerking: De voedseldroppings tijdens de Operatie Chowhound was de Amerikaans tegenhanger van de door de Britten uitgevoerde Operatie Manna."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC9726B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "836389"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het restant van de spooraansluiting naar de DEMKA te Utrecht, met het wissel van de spoorverbinding tussen het terrein van de vroegere bovenbouwwerkplaats van de N.S. en het vroegere stapelterrein / terrein van de Spoortstaaf Las Inrichting (S.L.I.) van N.S. Rechts de spoorlijn Amsterdam-Utrecht. Ter hoogte van de lichtseinen bevond zich de onderdoorgang (tunneltje) tussen deze door de hoofdlijn gescheiden terreinen van de N.S. Links de achterzijdes van de huizen aan de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C770D78466C523EA2C53FD17789C8CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19204"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 61 (rechts) - hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EA5841CACC6532ABEE062BF6F5F7E4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19272"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Chrysantstraat te Utrecht met de huizen nrs. 19 (links)-lager, vanaf de kruising met de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85486E042D3B53D3B15AA58E16B5346E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19134"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Seringstraat 84 (links)-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "918C553161A358A5B9CBA3E4B3F21FA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124382"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Geraniumstraat te Utrecht, uit het westen; rechts de ingang van de Seringstraat. Opmerking: De foto maakt onderdeel uit van een serie foto's waarin de fotograaf de grenzen van de voormalige stadsvrijheid van Utrecht in het toenmalige stadsbeeld heeft vastgelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99C940645B1D59E3BF1222A9BC904A40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Chrysantstraat te Utrecht met de huizen nrs. 52 (rechts)-lager, vanaf de kruising met de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DDFF06C306455A6A999E9E559515B2E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19135"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A8C11877A558579BB434828E37B9B190"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831784"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de St. Josephlaan (voorgrond) op de huizen Geraniumstraat 54 (rechts)- lager te Utrecht vanaf de St. Josephlaan; links van het midden de ingang van Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA9EE19C73845A3CA2CCE63963E0B4C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402671"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Seringstraat 10 te Utrecht, vanaf de Chrysantstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6CC022E417A5A93AAFC6ADDF8312BAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19257"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 44 (links)-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B9CE54E5E921510EAF310B7176A71723"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19207"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 79 (midden) - lager; links het hoekhuis Geraniumstraat 46."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC8ACD609D7C5ECBB4D155B7E3144CFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58658"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de speelplaats voor de huizen in de Hortensiastraat te Utrecht; uit het oosten, met links de huizen Seringstraat 114-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0045F6270695B12ACA64BBADB329F9E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Ondiep te Utrecht, uit het zuidwesten. Op de voorgrond de spoorlijn naar Amsterdam en de Seringstraat. Rechts een gedeelte van de wisselbouwwerkplaats van de Nederlandse Spoorwegen. Op de achtergrond de Amsterdamsestraatweg met de watertoren (links) en de Plantage (terrein voormalig Openbaar Slachthuis, rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA90494D98BE5A5CAAE57498C7D388E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19256"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Tijmstraat te Utrecht met de huizen nrs. 45 (links)-lager, vanaf de kruising met de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE4C2148B4AF5000999A0DFC73C11108"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21151"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het opslagterrein van de Bovenbouwwerkplaats van de Nederlandse Spoorwegen (2e Daalsedijk 14) te Utrecht, gezien vanaf de Seringstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-10-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-10-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E91B470495375C81969894282C63C973"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18728"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Distelstraat te Utrecht met de huizen nrs. 1-hoger vanaf de Egelantierstraat (voorgrond); geheel links op de achtergrond enkele huizen aan de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EAE87C9E08F55072811C4AB95F48229D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19199"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 108 (links) - hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE875CA6E66A5675BA9C6EE992B0C356"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18729"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Distelstraat te Utrecht met de huizen nrs. 14-hoger; rechts op de achtergrond enkele huizen aan de Seringstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1F84D387B0D5A2C918815244FCD16BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19198"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Seringstraat te Utrecht met de huizen nrs. 43 (midden) - lager; links het hoekhuis Korenbloemstraat 64."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F6D87B2DFA5B5C648AA9727A9229B03E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118503"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de watertoren aan de Amsterdamsestraatweg en omgeving te Utrecht met op de achtergrond een deel van de wijk Ondiep met de Royaards van den Hamkade en op de voorgrond de spoorlijn Utrecht-Amsterdam, Seringstraat en Bremstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD3703E472B55D05BDA142D8D9C427FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19133"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Seringstraat 82 (rechts)-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

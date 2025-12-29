@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04A0C17BDCD55ADAB80F3981CD141F1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165807"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de beproeving van de spoorweghulpbrug over de Spaarndammerstraat te Amsterdam, met enkele stoomlocomotieven van de H.S.M. (o.a. stoomlocomtief nr. 535, rechts), leden van de spoorwegdirectie en van Aannemersfirma W.A. Verbruggen uit Gouda. Opmerking: De foto is gesigneerd door P. Oosterhuis. Pieter Oosterhuis is in 1885 overleden, maar zijn fotozaak is nog lang voortgezet door zijn zoon Gustaaf Oosterhuis (1858-1938), die blijkbaar met P. Oosterhuis signeerde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1921-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1921-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B445617FBE42592FAB96A493599A2EA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165806"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de beproeving van de spoorweghulpbrug over de Spaarndammerstraat te Amsterdam, met enkele stoomlocomotieven van de H.S.M., leden van de spoorwegdirectie en van Aannemersfirma W.A. Verbruggen uit Gouda. Opmerking: De foto is gesigneerd door P. Oosterhuis. Pieter Oosterhuis is in 1885 overleden, maar zijn fotozaak is nog lang voortgezet door zijn zoon Gustaaf Oosterhuis (1858-1938), die blijkbaar met P. Oosterhuis signeerde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1921-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1921-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

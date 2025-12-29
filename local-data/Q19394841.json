@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22668438C7915640AFED70F958C1338B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50811"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de Polder Kamerik-Teylingens met het recreatiecentrum Oortjespad te Kamerik uit het westen; met op de achtergrond de Polder Teckop.<ZR><ZR>N.B. De gemeente Kamerik is per 1 januari 1989 bij de gemeente Woerden gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F25990277DF5111AA43353864C168F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10868"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de kinderboerderij Eendjesoort op het recreatieterrein Oortjespad te Kamerik: twee ezels bij een voederruif. <ZR><ZR>N.B. De gemeente Kamerik is per 1 januari 1989 bij de gemeente Woerden gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC60645B8B5352019CAE8E50032DA8E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het toegangshek van de kinderboerderij Eendjesoort op het recreatieterrein Oortjespad te Kamerik.<ZR><ZR>N.B. De gemeente Kamerik is per 1 januari 1989 bij de gemeente Woerden gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

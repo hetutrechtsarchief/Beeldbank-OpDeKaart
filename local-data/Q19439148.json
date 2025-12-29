@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D478E4A0B8AF5EA2B80CB4EED77CF54A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56663"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de verkeersrotonde van het Eykmanlaan (achtergrond) te Utrecht bij de kruising met de Prof. J.W. Dieperinklaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3BDB9854DF85562AEEEB96EB1B10664"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56664"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de verkeersrotonde van het Eykmanlaan (achtergrond) te Utrecht bij de kruising met de Prof. J.W. Dieperinklaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB8A4FA6F560569D85C0243C9D99D956"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117666"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prof. J.W. Dieperinklaan te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

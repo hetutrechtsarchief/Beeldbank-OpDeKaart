@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "128D430A792D5A2792D9F76F9292D532"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van der Werffplein 21-29 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A353D0F545D45D53BCFD687C545A08FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73587"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Van der Werffplein te Utrecht, uit het noordoosten. Opmerking: Uit: Utrecht in woord en beeld, 1930, nr. 44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F755BEB6BBBE561C955A72B7473CD784"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60163"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kenaustraat te Utrecht met de huizen nrs. 20-lager, uit het noordnoordwesten; na het huis nr. 12 de ingang van het Van der Werffplein en aan het eind de Marnixlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

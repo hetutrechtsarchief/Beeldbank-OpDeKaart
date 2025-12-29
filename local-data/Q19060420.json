@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "27F179773DA152138AE0F9BD878BAF81"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de deels gesloopte panden Eemstraat nrs.46- lager te Utrecht uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "282A3E2993EE56138AE8001C2C04128F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73195"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de straat met de voorgevels van de Waalstraat 26-lager te Utrecht; uit het noordwesten en geheel rechts de hoek van de Eemstraat (oostelijk einde)"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "828B74F0CC565DF2A8BBE2B5DECFC57C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56435"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de deels dichtgetimmerde panden voor de sloop Eemstraat 25 (midden )- lager te Utrecht uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CAA5DF6E687257C0AF1C2C07525234CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603838"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Eemstraat 28 (rechts) -lager te Utrecht. Opmerking: Zie ook het Utrechtsch Nieuwsblad, zaterdag 25 juni 1960, blz. 4: \"Utrecht heeft 15 kilometer trottoirloze straten\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-06-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-06-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

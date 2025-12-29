@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74F72D009C45FC8EE0534701000A8463"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835040"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tolhuis (Gein Zuid 20) te Abcoude met links de Velterslaan. Opmerking: In 1978 vervaardigde fotoreproductie van een in ca. 1965 gemaakte foto. De originele foto bevindt zich vermoedelijk bij de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACCE61C53E4D5CFDB8010F5CE8B91BDC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92760"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het gereconstrueerde tolhek met tarieflijst bij de schuur van de voormalige uitspanning De Vink aan het Gein Zuid/ hoek Velterslaan te Abcoude. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE92F65CB003521AAE51DC44F95D384D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92759"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de voormalige tolgaarderswoning (Gein Zuid 20) te Abcoude; links de ingang van de Velterslaan. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

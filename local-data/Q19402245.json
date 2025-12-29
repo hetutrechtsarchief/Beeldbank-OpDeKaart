@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68348387E05052C7ACB6D991A5430E85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169392"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Terborgseweg te Doetinchem. Opmerking: NS fotonummer 19743"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9342012129D25E2F863B9021DB2D7D0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154710"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het seinhuis (Post I) bij de spoorwegovergang aan de Terborgseweg bij het N.S.-station Doetinchem te Doetinchem."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55E3E526562D537DB99F869698967485"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805244"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Wittevrouwensingel te Utrecht met op de achtergrond het flatgebouw aan het Steven Butendiekplateau."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75EE43404B5E52BDBE765C45228B9AB9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24050"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Steven Butendiekplateau gelegen in de kern van het flatgebouw met woningen aan de Kruisstraat en de Wittevrouwensingel te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B5F2068D8BE5E0695A0C6546398F8C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805246"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Steven Butendiekplateau te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBD381B8698A5B158D019D5A477E938C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822791"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Buiten Wittevrouwen te Utrecht, uit het zuidwesten. Op de voorgrond de Maliesingel en de Herenbrug over de Stadsbuitengracht, in het midden de Parkstraat naar de Nachtegaalstraat (van links naar rechts), rechts onder de bomen een gedeelte van de Maliebaan, linksboven de Stadsschouwburg (Lucasbolwerk 24) en het Steven Butendiekplateau."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

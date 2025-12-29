@@ -1,0 +1,716 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06279455828D550E865A3CBC454D9F39"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kledingwinkel Gazan (Oudegracht 163) te Utrecht; rechts het Massegast en op de achtergrond een gedeelte van de toren van de Buurkerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9BC6A48169695D8FAE52E16075B0758A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Massegast te Utrecht, vanuit de steeg naar het zuiden; op de achtergrond de Steenweg en de nok van de Buurkerk. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8CD56C223A05A6B96FB91F8E9B5CAB7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66897"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Stadhuisbrug te Utrecht, met rechts de voorgevel van het Stadhuis. Rechts de voorgevels van de panden Oudegracht Weerdzijde 10-14. Rechts de ingang van de Massegast en de toren van de Buurkerk. Links de Domtoren en de dak van de Domkerk.<ZR><ZR>N.B. De adressen Oudegracht Weerdzijde 10-14 zijn in 1917 gewijzigd in Oudegracht 165-161"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F4DFA44E84DA51CABAB6C9705D9D6D7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67010"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Oudegracht 163 te Utrecht; vanaf de overzijde van de gracht, rechts het Massegast met op de achtergrond een gedeelte van de toren van de Buurkerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14F738C2B87A50F0B0437EA7A37C3620"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linker zijgevel van het winkelpand Modecor (Oudegracht 161) te Utrecht; met de werven en kelders, vanaf deoverzijde van de gracht, links gezicht in de Massegast en rechts de Hekelsteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A6A8BBC3E5C52B5B77DF3B35E1520C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810389"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Modemagazijn Gebr. Gerzon (Oudegracht 161) te Utrecht; vanaf de overzijde van de gracht, rechts van het huis de ingang van de Hekelsteeg en links de ingang van het Massegast ."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35F0476CBA145BD08C559C531BB6371A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810185"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kledingwinkel Gazan (Oudegracht 163)  te Utrecht; rechts het Massegast."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BBEFC82E3725BC6A3E08657409AEFD0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "86791"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Oudegracht 161 (links, Modehuis Gerzon) -lager te Utrecht, met links de Massegast en rechts de Bezembrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F1AA8224A5A5FFE85CF29D253D3E24B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67009"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 161-169 te Utrecht; vanuit het noordwesten tussen nr.161 en 163 de ingang van de Massegast links de Staduisbrug met het Stadhuis en op de voorgrond de gracht met werven en kelders."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D637B4F514B5C72A235D83143204B88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66882"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Oudegracht Weerdzijde 2 (links) -14 te Utrecht, met de werfkelders; tussen de panden Oudegracht Weerdzijde 12 en 14 de ingang van de Massegast. Op de achtergrond de Domtoren.<ZR><ZR>N.B. De adressen Oudegracht Weerdzijde 2 - 14 zijn in 1917 gewijzigd in Oudegracht 169-161"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1903-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1907-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "548F1712FC3B5F6E8FA32097C3D9562D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "80079"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een kelder van, vermoedelijk, het Schoonhuis (gelegen ter plaatse van Steenweg 11-13 tot aan Oudegracht 163-165) die bij verbouwingswerkzaamheden ten behoeve van het Manufacturenmagazijn Vroom & Dreesmann (Oudegracht 167-179 en Stadhuisbrug 3-5) te voorschijn zijn gekomen.<ZR><ZR>N.B. Het Schoonhuis, onderdeel van een dubbel woonhuis, was het oude, aan de Massegast gelegen, raadhuis van Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C9387D9A3955DCE8AB8B3C1F9DBEC4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817090"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui en entree van Prijsoptiek Hans Anders (Steenweg 15) te Utrecht; links de ingang van de Massegast."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D9B8E21555A5F2B88733B3A129B0211"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75199"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Modemagazijn Gerzon (Oudegracht 161) te Utrecht. Links de ingang van de Massegast en rechts de ingang van de Hekelsteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FAB89B13EA35E24845683B228DF3542"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66884"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Oudegracht Weerdzijde 14-8 te Utrecht, met de werfkelders; tussen de panden Oudegracht Weerdzijde 14-12 de ingang van de Massegast.<ZR><ZR>N.B. De adressen Oudegracht Weerdzijde 14-8 zijn in 1917 gewijzigd in Oudegracht 161-167"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1907-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1911-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7587CE9598195944B1A3C489BD1AB959"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht door de Massegast te Utrecht, vanuit de steeg naar het noorden; op de achtergrond de Winkel van Sinkel (Oudegracht 158). Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A2C0A6B61FC5DF6BBA31E9B18B44DC6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66888"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouw van de tijdelijke behuizing van het Modemagazijn Gebr. Gerzon (Oudegracht Weerdzijde 14) en de voorgevels van de panden Oudegracht Weerdzijde 18-28 te Utrecht, met de werfkelders. Links de ingang van de Massegast en rechts de ingang van de Hekelsteeg.<ZR><ZR>N.B. De adressen Oudegracht Weerdzijde 14-28 zijn in 1917 gewijzigd in Oudegracht 161-151."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "84DFCCA3323F53FB894745971826916B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een binnenterrein aan de Massegast te Utrecht, met een in een tuinmuur gemetselde steen ter herinnering aan de plaats van het vroegere Schoonhuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1899-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3E09FAAEEE650BA8EE0009CBB53C96C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "80080"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een kelder van, vermoedelijk, het Schoonhuis (gelegen ter plaatse van Steenweg 11-13 tot aan Oudegracht 163-165) die bij verbouwingswerkzaamheden ten behoeve van het Manufacturenmagazijn Vroom & Dreesmann (Oudegracht 167-179 en Stadhuisbrug 3-5) te voorschijn zijn gekomen.<ZR><ZR>N.B. Het Schoonhuis, onderdeel van een dubbel woonhuis, was het oude, aan de Massegast gelegen, raadhuis van Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ADAD1EA7D20F54FB9FCA013C589299EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66887"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Modemagazijn Gebr. Gerzon (Oudegracht Weerdzijde 14) en op de Singermaatschappij (Oudegracht Weerdzijde 16) te Utrecht, met de werfkelders. Links de ingang van de Massegast en rechts de ingang van de Hekelsteeg.<ZR><ZR>N.B. De adressen Oudegracht Weerdzijde 14-16 zijn in 1917 gewijzigd in Oudegracht 161."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B070EB21A4D3529E989C0BC7F45F8F02"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Massegast te Utrecht, vanuit de steeg naar het noorden; op de achtergrond de Winkel van Sinkel (Oudegracht 158). Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5569F4A19B95336AC9C3D8BB4A7311C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819392"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Massegast te Utrecht, vanaf de Oudegracht naar het zuiden; op de achtergrond de Steenweg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D41647DE96A55CD4BDE42C4895032988"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67003"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het onderste deel van de voorgevel van het Modemagazijn Gebr. Gerzon (Oudegracht 161) te Utrecht; links de ingang van het Massegast. Opmerking: Negatiefnummer 27239"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2F98BB13A1D5B548274D9662AABC20F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67012"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het onderste gedeelte van de voorgevels van de huizen Oudegracht 163-165 te Utrecht; met de werf en de werfmuur en rechts de ingang van de Massegast."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E54A92BB542D5765B347B4BB193BBD0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67002"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Modemagazijn Gebr. Gerzon (Oudegracht 161) te Utrecht; vanaf de overzijde van de gracht, rechts van het huis de ingang van de Hekelsteeg, links de ingang van het Massegast met op de voorgrond een gedeelte van de werftrap, werfmuur en kelders. Opmerking: Negatiefnummer 27241"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9EA588FDC78504DAD5606A6AC88BCAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816811"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Steenweg (links) te Utrecht, met in het midden de plek van het gesloopte pand Steenweg 17 en rechts de Massegast."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

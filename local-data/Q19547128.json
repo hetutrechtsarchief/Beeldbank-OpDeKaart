@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1924048C5C5B59578C0E490783508C37"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "159125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sporen langs de Stationsstraat te Zevenaar, uit het oosten. Links een deel van het dienstgebouw van het N.S.-station en daarachter een deel van de tijdens de oorlog vernielde goederenloods."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

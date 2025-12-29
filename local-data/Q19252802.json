@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A15E171DB7F256F6BFF23C604D1EEA20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19329"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen Hijmans van den Berghlaan 106 (rechts)-116 te Utrecht, vanaf de Hamakerlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7776CC6446D502196FCD73055A837B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58818"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het flatgebouw met de woningen Hijmans van den Berghlaan 116-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

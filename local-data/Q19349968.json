@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "289347A406825E7DBA764EDFB3F4443A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127058"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Molukkenstraat te Utrecht, uit het oosten; op de achtergrond de Groeneweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FBD3442645F5D5C81C5E5FDBD6447E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127059"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Molukkenstraat te Utrecht, uit het oosten; rechts de ingang van de Sapoerahof en op de achtergrond de Groeneweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "70BCF31726C4563184111EEAAFCFCC92"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127062"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Groeneweg 8 C (rechts van het midden)- lager te Utrecht, uit het zuiden; rechts het hoekhuis Molukkenstraat 69."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

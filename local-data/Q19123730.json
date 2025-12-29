@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C3C7953BBFA857DE854F1BFA309315EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "78264"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het nieuwe pand van de Stichting Thuis Dialyse (Cornelis Evertsenstraat 29bis te Utrecht.<ZR><ZR>N.B. Dit pand ligt achter het Ooglijdersgasthuis. Opmerking: Fotonummer 3665-29/29A"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

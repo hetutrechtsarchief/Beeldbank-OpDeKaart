@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D6630CF89CA56B79D4D8F162D68D356"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7574"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Baarnsch Lyceum in de villa Waldheim aan de Vondellaan te Baarn.<ZR><ZR>N.B. Dit gebouw van het Baarnsch Lyceum is in ca. 1970 afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A20603AFC2935DED861ACF2616E9FB00"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7572"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Baarnsch Lyceum in de villa Waldheim aan de Vondellaan te Baarn.<ZR><ZR>N.B. Dit gebouw van het Baarnsch Lyceum is in ca. 1970 afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

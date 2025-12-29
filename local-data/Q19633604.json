@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CBA906B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vermeerstraat met rijtjes huizen te Amersfoort uit het zuiden. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B94E3E7510905154BB3B1B1C8B335CA1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12646"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vermeerstraat met bebouwing te Amersfoort uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

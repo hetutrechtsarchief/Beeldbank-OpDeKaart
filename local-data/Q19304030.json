@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "381C39A3EE865EFA823D77D04EC0F638"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58873"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en zijgevel van de Jeru\u00eblkapel (Ivoordreef 2) te Utrecht met op de voorgrond de kruising met de Klipspringerdreef en de Kasaidreef (links). Opmerking: Zie ook Utrechtsch Nieuwsblad, vrijdag 8 november 1968, blz. 4: \"Kerkbouw in Overvecht\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3894ECE90A095274AC57BE720DB0FAE1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814873"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Klipspringerdreef te Utrecht, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

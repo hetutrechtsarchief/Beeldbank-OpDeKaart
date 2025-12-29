@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C886C30591C4532697900CFDF495C6FB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85602"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van het industrieterrein Lage Weide te Utrecht, uit het zuiden, met op de voorgrond de A2 en het in aanleg zijnde bedrijventerrein De Wetering. Rechts de Reactorweg met links daarvan de Savannahweg en de Nautilusweg. Op de achtergrond de Atoomweg met het distributiecentrum van Douwe Egberts (Atoomweg 111)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

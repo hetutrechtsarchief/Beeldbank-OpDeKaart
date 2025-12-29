@@ -1,0 +1,660 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C90CFA3448A53BD8DA51D508DBAD5BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13958"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechter- en achtergevel van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25DC7304C6C55119BA1BEAF66E96EBB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119949"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Micha\u00eblskerk aan de Noorder Kerkstraat te Oudewater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30822A61485F59E9B3CB50998D2D195F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13957"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechter- en achtergevel van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "328B3E1D18955B2DB47FAE71B8CB0063"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13967"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater: de kerkzaal met preekstoel. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3AFB71274BCD5F5AB212AA117220AD87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13959"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toren en de voorgevel van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "432BBEC6D7D9561A8D91683D9488DD30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13964"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater: de kerkzaal. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43CCEB83C5FC5FFCBDAF1D30A211A5F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13965"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater: het orgel. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "45D26025BF15536A82F8C3161D2ED4C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13956"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechter- en achtergevel van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater; met claustrale woning met tuin. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5EFAFCC23D305516ABE765DB03EDAD60"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119947"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de gracht op de achtergevels van enkele huizen aan de Westerwal te Oudewater met op de achtergrond de St.-Micha\u00eblskerk aan de Noorder Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68D29F33013657D7B59A6FBF6167DA57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Hollandsche IJssel te Oudewater, uit het westen, met in het midden de machinefabriek De Hollandsche IJssel aan de Westerwal. Op de achtergrond de St. Micha\u00eblskerk (Noorder-Kerkstraat). Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83FE735AA5665686937947271B955E9E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13963"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater: de kerkzaal met doopvont. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8DE3078AF9B65922AA8F47E79681A6D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13954"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel en de toren van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FE94CBE5EF45EFF8BF820B2B4F50D72"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13960"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toren van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99713D227169598089F42DC8412DDF15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13962"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater: de kerkzaal. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B851785027B58DE80FDA154E459794B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206434"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Hollandsche IJssel te Oudewater op de St.-Micha\u00eblskerk aan de Noorder Kerkstraat. Opmerking: Tekening van Chris Schut gemaakt in 1975 in opdracht van het Provinciaal Comit\u00e9 Utrecht Monumentenjaar 1975 voor een map met 20 reproducties van monumenten, stads- en dorpsgezichten in Zuid-West Utrecht (Bibl. HUA DK2013-64)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A4085B07C73D566B8C529DB35FE23798"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "221008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zuider-Kerkstraat met bebouwing te Oudewater uit het noorden; met links in het midden de voorgevels van de huizen Zuider-Kerkstraat 4 en Zuider-Kerkstraat 2/Wijdstraat 30. Opmerking: De foto is afkomstig uit een album met 188 foto's van Oudewater en omgeving uit de periode 1865-1878, samengesteld door E.C. Rahms (1823-1907), graficus en fotograaf te Oudewater.<ZR>N.B. Lit. Oudewater, geschiedenis en architectuur, p. 339-340."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1865-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1875-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A4F3ECFA394654C19329216857D40683"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "221021"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een aantal personen op de Romijnbrug te Oudewater; met op de achtergrond de toren van de Nederlands-hervormde St.-Micha\u00eblskerk.<ZR><ZR>N.B. De St.-Micha\u00eblskerk heeft tegenwoordig het  adres Noorder-Kerkstraat. Opmerking: De foto is afkomstig uit een album met 188 foto's van Oudewater en omgeving uit de periode 1865-1878, samengesteld door E.C. Rahms (1823-1907), graficus en fotograaf te Oudewater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1871-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1871-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A92CDE382C5B53D1B61FB851FC9D10C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "221071"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een huis met omringende beplanting te Oudewater uit het noordwesten; met op de achtergrond de toren van de Nederlands-hervormde St.-Micha\u00eblskerk. <ZR><ZR>N.B. De St.-Micha\u00eblskerk heeft tegenwoordig als adres Noorder-Kerkstraat. Opmerking: De foto is afkomstig uit een album met 188 foto's van Oudewater en omgeving uit de periode 1865-1878, samengesteld door E.C. Rahms (1823-1907), graficus en fotograaf te Oudewater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1870-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1880-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BF8D85BDE3215269A3D402C6AF210C0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13968"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater: de kerkzaal met preekstoel. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7E91C3DB5EB55EB8A362D1529A4FD3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13961"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater: de kerkzaal. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C81FD9394D9054BB8E7FB1C3B26A5E36"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13966"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater: de kerkzaal met preekstoel. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE78086180F4534E8B858C8832E38B4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220997"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de IJssel met een vrachtschip en op de wal een hijskraan van de Machinefabriek \"De Hollandsche IJssel\" te Oudewater uit het noordwesten; met op de achtergrond de Nederlands-hervormde St.-Micha\u00eblskerk. <ZR><ZR>N.B. De St.-Micha\u00eblskerk heeft tegenwoordig het  adres Noorder-Kerkstraat. Opmerking: De foto is afkomstig uit een album met 188 foto's van Oudewater en omgeving uit de periode 1865-1878, samengesteld door E.C. Rahms (1823-1907), graficus en fotograaf te Oudewater.<ZR>N.B. Lit. Oudewater, geschiedenis en architectuur, p. 263-267 (St.-Micha\u00eblskerk)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1870-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1875-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F90818D625115C3785F16FA57B0312AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13955"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linkergevel en de toren (ged.) van de Nederlands-Hervormde St.-Micha\u00eblskerk (Noorder-Kerkstraat) te Oudewater. Opmerking: Lit. MIP Oudewater p. 263-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

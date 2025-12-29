@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1532A3F1351451FDB6967F92D20135AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13926"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Boomgaardweg te Odijk uit het zuidwesten; met links de voorgevel van een huis en rechts een boomgaard.<ZR><ZR>N.B. De gemeente Odijk is in 1964 bij de gemeente Bunnik gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6CD930C5A9D15AF1A36BB4AA7EE7A0ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13927"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Boomgaardweg met enkele huizen en boerderijen te Odijk uit het noordoosten.<ZR><ZR>N.B. De gemeente Odijk is in 1964 bij de gemeente Bunnik gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

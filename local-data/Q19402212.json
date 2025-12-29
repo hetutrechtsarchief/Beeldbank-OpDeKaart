@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EBC6884939AA585284FCE3EEE0704800"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161680"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het emplacement van het N.S.-station Heeze-Leende te Heeze, met links de spoorwegovergang in de Stationsstraat en de voormalige stationschefswoning.<ZR><ZR>N.B. Tijdens de opname was het station niet geopend voor reizigersvervoer. De stationsnaam Heeze-Leende is per 2-10-1960 gewijzigd in Heeze. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5A021369580511EA729AFC8C7A7FDFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Valleikanaal en de Kanaalweg te Leusden, uit het zuiden, met links een gedeelte van de wijk Alandsbeek en rechts de Asschatterweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "48B10242B4E55A1D8825334D6631FC15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166551"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een spoorwegovergang in de Gastelseweg (?) te Roosendaal, met rechts de overwegwachterspost."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F8E109044CE5A6DB22EF151EE98161E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166514"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een spoorwegovergang in de Gastelseweg (?) te Roosendaal, met rechts de overwegwachterspost."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C0B21D9BBEC547D9237AE55C4ABB6D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166513"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een spoorwegovergang in de Gastelseweg (?) te Roosendaal, met rechts de overwegwachterspost."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

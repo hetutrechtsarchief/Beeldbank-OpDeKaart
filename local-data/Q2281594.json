@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D1C46C6671A52519EB3E03A900CF551"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154679"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee kruisende stoomtreinen op het N.S.-station Vaassen te Vaassen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

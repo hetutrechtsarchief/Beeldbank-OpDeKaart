@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "26FC968C310B54C7AAA9C33EDDD84C80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de muurschildering 'UTRECHT' van Jan is de Man uit 2017, op de hoek van de Monicahof en de Herenweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "59BAEC54624053D7A45E65897359EE4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833440"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de muurschildering 'UTRECHT' van Jan is de Man uit 2017, op de hoek van de Monicahof en de Herenweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2780CEA60F085FAE89C8298EDC9B9F4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161169"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een meettrein van de N.S. op het N.S.-station Baarle-Nassau Grens, met de stoomlocomotief nr. 2003 (serie 2000), een meetwagen van de Dienst van Materieel en Werkplaatsen en een stoomlocomotief uit de serie 3700/3800. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1932-01-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-01-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

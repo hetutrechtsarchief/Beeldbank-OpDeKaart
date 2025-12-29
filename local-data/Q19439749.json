@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40986BBED98C54CF96C9FBD72C5B235D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405697"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een medewerker van de politie te Zeist bij een illegale hennepkwekerij in een kelderbox aan de Prof. M.W.F. Treublaan te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

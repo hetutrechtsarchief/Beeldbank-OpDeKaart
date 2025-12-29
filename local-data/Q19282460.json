@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05986191F90D55FCA0A0A1FF90AFBFF1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94442"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Aazicht (Julianalaan 18) te Nieuwer ter Aa (gemeente Breukelen). Opmerking: Lit. MIP Breukelen, p. 213-214."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3807ADE8532152DEB65789B7E05ECAAB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94443"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Aazicht (Julianalaan 18) te Nieuwer ter Aa (gemeente Breukelen). Opmerking: Lit. MIP Breukelen, p. 213-214."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF1E6CBDEC21515D83F0FC9213C79D10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Aa en de bebouwing aan de Julianalaan te Nieuwer ter Aa (gemeente Breukelen) uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

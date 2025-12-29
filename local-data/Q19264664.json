@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A66D390AE2E85E26939876C35F2A5D8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in Zwitserse chaletstijl gebouwde huis Gers-Au te Baarn.<ZR><ZR>N.B. Het huis behoorde bij de villa Java (Javastraat 20) te Baarn. Opmerking: De afbeelding bevindt zich in het album Souvenir aan Baarn (blz. 8).<ZR>Litt. Bibl. HUA NUM 32-6 (13), MIP  Baarn: geschiedenis en architectuur, blz. 126 en 348."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

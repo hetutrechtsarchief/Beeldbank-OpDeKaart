@@ -1,0 +1,576 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06CB484C0D255DF289F857852BA6E6CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817610"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Flieruilensteeg te Utrecht, in het midden van de steeg naar het westen; links de ingang van de Gietershof. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F21D2963EE053FA80EEFED18CE3E39D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817864"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in een van de oostelijke toegangen (onderdoorgang) van de Gietershof te Utrecht, vanuit de hof naar de Gruttersdijk. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "242B0FFF63DF5DE6B9831CCB8542DC5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831798"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouw aan de Gietershof te Utrecht, in het huizenblok tussen de Gruttersdijk (voorgrond), Adelaarstraat (links), Bemuurde Weerd O.Z. en Keizersgracht, vanaf de molen Rijn en Zon (Adelaarstraat 30)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AF45D6EDBB358D8806760B89E9141B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831797"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouw aan de Gietershof te Utrecht, in het blok tussen de Gruttersdijk (voorgrond), Adelaarstraat (links), Bemuurde Weerd O.Z. (achtergrond) en Keizersgracht (rechts), vanaf de molen Rijn en Zon (Adelaarstraat 30)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D238D563C0D56258CE9752E6AAD63B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817906"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de onderdoorgang naar de Gietershof te Utrecht, tussen de panden Bemuurde Weerd O.Z. 52 - 53. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E3CE96AD50859A9A6B7F246E17D6B7F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24299"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden aan de Gietershof te Utrecht met op de achtergrond de molen Rijn en Zon."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E942442CAF15E6DA927839C41AA129E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817908"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht door de onderdoorgang naar de Gietershof te Utrecht; vanaf de Gruttersdijk naar het westen Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BF3154B1EB250C2829043075C03A96E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84894"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Gruttersdijk te Utrecht, vanaf de molen Rijn en Zon (Adelaarstraat 30), uit het zuidoosten. Links op de achtergrond de bebouwing aan de Gietershof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "573AE3B3C3375BD18BD3911531189703"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817860"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Gietershof 1 -3 te Utrecht, vanuit de Flieruilensteeg naar het zuidoosten. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C82F7DCC9205DB189D91C1D3B30FB6F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817863"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in een van de westelijke toegangen van de Gietershof te Utrecht, vanuit de hof naar de Bemuurde Weerd O.Z.. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "632F0AC88CAB5B51BA0F079FDD555F91"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817609"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Flieruilensteeg te Utrecht, vanaf de Gruttersdijk naar het westen; links de ingang van de Gietershof. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AA22DB1C9745663B9E5DBBF16066874"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817865"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Gietershof 1 -3 te Utrecht vanuit het westen; rechts de wieken van de molen Rijn en Zon (Adelaarstraat 30). Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "900FE6E8B7A95516880C14C7532DADA5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817866"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijdelijke zijgevel van de voormalige Oud-katholieke St.-Jacobuskerk (Bemuurde Weerd O.Z. 56) te Utrecht, vanaf de Gietershof. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "974F6C5790B85BFE8BCD0F576C0D4845"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817907"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de toegang van de Gietershof te Utrecht; links de zijgevel van het pand Bemuurde Weerd O.Z. 57. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AABA2A47C58B5D5DA545A7D07F299D1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828547"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti bij de ingang van de Gietershof aan de Bemuurde Weerd O.Z. te Utrecht, met twee Utrechtse kabouters (KBTR's)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB7CB3542FF8582EB7DA9B1E0CF9BAA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voormalige Gietershof te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6406CEAD54D5B5280B4D7BB7245C140"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53248"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker zij- en voorgevel van het winkelhuis Bemuurde Weerd O.Z. 56A te Utrecht, uit het westen met links de hoek van de voormalige Gietershof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE8A4554B884553B841291982AED7925"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817862"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een oude molensteen op de binnenplaats van de Gietershof te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E71C42D294A95331A624F87D5A391947"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817861"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een oude molensteen op de binnenplaats van de Gietershof te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8AC9E7BF4EE5ACA9558F30FF0882FB9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84893"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Gietershof te Utrecht, vanaf de molen Rijn en Zon (Adelaarstraat 30), uit het oosten. Geheel links de Adelaarstraat en op de achtergrond de achterzijdes van de huizen aan de Bemuurde Weerd O.Z."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

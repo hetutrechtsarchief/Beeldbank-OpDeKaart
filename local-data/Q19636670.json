@@ -1,0 +1,912 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0055CD851EEB58A8927C85DBA402F671"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123102"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlierboomstraat te Utrecht, uit het noordoosten; links de huizen nrs. 47- lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "068C6D8D36DD53558F715F6E22BA8F8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123094"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Boerhaavelaan 28 (rechts)- lager te Utrecht, uit het noordwesten; rechts de Vlierboomstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34C0A4809FD45CFC9A7C646E9421E481"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122979"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Boerhaavelaan te Utrecht, uit het zuidoosten, met rechts de huizen nrs. 29 (rechts)- hoger, vanaf de kruising met de Vlierboomstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A95D79FC7865D88B7196D11F34FA11E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109061"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van moeder Weij en dochter Kina in de achtertuin van het huis Vlierboomstraat 39 te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F20C6434BCC513EACB1FE2CA0A01A7B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlierboomstraat te Utrecht, vanaf de kruising met Amdelstraat, uit het zuidwesten; links de huizen nrs. 2-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "428D541199785FCDB1B21CB48ACC0978"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109059"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van opa en oma Weij, schoondochter en kleinkind voor het huis Vlierboomstraat 39 te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46D56AF72B425768BBAA2AF5170819AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72417"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlierboomstraat te Utrecht, vanuit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FA0249C442E524F8A2A9D7DDA8EA0F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813010"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Vlierboomstraat 44 (links) en 46 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6247F739205F59138C7750A4C202FE40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Boerhaavelaan 29 (rechts)- hoger te Utrecht; rechts de ingang van de Vlierboomstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC5616B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "43495"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een huis aan de Vlierboomstraat te Utrecht. Opmerking: In 1979 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC5626B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "43496"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de achtertuinen van de huizen aan de Vlierboomstraat te Utrecht. Opmerking: In 1979 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "725AFCD78A4556C4B29E1FCF4862652D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72419"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Vlierboomstraat 53 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "743C018FDEF05C6A8DFF97B00710F14A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109047"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van opa Weij met kleinzoon Gerrit op schoot in de achtertuin van het huis Vlierboomstraat 39 te Utrecht.<ZR><ZR>N.B. Opa Weij maakte na zijn pensionering  als bijverdienste nog schoenen in het schuurtje achter het huis. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8063DC4B9E1D5C9FAC877177A380864E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109044"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van leden van de familie Weij in de achtertuin van het huis Vlierboomstraat 39 te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82F98EDB2E415623902511739F540FAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802061"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Vlierboomstraat 53 (rechts)- hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83607250C19F53F98DEF4AB9285EFA47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109062"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van enkele leden van de familie Weij in de achtertuin van het huis Vlierboomstraat 39 te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "872AD851DBDA5B2DB68E37FF79D8E05F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Vlierboomstraat 46 te Utrecht, vanuit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "899F8E57C47C5DEFB4DC9DAC40EA0ECD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802063"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel en tuin van een huis aan de Vlierboomstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D8E9AEEFCFF5DF3A20C19743C7352E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels en tuinen van enkele huizen aan de Vlierboomstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F0890DD32C65092B78051A89BA6EB85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109063"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Kina Weij in de achtertuin van het huis Vlierboomstraat 39 te Utrecht, ze is gekleed in het tenue van de padvindersgroep Oranjekerk te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9706008D75485F3496BF91B8BD5EC3CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123093"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlierboomstraat te Utrecht, vanaf de kruising met de Boerhaavelaan, uit het zuidwesten; rechts de huizen nrs. 29-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99996B3A669655C69D4061369D489E67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109068"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van mevrouw  Weij en haar schoondochter in de deuropening van het huis Vlierboomstraat 39 te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C06E8D6E79E5D3A867E8FA023F96108"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109080"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van opa en oma Weij met familie in de achtertuin van het huis Vlierboomstraat 39 te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A067742C079D5F00BA533D6FEBE11CBD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109229"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van de familie Van Amerongen in de achtertuin van het huis Vlierboomstraat 51 te Utrecht, op de voorgrond van links naar rechts: Dickie, Hanny en Johnny. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7AE812F4D5752BBAA10D95295B2CC32"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109060"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van opa en oma Weij met schoondochter en kleindochter Kina in de deuropening van het huis Vlierboomstraat 39 te Utrecht, waarschijnlijk tijdens het 50-jarig huwelijksfeest van het echtpaar Weij. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8745B6119A657ABA1EA6DDDA978B479"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van leden van de familie Weij in de achtertuin van het huis Vlierboomstraat 39 te Utrecht, Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C664BCE0A1C15663A46EAAB3C2E791D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het pand Vlierboomstraat 53 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA0416174A79512299B29E01A6FFE749"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122978"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Boerhaavelaan te Utrecht, uit het noordwesten, met rechts de huizen nrs. 28 (rechts)- lager, vanaf de kruising met de Vlierboomstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFC70144CBD35A31BBB97D33F07D6C4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109045"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van het gouden bruidspaar Weij met familie in de achtertuin van het huis Vlierboomstraat 39 te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DFD3EB38C21A5D2E86D96AA1D34F9F2A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123100"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlierboomstraat te Utrecht, uit het noordoosten; links de huizen nrs. 59- lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0943C853BBE57D7BFB49EA3D19C67F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813011"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Vlierboomstraat 32 (links) en 34 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5D0F626FED1579BB31130BE384DEAC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "109046"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Reinder Weij in het uniform van de cavalerie, in de achtertuin van het huis Vlierboomstraat 39 te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

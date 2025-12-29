@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8E2CE3CF3E35568951A900D48803DE2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Broekerweg met rijen loofbomen te Woudenberg uit het westen; met op de voorgrond de brug over de Luntersche Beek.<ZR><ZR>N.B. De Luntersche Beek is in de periode 1937-1948 vergraven tot het Valleikanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "049A0D4F17D052A4835D309D6040554C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832238"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Buurkerkhof te Utrecht, na een brand in een pand aan de 2e Buurkerksteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1902-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F78BB2EDE095F90A8D68F7B86ADBC22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817976"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht door de 2e Buurkerksteeg te Utrecht naar het westen, richting Donkerstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A17AD473D17359DDAA92F2FC1546F0C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54718"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Buurkerkhof 1 te Utrecht; rechts de 2e Buurkerksteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0F9BA5326D05565A2D0F819DD8453E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54795"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 2e Buurkerksteeg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

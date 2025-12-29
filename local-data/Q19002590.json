@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AD45BF40BBC5E27AB0A2B21107A1D70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7292"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dalweg te Baarn uit het oosten, met de voorzijde van het huis Veltheim (Kerkstraat 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC7954449C0E55508B4BE58C88FDCA60"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7294"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dalweg te Baarn uit het oosten, met rechts de linkerzijgevel van het huis Daloord (Dalweg 1 c)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9203D00A77B5D468EC346E6E58597FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7293"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dalweg te Baarn uit het oosten, met rechts de linkerzijgevel van het huis Daloord (Dalweg 1 c)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

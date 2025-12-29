@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C152E54956F51D08091988D5E1553C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26286"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het huis Gramserweg 50-52 te Austerlitz (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-09-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-09-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E535F2AAB92D5E61ADB5187A61ACA63B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26285"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Gramserweg 50-52 te Austerlitz (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-09-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-09-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

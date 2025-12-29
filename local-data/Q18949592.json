@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "901C6794E4825B8A876E214280D0CF96"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18954"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen A.H.G. Fokkerstraat 46 (midden)-hoger te Utrecht met links het hoekhuis Bernard de Waalstraat 31."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B45F87C4D7665C55AC50DC970C989829"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18955"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen F. Koolhovenstraat 62-lager te Utrecht met rechts het hoekhuis Bernard de Waalstraat 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CCF5C9565FC858C3B9CDCCF1840D01AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18951"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen A.H.G. Fokkerstraat 44 (midden)-lager te Utrecht; rechts het hoekhuis Bernard de Waalstraat 28 en links de zijgevel van het hoekhuis Adriaan Mulderstraat 33."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

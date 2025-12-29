@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D71FB28807E56E2AAE5C31868F2A90A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806684"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het spoorviaduct (voormalig Z.H.E.S.M.-viaduct) over de Gordelweg te Rotterdam, met een trein bestaande uit electrische treinstellen mat. 1935 of mat. 1936 van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

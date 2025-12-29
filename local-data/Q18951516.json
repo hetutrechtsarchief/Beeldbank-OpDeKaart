@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D9A67C024B75B74B4DBD01412924795"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9379"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Beukenrode (Beukenrodelaan 2) te Doorn. <ZR><ZR>N.B. De oorspronkelijke naam van het huis Beukenrode was Nieuw Sterkenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E1168F2D9E5059C88C81BE680726C284"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9263"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het huis Beukenrode (Beukenrodelaan 2) te Doorn uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

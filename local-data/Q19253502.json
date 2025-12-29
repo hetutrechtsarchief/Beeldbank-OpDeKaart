@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "551B550621C859718F5DE92F3362A94D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833443"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe Poortgebouw van kantoren- en winkelcentrum Hoog Catharijne, vanaf het Vredenburg door het straatje Hollandse Toren te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA97451638C45FACAB94F37CF8F0E345"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833377"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe Poortgebouw van het kantoor- en winkelcentrum Hoog Catharijne, vanaf het Vredenburg door het nieuwe straatje Hollandse Toren te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-12-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-12-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

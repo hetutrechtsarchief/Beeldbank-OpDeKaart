@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "03F859CFC53857D09D80FC83D4166931"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16475"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paltzerweg te Bilthoven (gemeente De Bilt) uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D085A2C9190539EBA2453D96ADFF197"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803190"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Biltsche Duinen te Bilthoven (gemeente De Bilt), uit het westen, met links de Paltzerweg, in het midden de Oranje Nassaulaan en rechts de Julianalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0D74ACAECB35E1D991F32A1922379CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8394"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paltzerweg te Bilthoven uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

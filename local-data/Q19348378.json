@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3C60A24974F54FEB309BA5EF84E6D4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "33030"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de molenromp van de molen Oog int Zeil en de bedrijfsgebouwen van de meelfabriek van de Gebr. Van Eck (Molenplein 1) te Cothen (gemeente Wijk bij Duurstede). Opmerking: De fabriek is in 1985 afgebroken. De molen is in 1986 gerestaureerd.<ZR>Lit.: MIP Cothen, p. 122."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

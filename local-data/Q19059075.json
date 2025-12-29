@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2293512DF42B5F4AB811B4B0E27DDD20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72013"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Eduard Verkadelaan vanaf het pand Eduard Verkadelaan 103 (geheel rechts) te Utrecht, vanuit het westen. Links de achterzijde van de panden Albert van Dalsumlaan 505-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2EED0D7E9102569184181BC4DFE85655"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55727"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Albert van Dalsumlaan te Utrecht met rechts de huizen 179 (geheel rechts)-485, uit het noorden; geheel links een deel van de achter- en zijgevel van het huis nr. 505 en in het midden doorkijk naar de Eduard Verkadelaan 51-53."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "926D84913E3459958006A330746B061D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Louis Bouwmeesterlaan te Utrecht, vanaf de hoek Eduard Verkadelaan (links), uit het zuidzuidwesten met rechts de huizen nrs. 143-hoger en links de huizen nrs. 101-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

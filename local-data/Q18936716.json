@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "19397915B99C5D6CB83226797C8E40AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93463"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hefbrug over de Angstel in de spoorlijn Utrecht-Amsterdam bij de Westkanaaldijk te Nieuwersluis (gemeente Loenen aan de Vecht) uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "921975033F7850D0BF6E17C05F6C653B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93464"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hefbruggen over de Angstel in de spoorlijn Utrecht-Amsterdam en in de Westkanaaldijk te Nieuwersluis (gemeente Loenen aan de Vecht) uit het noordwesten; met een passerende trein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F54C92F76D2055C3AEC2F431A68A3A80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156426"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hefbrug over de Angstel nabij het station Nieuwersluis-Loenen te Nieuwersluis, gebouwd door N.V. Het Spoorwegbouwbedrijf te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

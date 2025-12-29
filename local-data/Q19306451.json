@@ -1,0 +1,940 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "155C3994F944523385905181D609A548"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60416"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Komeetstraat 26 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17E4B4A00AD85EB5A668462A4D23F17C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60419"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Komeetstraat 33-35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "42104A4B82A1501CA75B81BA2135225E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84864"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de gedeeltelijk gesaneerde Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. Op de voorgrond de Komeetstraat en de Oosterspoorweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4788975535E35987A2D690E73926D169"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23447"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Komeetstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F04C9D4690D529E8BF66FB6B2369CEA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64121"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Middellaan te Utrecht; rechts de ingang van de Meridiaanstraat en in het midden de ingang van de Komeetstraat.<ZR><ZR>N.B. De straatnaam Middellaan is in 1979 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "52E2F6ECF8E15579A523150F970DD4C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60409"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Komeetstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5618CD9C90715774B2A949FF0779B605"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. In het midden de Krommerijnstraat, na de sloop van een groot deel van de huizen aldaar. Links op de voorgrond de Komeetstraat.<ZR><ZR>N.B. De straatnaam Krommerijnstraat is in 1976 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "621238DB9254591CB7D47D1738BD7F03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60417"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Komeetstraat 13-19 (links) te Utrecht, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D3592D5B2ED516CACABC327F513A119"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60412"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Venuslaan te Utrecht met in het midden de zijgevel van een pand aan de Meridiaanstraat;  rechts enkele panden aan de Komeetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74F3A91B30305B33B74D64A900374E50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de huizen Komeetstraat 10-12 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B6D15BF76FE5F4A82C13A94982C0F1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74559"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de herbouwde Zenithstraat te Utrecht, uit het zuidoosten., met de nieuwe huizen nrs. 22 (rechts van het midden) -lager. Op de voorgrond de kruising met de Komeetstraat (links) en de Hazelaarstraat (rechts). Rechts een gedeelte van het voor afbraak bestemde huis Middellaan 14. Links de nog te slopen huizen Middellaan 1-5 (nr. 5 vooraan) en de huizen Equatorstraat 23-lager.<ZR><ZR>N.B. De straatnaam Middellaan is in 1979 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E8671E4E6125666B65A29AB4FA6CF6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zenithstraat te Utrecht. Rechts op de achtergrond enkele huizen aan de Komeetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "906DD221D1BA50DF9C3C41CF8C11A62A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60411"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen aan de westkant van de Komeetstraat te Utrecht, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9854C0D46B1E5DD1A7A6903AAF7E90C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60414"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden aan de Komeetstraat 12-14 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99EFF51498995453991309D2CCBB7F77"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van de huizen Komeetstraat 13-25 te Utrecht, uit het noordoosten; op de voorgrond rechts, onder het huis nr. 13, de toegang tot de Mercuriushof; links in de bocht van de straat de huizen nrs. 36-40."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9FE79D3A3589523C9B46438E4E95B963"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601431"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met op de voorgrond de huizen aan de Komeetstraat en rechts de Zenithstraat. Linksboven de huizen aan de Meridiaanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3F70C8218B85B239C9936A393628FB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. Op de voorgrond de Zenithstraat (links) en de Komeetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6B20E88015E5EF8B536077AC8B15195"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601417"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. Op de voorgrond de Zenithstraat (links) en de Komeetstraat (rechts). In het midden de Meridiaanstraat. Rechts het kaalgeslagen terrein aan weerszijden van de Krommerijnstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6DE8628D6F657B99AC397801C8209C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64118"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen in de Middellaan te Utrecht; op de achtergrond tussen de huizen de kruising met de Komeetstraat.<ZR><ZR>N.B. De straatnaam Middellaan is in 1979 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A707B425A93B58D397CA684E81AF448A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "103125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de feestelijke ontvangst door buurtbewoners van atleet Rob Druppers (midden, met beker) bij zijn ouderlijke woning (Komeetstraat 8) te Utrecht, na het behalen van de tweede plaats op de wereldkampioenschappen 800 meter hardlopen te Helsinki, met links van de sportman wethouder C. Pot. Opmerking: Zie ook Utrechts Nieuwsblad, 17 augustus 1983, blz. 19."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC4C19F41D805AF5A1CBF2E0ABC3C84B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64122"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op d voor- en rechter zijgevel van het hoekhuis Middellaan 9 te Utrecht; rechts op de voorgrond de Komeetstraat.<ZR><ZR>N.B. De straatnaam Middellaan is in 1979 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B14ADABB2A9E542A8419E51D1E4D42A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84866"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. Op de voorgrond de oude bebouwing aan de Komeetstraat en de Zenithstraat, daarachter de nieuwe woningen aan de Orionstraat en de Saturnusstraat. Rechts de Hazelaarstraat. Geheel op de achtergrond de Abstederdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B17887A5F81D5C24AEF8E83D386A0901"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601416"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. In het midden het inmiddels kaalgeslagen terrein rond de Krommerijnstraat en de Orionstraat. Links op de voorgrond de Komeetstraat en rechts de Hazelaarstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3D2489A4A0E5FD58B796732AE6CC665"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74558"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de nieuwe huizen Zenithstraat 16-22 (rechts) te Utrecht, uit het zuidoosten. Links de aan de Komeetstraat gelegen  linker zijgevel van het voor sloop bestemde huis Middellaan 7.<ZR><ZR>N.B. De straatnaam Middellaan is in 1979 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5EEFCDFE350532A9383023FBC361984"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. Op de voorgrond de oude bebouwing aan de Komeetstraat en de Zenithstraat, daarachter de nieuwe woningen aan de Orionstraat en de Saturnusstraat. Rechts de Hazelaarstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC93757D6F065C16920CE4D9B4B01ED4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121196"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Winkel No. 19 van Maatschappij De Korenschoof (Middellaan 9) te Utrecht, op de hoek met de Komeetstraat. Opmerking: De foto bevindt zich in het album Maatschappij \"De Korenschoof\" Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1922-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFBFFD32CF625C72953BD856EADFA4B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23448"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Komeetstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB5B14E725CF50668EAAD5E841A8012D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56591"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op twee huizenblokken in de Equatorstraat te Utrecht met op de voorgrond de heipalen voor de fundering van de nieuwbouw; op de achtergrond de ingang van de Komeetstraat (links) en de ingang van de Meridiaanstraat (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0B144CE08E7578BB91FAACDBEA5AFBE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60410"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de plaatsjes en achterkant van de huizen op de hoek van de Komeetstraat en Middellaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D22BA4217A745D78BFF4558B72E77D83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met de nieuw bebouwing tussen de Zenithstraat en de Saturnusstraat. Op de voorgrond de oude huizen aan de Komeetstraat en de Meridiaanstraat (links)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0535C2B71025EC5A4A8C265DF3A59E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84868"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met de nieuw bebouwing tussen de Zenithstraat en de Saturnusstraat. Op de voorgrond de oude huizen aan de Komeetstraat en de Meridiaanstraat (links)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5931E9BD20D5090A9CB304E47B09713"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601419"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. In het midden de Krommerijnstraat, na de sloop van een groot deel van de huizen aldaar. Links op de voorgrond de Komeetstraat.<ZR><ZR>N.B. De straatnaam Krommerijnstraat is in 1976 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFD6AD2564255BE886EB26263E93397F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60415"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het begin van de Komeetstraat te Utrecht met de huizen nrs. 16-lager aan de oostelijke straatwand, uit het zuiden; op de voorgrond (links) een deel van de huizen Komeetstraat 23-25."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F925E91CE3C57D3A7D0A2F704B809A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94204"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de houten schuur bij  Nieuweweg 70 te Tienhoven (gemeente Maarssen); met op de voorgrond enkele schapen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E17DF54C7FCE5E9C99CAFE55A19C110C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94203"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel van de boerderij Nieuweweg 2 te Tienhoven (gemeente Maarssen)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0B95FD4467156648010A724EC8639CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94202"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevels van de boerderij met schuur Nieuweweg 2 te Tienhoven (gemeente Maarssen)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

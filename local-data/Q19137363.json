@@ -1,0 +1,828 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07EB8691FE2D5ABFA1EAB12686231781"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829132"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de graffiti waaronder Utrechtse kabouters (KBTR) op de zijgevel van het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29C9A8E70B325B23924320812D9F5D88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829133"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti op een bijgebouw op het parkeerterrein van het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2BD58EA303DA53E2A2E558C5300E67D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402186"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-02-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-02-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31EBC3CC2C46596C9D1B16C18BF334A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818255"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouw van de Dr. H. van der Hoevenkliniek (Willem Dreeslaan 2) te Utrecht vanuit de Gerbrandystraat. Opmerking: De nieuwbouw is naar een ontwerp van OPL architecten/ re-designers te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "48C8BEF4C1495D0CBF37ADDDDD71508F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828451"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de korenmolen Rijn en Zon in de Adelaarstraat te Utrecht vanuit de Hopakker. <ZR><ZR>N.B. Omdat de molen gerestaureerd wordt is de molenkap tijdelijk verwijderd en overgebracht naar een parkeerterrein aan de Gerbrandystraat om daar zelf gerestaureerd te worden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AE9F34A92F45318A40166DD8F623F45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405510"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Belastingkantoor (Gerbrandystraat 20) te Utrecht.<ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "532F3D6837AF5B3681F05F227759EDEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bovenste gedeelte van de korenmolen Rijn en Zon in de Adelaarstraat te Utrecht, tijdens de restauratie, vanuit de Merelstraat.<ZR><ZR>N.B. De kap ontbreekt, die wordt op een parkeerterrein aan de Gerbrandystraat gerestaureerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FF543E908A85C85987873EB5E10E00D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833469"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met de tekst 'ASOS' op de gevel van het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht.<ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6AC306A966AA5400BC1C62FB3B7EB343"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818245"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een protestbijeenkomst van medewerkers van de Belastingdienst te Utrecht die actie voeren voor een betere CAO, voor het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E77FFABC8CE5B0F84C2D1B161C43F88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818227"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht, in de sneeuw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CC91F30B582591291C686233E75EF87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828702"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver in het Griftpark te Utrecht met graffiti tegen een muurtje bij 'de waterval'. Op de achtergrond rechts het voormalige Centraal Belastingkantoor (Gerbrandystraat)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D3DE6433821577286C28A421D889118"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24293"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FAF443B72F75EA9A9ACBC1710D332ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828620"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de betonnen beeldenreeks met daarop de graffiti-tekst 'FRED 2013', voor het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht.<ZR><ZR>N.B. Het Belastingkantoor is in 2008 gesloten en zal worden gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8478A850F64779E9E0534701000A1448"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Votulast (Vogelenbuurt - Tuinwijk - Lauwerecht - Staatsliedenbuurt) te Utrecht vanuit het zuidoosten, met op de voorgrond de Stadsbuitengracht en links de Vecht. Op de achtergrond links het belastingkantoor aan de Gerbrandystraat en de studentenflats op het complex Tuindorp-West."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "848BF06FB1113595E0534701000A3405"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Votulast (Vogelenbuurt - Tuinwijk - Lauwerecht - Staatsliedenbuurt) te Utrecht vanuit het zuiden. Links de Vecht. Op de achtergrond links het belastingkantoor aan de Gerbrandystraat en de studentenflats op het complex Tuindorp-West. Op de voorgrond de Stadsbuitengracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85A55DC2A6CEE4D9E0534701000A019F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840729"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sloop van het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht.<ZR><ZR>N.B. Het Belastingkantoor is in 2008 gesloten. Op het terrein zullen 487 huurappartementen (200 zelfstandige studentenwoningen en 287 vrije sector huurappartementen) worden gerealiseerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85A55DC2A6CFE4D9E0534701000A019F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840730"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sloop van het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht, vanaf het Salvador Allendeplein.<ZR><ZR>N.B. Het Belastingkantoor is in 2008 gesloten. Op het terrein zullen 487 huurappartementen (200 zelfstandige studentenwoningen en 287 vrije sector huurappartementen) worden gerealiseerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E46249FAD4256E78D094B587871B562"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A72A3024F84A566A9BE77B44AE2A85CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818244"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht met een wapperende driekleur met oranje wimpel. Opmerking: Bij verjaardagen van leden van het Koninklijk Huis worden de vlag en wimpel samen gehesen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB4158D69FCE512CAE0FBF55F2B0640E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818256"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hoofdingang van het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB8BCFDD47FC57D891EDE13F710E2445"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828486"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de kap van de korenmolen Rijn en Zon aan de Adelaarstraat op het parkeerterrein van het vroegere Belastingkantoor aan de Gerbrandystraat te Utrecht. De kap wordt hier gerestaureerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6632CB3D940556B9877DF8C9A580769"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818251"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht over het Noordse park en omgeving te Utrecht, vanaf het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20), naar het zuidwesten; op de voorgrond de Dr. H. van der Hoevenkliniek (Willem Dreeslaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7C14BE7A60252A09DF75607C31E0B8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829131"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de graffiti 'ASK' op een transformatorhuisje bij het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-12-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C242349DE4F952359476B72B386B63A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818254"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een aantal gekleurde glasvlakken doorsneden door staalkabels in de hal van het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0DBB04D6433505990A51FDCA1BAEC0B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828636"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de betonnen beeldenreeks met daarop de graffiti-tekst 'ASOS', voor het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht.<ZR><ZR>N.B. Het Belastingkantoor is in 2008 gesloten en zal worden gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-03-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-03-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E85757F894D05E0BA21AEC956BEFD9CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een aantal gekleurde glasvlakken in de hal van het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3D48EB0945E5589A552E91139C13980"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818228"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht, in de sneeuw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-02-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-02-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F436DCC94C1651E6852CFA5C90DD33BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818252"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hoofdingang van het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE22028E2AEA55B4942CCFF3AC2B57A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828455"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bovenste gedeelte van de korenmolen Rijn en Zon in de Adelaarstraat te Utrecht, tijdens de restuaratie.<ZR><ZR>N.B. De kap ontbreekt, die wordt op een parkeerterrein aan de Gerbrandystraat gerestaureerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-09-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-09-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

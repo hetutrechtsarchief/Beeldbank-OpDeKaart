@@ -1,0 +1,520 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "037218A0707C57C5907F8E0C6C4C18FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162615"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Assen te Assen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0958DB3BB53E58058608D4312830B312"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166080"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Assen te Assen: wachtkamer 1e en 2e klasse."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A03939354995862A7011D47A7BD7D11"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824019"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Opstand van de achtergevel en een lengtedoorsnede en dwarsdoorsneden van het S.S.-station Assen te Assen. Opmerking: De tekening bevindt zich in het archief Tekeningen Objecten NS, archieftoegang 959, inv. nr. 718."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1868-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1870-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E77A525B0F65BEF90AA77ACED6106CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160126"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de seinbrug met inrijseinen voor het N.S.-station Assen te Assen (zijde Groningen). De seinarm geheel links was oorspronkelijk bestemd voor treinen uit de richting Stadskanaal (spoorlijn buiten gebruik). Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25E92A84514A508AB3BDE95D494AA5FB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167271"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de festiviteiten op het perron van het N.S.-station Assen te Assen ter gelegenheid van de electrificatie van de spoorlijn Meppel-Groningen, met links president-directeur dr. ir. F.Q. den Hollander die bloemen aangeboden krijgt van een meisje."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "277F85DCB5AB51A5B60F3CD73C87D69F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824018"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Opstand van de voorgevel en plattegronden van het S.S.-station Assen te Assen. Opmerking: De tekening bevindt zich in het archief Tekeningen Objecten NS, archieftoegang 959, inv. nr. 717."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1868-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1870-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31FB2F4CDAA759B0951F69DB7A87D22E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155736"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van ontspoorde en gekantelde goederenwagens op het emplacement bij het N.S.-station Assen te Assen. Rechts staat een ongevallenwagen van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-03-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-03-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5563D8BD24945CE4AA94B0E8BF756AC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161130"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 3787 (serie 3700/3800) van de N.S. met diverse rijtuigen bij het N.S.-station Assen te Assen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D67FA1189095216B95C29B6F6E9A5BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150123"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een taxi voor het N.S.-station te Assen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E8D8BF9802E535797B41EB408AACE50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170535"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de perrontunnel van het N.S.-station Assen te Assen. Opmerking: Zie ook De Koppeling nr. 822, 7 augustus 1981, blz. 7: \"Perrontunnel in Assen helemaal in het nieuw\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "63494E359A6E518A9EC39559B7F8A900"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166079"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Assen te Assen: wachtkamer 3e klasse."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6A5E7F2FBA7D5868A1B8ECEE84950494"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154532"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de geparkeerde auto's op de P+R-parkeerplaats bij het N.S.-station Assen te Assen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74A46354A0B85CC1A1A53602630F81FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166045"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Assen te Assen: restauratie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76E6CF223F4754CA8DEFF561A69E52B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160815"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 4333 (serie 4300, later serie 4100, ex D.R.B. nr. 55 4578) van de N.S. in camouflagebeschildering met een trein Groningen-Assen-Stadskanaal op het N.S.-station Assen te Assen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9AB024CAEAA5E789D46921C1018BA5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162843"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het S.S.-station Assen te Assen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC7458F8074457449DF180DFCCDF8F74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "168606"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een trein, bestaande uit diverse soorten getrokken rijtuigen, langs het perron van het besneeuwde N.S.-station Assen te Assen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0B71D7CE5A4591EB10E8A882277FAED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154533"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de geparkeerde auto's op de P+R-parkeerplaats bij het N.S.-station Assen te Assen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D69D76F59AEA59DBBF1B2513C3A721D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163605"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een binnenbrandje in een postrijtuig van de N.S. op het N.S.-station Assen te Assen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

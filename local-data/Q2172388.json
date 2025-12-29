@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D948EFB5F50530A999EE743B4F8617A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "801267"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de versierde stopplaats De Vlasakkers van de N.C.S. bij Amersfoort, tijdens de viering van het 50-jarig jubileum van de N.C.S. (Nederlandse Centraal Spoorweg-Maatschappij). met poserend spoorwegpersoneel. Opmerking: De afbeelding bevindt zich in het jubileumboek \"Nederlandsche Centraal Spoorweg Maatschappij - Dienstorder no. 621 20 augustus 1863 - 1913. (In particulier bezit)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C235BB851D9D537A8B94EDF4C86EBBED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153936"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een halteseinbord van de N.S. bij de stopplaats De Vlasakkers bij Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

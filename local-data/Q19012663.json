@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D0ABAD2F817523AAB6098F43C423BC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69889"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het noordelijk deel van de Schipbeekstraat te Utrecht met de oostelijke straatwand en de huizen nrs. 40- lager, vanaf de kruising met de Amstelstraat (voorgrond), uit het zuidwesten; op de achtergrond de Dommelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

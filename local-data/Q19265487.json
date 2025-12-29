@@ -1,0 +1,772 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1000EABC8A2F59509E4AFD58B70E4F81"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58756"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Huizingalaan te Utrecht met links van het midden het huis nr. 145 en rechts van het midden de huizen nrs. 141-lager; op de voorgrond wordt een hut gebouw tijdens de vakantieweek voor de jeugd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B1E688BAEB25A7796878CCD61889CBD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "76557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Huizingalaan te Utrecht, uit het oosten, met op de voorgrond de spoorwegovergang van de Oosterspoorweg. De AHOB-installatie (Automatische Halve Overweg Bomen) is kort voor de opname geplaatst. Opmerking: Gepubliceerd in Het Utrechtsch Nieuwsblad, 4 augustus 1963."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-08-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1D2226D9EDCF52FE988627811BA75526"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58754"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de overvolle glasbakken in de Huizingalaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "23A5294276E45FD1B83E4C211055DC5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84931"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van het gebied rond de Huizingalaan te Utrecht, vanaf het dak van het Bejaardencentrum SABU-huis (Jan van Galenstraat 90), uit het noordwesten; links de Huizingalaan en rechts de Admiraal van Gentstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "313997B9597C59E5814CDC58F00709F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115463"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Huizingalaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-01-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-01-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34DF9C5DFD1F5384BACC2F22A2D46E00"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58753"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Huizingalaan te Utrecht bij voltooiing van de ahob installatie, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36181B92327C520E8DE729EC00002C4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84930"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van het gebied rond de Huizingalaan te Utrecht, vanaf het dak van het Bejaardencentrum SABU-huis (Jan van Galenstraat 90), uit het zuidwesten; op de voorgrond het winkelcentrum aan de Jan van Galenstraat met daarachter de Van Ginnekenlaan, links de Kardinaal de Jongweg en rechts de Huizingalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "400828B13FA05BD0B614B8E6662A7039"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58757"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het woonhuis annex architectenbureau Huizingalaan 189-191 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4278DDE520B75C6C908CB7E5C6964FC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827887"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het woonhuis annex bureau van architect P.H. Dingemans (Huizingalaan 189-191) te Utrecht: binnentuin met expositiewand. Opmerking: De foto mag alleen hergebruikt worden met naamsvermelding: foto Arjan den Boer (CC-BY).<ZR><ZR>De foto behoort bij het artikel \"Het Dingemanshuis: welke toekomst krijgt het Huis voor de Toekomst?\", in: De Utrechtse Internet Courant (DUIC), 13 oktober 2014.<ZR>Zie http://www.duic.nl/nieuws/het-dingemanshuis-welke-toekomst-krijgt-het-huis-voor-de-toekomst/"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51A589F107E05CECBA13886CE4301C8E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de Zeeheldenbuurt te Utrecht, vanaf het dak van het Bejaardencentrum SABU-huis (Jan van Galenstraat 90), uit het noordwesten; op de voorgrond de Jan van Galenstraat; links de Huizingalaan en in het midden de Admiraal van Gentstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5AABCF688478529E850B6F1557E67CAB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827885"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toren van het woonhuis annex bureau van architect P.H. Dingemans (Huizingalaan 189-191) te Utrecht. Opmerking: De foto mag alleen hergebruikt worden met naamsvermelding: foto Arjan den Boer (CC-BY).<ZR><ZR>De foto behoort bij het artikel \"Het Dingemanshuis: welke toekomst krijgt het Huis voor de Toekomst?\", in: De Utrechtse Internet Courant (DUIC), 13 oktober 2014.<ZR>Zie http://www.duic.nl/nieuws/het-dingemanshuis-welke-toekomst-krijgt-het-huis-voor-de-toekomst/"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86DB64FEA15053848D1840671C7EFE2F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828275"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een straatlantaarn ter hoogte van de panden Huizingalaan 26-28 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D1B72DC5B39521F8D24EE7B407018C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84929"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van het gebied rond de Huizingalaan te Utrecht, vanaf het dak van het Bejaardencentrum SABU-huis (Jan van Galenstraat 90), uit het westen; op de voorgrond het winkelcentrum aan de Jan van Galenstraat, links de Kardinaal de Jongweg en rechts de Huizingalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98C431ABC9D7528BA97AC85FBDB0274B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30175"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het woonhuis annex architectenbureau Huizingalaan 189-191 te Utrecht, vanaf de Huizingalaan, uit het oosten. Opmerking: Het huis is het woonhuis van ir. P.H. Dingemans en is door hem in 1962 ontworpen. Architectenbureau De Vlaming, Fennis en Dingemans is er gevestigd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A96CDAB92285449BBD84EEC7C600594"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58758"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het woonhuis annex architectenbureau Huizingalaan 189-191 te Utrecht. Opmerking: Persfotobureau 't Sticht fotonummer: 1404-35."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9AD07C99265A55AFA876E353C60D279B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "801367"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een besneeuwd voorsein langs de Oosterspoorweg te Utrecht, met op de achtergrond de spoorwegovergang in de Huizingalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CF2232447F85C6B94A8668B6BC9F43E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "100998"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de ingebruikstelling van de 250ste met Automatische Halve Overwegbomen (A.H.O.B.) beveiligde spoorwegovergang in Nederland, in de Huizingalaan te Utrecht.<ZR><ZR>N.B. De openingshandeling werd door oud-wethouder H. Ploeg jr. verricht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6697CB65A5154EB99FEAE009F8D0585"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827888"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Frans Dingemans in de torenkamer van het woonhuis annex bureau van architect P.H. Dingemans (Huizingalaan 189-191) te Utrecht.<ZR><ZR>N.B. Frans Dingemans is de zoon van architect P.H. Dingemans. Opmerking: De foto mag alleen hergebruikt worden met naamsvermelding: foto Arjan den Boer (CC-BY).<ZR><ZR>De foto behoort bij het artikel \"Het Dingemanshuis: welke toekomst krijgt het Huis voor de Toekomst?\", in: De Utrechtse Internet Courant (DUIC), 13 oktober 2014.<ZR>Zie http://www.duic.nl/nieuws/het-dingemanshuis-welke-toekomst-krijgt-het-huis-voor-de-toekomst/"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD17FE6614925D8F989279321717C55F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827890"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het woonhuis annex bureau van architect P.H. Dingemans (Huizingalaan 189-191) te Utrecht: tekenkamer/kantoorruimte. Opmerking: De foto mag alleen hergebruikt worden met naamsvermelding: foto Arjan den Boer (CC-BY).<ZR><ZR>De foto behoort bij het artikel \"Het Dingemanshuis: welke toekomst krijgt het Huis voor de Toekomst?\", in: De Utrechtse Internet Courant (DUIC), 13 oktober 2014.<ZR>Zie http://www.duic.nl/nieuws/het-dingemanshuis-welke-toekomst-krijgt-het-huis-voor-de-toekomst/"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE99F50F6FC55EC4BF9522E010A616C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167162"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorlijn tussen Blauwkapel en Lunetten (Oosterspoorweg) te Utrecht, ter hoogte van de spoorwegovergang in de Huizingalaan, uit het zuiden, met op de voorgrond voorsein 752."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3ECE0FE7F9957F29A5F4D5A9E945C93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "100997"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van N.S.-directeur ir. J.P. Koster tijdens zijn redevoering bij het begin van de \"Jeugdoverweg-aktie\", tevens ingebruikstelling van de 250ste met Automatische Halve Overwegbomen (A.H.O.B.) beveiligde spoorwegovergang in Nederland (in de Huizingalaan te Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8CD12ADF172503FAB475A8E567C93A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827889"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toren van het woonhuis annex bureau van architect P.H. Dingemans (Huizingalaan 189-191) te Utrecht. Opmerking: De foto mag alleen hergebruikt worden met naamsvermelding: foto Arjan den Boer (CC-BY).<ZR><ZR>De foto behoort bij het artikel \"Het Dingemanshuis: welke toekomst krijgt het Huis voor de Toekomst?\", in: De Utrechtse Internet Courant (DUIC), 13 oktober 2014.<ZR>Zie http://www.duic.nl/nieuws/het-dingemanshuis-welke-toekomst-krijgt-het-huis-voor-de-toekomst/"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF0FC1624B2A5FD3B574F25499F85378"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58755"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de overvolle glasbakken in de Huizingalaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF55F20329EB52E9A2B27A3A97ED80F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819789"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het pand Huizingalaan 20 te Utrecht.<ZR><ZR>N.B. Tot ca. 1990 was in het pand een winkel van Bakkerij Do Schat-Hus gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8AF85AFC9D45DCD820C90D9B24354EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "102193"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het in brand staande gebouw van de gereformeerde lagere school Huizingalaan 50 te Utrecht. Opmerking: 't Sticht fotonummer 2966-25a."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-07-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-07-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB470375550A52B6ADB8701655565388"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het woonhuis annex bureau van architect P.H. Dingemans (Huizingalaan 189-191) te Utrecht: woonkamer met zithoek met grotendeels origineel interieur. Opmerking: De foto mag alleen hergebruikt worden met naamsvermelding: foto Arjan den Boer (CC-BY).<ZR><ZR>De foto behoort bij het artikel \"Het Dingemanshuis: welke toekomst krijgt het Huis voor de Toekomst?\", in: De Utrechtse Internet Courant (DUIC), 13 oktober 2014.<ZR>Zie http://www.duic.nl/nieuws/het-dingemanshuis-welke-toekomst-krijgt-het-huis-voor-de-toekomst/"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD580B14FEBA596DB98C6813590459F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22106"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Ezelsdijk (toekomstige Huizingalaan) te Utrecht, vanaf de kruising met de Jan van Galenstraat, uit het noordwesten. Opmerking: Afdruk van dia, 2001"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

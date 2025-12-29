@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4915BBBDAFD85C499AC06A6D2AA4F5C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5719"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van een flatgebouw aan de Kaupangstraat te Wijk bij Duurstede."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

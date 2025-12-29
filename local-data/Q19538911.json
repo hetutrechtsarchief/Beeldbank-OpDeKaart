@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5844B1E2C75B5646B0876634215627E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129332"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van, vermoedelijk, het huis Spoorlaan 44 te Hollandsche Rading."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AAA5E20FB2715039989BABB67E61620A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Spoorlaan te Hollandsche Rading (gemeente Maartensdijk) uit het zuiden, met links de voorgevels van een rij huizen. <ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente De Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

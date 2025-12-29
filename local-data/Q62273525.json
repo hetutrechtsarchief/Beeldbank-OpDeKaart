@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A5AADBE006653E8B678C13A9CE0F5CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126758"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Jaagpad langs de Oude Rijn te Woerden, vanaf de Rozenbrug.<ZR><ZR>N.B. De straatnaam Jaagpad is later gewijzigd in Rijnkade.<ZR>Achter de huizen rechts lagen de \"Steenkuilen\", kleiland voor de nabijgelegen pan- en steenfabrieken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1932-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

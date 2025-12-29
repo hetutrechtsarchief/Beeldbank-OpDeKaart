@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C56E6CA8E4D5A24BDE0320FE42E29EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58461"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van 't Hoffstraat 11-lager te Utrecht; links het huis nr. 11."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD6DBEE61A0959D7AC1ED1FE40BC7BF0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58462"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van 't Hoffstraat 12-lager te Utrecht;  met rechts het huis nr;. 12."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D36FF45DAA6955EDA0C16DCC70B021B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58460"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van 't Hoffstraat te Utrecht, vanuit het zuidwesten met rechts de gevel van nr. 1 en geheel rechts op de achtergrond de Van Humboldtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4FD5358E62D5495ADE6040207133BBB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van 't Hoffstraat te Utrecht. Opmerking: De afb. is gepubliceerd in Utrecht in woord en beeld 1928, nr. 40."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "079D6622F7135004AF9EB4E110507C48"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150832"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron met een wachtruimte (\"Leidse abri\") en overweg van het N.S.-station Westerveld te Velsen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "196ED0172FA65008BACBD4194CA8638B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155802"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Westerveld te Velsen met rechts een conducteur en een electrisch treinstel plan V (mat. 1964) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-09-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "663E8BF4165156B298A5A6EE40D556FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155803"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron met \"Leidse abri\" van het N.S.-station Westerveld te Velsen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-09-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

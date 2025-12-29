@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "471879881EC55F758CE804718A93899C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829405"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de garage van het pand Billitonstraat 26 en de voorgevel van het pand Billitonstraat 28 te Utrecht, met veel graffiti."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E8EE32AECA15E698A32F1F1792A8A7B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linker zijgevel van het pand Abel Tasmanstraat 44 te Utrecht. Geheel links een gedeelte van de panden Billitonstraat 3-5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9780718F58DF56789F13562C7FA8DC4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69316"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit een huis aan de Billitonstraat op de achterzijden van de huizen Laurens Reaalstraat 54-hoger te Utrecht met op de achtergrond de school aan de Malakkastraat en de St.-Antonius van Paduakerk aan de Kanaalstraat. Opmerking: Overgebracht uit archieven, 10 mei 1988."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

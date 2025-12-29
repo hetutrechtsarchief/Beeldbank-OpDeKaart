@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F691C9B1B3850E9BE70FDD9ED353CDD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154195"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de Verheul autobus nr. 674 van de G.T.W. als sneldienst Arnhem-Doetinchem op het Velperplein te Arnhem."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC9916B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "836420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Musis Sacrum aan het Velperplein te Arnhem. Opmerking: NS fotonummer 10701"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F6EF6A2126725CBFAC97FB33917D7EEC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154211"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een Leyland-Den Oudsten autobus van de G.T.W. met instappende reizigers op het Velperplein te Arnhem."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

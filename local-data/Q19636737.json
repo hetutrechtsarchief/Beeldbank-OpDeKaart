@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0173DED87AE25BB2B64523184150B74A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24760"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlierstraat te Wijk bij Duurstede, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7358905F49AF5BA093DE78D3D15C3C86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24761"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijden van enkele huizen aan de Vlierstraat te Wijk bij Duurstede."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDC1FFB9596A5075BE5F4060A9E34422"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803327"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Von Gimborn Arboretum (midden) aan de Vossensteinsesteeg te Doorn, uit het zuiden, met op de voorgrond de Gooijerdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F95FD1112B17544193FA27796BB87619"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803325"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Von Gimborn Arboretum (linksboven) aan de Vossensteinsesteeg te Doorn, uit het zuiden, met in het midden de Gooijerdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

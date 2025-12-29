@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "075FA7FD3C4C56799B5CBB8D2A730392"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802191"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de brug in de Wierselaan over de Rijkshulpschutsluis te Nieuwegein: in het midden de Fortweg en rechts het Frederiksoord; op de voorgrond het water van de Vaartsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

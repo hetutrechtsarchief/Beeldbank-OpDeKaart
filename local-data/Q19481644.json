@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "872C0AFAF52A5FBCBE303B8887F7B343"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Wildenburg te Leusden, uit het zuiden, met in het midden de Rosmolenstraat, op de voorgrond de Zuiderinslag en rechts de Hamersveldseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "88DC58BB66385F818EAE10DD0D28AB32"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Wildenburg te Leusden, uit het zuiden, met in het midden de Rosmolenstraat en op de voorgrond de Zuiderinslag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

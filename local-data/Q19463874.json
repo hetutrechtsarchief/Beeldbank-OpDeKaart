@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37CE87F605D95FD2B62768D213534DD0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118835"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan het Reiderland en de Fivelingo te Utrecht, uit het oosten. Geheel rechts de in aanbouw zijnde flatgebouwen aan de Terschelling."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "401F14459A385370AB09AAE9C0DA2666"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115355"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de woningen aan het Reiderland in de wijk Lunetten te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C52FDFDEFEB85196A5DCDBCDBCACAFB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan het Reiderland en de Fivelingo te Utrecht, uit het oosten. Geheel rechts de in aanbouw zijnde flatgebouwen aan de Terschelling."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E7776A4FC53F5F66BF94752275F0A21E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30127"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf de Brennerbaan te Utrecht op de huizen hoek Fivelingo - Oldambt (links) met op de achtergrond de voor- en zijgevels van de huizen aan Reiderland.<ZR><ZR>N.B. De straat Fivelingo is rechts nog niet bebouwd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

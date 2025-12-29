@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "918248B9B3785644AC86BB1D759248C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15572"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jagerlaan/hoek Torenlaan/Cronjelaan  met bebouwing en beplanting te Zeist uit het zuidoosten; met rechts de voorgevel van een tabaks- en sigarenwinkel en een aantal personen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BA260159EE375C4281D82EA19B222111"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15573"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jagerlaan/hoek Torenlaan/Cronjelaan  met bebouwing en beplanting te Zeist uit het zuidoosten; met rechts de voorgevel van een tabaks- en sigarenwinkel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

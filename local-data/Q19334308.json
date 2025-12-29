@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3276F114B09F5205B92FFF7649FC2CDC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123002"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Mandarijnstraat te Utrecht, uit het zuidwesten; links de huizen nrs. 8-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A56B00C854D5D9D8BA391C2C8F42888"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19631"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Mandarijnstraat 18-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A8A0428A5D57530E9E06055C67741630"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65565"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Nieuwlichtstraat 23-hoger te Utrecht met rechts de Mandarijnstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

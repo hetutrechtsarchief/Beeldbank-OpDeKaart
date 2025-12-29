@@ -1,0 +1,744 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "096C53BD0F2A5610B81F5CC42F118C70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65468"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Nieuwe Keizersgracht te Utrecht, tijdens de sloop; links op de achtergrond de Valkstraat. Opmerking: Fotonummer 3129"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DCA99065E2E5B17B32958B17AFE723E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51484"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het binnenterrein van de voormalige fabriek van de N.V. Utrechtsche Melk Centrale (Adelaarstraat 48) te Utrecht met de voet van de schoorsteen, uit het zuiden; geheel rechts de achtergevels van enkele huizen aan de Valkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14B06CDCAE125FB2A311A80DE85C3192"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51460"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Adelaarstraat 27-35 (vooraan) te Utrecht, vanuit het noordoosten: geheel rechts de hoek met de Valkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1757B37F92335505B4B9E342E1A6A37A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het binnenterrein met de achtergevels van de huizen Valkstraat 23-29 te Utrecht; rechts de achtergevels van enkele huizen aan de Adelaarstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DAC0FA1856B589D8909843D558EE032"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71885"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Valkstraat 23-29 te Utrecht; links de ingang van de Adelaarstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "39B08CF1246A55AFA6AA9BAA59C635CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60380"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van de Basisschool De Koekoek (Koekoeksplein 2A) te Utrecht met links de Havikstraat en rechts de Valkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3ACB61ACE4255C93A88E1B4690FE782F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71887"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het pand Adelaarstraat 27 te Utrecht met rechts het pand Valkstraat 29."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F33A673049555BA9C66F388F28C27FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52742"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Havikstraat te Utrecht met de voorgevels van de huizen nrs. 7 (hoekhuis links)-lager; geheel links op de voorgrond de ingang van de Valkstraat en rechts op de achtergrond tussen de huizen de ingang van de Lijsterstraat. Opmerking: Omstreeks 1955 vervaardigde reproductie van een rond 1910 gemaakte foto. Afdruk van origineel negatief, 1996."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B6230AEB68050949244523CD60EC666"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828663"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een op straat gezet graffiti-schilderij met een gestileerde kop, op de Valkstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F4DF5B0998350F5A3D46684735AE6FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71889"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Valkstraat 64 (rechts)-lager te Utrecht, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55E8FEA9122E582ABB551E620B27D632"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20819"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Adelaarstraat 70 (hoekhuis)-hoger te Utrecht vanaf de kruising met de Valkstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B4FD4D68EB15B02B0F0743D0B341A37"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "4980"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Valkstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "702E8F98D6BB5A4585F66F203A77D1E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20826"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Valkstraat te Utrecht met de huizen nrs. 46-hoger; op de voorgrond de Adelaarstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7425B2D5BD9D5B27A42DA5D9BE3A4EFE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52749"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Valkstraat te Utrecht met de huizen nrs. 2 (links het hoekhuis)-hoger; geheel links de ingang van de Nieuwe Koekoekstraat. Opmerking: Omstreeks 1955 vervaardigde reproductie van een rond 1910 gemaakte foto. Afdruk van origineel negatief, 1996."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "793FBA5EF3FB5085B26CC47F1AF5E212"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819642"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het hoekpand Valkstraat 44 (Feestverhuurbedrijf Driehuis) te Utrecht.<ZR><ZR>N.B. Van 1946 (depothouder J.Th. Verhoef) tot ca. 1970 was in dit pand een depot van Brood- en Banketbakkerij De Lubro gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EEDFE3FC3B05F70B1608F9926D545C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25068"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwe Keizersgracht te Utrecht, uit het oosten; links een gedeelte van het huis Valkstraat 64. Opmerking: Afdruk van origineel negatief, 2003"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85C78E7EB7AAF464E0534701000A7860"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406593"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Valkstraat te Utrecht, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "880CF450A9875DC398F13DE4B0E3C493"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819641"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Valkstraat 44 (Feestverhuurbedrijf Driehuis) te Utrecht; rechts de Adelaarstraat.<ZR><ZR>N.B. Van 1946 (depothouder J.Th. Verhoef) tot ca. 1970 was in dit pand een depot van Brood- en Banketbakkerij De Lubro gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "956363FEFBE1520196CF53A7F657462F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401685"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Marijke Driehuis van Driehuis Verhuurbedrijf (Valkstraat 44) te Utrecht, met een kerstmanpak in haar winkelruimte."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B0499D3CD2E5A2EA7BA8D504333D83F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42035"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Adelaarstraat te Utrecht, uit het zuidwesten, ter hoogte van de kruising met de Valkstraat. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A4FC9BF3A3675AA7A9C9BC7FB60171D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60379"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van de Openbare Lagere School (Koekoeksplein 2A) te Utrecht met links de Havikstraat en rechts de Valkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1908-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1912-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C244E504FD615C8490EA2744F7D86B71"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501626"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de aanleg van riolering op de hoek van de Havikstraat (voorgrond) en de Valkstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9B480AB5D7654D09AC760F89A898709"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84900"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Vogelenbuurt te Utrecht, vanaf de voormalige fabriek van de N.V. Utrechtsche Melk Centrale (Adelaarstraat 48), uit het noorden. Links de Valkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE9C435A7612544081211DF912086749"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51485"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Adelaarstraat 52-68 te Utrecht vanaf de voormalige fabriek van de N.V. Utrechtsche Melk Centrale (Adelaarstraat 48), uit het noordwesten; links de kruising met de Valkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB8CFE4C2B1B5C9C8F5735C013F5FCA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71888"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Valkstraat 24 (rechts)-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2741824C9375BC4898CCBE192351878"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21194"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Valkstraat 45-hoger te Utrecht met op de achtergrond de St.-Josephkerk (Draaiweg 44). Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

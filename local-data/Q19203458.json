@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "105FBD4219CA5D319A3757E6B504D15F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117441"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een verkeersongeval op de kruising van de Graaf van Lynden van Sandenburgweg en de Dorpsstraat te Cothen (gemeente Wijk bij Duurstede)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

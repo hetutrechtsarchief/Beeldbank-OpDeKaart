@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AA71BE882785E5FA0122BF863DFFD33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811274"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een pottenbakkerij aan de Oudegracht aan de Werf te Utrecht ter hoogte van deTwijnstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D76EAB14E7A569D85D8538F51D23313"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "36017"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Oudegracht te Utrecht op de voorgevels van de huizen aan de Oudegracht aan de Werf (ter hoogte van Twijnstraat 49 - lager), uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D18F3743229B5E52A1DAB9C231CB99F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "36019"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Oudegracht aan de Werf te Utrecht vanaf de  met de gedeeltelijk achter groen schuilgaande achtergevels van huizen aan de Twijnstraat, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F00A14C7EF7E5F0685CE1C7739AE6DCF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "36016"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Oudegracht te Utrecht op de voorgevels van de huizen aan de Oudegracht aan de Werf (ter hoogte van Twijnstraat 41 - hoger), uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50F125A893EA5B6F9C50300F6973A28F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155884"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron en de perrontrap van het N.S.-station Rotterdam Stadion te Rotterdam met op de achtergrond het Feyenoord-stadion."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E514D21E6A759DE84B0F151757F7CB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806658"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Rotterdam Stadion te Rotterdam, met een menigte bezoekers van het Feyenoord-stadion en links een electrisch treinstel bestaande uit rijtuigen mat. 1924 (\"Blokkendozen\")."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF64AB4C4171585F96CCD492DE34D9BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "804425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een menigte, op weg naar het Feyenoord-stadion, op de perrontrap en het voetgangersviaduct van het N.S.-station Rotterdam Stadion te Rotterdam."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

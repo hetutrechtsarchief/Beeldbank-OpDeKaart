@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "898A007C7EFD59E59620A96AED238E85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171069"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor autoverkeer afgesloten Hortensiastraat te Zwolle, in verband met de bouw van de nieuwe tunnel onder het spoor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3F315B51A2557E6B2BBBC7A66F4EBEB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170598"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde tunnel onder het spoor aan de Hortensiastraat te Zwolle."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

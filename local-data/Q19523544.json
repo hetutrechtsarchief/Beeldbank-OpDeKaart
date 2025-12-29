@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "059CB9B9518157DA872B33695B048EF4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115830"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de sculptuur \"Grote Spiraal\", door Y. Kracht, in het plantsoen aan de Sophocleslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BAB2E1423F9654428780CCCD48E8A90D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54397"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de sculptuur \"Grote Spiraal\", door Y. Kracht, in het plantsoen aan de Sophocleslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9F76DBEE5085C5FAEA866B54E68CB4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele in aanbouw zijnde huizen aan de Sophocleslaan te Utrecht met links op de voorgrond de ingang van de Horatiuslaan. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B92D4FC4F66E52D78D5133F9F639C53D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93306"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de boerderij Stil Genoegen (Slotlaan 8) te Loenersloot (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 419-420."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

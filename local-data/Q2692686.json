@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F34085813C95F4BAB0B7DC1715B3A45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150240"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de parkeerplaats en het tijdelijke plaatskaartenkantoor van het N.S.-station Diemen te Diemen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FBD4B4DA5FC5F64A44680CCCA7C9607"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150241"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Diemen te Diemen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "84FFDA19B0AF18C7E0534701000AA308"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171996"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Diemen Zuid te Diemen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

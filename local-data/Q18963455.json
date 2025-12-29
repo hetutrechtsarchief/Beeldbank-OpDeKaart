@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AB7355FA88F5B0D98B2824AF36900D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "83329"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de saneringswerkzaamheden in het Griftpark te Utrecht, uit het zuidoosten: op de achtergrond de Van Swindenstraat; links de Bosschahof. Opmerking: Litt.: Utrechts Nieuwsblad 19 januari 1994, blz. 14."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B1F9917D01B58EA96D7384410A2D9A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "83262"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Griftpark te Utrecht, uit het zuidwesten, met links de huizen aan de Bosschahof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

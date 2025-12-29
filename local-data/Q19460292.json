@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F2FE5D52DA950F8A0EFFACE621314F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53299"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Bemuurde Weerd W.Z. 5 (herv. wijkcentrum Jacobikerk) te Utrecht, gezien vanaf de overkant van het water met rechts van het huis de ingang van de Raamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B2FDD1F0AE85A7797E0E752F21C16DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817916"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Raamstraat 1 - 5 te Utrecht; op de achtergrond de Oudenoord. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E1374CDCAE45BCBB39D098616D4EBE8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69257"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het atelier van de kunstenaar Joop Wouters (Raamstraat 4) te Utrecht: de kunstenaar werkt aan het beeld Het Geheim."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14C96EF950CA5CA38E04FEEFEA6FC18C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817917"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Raamstraat 5 - hoger te Utrecht, vanaf de Oudenoord naar het oosten Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "19A5CCC8AF175233AE332C40B73168CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817918"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Raamstraat te Utrecht, vanuit de steeg naar het westen; op de achtergrond de Oudenoord. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A301EE2EE00512EAFCF590AFC959522"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Bemuurde Weerd W.Z. 4 (links) - hoger te Utrecht vanaf de Bemuurde Weerd O.Z.; links van het midden de ingang van de Raamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F760EBDE5D95C5CB9703A1B16B79493"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817913"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de Raamstraat te Utrecht, tussen de panden Bemuurde Weerd W.Z. 5 (links) en 6, vanuit het zuidoosten. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C6758FEC87C52729D8B545B4058CA96"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53301"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Bemuurde Weerd W.Z. 6 te Utrecht met links de Raamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32F3AC1B36F2516E8A814F19975918AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817915"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een tuinmuur aan de zuidzijde van de Raamstraat te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BD7B0D38B45524980BC1469EE183B89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69256"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het atelier van de kunstenaar Joop Wouters (Raamstraat 4) te Utrecht: de kunstenaar werkt aan het beeld Het Geheim."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A8713A371DF58A5B8B9DB5F122F3CA5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823929"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kademuur van de Weerdsluis te Utrecht ter hoogte van de panden Bemuurde Weerd W.Z. 6-7, vanaf de Bemuurde Weerd O.Z.; links de ingang van de Raamstraat. Opmerking: De foto is genomen in het kader van de inventarisatie van scheuren in de kademuren voorafgaand aan de restauratie van de Weerdsluis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-09-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-09-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "585557DA14FC5D0B89F6399D5F151EC4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822395"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de Raamstraat tussen de panden Bemuurde Weerd W.Z. 5 (links) - 6  te Utrecht, vanaf de Bemuurde Weerd O.Z.."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D49DB1E37015C4BB9B37A181282F8E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121358"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de sloop van de oude paardenstal van de meelfabriek De Korenschoof (Kaatstraat) te Utrecht op het terrein tussen de Raamstraat en de Kaatstraat. Opmerking: De foto bevindt zich in het archief van \"De Korenschoof\", inv. nr. 364a"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E90241398E65EC28B40B20A7983C862"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829258"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de muur vol graffiti aan de noordzijde van de Raamstraat te Utrecht, bij de Bemuurde Weerd W.Z."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F984D07152B5CF0BC3A0C1EBB7948DD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829259"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een graffitifiguur op de muur aan de noordzijde van de Raamstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2B82956B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Oudenoord 7 te Utrecht met rechts van het pand de Raamstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68866724610F53B39CD369DE4607432A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822394"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Bemuurde Weerd W.Z. 5 (links) - hoger te Utrecht vanaf de Bemuurde Weerd O.Z.; links van het midden de ingang van de Raamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E2E47BAC958568DB3B1AEE20AF39347"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817914"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de noordelijke gevelwand van de Raamstraat te Utrecht, vanaf de Bemuurde Weerd W.Z. richting Oudenoord. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "727084211C5B57FF90A3BCB4107D115D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829260"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een Utrechtse kabouter (KBTR) op de muur aan de noordzijde van de Raamstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "729E100E1817587BB4F5F817BEBC4E36"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69099"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Raamstraat te Utrecht vanaf de Oudenoord met links de zijgevel van het pakhuis Oudenoord 7."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "747101D5DE055F0498489EF0D42BD56C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "107192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Joseph Bernardus Christiaan ('Joop') Wouters, geboren Zwijndrecht 7 mei 1942, beeldhouwer te Utrecht. Te halve lijve rechts van voren, werkend in zijn atelier (Raamstraat 3) aan de plastiek 'Stadsvernieuwing' voor het kantoorpand van de woningbouwvereniging Kombinatie 77 (Vlampijpstraat 101)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7BA09E97EA5C551E82C17642CB745E11"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817919"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Raamstraat te Utrecht, vanuit de steeg naar het oosten. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C65A3B257D25FE7B695B6D1054EDA32"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121359"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de sloop van de oude paardenstal van de meelfabriek De Korenschoof (Kaatstraat) te Utrecht op het terrein tussen de Raamstraat en de Kaatstraat. Opmerking: De foto bevindt zich in het archief van \"De Korenschoof\", inv. nr. 364a"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FE9626E8FBC55E0E0534701000A2B80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838912"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het parkeerterrein Raamstraat achter het bedrijven-woningcomplex op de hoek van de Oudenoord (links) en Kaatstraat te Utrecht, vanaf de Raamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FE9626E8FBD55E0E0534701000A2B80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838913"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het parkeerterrein Raamstraat achter het bedrijven-woningcomplex op de hoek van de Oudenoord (links) en Kaatstraat te Utrecht, vanaf de Raamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B6742F3D68F51BDAF9CCDEBC8C06669"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817920"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de door een boomwortel gebarsten tuinmuur aan de zuidzijde van de Raamstraat te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A348D694B0DA58DABB96F75ED8C0AA8C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121356"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Raamstraat te Utrecht. Opmerking: De foto bevindt zich in het archief van \"De Korenschoof\", inv. nr. 364a"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B58B5E1B02CF5008842A9D5762D6D730"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121360"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de wagenloods en paardenstal van de meelfabriek De Korenschoof (Kaatstraat) te Utrecht op het terrein tussen de Raamstraat en de Kaatstraat. Opmerking: De foto bevindt zich in het archief van \"De Korenschoof\", inv. nr. 364a"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8BD2D84056C5FE6AE52C70D626886AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823928"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kademuur van de Weerdsluis te Utrecht ter hoogte van de panden Bemuurde Weerd W.Z. 4-6, vanaf de Bemuurde Weerd O.Z.; rechts de ingang van de Raamstraat. Opmerking: De foto is genomen in het kader van de inventarisatie van scheuren in de kademuren voorafgaand aan de restauratie van de Weerdsluis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-09-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-09-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7F2249AE9195DF2B6612A5788F14862"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69170"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Raamstraat te Utrecht, vanaf de Bemuurde Weerd W.Z. met op de achtergrond Oudenoord."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D105E469E7285A5F8E08512EA16C1814"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121357"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele pakhuizen aan de Westerdijk te Utrecht. In het midden de toegang tot de Raamstraat. Opmerking: De foto bevindt zich in het archief van \"De Korenschoof\", inv. nr. 364a"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D747483369645717A5C3B61DDA1F2FF8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121361"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de paardenstal van de meelfabriek De Korenschoof (Kaatstraat) te Utrecht op het terrein tussen de Raamstraat en de Kaatstraat, kort voor het in gebruik nemen van de nieuwe paardenstal op de hoek van de Raamstraat en de Westerdijk. Opmerking: De foto bevindt zich in het archief van \"De Korenschoof\", inv. nr. 364a"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E416D343FFE6546E9BF0DADD54EFD0EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21178"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Raamstraat te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F19CD58FB7FC5505A4620F8B80941BC4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828650"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van o.a. met een aapje en een krokodil beschilderd aanhangwagentje, geparkeerd in de Raamstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

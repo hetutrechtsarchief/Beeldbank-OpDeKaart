@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "153EBBEA26CF561FB7F286FE260499C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165131"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van het personeel van het H.S.M.-station Amersfoort Staat te Amersfoort, met op de tafel een telegraaftoestel. Opmerking: De afbeelding behoort tot de collectie De Pater.<ZR>Reproductiefoto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1895-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "301220B56A8C59C5BF95D79199EE95A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814498"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gerestaureerde huis op de hoek van de Walstraat en de Walkade te IJsselstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC6EF7F1AFBD5BBB9DA07C1DC213AD2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95193"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Wittepaardsbrug over de Haven in de Walstraat met bebouwing te IJsselstein uit het noordoosten. Opmerking: Lit. IJsselstein, geschiedenis en architectuur, p. 146-147."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFBFC8B126AF560CA34E6A7645E3FC80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117016"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Walstraat 3 -hoger te IJsselstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

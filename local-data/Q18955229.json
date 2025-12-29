@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0723CED0A87D5B66B12C54E74C344A57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50036"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de grote waterplas met gedeelten van de in aanleg zijnde wijken Kattenbroek en Zielhorst te Amersfoort uit het zuiden; met links de huizen aan het Masker en rechts de huizen aan het Zocherpad."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

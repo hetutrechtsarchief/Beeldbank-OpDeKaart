@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2FA58DD86325AE8B9064AC100BC1CAA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350399"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de overstroomde landerijen langs de Randenbroekerweg te Amersfoort. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

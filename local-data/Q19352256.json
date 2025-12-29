@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "713C5C06AF795928B249B61CA6827CC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802402"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de rotonde in de Oudenrijnseweg op het bedrijventerrein Oudenrijn (Strijkviertel) te De Meern (gemeente Utrecht), uit het westen; rechts de Naamrijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8824E0E505AF57749074ECEEA561F2D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89348"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en voorgevel van de boerderij Naamrijk (Rijksstraatweg 60) te De Meern (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

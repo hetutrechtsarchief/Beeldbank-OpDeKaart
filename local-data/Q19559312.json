@@ -1,0 +1,632 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0AD8E9A87B375EA1916664BA301BAF15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8476"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Broederschapshuis aan de Sweelincklaan te Bilthoven: de vergaderzaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1833178CC6875752B306D45CCCC73233"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "193235444D915BF8A9232AB6AD681677"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8468"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis in de sneeuw aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A07B8D3AF1F5DE895E6939906A5A8D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8466"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "21336D69C6505495A0BCE7219533C12C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8462"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "313D7506B01C564C965B5BA1B9D75FB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8469"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de tuin van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3AF9979CF59259C686347D5D5EB6CEF1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8458"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C7F9E2302C65F10A0C201D52B758136"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8475"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Broederschapshuis aan de Sweelincklaan te Bilthoven: de vergaderzaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5EE94A8AA0215B1F869DE44512E38893"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "604C582C65275AC3AF4A9549E4C8C474"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8471"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8320EFC6E339514598BBDAC7739EF420"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8463"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "974EF5EDD1CE5ECB950DAF3A9B9C2DD4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8461"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CD760915BF75CD89003115AA5754260"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8473"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Broederschapshuis aan de Sweelincklaan te Bilthoven: de bibliotheek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1F875F75F385137A98A168DFB5481F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8470"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC120DD1A05D5065B41A50CDFE87ECCF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8474"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Broederschapshuis aan de Sweelincklaan te Bilthoven: de conversatiezaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9FB5288CFFC5789906E7421102EC9B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8460"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF1B60055D6C5B328D3ADCEE43DE981B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de bibliotheek in het Broederschapshuis (Sweelincklaan 1) te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4D4CB38D5B45E1C8F0425DE39DC4F74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8467"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D64827B20CC851F9B43A6E011A4948F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8422"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sweelincklaan te Bilthoven uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEF59FFAB3D654A0930EF92415C09905"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de tuin van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F6784CFCBEB357BD874F32DCFDBCF0CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8464"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Broederschapshuis aan de Sweelincklaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAE4078D311C5E02A0449ACE89322494"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8472"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Broederschapshuis aan de Sweelincklaan te Bilthoven: de hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

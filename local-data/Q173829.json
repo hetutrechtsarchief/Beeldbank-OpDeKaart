@@ -1,0 +1,688 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04CB138177535B3EBB35AAA6BF8F1999"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161551"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Winterswijk te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1903-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14F2A4C24C045D7F9AAA86F4533499A6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161235"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de versierde stoomlocomotief nr. 1714 (serie 1700/1800) van de N.S. met de eerste naoorlogse trein uit Zutphen langs het perron van het N.S.-station Winterswijk te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24B2CD82381D5D0586AB6039E17A485C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169507"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele goederenwagens op het emplacement van het N.S.-station Winterswijk te Winterswijk. Opmerking: NS fotonummer 17096"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "27F59C7B344352458B59D66D90903457"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161554"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het G.O.L.S.-station Winterswijk (Winterswijk G.O.L.S.) te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AA09BC7140A524B8E502C5458EF0E62"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161555"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het G.O.L.S.-station Winterswijk (Winterswijk G.O.L.S.) te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50E943DCD9C5521A856A6844F46403A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809793"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het emplacement van het N.S.-station Winterswijk. Opmerking: De originele foto bevindt zich in de Collectie De Pater, voorlopig inv. nr. 356-3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60F82B6A0501529BB7412EB6FA8259E3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163627"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het vervoer van boomstammen bij de houtlading van het N.S.-station Winterswijk te Winterswijk, met links op de achtergrond het voormalige G.O.L.S.-station. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6141D78F00FB565FBA1FECE4D0E17538"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150844"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Winterswijk te Winterswijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "62FD8C682C9C58E486B70194EE941DDD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Winterswijk te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68A65796296F5A929C7D6A78584271C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161234"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de versierde stoomlocomotief nr. 1714 (serie 1700/1800) van de N.S. met de eerste naoorlogse trein uit Zutphen langs het perron van het N.S.-station Winterswijk te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CDC98ED2F4E5B3FAB83DB18313F5D93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van het hogere personeel van het H.S.M.-station Winterswijk te Winterswijk. Opmerking: De originele foto bevindt zich in ]particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1883-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1890-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A4B3C35935F5023B9F178B96B798C10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155403"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de diesel-electrische locomotief nr. 2340 (serie 2200/2300) van de N.S. met een goederentrein op het emplacement van het N.S.-station Winterswijk te Winterswijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F3FCD7FC9D85C6193ABD01DA917B04A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het laden van bestelgoederen van een handkar naar een goederenwagon op het N.S.-station Winterswijk te Winterswijk. Opmerking: De foto bevindt zich in de collectie De Pater, voorlopig inv. nr. 349-7."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1932-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A482738AC0095C30BCE276F9E460A16B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167499"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een rongenwagen op het emplacement van het N.S.-station Winterswijk te Winterswijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8296B84B4215ECCA2AB033B79DED228"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809794"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van goederentreinen (kolentreinen) op het emplacement van het N.S.-station Winterswijk. Rechts op de achtergrond de goederenloods. Opmerking: De originele foto bevindt zich in de Collectie De Pater, voorlopig inv. nr. 356-3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B84AB33ECDFC5352BBD55482BB06AA53"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803254"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het overladen van boomstammen bij de houtlading van het N.S.-station Winterswijk te Winterswijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC602EC8A18956299F3C916A52F380C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161227"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 1757 (serie 1700/1800) van de N.S. met een trein op het N.S.-station Winterswijk te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4AC0333851351DCBB0E1A107FC0AE53"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166150"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Winterswijk te Winterswijk: hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9D9E5957655517E9056CA6A74B353AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het seinhuis (Post I) bij de Misteroverweg bij het N.S.-station Winterswijk te Winterswijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2E5CCD1D8DF52E7BDBBD11BFE3CA0A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161552"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Winterswijk te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6C69FA80FF35F4188B6D1B44554F0C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161392"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 5545 (serie 5500) van de N.S. met trein DR 1002 uit Borken (Duitsland) langs het perron van het N.S.-station Winterswijk te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1937-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E734431BFE705753AB29391BBEC6DFAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161236"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de versierde stoomlocomotief nr. 1714 (serie 1700/1800) van de N.S. met de eerste naoorlogse trein uit Zutphen langs het perron van het N.S.-station Winterswijk te Winterswijk. Op de voorgrond stationschef Frederiks. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBA13D01636D54E8B2B13B52F6494E48"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163626"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het vervoer van boomstammen bij de houtlading van het N.S.-station Winterswijk te Winterswijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF1E5236AE40559A849ACD2DE11AFB48"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119426"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Winterswijk te Winterswijk, met het voltallige stationspersoneel en een stoomlocomotief. Opmerking: De originele foto bevindt zich in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1882-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,912 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "049F3FE38ADC5D48965F5B812F069BAE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811933"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Siriusstraat 14 (links)- 20 te Utrecht; op de voorgrond het Equatorplein; geheel links de Jupiterstraat en geheel rechts de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0507A17654165D9D8C9C0B21E384323A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70226"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plein en enkele panden aan de noordzijde van de Siriusstraat te Utrecht, vlak voor de woningverbetering (verkleinen van de voortuinen en de verbreding van de trotoirs). Rechts de huizen aan de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "058CF81E8694575D9499448349179958"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601434"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor sloop bestemde huizen Equatorstraat 17 (rechts) -hoger te Utrecht, vanaf de hoek met de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "091FC8A79D385F9C89A7409CE9788B95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214278"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegronden, doorsnede en aanzichten van het ontwerp voor 5 werkplaatsen bij de gemeentewoningen in het complex Kromme-Rijn aan de Orionstraat bij de Marslaan te Utrecht; met enkele details van de gevel en de fundamenten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D778B0845D65A6989286E91E3029508"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30362"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen aan de Orionstraat te Utrecht met rechts het hoekhuis Equatorstraat 14 (snackbar)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0FF1909A64A4595CAFEBBE0F1095B375"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66224"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Orionstraat 28 en 30 te Utrecht. Opmerking: Overgebracht uit archieven, 10 mei 1988."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "119195D0CDD25D9AAB912442F769D6DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56594"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Equatorstraat 16-20 te Utrecht, tijdens de sloop in augustus 1975, uit het oosten; rechts op de achtergrond de achterzijde van de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "173A0D7A374E575D951E6BDF154D4C50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met in het midden de Hazelaarstraat en links de nieuwbouwhuizen aan de Zenithstraat en de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24D121011FA45371AD8C70F1115B3930"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele voor sloop bestemde huizen aan de Krommerijnstraat te Utrecht (vermoedelijk de nrs. 24 (links) -30), vanaf de Orionstraat. <ZR><ZR>N.B. De straatnaam Krommerijnstraat is in 1976 vervallen verklaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "49BB691E0FCF5A04B35EA6CAA3FE55F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Orionstraat te Utrecht vanaf de kruising met de Saturnusstraat. In het midden de toegang tot de Pegasushof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "58DE0E965CA65B4EBA016765A6D1A0EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120580"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en voorgevel  van het hoekpand Notebomenlaan 49 te Utrecht met links de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CE85284FE995CEAB1B45D6C2C2A8FF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Orionstraat te Utrecht vanaf de kruising met de Zenithstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6A3AA5B9F8645345AFBC062A5BE34C4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601426"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met links op de voorgrond de oude huizen rond de Meridiaanstraat en rechts de nieuwbouwhuizen rond de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "852939DD50E25C4DBB7A18154C16D98E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601424"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met in het midden de Hazelaarstraat en links de nieuwbouwhuizen aan de Zenithstraat en de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "915A3ED8782D5F19A359B5CB7E14E2B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108255"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een huis aan de Orionstraat te Utrecht: woonkamer met bank, schemerlampjes en ingelijste foto's. Opmerking: De foto maakt deel uit van de serie \"Utrechtse interieurs\" van fotograaf Mari\u00ebtte Carstens (1959) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9EA5EFBDFA0C574BA63A1D5D11278032"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108266"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een huis aan de Orionstraat te Utrecht: woonkamer met open haard, schoorsteenmantel en diverse beeldjes. Opmerking: De foto maakt deel uit van de serie \"Utrechtse interieurs\" van fotograaf Mari\u00ebtte Carstens (1959) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A52F1CD6C6E55B238D730FB6886C7D18"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70224"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Siriusstraat te Utrecht, met rechts op de achtergrond enkele panden aan de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AEBB9A457948525D95B9DB6E2B1CB01B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108263"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een huis aan de Orionstraat te Utrecht: slaapkamer met bed. Opmerking: De foto maakt deel uit van de serie \"Utrechtse interieurs\" van fotograaf Mari\u00ebtte Carstens (1959) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B00CD63562675ED2A7D5F92EEC9CAD07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, tijdens de werkzaamheden ten behoeve van de vernieuwing van de wijk. In het midden de nieuwbouw aan de Zenithstraat en de Orionstraat (ter plaatse van de voormalige Krommerijnstraat)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B0E4C97C52CF51988F6C4CE44EB27C20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601427"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, met op de voorgrond de oude huizen rond de Meridiaanstraat, rechts de nieuwbouwhuizen rond de Orionstraat en op de achtergrond het kaalgeslagen terrein rond de Jupiterstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B14ADABB2A9E542A8419E51D1E4D42A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84866"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. Op de voorgrond de oude bebouwing aan de Komeetstraat en de Zenithstraat, daarachter de nieuwe woningen aan de Orionstraat en de Saturnusstraat. Rechts de Hazelaarstraat. Geheel op de achtergrond de Abstederdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B17887A5F81D5C24AEF8E83D386A0901"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601416"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. In het midden het inmiddels kaalgeslagen terrein rond de Krommerijnstraat en de Orionstraat. Links op de voorgrond de Komeetstraat en rechts de Hazelaarstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5EEFCDFE350532A9383023FBC361984"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan. Op de voorgrond de oude bebouwing aan de Komeetstraat en de Zenithstraat, daarachter de nieuwe woningen aan de Orionstraat en de Saturnusstraat. Rechts de Hazelaarstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B76EF5E91C455F5E8433459D1536DC7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108261"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een huis aan de Orionstraat te Utrecht: woonkamer met bank, wandvitrine, beeldjes en enkele ingelijste foto's met kinderportretten. Opmerking: De foto maakt deel uit van de serie \"Utrechtse interieurs\" van fotograaf Mari\u00ebtte Carstens (1959) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC18A57BB37D53F29C19A5B7E8ACBE82"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108262"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een huis aan de Orionstraat te Utrecht: woonkamer, met bewoonster en kind. Opmerking: De foto maakt deel uit van de serie \"Utrechtse interieurs\" van fotograaf Mari\u00ebtte Carstens (1959) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C73E0958160557F48659251B15AB73BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Orionstraat te Utrecht vanuit het westen met in aanbouw zijnde woningen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE8C6673C4C35958B6D457FAF0DB6673"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Orionstraat (nrs. 42-lager) te Utrecht aan de oostkant van de straat vanuit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D6D81CB53AE657AEAB2B98E5BCD7EDA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen aan de Orionstraat te Utrecht, vanaf de Equatorstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB006B2C577C58DCA62EB7FF7A4F5B30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van orgelman Emo met zijn draaiorgel op het plein aan de Orionstraat (Sterrenwijk) te Utrecht, met rechts enkele toehorende kinderen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE8C94CE32BB5968AAA255BA39545B7C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66223"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Orionstraat te Utrecht vanaf de kruising met de Saturnusstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA544796A3465D20BB7380D339EE6AD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84862"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Sterrenwijk te Utrecht, vanaf de studentenflat aan de Ina Boudier-Bakkerlaan, tijdens de sanering. In het midden de nieuwbouw aan de Orionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8164BC879845841AE3252967DC0F88D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66220"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Orionstraat 48 - 54 te Utrecht aan de oostzijde van de straat vanuit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

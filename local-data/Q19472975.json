@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FC3FEC9847752CD8335951579369DA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7766"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis De Harscamp (Ringlaan 2) te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE0A148353D057708DA6FCF15A7ECDFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7767"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het huis De Harscamp (Ringlaan 2) te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

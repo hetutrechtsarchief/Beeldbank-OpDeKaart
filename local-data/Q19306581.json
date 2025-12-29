@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6582B648DFF58C9980F536EA021C968"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6983"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Koningin Wilhelminaweg te Amerongen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C58C6FD606A55DA1ABDC8C13023269FB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6981"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Koningin Wilhelminaweg te Amerongen uit het oosten, met links de ingang van de Burg. Jhr. H. van den Boschstraat"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

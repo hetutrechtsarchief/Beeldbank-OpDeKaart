@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C3686EF92D5452878263B3DFA5B50CDB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15593"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Krullelaan met rijen loofbomen en bebouwing te Zeist uit het noordoosten; met rechts de voorgevel van het huis Krullelaan 33. Opmerking: Lit. Zeist, Groei en Bouw, deel Patijnpark, Dorpskern en Wilhelminapark, p. 117-118."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA8F1E4507525F9E9453A4FA08E8ECE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15592"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Krullelaan met rijen loofbomen en bebouwing te Zeist uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

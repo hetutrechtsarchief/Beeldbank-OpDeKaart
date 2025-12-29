@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5811EA69A6B35E6ABABB84B0870D03B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814811"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Venezueladreef te Utrecht, vanaf de Costa Ricadreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D2B697EE4ACB5774BCC6A7E950EBBE99"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis \"'t Is Altijd Wat\" (Venezueladreef 6) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BA284DE32EDC5BC3998758DCD0C7DEEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834448"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Winkelcentrum Vleuterweide te Utrecht (Vleuterweide), vanaf de steiger bij het Burchtplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

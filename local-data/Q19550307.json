@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90EF4C12108C5F4295DBC50DC254A851"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9264"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Boschoord (Sterkenburgerlaan 10) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8376310BA3A5037BEAE74382A920CF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9551"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het pension  Janssen aan  de Sterkenburgerlaan te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "20F13121EA7E52B7A8424B0E54CE845B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602897"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stationsweg te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "59A23270C1B858C486B4131720500262"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7704"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Boschoord aan de Stationsweg te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "682DC4AA98D85BC8A914CAA65835A846"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7816"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Quatre Bras (Stationsweg 24) te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8245000086FC514F9301FBE696E4B006"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7452"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stationsweg te Baarn uit het zuidwesten, met op de achtergrond de villa Quatre Bras (Stationsweg 24)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E17166D423045168A9AE2B98749F1D3C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7696"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stationsweg te Baarn, met links de linkerzijde van het huis Baarnsteijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

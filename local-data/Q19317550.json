@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CDC370AADC65622842E992F76AB74DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88322"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de stallen van boerderij De Lage Hoeve (Thematerweg 5) te Haarzuilens (gemeente Vleuten-De Meern) vanuit het westen.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43E0996BAF2759CA91DC86BD6C63A4C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lage Hoeve te Vleuten (gemeente Vleuten-De Meern) met op de achtergrond de Griendhoeve.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9A7B349AB845962856D041A3DCAEB1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21633"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Lage Hoeve te Vleuten (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

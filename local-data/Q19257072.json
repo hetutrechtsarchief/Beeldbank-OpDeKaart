@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "061F2655F0B05A66807C04CE27C775C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170318"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een viaduct in de Flevolijn te Almere, ter hoogte van de Hoogezandstraat, met een passerend electrisch treinstel mat. 1964 (plan V) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

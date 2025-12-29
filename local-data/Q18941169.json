@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A39D2172491857BA8432D90B68D75DF5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9007"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Baarnseweg te Den Dolder uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB45B84AE39F5A8D83D66E36AE451129"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Baarnseweg te Den Dolder uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE1E2525DD7F5F26AE8A5E696BCC4448"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9009"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Baarnseweg te Den Dolder, met een groepje kinderen van het herstellingsoord Den Dolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

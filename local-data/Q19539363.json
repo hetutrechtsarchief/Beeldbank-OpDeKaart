@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3122CE693225BA1838BCBC147CD2979"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93554"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel van de boerderij Spoorlaan 3 (?) te Vreeland.<ZR><ZR>N.B. De gemeente Vreeland is in 1964 bij de gemeente  Loenen aan de Vecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

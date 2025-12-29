@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF777BEC1D3359D4922A29E46508E251"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Wolgadreef te Utrecht, uit het oosten, ter hoogte van de Agamemnondreef (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7BE980998D55F31A10439146A356B80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18523"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Wolgadreef 13-hoger te Utrecht met rechts op de voorgrond de Agamemnondreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F110EA2B366A59AAA0220E27629BAE92"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Agamemnondreef te Utrecht, vanaf de Wolgadreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E1E5BBF6E1D51408D8746447407DEF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "157932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog beschadigde emplacement bij het N.S.-station Woudenberg-Scherpenzeel te Woudenberg. Rechts het co\u00f6peratiegebouw met goederenloods en links op de achtergrond het stationsgebouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7014532313345DB29CEB423754FCAD31"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "157929"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog beschadigde emplacement bij het N.S.-station Woudenberg-Scherpenzeel te Woudenberg. Links het co\u00f6peratiegebouw met goederenloods en op de achtergrond wachtpost 40."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BF0731F2018450B0B774D4A7654BB869"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het emplacement van het N.S.-station Woudenberg-Scherpenzeel te Woudenberg, met een speciale personentrein en grote groepen omstanders."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

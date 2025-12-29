@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22F8DF0806615C4EB00D324BC5546A74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9097"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Boslaan te Doorn uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F78C5B17FEC51CAA7829EABD0C8F6F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9098"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zestienstammige beuk in de Boslaan te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE85721784F051288DF6FDF4A0150C4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9096"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Boslaan te Doorn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1908-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

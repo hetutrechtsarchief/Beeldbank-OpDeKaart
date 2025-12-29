@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6A759DE19DE65DFD9E5F2A05D8EC6642"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf de Looyersdijk in de Eendrachtlaan te Breukelen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74BB85F86BB250AC9B1E8A35DF04F6A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5367"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Eendrachtlaan en Looyersdijk te Breukelen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A14572AA13A510D88C24F3137081C32"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5368"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Eendrachtlaan te Breukelen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

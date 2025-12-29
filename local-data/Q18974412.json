@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "107548A0C2C55EAAB8D0470718AE677A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60160"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Thomas \u00e0 Kempisweg te Utrecht met de dubbele rijbaan en links van het midden de huizen nrs. 5-hoger aan de oostelijke straatwand, vanaf de kruising met de Vleutenseweg (voorgrond), uit het zuidzuidwesten; rechts een deel van de voorgevel van de St.-Gerardus Majellakerk (nr. 1) en links daarvan de ingang van de Broerestraat met de voor- en zijgevel van het huisnr. 25."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CF7487752235C749FA36A69E67FA7C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60155"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Gerardus Majellakerk (Thomas \u00e0 Kempisweg 1) te Utrecht, vanaf de kruising van de Vleutenseweg (rechts) met de Thomas \u00e0 Kempisweg (links)/Spinozaweg (voorgrond), uit het westen; links van de kerk de ingang van de Broerestraat met de huizen nrs. 25-lager en rechts, achter de bomen, de pastorie van de kerk (Vleutenseweg 517)"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

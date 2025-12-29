@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3096A20CE8EF5E74BA1BB1353AE4934B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164923"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Hindeloopen te Hindeloopen. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DBBFCD73D1D530C903F7FA540573A2A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Hindeloopen te Hindeloopen. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D42DB6FEFDC56A6964DCB5A0DFD7260"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153696"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Hindeloopen te Hindeloopen: wachtkamer met loket."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

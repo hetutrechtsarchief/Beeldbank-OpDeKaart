@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "693305D62AC25BFC849F05725C7A295C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13525"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het gemeentehuis (Raadhuisplein 1) te Lopik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B3EF92BB11851D992A4B408DC1D0744"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13526"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het gemeentehuis (Raadhuisplein 1) te Lopik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B2C9403BDE0C58EEB8FE0E636909B68B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13527"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het gemeentehuis (Raadhuisplein 1) te Lopik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

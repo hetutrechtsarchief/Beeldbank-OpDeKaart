@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51351DC823E05C188BD63F1475FAFBDE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129807"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jachtlaan te Bilthoven (gemeente De Bilt), met rechts het huis Prins Hendriklaan 3. Opmerking: Fotonummer V.11655<ZR>In 2001 vervaardigde afdruk van origineel negatief.<ZR>Zie ook catalogus nr. 129794"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA3311119D8C5E879979BF680DDA6618"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129794"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jachtlaan te Bilthoven, tijdens winterse omstandigheden, met rechts het huis Prins Hendriklaan 3. Opmerking: Fotonummer V.41-16<ZR>In 2001 vervaardigde afdruk van origineel negatief.<ZR>N.B. Zie ook catalogusnummer 129807"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-01-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-01-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

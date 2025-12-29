@@ -1,0 +1,884 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D609AC415155889BC83CFB7641CBB0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125585"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een verkeerbord ter aanduiding van het rijwielplad langs langs de Briljantlaan te Utrecht. Opmerking: De foto is gemaakt in opdracht van Veilig Verkeer Nederland."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "194A26E2B3D05A849481129F8D11CE30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54646"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Briljantlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F11BC1A05705773A77380680CE4D3A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829447"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een Utrechtse kabouter (KBTR), op de skate-halfpipe in het Tolsteegplantsoen bij de Briljantlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "20631DEBE91752B09D7A7966CBE7BF56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822809"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van delen van de wijken Hoograven en Tolsteeg  te Utrecht, uit het zuidoosten, met vanaf linksonder de W.A. Vultostraat, overgaand in de Briljantlaan. Links de Vaartsche Rijn met de watertoren (Heuveloord), rechts van het midden het Smaragdplein en op de achtergrond de woningblokken aan het Tolsteegplantsoen (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "21ECED74B4425783851C68916D6856C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85497"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijk deel van de Rivierenwijk te Utrecht, uit het oosten; op de voorgrond de Briljantlaan en de Vaartsche Rijn, links de St.-Gertrudiskerk (Amaliadwarsstraat 2) en op de achtergrond de Dichterswijk met de Croeselaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F8BDEF311995111BB4CCF17056F5189"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829451"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pas geschilderde elektriciteitshuisje met graffiti, bij het fietspad tussen de Briljantlaan en de Kariboestraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4002B808EF685E3F91D0FD840E930CA0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123695"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Politibureau District Tolsteeg (Baden-Powellweg 4) te Utrecht, vanaf het kruispunt met de Briljantlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D1BC5DEB2FB526E8BF716B730DFCD5C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803294"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht vanaf de watertoren aan de Vaartsche Rijn te Utrecht, uit het westen, met in het midden de Rehoboth Kerk (Tolsteegplantsoen 159), de Briljantlaan en de flatgebouwen aan het Tolsteegplantsoen. Op de voorgrond de Tegelfabriek Westraven (Heuveloord 112)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4ECB7474B36952F6B24C26A1406D54E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69615"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vervallen gebouwen van de voormalige wasserij Staatsen (Rotsoord 24) te Utrecht vanuit het oosten. Op de voorgrond de Briljantlaan en rechts op de achtergrond de watertoren aan de Heuveloord."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50BCED35B461589783496E0D4C2C3D31"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51550"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Albatrosstraat te Utrecht met de voorgevels van enkele huizen; op de achtergrond de spoorbrug (Utrecht-Arnhem en 's-Hertogenbosch) bij de Briljantlaan. Opmerking: Deze foto is gepubliceerd in het Utrechts Nieuwsblad van 3 juli 1993."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC9506B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44525"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanleg zijnde W. A. Vultostraat te Utrecht, met in het verlengde daarvan de Briljantlaan. Opmerking: Circa 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "65E35CE3E60159F1A4887A56F85A0673"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101182"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van J.W. Rommes, inspecteur van het Uitgebreid Technisch Onderwijs, tijdens zijn toespraak bij de opening van de School voor de Grafische Vakken (Briljantlaan) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B92CA2D133750D0BD20C45250F8759D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117207"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Politibureau District Tolsteeg (Baden-Powellweg 4) te Utrecht, vanaf het kruispunt met de Briljantlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "714D5D1ADB345797974DB529AEB4C5EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71856"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vaartsche Rijn te Utrecht, met de achtergevels van de gebouwen Briljantlaan 5 (Bouwmaatschappij Van Ameijde - Trip N.V.)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D31B274EF0753DAB9D51025F9D9DFDA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405471"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het blussen van de brand in de Rehoboth Kerk (Tolsteegplantsoen 159) te Utrecht.<ZR><ZR>N.B. Het adres Tolsteegplantsoen 159 is later gewijzigd in Briljantlaan 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8251AB2E6BB1578F8B8DC88B89F64F9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829448"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de skate-halfpipe vol graffiti, in het Tolsteegplantsoen bij de Briljantlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C0B8455E62554299D812651C579009D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400358"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het trac\u00e9 voor de toekomstige Briljantlaan te Utrecht, uit het zuiden (vanaf de Hoogravensedijk), met op de achtergrond links de schoorsteen van Utrechtse Machinale Stoel- en Meubelfabriek U.M.S. Pastoe (Rotsoord 3), links van het midden de watertoren aan de Vaarte Rijn en rechts wasserij Staatsen (Rotsoord 24). Opmerking: Zie ook Nieuw Utrechts Dagblad, dinsdag 13 december 1955, blz. 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E94EB02662856988B6691229B9ED921"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822789"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de nieuwbouw van het politiebureau, district Tolsteeg (Baden-Powellweg 4) te Utrecht, uit het zuiden; links de Jutfaseweg en de Vaartsche Rijn en rechts de Briljantlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A169C6DA6D7A54CD9C2558B466A8BAF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829450"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het elektriciteitshuisje vol graffiti, in het Tolsteegplantsoen bij de Briljantlaan te Utrecht, met links een WTIP."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B316F4FCAA3551BCBBC3A002F3B7E31C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54645"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Briljantlaan te Utrecht tijdens het uitvoeren van rioleringswerkzaamheden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C498321BC2A05622ACA628A1C0C105FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405570"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van R. Ro\u00ebll en mevr. Van der Ingh-van Wijk, directeuren van glashandel Spliet en De Waal (Briljantlaan 9) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7C9FC0F48F1557287882AC540623277"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829446"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de skate-halfpipe vol graffiti, in het Tolsteegplantsoen bij de Briljantlaan te Utrecht, met een Utrechtse kabouter (KBTR)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA2AA2F6DA935E3598754834D33A9974"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71513"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rehoboth Kerk (Tolsteegplantsoen 159) te Utrecht, uit het zuidwesten.<ZR><ZR>N.B. Het adres Tolsteegplantsoen 159 is later gewijzigd in Briljantlaan 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE964353D7315515A810870A6A998E09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71511"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Rehoboth Kerk (Tolsteegplantsoen 159) te Utrecht: kerkzaal, uit het zuidwesten.<ZR><ZR>N.B. Het adres Tolsteegplantsoen 159 is later gewijzigd in Briljantlaan 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFC30C1EF37456DDA707EF7F75E1893F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69614"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gebouwen van de voormalige wasserij Staatsen (Rotsoord 24) te Utrecht vanuit het noordwesten. Op de achtergrond de flats aan de Briljantlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA89D78E536E59DC958632433AA13150"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54647"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dependance van de School voor de Grafische Vakken (Briljantlaan) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E4FA28A3A53450D1874B9CC893F520D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "4963"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de flatgebouwen aan het Tolsteegplantsoen te Utrecht gezien vanuit de Briljantlaan met op de voorgrond de Rehobothkerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEB7A2348C1A52269E60A27AC9624E48"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829449"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het elektriciteitshuisje vol graffiti, in het Tolsteegplantsoen bij de Briljantlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEDE987DF3955A23896B32C3CB0778E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de watertoren aan de Vaartsche Rijn en omgeving te Utrecht met in het midden de Vaartsche Rijn en Jutfaseweg, links de Briljantlaan en op de voorgrond de Tegelfabriek Westraven (Heuveloord 112)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD77FDC2D1CA561D9F4F744A1E1450F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71512"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Rehoboth Kerk (Tolsteegplantsoen 159) te Utrecht: kerkzaal met doopvont, uit het noordoosten.<ZR><ZR>N.B. Het adres Tolsteegplantsoen 159 is later gewijzigd in Briljantlaan 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF8D1F39643757F088DCEC109BFABB84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71352"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan het Tolsteegplantsoen te Utrecht met op de voorgrond de Briljantlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

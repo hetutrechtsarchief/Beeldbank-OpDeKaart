@@ -1,0 +1,2676 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01323AE7069C557CA12D40F620E275AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21231"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een gevelsteen boven de ingang van het pand Kerkstraat 57 te Utrecht; behorende tot het Speyart van Woerdenshofje. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05FC983CB53E5AEE851CD04354069241"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116452"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Openbare Jenaplan Basisschool Wittevrouwen (Oude Kerkstraat 2A) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-05-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-05-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06E9B54E1F975035B9CD090987628C14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819496"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een gevelsteen in de voorgevel van het hoofdgebouw van de Speyart van Woerden's Hof (Kerkstraat  41 - 73) te Utrecht; met een afbeelding van het familiewapen van Speyart van Woerden. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09E3849663B152A4A3FD1D438BB353EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115893"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Openbare Jenaplan basisschool Witte Vrouwen (Oude Kerkstraat 2A) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0AB0ED5714455F2AA0DB63ECFD7110FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819494"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het centrale gedeelte van de Speyart van Woerden's Hof (Kerkstraat  41 - 73) te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BAA44E38AA552BD9EDB43787F8A960C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815092"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kerkstraat 2 (links)-8bis te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E6E6B563DD55E12934D98B87DB324DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68104"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht: aula."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10C7D7F49468523BB53D0146F1A5ED78"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68094"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Ds. A.M. van der Hoevenschool (Oude Kerkstraat 2A) te Utrecht (rechts) met links op de achtergrond een deel van het gebouw van de School voor de Journalistiek (Palmstraat 22)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "112F202FC1645F909E75CB0D7BA55FAB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68099"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht: overloop met trap."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "11F33C69C762544BB2B9EE1F1BE15121"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20956"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekpand Nachtegaalstraat 32 te Utrecht met rechts de Kerkstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13E425E502C95798A94D22631C687A7E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68096"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht: leslokaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "16BC5EF41A635C4E89D7FC99C9EA27E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77981"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huisjes van het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht, uit het noordwesten. Opmerking: 't Sticht fotonummer 920-31."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A632F01DE8F507EA51DB53BD01EA1F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pallaesstraat te Utrecht met de huizen nrs. 2 (links)-hoger; op de achtergrond de Kerkstraat. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "21791F4FEA645EB9976D46A39CA58B8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77988"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 51 (rechts) -55 aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25598C536F2753E68900F9476747228C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12289"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kerkstraat te IJsselstein, uit het noordwesten, vanaf de hoek met de Utrechtsestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F794C8D8B705B4E9DAB37E9680EBB09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94471"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-hervormde kerk (Kerkstraat 3) te Renswoude: het koepeldak met de wapens van de Utrechtse kapittels. Opmerking: Lit. MIP Renswoude, p. 137-147.<ZR>De afbeelding is gepubliceerd in: M.J.L. Taets van Amerongen. Hooge en vrije heerlijkheid van Renswoude en Emmickhuysen, 's-Gravenhage, 1914."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F955F3F7F6058ABACE277EA2819D834"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kerkstraat te Utrecht met op de achtergrond de westgevel en het koor van de Kerk van O.L. Vrouw ten Hemelopneming (Biltstraat 123) te Utrecht uit het zuidwesten.<ZR><ZR>N.B. Na de aanleg van de Sweelinckstraat in 1909 verloor dit straatgedeelte zijn betekenis en verdween omstreeks 1916. Opmerking: Datering: Atlas Grolman."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1902-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1903-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32A247C04B935756B1A11554BE6473EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68100"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het tegelmoza\u00efek in het trappenhuis van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32EB46CEBE8D5D9498147B75EB521027"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88185"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Castellumlaan te De Meern (gemeente Vleuten-De Meern) met rechts de Kerkstraat. <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3928670670C55CEFB7B16A0F979F292F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60194"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kerkstraat 57-71 te Utrecht, behorend tot het Speyaert van Woerdenshofje."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CDF56D0396054B984DEDE80B4B15F57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64508"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het huis Nachtegaalstraat 32 te Utrecht; rechts de ingang van de Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CFF081E63AD5CCDAB9C5301820DE8DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77987"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 47 (rechts) -51 aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F38329C29165C37A3002B7AFCDC0807"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20164"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kerkstraat te Utrecht met de huizen nrs. 75-77. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41118B6AA9B05046A9755CC12DC41CA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404984"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het koepeldak met de wapens van de Utrechtse kapittels in de Nederlands-Hervormde Kerk (Kerkstraat 3) te Renswoude."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "42EC2A0E04FB575C9A83243815DF17C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Kerkstraat 57 te Utrecht, behorende tot het Speyart van Woerdenshofje. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43DDD0EFC39B5E18B013CCDFF6C2D1FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68093"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Ds. A.M. van der Hoevenschool (Oude Kerkstraat 2A) te Utrecht, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "465B6A95CD065B01AC7DA34413D8B7BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822898"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de tuin van het Speyart van Woerdenshofje aan de Kerkstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "48AF8959198754E88CA02C73F0FBA372"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21973"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kerkstraat 57-hoger te Utrecht behorende tot het Speyaert van Woerdenshofje. Opmerking: Afdruk van dia, 2001"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "494AE888FC2A5E1A83C0D9DDCA69985F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61290"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de Nieuwe Regentesseschool (Kruisdwarsstraat 6) te Utrecht; links de Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C2D7D348D685FA2A4A3D795F846FB48"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52503"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Speyaert van Woerdenshofje (Kerkstraat 57-73) te Utrecht. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C34062EDDB15DC6A6C46000846D8EE6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een bloeiende boom bij het Speyart van Woerdenshofje aan de Kerkstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D92036636BA5F30937A7341D72586DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60196"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 4-6 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50A02EA3E58C5561A677AF00A86827C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77983"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5253566C732C55089A8CB401A3C1DE47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88175"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele panden aan de Kerkstraat te De Meern (gemeente Vleuten-De Meern), gezien vanaf de Castellumlaan.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5295E7E7C70F53F2ADA7E023F29CC3BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60191"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat  7A-B-C te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "56BDC7C69DDC57469FDEF5693C93C3EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60198"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Kerkstraat 8 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "57BC008B64CE54099205A126E5DF8841"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88808"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht vanuit het westen op het noodgebouw van de 2e chr. kleuterschool en op de Kerkstraat en omgeving te De Meern (gemeente Vleuten-De Meern) gezien van af de N.H. kerk; op de achtergrond het westelijke deel van Utrecht<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "59F7177A2FE25539AC9C87BCDBE35B56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77982"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van \u00e9\u00e9n van de huisjes aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht: bovenverdieping. Opmerking: 't Sticht fotonummer 920-26."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A97869647E250DDB65454B92414D31C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nachtegaalstraat te Utrecht, uit het oosten, met in het midden de ingang van de Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5DC2A658BCC05951B70818ABA75E683E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60197"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 6-8 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6184CEA02543525D8464C6AC71CF31A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Utrechtsestraat te IJsselstein, vanaf de kruising met de Kerkstraat, met enkele poserende personen. Links het koffiehuis \"'t Wapen van IJselstein\" (Utrechtsestraat 20) en daarachter het nieuwe postkantoor (Utrechtsestraat 16-18)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1902-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "65CFD3AC41F256638E17A3433D3F2DC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400861"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van kinderen en ouders bij de toegangspoort van de Openbare Jenaplan basisschool Wittevrouwen (Oude Kerkstraat 2A) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66BF934281CC5EB08DCE1ABCAA93FAFF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71649"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Tulpstraat 2-10 te Utrecht met op de voorgrond de Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C2036DB994D5D92ADB0C7A16DF79186"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68097"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht: leslokaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EF3FE3EA36953129FA26E2EA237776B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71642"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de parkeerplaats achter de huizen Tulpstraat 15 en 17 te Utrecht. Links de achterzijdes van de huizen Appelstraat 15-19 en rechts de achterzijdes van de huizen Kerkstraat 57-61 (Speyart van Woerden's Hofje)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F937918787D57988D14932F8738B0D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "78076"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden in het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FBE44F22620545FBB67CB6651A75EAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21077"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de Ds. A.M. van der Hoevenschool (Oude Kerkstraat 2A) te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71318A3A79DC57CF9423CBE85089BE73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809070"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Openbare Jenaplan basisschool Witte Vrouwen (Oude Kerkstraat 2A) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7182585C4F1C5E4097D2807EF12CCCA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64509"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het winkelwoonhuis Nachtegaalstraat 32 te Utrecht; rechts de ingang van de Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76A2E74DCA265D40A7722D57A5177242"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 69 (rechts) -73 aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7950503A4C545738858FC1328B880F50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71650"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Tulpstraat 10 (rechts) -2 te Utrecht met links op de achtergrond de Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7DB7BD8AB77056DDB74D157EEBC89FA8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een bloeiende boom bij het Speyart van Woerdenshofje aan de Kerkstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86CE1384E9A3886BE0534701000A26E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604510"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Herberg Het Nachtegaaltje van caf\u00e9houder R.H.J.D. van Cooten (Nachtegaalstraat 14, hoek Kerkstraat) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1906-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B0180DAE79C53CC98A74A147DA92023"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77980"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht, uit het zuidwesten. Opmerking: 't Sticht fotonummer 920-33."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B82FA295D555FEEBD13913253DAB3AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12346"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Utrechtsestraat te IJsselstein, vanaf de kruising met de Kerkstraat, met links het koffiehuis \"'t Wapen van IJselstein\" (Utrechtsestraat 20) en daarachter het nieuwe postkantoor (Utrechtsestraat 16-18)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1902-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D285A0B6E9557E088ACC951E7261A94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68105"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht: gymnastiekzaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93B0FC10E5D15556A63602E4316CECFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60199"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 16-18 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "97B3149B86025D5BBB0DD0C7F3F17359"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95241"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het  winkelwoonhuis Utrechtsestraat 22 / Kerkstraat 8 te IJsselstein; met rechts de huizen Kerkstraat 6 -lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A1C2ABD909155439EC8B1512F153244"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60195"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kerkstraat te Utrecht met de voorgevels van de huizen nrs. 75-79 en de linker zijgevel van het hoekhuis nr. 79, uit het noordnoordoosten; links de ingang van de Tulpstraat met de huizen nrs. 1-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D26EDCC09495656986CB2751212A484"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820350"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voormalige winkelpui van het pand Kerkstraat 34 te Utrecht.<ZR><ZR>N.B. Rond 1900 was in het pand Bakkerij G. Schimmel gevestigd; geen nadere gegevens bekend. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DC42FE53D895A30BFC729B43A0AFC9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68471"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het gebouw van de school voor de Journalistiek (Palmstraat 22) te Utrecht; uit het zuiden vanaf de toegang aan de Oude Kerkstraat, in de vleugel rechts de ramen van de administratie (beneden) en van het lokaal voor elektronische  tekstverwerking, rechts het toegangshek en op de voorgrond het schoolplein met links een gedeelte van de openbare basisschool voor Jenaplanonderwijs (Oude Kerkstraat 2A)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A17EB6E53F6B561D8DA30575C55FDBC4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115906"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Openbare Jenaplan basisschool Witte Vrouwen (Oude Kerkstraat 2A) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2BEDDB57273528BA7C4FD5B0DF1587A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77977"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht. Opmerking: Gepubliceerd in: Utrecht in woord en beeld, 1934/35, nr. 10."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2D17B479FB45C47BD3827732C23E255"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819495"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de trapgevel van het hoofdgebouw van de Speyart van Woerden's Hof (Kerkstraat  41 - 73) te Utrecht; in de gevel de naamsteen van het hofje. Op de voorgrond een bloeiende Magnolia. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A4DAEA154AA6543C9AA251C8CB685BEF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71882"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen aan de zuidwestelijke straatwand, Tulpstraat 1 (rechts van het midden)-hoger te Utrecht, uit het noordnoordwesten; rechts een gedeelte van het huis Kerkstraat 79."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1EF7FF9CF225A07886D9A292E1EF06A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12288"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kerkstraat te IJsselstein, uit het noordwesten, vanaf de hoek met de Utrechtsestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1903-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1908-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5001CFF5502592E8A0EB78405445E2F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90023"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Woerdlaan en omgeving te De Meern (gemeente Vleuten-De Meern), uit het oosten, met in het midden de Gereformeerde Kerk (Woerdlaan 14) en daarachter de Kerkstraat. Rechts de Castellumlaan en op de achtergrond de N.H.-kerk (Zandweg 126).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6153F7BBBD1543B85900DDF0845FD39"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "76902"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van Herberg Het Nachtegaaltje (Nachtegaalstraat 14, hoek Kerkstraat) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1906-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1906-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B88E51BD23DA56848442FEE5DD3C5B13"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68101"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht: gang op de eerste verdieping."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB72093DD3F556D5BE51845F6C32149A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115907"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Openbare Jenaplan basisschool Witte Vrouwen (Oude Kerkstraat 2A) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BBA366BFF4105C8186BA98A5E420FFEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12348"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Utrechtsestraat te IJsselstein, vanaf de kruising met de Kerkstraat, met enkele poserende personen. Links het nieuwe hotel-restaurant \"'t Wapen van \u00cdJselstein\" (Utrechtsestraat 20) en daarachter het postkantoor (Utrechtsestraat 16-18)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1912-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC6670D03A085DA6869C8EADBF5F40EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819497"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van huizen in een zijvleugel van de Speyart van Woerden's Hof (Kerkstraat  41 - 73) te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BDA05B699F4A5031BC4E59A7C54E75E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68103"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht: aula."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0FF92DF293E544F819CDA8A61753252"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822899"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de tuin van het Speyart van Woerdenshofje aan de Kerkstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C184536433135CA1B27BD43BE4619DF9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77979"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele woningen aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht. Opmerking: Negatiefnummer 33219."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4B6AF54F93C517BB8F1DBC1FEDE09C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68098"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht: trap"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C74755666B835BCDBB8D99CE4BA473A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77978"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht. Opmerking: Negatiefnummer 33218."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C834046A15F75A0DA412E19FAAA94B41"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60202"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Kerkstraat 36 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CAA80F937EEC5459AE3A273B0A6915B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85624"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van Abcoude, uit het oosten, met op de voorgrond de spoorlijn Amsterdam-Utrecht met links het station en in het midden de spoorbrug over het Gein. In het midden de Stationsstraat en de Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2002-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CED136622F04559BB0A410C0F9DA3408"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807923"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Nachtegaalstraat 26 (links) -32 te Utrecht, met geheel rechts de ingang van de Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D66FFD6207F35407B135037675EBD1BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77989"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 55 (rechts) -63 aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht, met in het midden het hoofdgebouw nr. 57."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D6DB1CB4DD25509E94DC7524338EF481"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68102"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht: overloop op de eerste verdieping."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D768058D079F5A06A1B751E0F467E420"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95203"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Kerkstraat 17 te IJsselstein uit het zuidwesten; met links de Utrechtsestraat. Opmerking: Lit. IJsselstein, geschiedenis en architectuur, p. 167-168."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDC58F04DFF85ECCB6B0EA95C3966137"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60201"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Kerkstraat 30 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E37F348156035E51B0837BA29B1EF24D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77984"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huisjes aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB2DED7E585F5CBB9D01F6F83B0F346F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60200"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kerkstraat 16-18 (rechts) te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED1687C5A8DE584A994F0D2AD8151C75"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77985"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 59-63 aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F361054C75F45C3B9FBAC1481E71BCB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kerkstraat 45-57 te Utrecht, behorend tot het Speyaert van Woerdenshofje."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3C2674426865339AAED3E3EA28F087B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71639"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijdes van de huizen Tulpstraat 9 (links) -15 te Utrecht met op de voorgrond de parkeerplaats. Geheel links een deel van de achterzijde van het aan het Speyart van Woerden's Hofje gelegen huis Kerkstraat 63."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F77ACFE044E3557D99BC66C135A53BA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77986"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 41 (rechts) -45 aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F87FB283923557AAA73D2571208F27F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het schoolplein van de Ds. A. H. van der Hoeveschool (Oude Kerkstraat 2A) te Utrecht met rechts het schoolgebouw en op de achtergrond de achterzijde van de bebouwing aan de Poortstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBD92BBB655E50348AA7E15EE70FFBA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77990"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Kerkstraat 61 (rechts) -67 aan het Speyaert van Woerdenshofje (Kerkstraat 41-73) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBF7085553A753C4B22D40737A086211"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820349"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Kerkstraat 34 te Utrecht.<ZR><ZR>N.B. Rond 1900 was in het pand Bakkerij G. Schimmel gevestigd; geen nadere gegevens bekend. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE6BF3D09B3B5151B2BA95AB6859823D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71638"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Tulpstraat te Utrecht met links het huis Tulpstraat 1/1bis en de zijgevel van het huis Kerkstraat 79/79bis. Rechts op de achtergrond de Kerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF3642A7368C5BE8B60746FE2090B5EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "97189"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het vertrek van koningin Wilhelmina en haar moeder koningin-regentes Emma na hun bezoek aan het Kinder Ziekenhuis (Oude Kerkstraat 28-30) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1897-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1897-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

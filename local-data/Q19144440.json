@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "45B5CE558ECE5827B572959BDD0D6A3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405304"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het groothandelscentrum van de co\u00f6peratieve inkoopvereniging Enkab\u00e9 (Fermiweg 28) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F11650B9D545161AB567C9903917953"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24065"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Fermiweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

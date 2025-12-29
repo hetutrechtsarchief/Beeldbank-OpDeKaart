@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B62A3DC3F2E5753BFF718E57AEDCBC8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817336"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorbereidende werkzaamheden voor de bouw van het verenigingsgebouw St. Joseph aan de Heiliglevenstraat te Montfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E409120A128513FAAC2A1401D7507B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12447"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de Stoomvleeschwarenfabriek Excelsior (Heiliglevenstraat 3) te Montfoort, met in de deuropening enkele personeelsleden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC0B93C521705012AD491BC6E6D57982"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115832"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het verenigingsgebouw St. Joseph (Heiliglevenstraat 4) te Montfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CCC5042C7E7C59CDBBC7F57F1EB7FBF5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12405"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Heiliglevenstraat te Montfoort, met op de achtergrond de R.K. kerk Heilige Johannes de Doper (Om 't Wedde 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

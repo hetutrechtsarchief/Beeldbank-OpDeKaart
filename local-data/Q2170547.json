@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15A0594F501352EFB745933385826580"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein en het N.S.-station te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "531F3D66D54A5A07924711E976E33ABE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150231"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein en het N.S.-station te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "107CA065C25855B68F46907AEEFE0C50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrongevel van het tijdens de oorlog beschadigde N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "147737DBDF8358669CDA7C42032F47D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158348"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de perronkap van het tijdens de oorlog beschadigde N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14FFF988E9285F69AACAD4E53C2EC5C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158344"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het tijdens de oorlog beschadigde N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "188551E69B935782A97359AE4CC405BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158345"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zuidelijke vleugel van het tijdens de oorlog beschadigde N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "18E90EBC41035B8083F99E63359ACE3B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158354"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de oostelijke gevel van de tijdens de oorlog beschadigde goederenloods bij het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "27EBC3A9DD9457218D25C1439E8226A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153063"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A4E620140BF5F9E92D3B65C98865C9C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150235"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B2EFAA506055AEA8E1CB052F5354FC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154605"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FC14546ED71558F934D8BF31B498453"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150224"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station te Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "304FDEEB69F55822A28A9EBFBFF5B850"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Culemborg te Culemborg kort voor de afbraak."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3598CAC2051858FCB1E5838B80450435"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150223"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "425CD5B116F65DF98CEA5122FD2315C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158353"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zuidelijke kopgevel van de tijdens de oorlog beschadigde goederenloods bij het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "561078FA201F5C3493DB10806388171E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158349"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de perrontunnel op het eerste perron van het tijdens de oorlog beschadigde N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "607DA4F405B758C99B9CAE14D3979CFA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170497"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FD4C3D2B56C562492F1C57A3DBD1894"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158352"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de noordelijke kopgevel van de tijdens de oorlog beschadigde goederenloods bij het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "830EFBF90E005E59AB372E716D2743CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152409"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Culemborg te Culemborg: hal en loketten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8552DCB64B585078967F601C5ED84EE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158346"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de noordelijke vleugel van het tijdens de oorlog beschadigde N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E6E55D3310053F3A575A91C19348F26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150201"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf het Stationsplein op het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B0CD1DA4C83542B8BD80380A5463BC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150237"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC5CC6472FB45955941B8E163524A641"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158356"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een toegang van de tijdens de oorlog beschadigde goederenloods bij het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7B895C3F9A95B40AB2AEDA32B7A7B35"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153076"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S-station Culemborg te Culemborg. Opmerking: De foto is rechtsboven beschadigd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFDCE85F4EFD5F64A3E1BCA0E6C3F46E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150236"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op perrons en sporen van het N.S.-station te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7C509D89EDD5CEFB2A8D1B03C0089A6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Culemborg te Culemborg. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E849BFCEABA45E0FB11615BE96D8CD91"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog beschadigde N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3A33CD55AC9514F8B09671058477D7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158350"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de perrontunnel op het tweede perron van het tijdens de oorlog beschadigde N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F54227E22EEB5FEBA391FE62689FFF5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158351"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tijdens de oorlog beschadigde goederenloods bij het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB9003F05BA25E90B1DEC6A37BAA5C0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158355"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tijdens de oorlog beschadigde goederenloods bij het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFB30DE62CE6531BA67F88B716AECA0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158357"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de tijdens de oorlog beschadigde goederenloods bij het N.S.-station Culemborg te Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

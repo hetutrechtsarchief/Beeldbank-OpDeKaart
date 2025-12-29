@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "77B71CE335A24F90E0534701000AB35A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837585"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het transformatorhuisje van de PUEM (Tuinstraat 75) te De Bilt. Opmerking: De foto (24 x 30 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 381. De foto is gemaakt ten behoeve van de publicatie \"Trafohuisjes\" (Stichtse Monumenten Reeks), door Roland Blijdenstijn, Max Cramer, Ed Schulte, J.J. Verwaal. Fotografie: Henk Bol (1993)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "930F7776FA7A5696A1C2B1556022AC05"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92344"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele stratenmakers, bezig met het aanleggen van bestratingen en bielzen bakken voor de inrichting van de Tuinstraat te De Bilt als woonerf."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

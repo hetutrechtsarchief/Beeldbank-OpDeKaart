@@ -1,0 +1,688 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05274028FF0F5BBA8FC75AC5E8BB2737"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93966"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de Openbare lagere school aan de Breedstraat te Maarssen. Opmerking: Een ca 1995 gemaakte reproduktie van een prentbriefkaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B7B5CDB3C49553B9CDF689546DFFF8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94880"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van omstanders en paarden in de Breedstraat te Maarssen tijdens de vordering van paarden. Opmerking: Een in 1987 gemaakte reproductie van een in 1943  vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1943-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "18F6084691945365A4DC01D03C78B29B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6610"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (noordelijke gedeelte) te Maarssen uit het zuiden, met op de achtergrond de klapbrug en de Rooms Katholieke pastorie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24B0F7D02184528D98E8958E043EFD50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6615"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (oostelijk gedeelte) te Maarssen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "28BEACC94BAE5012AAC387B7EA899097"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6611"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (noordelijke gedeelte) met de Rooms Katholieke pastorie te Maarssen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B36F441C17F576EAAC65763E642ECC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93971"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat met bebouwing te Maarssen uit het oosten; met op de achtergrond de toren van de rooms-katholieke Heilig Hartkerk. Opmerking: Een ca 1995 gemaakte reproduktie van een prentbriefkaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "415B2E8D0D78516CB86AA5F686F4DE90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93754"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat met bebouwing te Maarssen uit het oosten; met in het midden de toren van de rooms-katholieke Heilig Hartkerk (Breedstraat 3). Opmerking: Lit. MIP Maarssen, p. 130-132."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E28FABCFE065FADB84ABD915BF78685"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93751"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het winkelwoonhuis Breedstraat 16/Bolensteinsestraat 2-4 te Maarssen. Opmerking: Lit. MIP Maarssen, p. 135-136."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "63911C77B4A151BA88563A692EFE783D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6619"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (oostelijk gedeelte) te Maarssen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6600F0EE7B4F5217AF571180DAF5646D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6612"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (noordelijk gedeelte) met de Rooms Katholieke pastorie te Maarssen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C400C71EE565B93BDDC2B35615B98E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93756"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Nieuw-Vechtevoort (Breedstraat 15) te Maarssen. Opmerking: Lit. MIP Maarssen, p. 134-135."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71E6F3B6E1DD5F9EA575067417B99755"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94899"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het braakliggende terrein van de afgebroken Harmonie te Maarssen uit het zuiden; met op de achtergrond de supermarkt Dirkson en de Rooms-katholieke kerk (Breedstraat 3). Opmerking: Lit. MIP Maarssen, p. 130-132 (Breedstraat 3)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B170539AE125D12987E35437A4F7ADA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6620"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (oostelijk gedeelte) te Maarssen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "874C974B23EB5F16ABBF956E33C592D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93752"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelwoonhuis Breedstraat 26 te Maarssen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8919543A252A5594927AA1C76C630705"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6613"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (noordelijk gedeelte) te Maarssen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8EAF6C37F8785E5AB6AF439AC01B203C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat met bebouwing te Maarssen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "934313610C2559708E517DB2CB041FF4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94878"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de omstanders in de Breedstraat te Maarssen tijdens de vordering van paarden. Opmerking: Een in 1987 gemaakte reproductie van een in 1943  vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1943-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B46BDEB52FF751C79663AA5E9BEC062A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6609"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (noordelijke gedeelte) te Maarssen uit het westen, met de klapbrug en de Rooms Katholieke pastorie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BCD4AB3BEB2A5E1EADF809C9A245DCEF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93755"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat met bebouwing te Maarssen uit het oosten; met in het midden de toren van de rooms-katholieke Heilig Hartkerk (Breedstraat 3). Opmerking: Lit. MIP Maarssen, p. 130-132."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFA4C86E7F6D5A0FBF552D209F236DB6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6617"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (oostelijk gedeelte) te Maarssen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD397CC1FD61512E9624F75991C1919C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93753"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelwoonhuis Breedstraat 28 (rechtergedeelte van het huis Klein-Vechtevoort)  te Maarssen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E7AF3D7A6E1858428C00A57FAB4FEC0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6614"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (noordelijk gedeelte) te Maarssen uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F034C0E9BBE05B09A86A15A8010E1F86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6616"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Breedstraat (oostelijk gedeelte) te Maarssen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F522726391E356BD8C135C0451868D54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93750"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelwoonhuis Breedstraat 16/Bolensteinsestraat 2-4 te Maarssen. Opmerking: Lit. MIP Maarssen, p. 135-136."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

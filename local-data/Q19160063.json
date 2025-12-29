@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "23192A1E87E95760BF4F2380A46409C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350020"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de studentenflats aan de Van Lieflandlaan, Willem Schuylenburglaan, Frits Coerslaan en Giesbert Bromlaan te Utrecht, met op de voorgrond het (later zo genoemde) Salvador Allendeplein, rechts daarvan de Kardinaal de Jongweg met de flats aan de Talmalaan en Troelstralaan, links van de studentenflats de spoorlijn Utrecht-Amersfoort en op de achtergrond een gedeelte van de wijk Overvecht, de Mr. Tripkade en een deel van de wijk Tuindorp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1B4C146D4915AE2A6E484298EDFE665"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800529"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de studentenflat aan de Willem Schuylenburglaan te Utrecht, met op de voorgrond de Frits Coerslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

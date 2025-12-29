@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7BB3A0468FA9511CB4473C1BCD2F395B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90487"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden ten behoeve van de renovatie van de huurwoningen aan de Boutensstraat te Vleuten (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BF9FC4EF5B4654AC9815A704C4B6793F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90488"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden ten behoeve van de renovatie van de huurwoningen aan de Boutensstraat te Vleuten (gemeente Vleuten-De Meern). Op de foto het hoekhuis Boutensstraat 17.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      }
+    ]
+  }
+}

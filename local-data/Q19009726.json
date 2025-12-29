@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41D453B658F558CCAD34DC97819F793E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19704"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het flatgebouw met de woningen Muiderslotplantsoen 22-hoger te Utrecht, gezien vanaf de De Kloplaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "45DFB0BAFB155C1091F858DDB31E35D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19702"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het flatgebouw met de woningen De Kloplaan 224-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66D23ACA627B5556A6DBD8AD64E98538"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74834"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen Zwanenvechtlaan 226-hoger te Utrecht. Links op de voorgrond de ingang van de De Kloplaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "94D16890AC5A5016B102E1C3CF546D03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19703"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het flatgebouw met de woningen De Kloplaan 12-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

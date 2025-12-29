@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2BF502B558B253A791B3B2D589796080"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "202290"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Rusthoek (Zandvoortweg) te Baarn, omringd door hoge bomen.<ZR><ZR>N.B. De straatnaam Zandvoortweg is per 1 juli 1964 gewijzigd in J.F. Kennedylaan en het huisnummer in nr. 100). Het afgebeelde huis is in ca 1905 afgebroken en vervangen door een nieuw huis, eveneens genaamd Rusthoek. Opmerking: Anonieme tekening, ca.1870, gesneden uit een dubbel betekend schetsboekblad. Op de achterzijde bevindt zich een afgesneden tekening van de gevel van een huis met groen-rode luiken en een geschulpte daklijst, mogelijk gelegen bij Doorn: nr. 202291."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1860-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1880-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "950E891193DA5B0A8E06EBDFE06FBE23"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7594"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het Tehuis voor Ouden van Dagen en Invaliden van het Leger des Heils in de villa De Blinkert (Zandvoortweg 11) te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B445EF80312952ABB2AC297B65B29F94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92198"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van landhuis Rusthoek (Zandvoortweg) te Baarn.<ZR><ZR>N.B. De straatnaam Zandvoortweg is per 1 juli 1964 gewijzigd in J.F. Kennedylaan en het huisnummer in nr. 100). Het afgebeelde huis is in ca 1905 afgebroken en vervangen door een nieuw huis, eveneens genaamd Rusthoek. Opmerking: In 1987 vervaardigde fotoreproductie van een ca 1875 gemaakte foto. De originele foto bevindt zich bij de Historische Kring Baerne."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1870-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1875-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

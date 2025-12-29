@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7AEEAA28D6A5F60AC64A5C4A9607300"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170522"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Dorpsstraat te Groesbeek, tijdens de verbreding van de straat, met rechts de nog in de weg staande Blokpost Gb (Blokpost Groesbeek). Opmerking: Zie ook De Koppeling nr. 701, 29 september 1978, blz. 1 en 4: \"Menselijk NS-gezicht is weg, 't zal wennen zijn in Groesbeek\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

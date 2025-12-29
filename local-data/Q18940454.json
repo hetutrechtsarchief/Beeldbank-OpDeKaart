@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB4CC125A2C85168A38584BB04FD650B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75185"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van Galerie Oudaen, Oudegracht 99 te Utrecht, tijdens de tentoonstelling van Arne Zuidhoek, Dien Pleiter en Hans Schouten.<ZR><ZR>N.B. De zilveren mobiel is van Babs Hogenboom"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0EBDA8CB9335565A78B57B182407822"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "107247"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Arne Zuidhoek, kunstschilder en graficus te Utrecht. Kniestuk van voren, zittend met een globe. Opmerking: Foto 't Sticht, 1969 (fotonummer 234-26A/27)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDD14CFF6F7D5AB68E08C82AAE695422"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "107248"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Arne Zuidhoek, beeldend kunstenaar te Utrecht. Borstbeeld van voren. Opmerking: Foto van Max Tosseram, gemaakt voor het fotoboek Beeldende kunstenaars in beeld, Utrecht 1990 (bibl. HUA VXXV F 50)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

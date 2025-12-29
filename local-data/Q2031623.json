@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E49A3522BB345BE7A2AEC0DF620F7F5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827770"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het juist voltooide S.S.-station Diepenveen Oost te Diepenveen aan de lokaalspoorlijn Deventer-Ommen van de OLDO. Opmerking: Digitale reproductie. De originele foto bevindt zich in de Collectie De Pater, toegangsnummer 971, inv. nr. 1509."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1221B8E5EA0B52F8AB7A09E6091ACB61"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404057"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het brandstoffendepot aan de Gelderlantlaan te Utrecht, met op de achtergrond het Rijkskantorengebouw Westraven (Griffioenlaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-06-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-06-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DF914C15A7B5E768B18593F2A4D7621"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809106"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een toegangspoort naar het brandstoffendepot aan de Gelderlantlaan te Utrecht, met op de achtergrond het kantoorgebouw Westraven van Rijkswaterstaat (Griffioenlaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E31A5CE40A751FEB8E57E54663BC575"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808223"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het brandstoffendepot van Calpam (Gelderlantlaan 9) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E6D915242A35B5FA65CBCD8B6731242"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808186"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van pijpleidingen bij het brandstoffendepot aan de Gelderlantlaan te Utrecht, met op de achtergrond enkele opslagtanks van Chevron."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34DBBE54D5F359ED9DFEE2FC7BE5D8CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809107"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gelderlantlaan te Utrecht, met links het Amsterdam-Rijnkanaal en rechts het brandstoffendepot."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3508690ADA525439AB7A08204817772E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118535"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het opslagterrein van Shell-Nederland aan de Gelderlantlaan te Utrecht; in het midden de Jutfasebrug, links het Amsterdam-Rijnkanaal en de bus- en sneltramremise en op de achtergrond het rijkskantorengebouw Westraven (Griffioenlaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F538E1214695996ADCEA4406C0BD6B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809108"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gelderlantlaan te Utrecht, met links het Amsterdam-Rijnkanaal, op de achtergrond het kantoorgebouw Westraven van Rijkswaterstaat (Griffioenlaan 2) en rechts het brandstoffendepot."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50BBD207133C5394891071DDC35CF9EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809110"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de insteekhaven van het Amsterdam-Rijnkanaal voor tankschepen aan de Gelderlantlaan te Utrecht, met rechts het brandstoffendepot en op de achtergrond het kantoorgebouw Westraven van Rijkswaterstaat (Griffioenlaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7196D3982A8954F2B7578EF5E49DE733"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129620"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tankoverslag aan de Gelderlantlaan te Utrecht, met links het Rijkskantorengebouw Westraven (Griffioenlaan 2) en op de voorgrond het Amsterdam-Rijnkanaal met het binnenvaartschip Sardinia. Opmerking: De foto is in een inzending geweest voor de fotowedstrijd \"Leefmilieu\", uitgeschreven door de Adviesraad voor het Milieu van de gemeente Utrecht, ca. 1980."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "887E3EE2DB01598C87DE61D943F13D25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808185"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een tankauto van Calpam bij het brandstoffendepot van Calpam (Gelderlantlaan 9) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "956D49B00EB359F6A593ECE0068B9239"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50614"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Amsterdam-Rijnkanaal, uit het oosten, op de grens van de gemeentes Nieuwegein (links) en Utrecht (rechts), met links de busremise van de busmaatschappij N.V. Verenigd Streekvervoer Westnederland en rechts de Galecopperbrug en het rijkskantorengebouw Westraven (Griffioenlaan 2). In het midden de A. C. Verhoefweg. Rechts op de voorgrond het brandstoffendepot aan de Gelderlantlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC68EC28D69359E0BF5A88C3B06FF890"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809109"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gelderlantlaan te Utrecht, met links het Amsterdam-Rijnkanaal, op de achtergrond het kantoorgebouw Westraven van Rijkswaterstaat (Griffioenlaan 2) en rechts het brandstoffendepot."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF44A366F50953978640B8F4E6948FE6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809105"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een niet meer in gebruik zijnde toegangspoort naar het brandstoffendepot aan de Gelderlantlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B4959076B2F357E69FFE9A31D510B860"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809112"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gelderlantlaan langs het Amsterdam-Rijnkanaal te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B89F9590942A5FF4890D08DFF590DF20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404058"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het brandstoffendepot aan de Gelderlantlaan te Utrecht, vanaf het Rijkskantorengebouw Westraven (Griffioenlaan 2). Rechts het Amsterdam-Rijnkanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-03-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-03-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BA8F23D0F3335E2F8FD61D2468A6CCFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129621"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Amsterdam-Rijnkanaal te Utrecht, met een voorbijvarend binnenvaartschip, rechts de tankoverslag aan de Gelderlantlaan en het Rijkskantorengebouw Westraven (Griffioenlaan 2) en op de achtergrond de Galecopperbrug. Opmerking: De foto is in een inzending geweest voor de fotowedstrijd \"Leefmilieu\", uitgeschreven door de Adviesraad voor het Milieu van de gemeente Utrecht, ca. 1980."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6AE066FF4CD5A26AD1D93D0F1FB2A73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24409"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het brandstoffendepot aan de Gelderlantlaan te Utrecht, met op de achtergrond het Rijkskantorengebouw Westraven (Griffioenlaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D482C2E5B475582481B2D1977B20EF57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809114"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw Westraven van Rijkswaterstaat (Griffioenlaan 2) te Utrecht, vanaf de Gelderlantlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DC2E69EDE6F055AAAE41FDA96488C37C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119729"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tankoverslag aan de Gelderlantlaan (rechts) te Utrecht en het Rijkskantorengebouw Westraven (Griffioenlaan 2, links), vanaf de Jutfasebrug over het Amsterdam-Rijnkanaal. Opmerking: De foto is in een inzending geweest voor de fotowedstrijd \"Leefmilieu\", uitgeschreven door de Adviesraad voor het Milieu van de gemeente Utrecht, ca. 1980."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD42EFD1A0805B6F8E64265DC6AB57F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400770"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Rijkskantorengebouw Westraven (Griffioenlaan 2) te Utrecht, uit het zuiden, met op de voorgrond het brandstoffendepot Westraven (Gelderlantlaan); links het Amsterdam-Rijnkanaal met de Galecopperbrug in de Rijksweg 12 en op de achtergrond een deel van de wijk Kanaleneiland. Opmerking: KLM fotonummer 39999"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDEFDBB225085CF7BBE845003ADB1410"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56627"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Europalaan bij de Jutfasebrug te Utrecht, uit het zuidzuidoosten; links het woonhuis Gelderlantlaan 6 en de loods Gelderlantlaan 6 en de loods Gelderlantlaan 7, met de opslagtanks behorend bij het complex van Shell Nederland Verkoopmaatschappij (Gelderlantlaan 8)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6E27B83CE525884B0549F2EE1706E2F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118959"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de bus- en sneltramremise van de busmaatschappij N.V. Verenigd Streekvervoer Westnederland langs het Amsterdam-Rijnkanaal, op de grens van de gemeentes Nieuwegein (voorgrond) en Utrecht (achtergrond), links de Galecopperbrug en het rijkskantorengebouw Westraven (Griffioenlaan 2); in het midden de tankoverslag aan de Gelderlantlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E77D7357A6025F5CA198BDA31658E1F4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108088"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de halte Westraven van de Sneltram Utrecht-Nieuwegein aan de Europalaan te Utrecht, met op de achtergrond het brandstoffendepot aan de Gelderlantlaan. Opmerking: De foto maakt deel uit van de serie \"Stedelijke landschappen\" van fotograaf Luuk Kramer (1958) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9ADA410529958898D355943316A979E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809104"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een sneltram van Connexxion in de boog langs de Europalaan te Utrecht, ter hoogte van de Gelderlantlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

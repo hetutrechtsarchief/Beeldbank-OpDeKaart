@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "586DCA976DC559FDAF352EC611BF37B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94790"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Bergweg/Van Reenenweg met bebouwing en publiek te Zeist uit het noordoosten; met op de achtergrond de watertoren (Bergweg 24). Opmerking: Lit. Zeist, Groei en Bouw, dl. Patijnpark, Dorpskern en Wilhelminapark, p. 36-39."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1737747F3C05E59BF9DEF501698E339"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15969"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Reenenweg met loofbomen en de korenmolen De Vriendschap met omringende bebouwing te Zeist uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

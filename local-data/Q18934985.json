@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22746624555A5C0292FEDB629BC763AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25398"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een graanpakhuis (Amstelkade) aan de Kromme Mijdrecht te Woerdense Verlaat (gemeente Nieuwkoop). Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A47D7089EBC45F30ABC437C5437F80DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25399"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de loswal aan de Amstelkade langs de Kromme Mijdrecht te Woerdense Verlaat (gemeente Nieuwkoop). Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

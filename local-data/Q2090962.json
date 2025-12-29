@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "032AA4498B15595595B3C4EAD8E00B9A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "168941"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sporen en perrons van het N.S.-station Voerendaal te Voerendaal. Opmerking: NS fotonummer 23684"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30473A06E2715080AAE19AEBDDD11D91"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164800"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Voerendaal te Voerendaal. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F6877D45F985F60BD3837BF7332274C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150797"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Voerendaal te Voerendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A0EEC98CAF325123A2A78B76A91E7FD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150798"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het N.S.-station Voerendaal te Voerendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

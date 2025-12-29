@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A74E5D9702F5257A99A61515C02730D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "29336"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Kromme Rijn te Bunnik op een boerderij in de buurt van de brug in de Julianalaan. Opmerking: Deze boerderij lag aan de noordzijde van de rivier en werd bewoond door de familie Van Zijl. De boerderij is ook afgebeeld op de tekening nr. 206650."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F7DA3515D14CE1CE0534701000ADACA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aansluiting van de Koningin Julianalaan (voorgrond) te Bunnik op de Stationsweg. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P9 in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 487."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D2C3D03C5F4A52C2B5D701838E2A2799"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206650"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het jaagpad langs de Kromme Rijn te Bunnik, ongeveer vanaf de brug over de Kromme Rijn tussen de Julianalaan en de Sportlaan, uit het noordwesten. Opmerking: De boerderij links werd destijds bewoond door de familie Van Dijk. Daar was voorheen een houthandel gevestigd. De boerderij rechts werd bewoond door de familie Aben."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

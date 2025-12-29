@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BF4459B8D30508AB6BC722560C8BF6A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "103040"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het publiek op de hoek van de Waalstraat en de Dinkelstraat te Utrecht tijdens het bezoek van Koningin Beatrix aan de Rivierenwijk te Utrecht (ter gelegenheid van de oplevering van de vijfmiljoenste woning in Nederland, het huis Waalstraat 124 te Utrecht), met het door de 10-jarige Marith Volop gemaakt spandoek met de tekst \"Welkom Beatrix - Van harte beterschap voor Claus\". Opmerking: Zie ook Utrechts Nieuwsblad, 6 oktober 1982, blz. 9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A10E0E0774F25BCB807483FA2B1CAA17"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24376"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dinkelstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

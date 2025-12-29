@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "00D24932D05B51DDB8D96013CDED3346"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21529"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Het Leiwerk te Vleuten (gemeente Utrecht) vanaf de kruising met het Hofland en de Reit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A280C8FD897E59BBB2850AC0CB699E3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Het Leiwerk te Vleuten (gemeente Utrecht) vanaf de kruising met het Wijnland en de Heinsmaat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

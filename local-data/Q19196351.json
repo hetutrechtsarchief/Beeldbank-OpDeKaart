@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1AA63A7D7DAC5A46A1A3D630FA871331"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8929"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Oude Haven met vissersschepen te Spakenburg (gemeente Bunschoten), uit het noorden, met links de achtergevels van de huizen aan de Havendijk en rechts de Havenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB34C71055AB59F2BC78BE6C51CD160C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604195"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het caf\u00e9-restaurant \"In de Korporaal\" (Havenstraat 18) te Spakenburg (gemeente Bunschoten)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFDD0F49FCE153D38E7ACE61306C0C8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8940"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van een meisje in klederdracht in de Havenstraat te Spakenburg (gemeente Bunschoten), uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

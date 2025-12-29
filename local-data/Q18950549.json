@@ -1,0 +1,576 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86C9923207BE56DB8B267A9747AC518F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403531"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de tuin achter het huis Oudaen (Oudegracht 99) te Utrecht, kort voor de aanleg van de Zakkendragershof. Rechts de achterzijdes van enkele panden aan de Zakkendragerssteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBB09C70B4A55A0F9E71C6FC2AD9F6CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403520"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het huis Oudaen (Oudegracht 99) te Utrecht, tijdens restauratie, vanaf de Zakkendragershof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF8F30B54E8D5DC5893CE63DCA36D7C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819458"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht naar het oosten, met op de achtergrond de achtergevel van huis Oudaen (Oudegracht 99) en de Neudeflat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B66B1F70C1C54E884AC9C2B7EF70316"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht naar het westen, met op de achtergrond bouwkranen aan het Vredenburg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10F1F87E10B85E9CA7CCCA4F420EECDD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403522"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CC169A41F445E348210009AABF3BC1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403517"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de Passage Zakkendragershof aan het Vredenburg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22F783043C4F59C288063B9FF7DC052E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403528"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "234788D0CA5E5BA58F6900310798DC8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403525"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AE590E57FCF5263AA6CD9F92161B015"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819457"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegangspoort naar de Zakkendragershof in de sluitgevel van het pand Vredenburg 13 te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2EC3418F139F552C8F5EAC13F4941416"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403523"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C1501A3A8F558E789ED6DA87CBCE9CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "516F62C67E4C57FC995FECFC8B5BE900"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sluitgevel met een poort naar de Zakkendragershof in het pand Vredenburg 13 te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "58E0B0343CEC5684B29F8B8C6855E618"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403526"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht, met de al geruime tijd leegstaande winkelgalerij."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "58E892E6391D55C29096306CFE2C9B0A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de Zakkendragershof aan het Vredenburg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "629DE49B5E3556D8BED572B37B79810F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403519"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "914F65AB68E65070A798FBE43389CAB6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403527"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de Passage Zakkendragershof aan het Vredenburg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "95B732C7DDB556D9856062AECC3C61E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73047"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Vredenburg 13 (Zalencentrum Vredenburg) te Utrecht. Rechts de toegangspoort van de Passage Zakkendragershof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4BEB9BFB9E8575799B158F3B4B0A76A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403524"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Zakkendragershof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DBB4C43EED14515DBAB1A6CFF3CDEA9D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de architecten Priester (links) van architecten- en ingenieursbureau SPK te Amsterdam en Wim Vrolijk van architectenbureau Atelier 3 te Scherpenzeel in de Zakkendragershof te Utrecht, bij de uitbreiding van het Hotel Smits (rechts, Vredenburg 14) en de nieuwbouwappartementen aan de Zakkendragerssteeg (links). Opmerking: Zie ook Utrechts Nieuwsblad, dinsdag 12 september 1989, blz. 15: \"Renovatie van Hotel Smits is bijna klaar\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-09-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-09-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E728F8483F7250CFAD31CEC9772CA9AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403533"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het grotendeels gesloopte winkelcentrum in de Zakkendragershof te Utrecht, ten behoeve van de uitbreiding van Hotel Smits (Vredenburg 14).<ZR><ZR>N.B. Het winkelcentrum was in 1978 gebouwd, maar heeft jarenlang grotendeels leeggestaan. Opmerking: Zie ook Utrechts Nieuwsblad, dinsdag 26 juli 1988, blz. 9: \"Winkelcentrum tegen de vlakte voor nieuwe kamers hotel Smits\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-07-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-07-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

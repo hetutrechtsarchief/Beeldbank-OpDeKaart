@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A4E470E47AD58BDABF757F885A92EC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "801943"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het overstappen van treinreizigers van vrachtauto's op de trein richting Amersfoort op het voormalige N.S.-station Hattemerbroek te Hattemerbroek.<ZR><ZR>N.B. De reizigers werden met bussen en vrachtauto's van station Zwolle naar Hattemerbroek gebracht in verband met het feit dat de spoorbrug over de IJssel bij Zwolle in de meidagen van 1940 onklaar was gemaakt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9962DCBC17925859BF164CD8F39E4C73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165789"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanleg zijnde emplacement, met goederenloods en dijkcoupure, van het S.S.-station Geertruidenberg te Geertruidenberg. Opmerking: De afbeelding behoort tot de collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1886-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1886-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

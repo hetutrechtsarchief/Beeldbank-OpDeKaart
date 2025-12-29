@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "955C6BBBE1545DDBA9DF9BE3860D326C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819803"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het pand Elsenburglaan 6 (Remode-Hairstyling) te Utrecht.<ZR><ZR>N.B. Tot ca. 1970 was in het pand een winkel van Brood- en Banketbakkerij De Lubro gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9B4CA1E07885DEAB42E58E8A8C254B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19691"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Elsenburglaan 4-hoger te Utrecht met rechts op de achtergrond het Queeckhovenplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC2D3D8E6C9057D99D74ACEADC03CC84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de winkelwoonhuizen J.M. de Muinck Keizerlaan 38 (midden)-lager te Utrecht; rechts de ingang van de Elsenburglaan met de huizen nrs. 4-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

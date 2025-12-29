@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1DA6D0CC9B1256E6821B169DC73A0971"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12182"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Wijkcentrum \"Rhenen-Hoog\" van de Hervormde Gemeente te Rhenen, op de hoek van de Anjerlaan en de Valleiweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD8ECE14B30C5AA8A3F2C981DC210D56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12181"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Wijkcentrum \"Rhenen-Hoog\" van de Hervormde Gemeente te Rhenen, op de hoek van de Anjerlaan (voorgrond) en de Valleiweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

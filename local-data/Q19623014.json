@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D56965A0801350A088A1549DEDADC1BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84883"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van Tuinwijk te Utrecht (voorgrond) en Tuindorp te Maartensdijk (achtergrond). Op de voorgrond de Van Swindenstraat en de Van Marumstraat en links op de achtergrond de Tuindorpkerk (H.F. Van Riellaan 14).<ZR><ZR>N.B. Tuindorp is per 1 januari 1954 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

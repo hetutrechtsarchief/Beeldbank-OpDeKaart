@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7BD0EFE26B4C5F8D841907CFCF79F567"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128521"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanleg zijde woonwijk rond de Orttswarande te Breukelen, met op de voorgrond de Karel Doormanweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3E8EB23E7D059548318F9A7F29D9FCE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126694"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanleg zijde woonwijk rond de Orttswarande te Breukelen, met op de voorgrond de Karel Doormanweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

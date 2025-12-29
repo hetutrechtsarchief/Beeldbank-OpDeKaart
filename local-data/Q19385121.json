@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A9A3F4F6B4C52BF9ECA1493411BC182"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8389"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Obrechtlaan te Bilthoven uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99FED84A03F7564DBD46B6DC7B6D2CB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602986"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekhuis Obrechtlaan 2 te Bilthoven, vanuit de Sweelincklaan; links de Nicolailaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

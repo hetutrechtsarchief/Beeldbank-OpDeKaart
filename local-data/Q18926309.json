@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "430E5B10352559D7960740055CE9B863"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54799"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht met de toren van de Buurkerk (Buurkerkhof)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C34445471FEC58F7A6F9C4B0DB8D391D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54798"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht, vanuit de Donkerstraat, tussen de huizen nrs. 10 (links) en 12 (rechts), uit het westen; op de achtergrond de toren van de Buurkerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B0A06B82F40519381C5A190478D5437"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56161"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linker zijgevel van het hoekhuis Donkerstraat 12 te Utrecht met links de ingang van de 3e Buurkerksteeg en geheel rechts een gedeelte van het huis nr. 14."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C9E14103A945D28AAFB73F23EB32787"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54797"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht, vanaf het Buurkerkhof, uit het oosten; links een gedeelte van het huis Buurkerkhof 5 en op de achtergrond een gedeelte van het huis Zoudenbalch (Donkerstraat 17)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35D45266639E56EEBA290F41FEA8AB4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "78425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht, uit het oosten met op de achtergrond een deel van het Huis Zoudenbalch (Donkerstraat 15-19)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E242FAF57CE5DEFA31E88F0502D90A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831261"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van de voorgevel van het huis Zoudenbalch (Donkerstraat 17) te Utrecht vanuit de 3e Buurkerksteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4753CF00C357565387B5E299FC2E62D9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817967"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht, vanuit de Donkerstraat naar het Buurkerkhof. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "622DDC740422526E8236B307BBFABD0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817546"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht, vanuit de Donkerstraat naar het Buurkerkhof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "65D3C1C17F9A5E66845BCDB22A619AA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het pand Buurkerkhof 5 te Utrecht, tijdens de restauratie; rechts de ingang van de 3e Buurkerksteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74367D8AB03651AF9AE8E6D9F04BF705"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817972"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels in de noordwestelijke hoek van het Buurkerkhof te Utrecht; links in het midden de ingang van de 3e Buurkerksteeg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EE5673FF4DD54B5BB65062FD8FBE979"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54796"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht, vanaf het Buurkerkhof, uit het oosten; op de achtergrond een deel van het huis Zoudenbalch (Donkerstraat 17)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82511B7489DBED51E0534701000A7055"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835470"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toren van de Buurkerk (Buurkerkhof) te Utrecht, uit het noorden; op de voorgrond de 3e Buurkerksteeg. Opmerking: In 2018 gemaakte scan van een ca. 1936 gemaakt glasnegatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82D067770AF456A091DA6FC97B544EB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54728"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de pakhuizen Buurkerkhof 5-6-7 te Utrecht; links nr. 7, rechts van nr. 5 de ingang van de 3e Buurkerksteeg uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85B12397FBCDD84DE0534701000A8C52"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406574"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht, vanaf het Buurkerkhof, met op de achtergrond een deel van de voorgevel van het Huis Zoudenbalch (Donkerstraat 15-19)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86DA7C1BC43B56799C4FDAC0F1210822"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56160"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechter zijgevel van het winkelhuis Donkerstraat 10 te Utrecht met rechts de ingang van de 3e Buurkerksteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91414E15B5B95462B020B6044933B3EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831401"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht met op de achtergrond een deel van het huis Zoudenbalch (Donkerstraat 17)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACD38D8783225D0DB6C05B460BAD851D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht uit het westen vanuit de Donkerstraat met op de achtergrond de toren van de Buurkerk en de Domtoren. Opmerking: Fotoreproductie gemaakt in 1981 naar een tekening."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5247D2219BC5ADBA5D089E5C5A85268"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52654"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Buurkerkhof 5-hoger te Utrecht met geheel rechts op de voorgrond een gedeelte van het huis nr. 2 en rechts tussen de huizen de ingang van de 3e Buurkerksteeg. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F76BCE4E5CD355B8A36709A5EEDC62C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817968"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 3e Buurkerksteeg te Utrecht, vanaf het Buurkerkhof naar de Donkerstraat; op de achtergrond het huis Zoudenbalch (Donkerstraat 15-19). Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAE9E108B0B35A3B9792CD311B68B4A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20692"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Donkerstraat 14 (rechts een gedeelte)-lager te Utrecht met in het midden tussen de huizen de ingang van de 3e Buurkerksteeg. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE33F9DA6562572B8B3F625F613A14D9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54725"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Buurkerkhof 5-lager te Utrecht; tussen de huizen nr. 5 en 2 de ingang van de 3e Buurkerksteeg en de noordwestelijke hoek van het plein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

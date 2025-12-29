@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D7790490A855635AC32ECE39AEFD9F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93704"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vinkenbuurtweg met bosschages te Maarn. Opmerking: De afbeeldingen zijn gepubliceerd in: Maandkalender Vinkenbuurt Maarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C73195C211C55B3DAD87E2819F026590"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93701"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij Berkenzand (Vinkenbuurtweg 6) te Maarn. Opmerking: De afbeeldingen zijn gepubliceerd in: Maandkalender Vinkenbuurt Maarn.<ZR>Lit. MIP Maarn, p. 180-181."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

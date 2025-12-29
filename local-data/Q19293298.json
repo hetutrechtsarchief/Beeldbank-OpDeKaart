@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86C4E3076C565E13866979C6AE1F9449"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162871"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voetbrug tussen de Keizerstraat en het S.S.-station Deventer te Deventer, met op de voorgrond de spoorwegovergang ter hoogte van de latere Brinkgreverweg en rechts de wachtpost 33. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Circa 1905 uitgegeven prentbriefkaart naar een volgens het Stadsarchief te Deventer in 1876 gemaakte foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1876-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1876-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

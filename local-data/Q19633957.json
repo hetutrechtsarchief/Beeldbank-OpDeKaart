@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07532257D45B578A90B52103B03C4A5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72032"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Vesuvius 15-lager te Utrecht; uit het noordoosten met rechts nr. 15."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3938CC530CB65BE2808828357E44740A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115798"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een fiets- en voetgangersbrug over het Inundatiekanaal langs de Oude Liesbosweg te Utrecht. Op de achtergrond de Vesuvius."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C4A7746EF3654A4AD5543085FAD7BAA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116919"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Vesuvius in de wijk Lunetten te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0474E074B425D4AAD75EE2AB112FAE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72033"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de woningen Vesuvius 102-132 te Utrecht; uit het zuiden met op de voorgrond de Oude Liesbosweg en rechts het Inundatiekanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

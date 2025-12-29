@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C70456E3B4B51C8AAFA1D370E566770"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150729"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op perronzijde van het N.S.-station Uithuizermeeden te Uithuizermeeden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D2B54FA546E6506CAF0EFC1DB6E5C670"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150728"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Uithuizermeeden te Uithuizermeeden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

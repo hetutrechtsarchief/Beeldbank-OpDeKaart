@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "63A36A224B8A5BD68FEDA8229AA421FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56103"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dongestraat 2 (links)-4 te Utrecht met rechts het huis Wielingenstraat 16."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC52ACA2002754DF8114120614B631CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21905"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Noordzeestraat te Utrecht met links de ingang van de Wielingenstraat. Opmerking: Afdruk van dia, 2001"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E477F4E4F661561E98C9FAEBA72A15EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64458"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Mijdrechtstraat 64 (links)-68 te Utrecht; rechts de ingang van de Wielingenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "208CA4086B1F53979D8978F9D121D3D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50538"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto het zorgcentrum Groot Engendaal op de hoek van de Albert Cuyplaan (rechts) en de Dalweg (voorgrond) te Soest, uit het zuidoosten. Op de achtergrond de Talmalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

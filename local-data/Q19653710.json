@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "11548ACF52015427942ECFC0B82B0846"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21531"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Heinstmaat te Vleuten (gemeente Utrecht) vanaf de kruising met het Wijnland, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8168866D94695700AB6A3F224924ED5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21528"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Wijnland te Vleuten (gemeente Utrecht) vanuit de Henri Dunantlaan, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A280C8FD897E59BBB2850AC0CB699E3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Het Leiwerk te Vleuten (gemeente Utrecht) vanaf de kruising met het Wijnland en de Heinsmaat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D18C9FD8CA3B5E6984E57CF6B9D72A1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21532"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Heinstmaat te Vleuten (gemeente Utrecht) vanaf de kruising met het Wijnland, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

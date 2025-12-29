@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34CBFA751C1C5FD5872F501C03E8BC66"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50275"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Raadhuisplein te Maarn, uit het noorden, met het gemeentehuis Raadhuisplein 1). Op de voorgrond de Kapelweg. Opmerking: Het Raadhuisplein is op de foto gemarkeerd door een kaderlijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E4D333874E25410A8D40E9230DB075E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50274"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Raadhuisplein en omgeving te Maarn, uit het zuidwesten, met in het midden het gemeentehuis (Raadhuisplein 1). Opmerking: Het gemeentehuis is op de foto gemarkeerd door een kaderlijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D207EB3D89275B448CFCDB35D9EA7DDB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93690"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het gemeentehuis (Raadhuisplein 1) te Maarn. Opmerking: Lit. MIP Maarn, p. 164-166."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

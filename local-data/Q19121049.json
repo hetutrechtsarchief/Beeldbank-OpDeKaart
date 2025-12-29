@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD2E05C07B8A53F7A5E15B83C4CFDC3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50427"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van Groenekan (gemeente Maartensdijk) uit het zuidwesten; met de Ruigenhoeksche Polder, de Gelderpolder en rechts de Koningin Wilhelminaweg met bebouwing en de rijksweg 27 met de afrit Utrecht-Noord.<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente De Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

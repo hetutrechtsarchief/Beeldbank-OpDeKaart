@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32F60980757352C59BD7C1FD82203C0A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16603"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over een vijver op de voorgevels van een flatgebouw (links, ged.) en de Koningin Julianaschool (rechts, Piet Heinstraat) te Maarssen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8DA1063F489592BA47B09640110094A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16602"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over een vijver op de voorgevels van een flatgebouw (links) en de ULO-school (ged.) (Piet Heinstraat) te Maarssen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

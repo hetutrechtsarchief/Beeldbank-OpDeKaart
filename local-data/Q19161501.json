@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA1B56FAD1FD53E5A3BAB1B5C3CE3F40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23832"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Loggerstraat te Utrecht; op de voorgrond de Galjoenstraat en op de achtergrond de PEGUS (Provinciaal en Gemeentelijk Utrechts Stroomleveringsbedrijf, Keulsekade 189)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

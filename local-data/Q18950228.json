@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8541E1C9DD909324E0534701000A1C89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840627"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Bert Voetenplantsoen met de bevroren singel te De Meern (gemeente Utrecht), vanaf de Gerard den Braberlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9585E808489D5B4EAA5279471333AA03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802421"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk De Woerd, gedeeltelijk in aanbouw, in De Meern (gemeente Utrecht, stadsdeel Leidsche Rijn), uit het noordwesten; in het midden van rechtsonder naar linksboven de J. Slauerhofflaan en rechtsboven het Bert Voetenplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A264A3E4B39453FB8F1A8E12C79DB496"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802423"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk De Woerd in De Meern (gemeente Utrecht, stadsdeel Leidsche Rijn), uit het westen; links de J. Slauerhofflaan, rechts de Hendrik Marsmanlaan, op de voorgrond de Antoon van Duinkerkenlaan en in het midden het Bert Voetenplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

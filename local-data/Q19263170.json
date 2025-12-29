@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05690D2C9E8655CDAC3FE86A47E4E5CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7056"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de J. van Zutphenweg te Amerongen uit het westen, met rechts de voorzijde van het Zendings-Diaconessenhuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A792BC7AA6BB5D92A20DE91563B3DD9D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92172"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouw van de uitbreiding van het Zendingshuis (Jan van Zutphenweg) te Amerongen; met op de achtergrond de achter- en linkergevel van het bestaande pand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-02-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-02-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

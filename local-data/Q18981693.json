@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "866E353284004BEFE0534701000A2E40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840922"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het nieuwe dorpshuis (C.B. Kentiestraat 2) te Cothen. Opmerking: De foto bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 1278."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

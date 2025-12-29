@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE3FEE6284815FA69813AFFDCE440E2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402772"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een open avond in het gebouw Graaf Lodewijklaan 5 te Zeist, georganiseerd door de sjoelclub SONI, met enkele personen tijdens het sjoelen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

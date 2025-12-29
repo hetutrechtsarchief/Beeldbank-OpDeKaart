@@ -1,0 +1,912 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B046585E3FE50898B67BEF2E01E242A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108848"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een klas in het schooljaar 1996-1997 van de Basisschool de Boemerang (Amandelstraat 12) te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C0E16D4CD42543BA31F277295E90C6F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108756"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een schoolklas in het schooljaar 1983-1984 van de Amandelschool (Amandelstraat 12) te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F7581F93D545F53A1266EB70B2ADED7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Amandelstraat 22 (rechts)- lager te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "208F32A0342953C6BA8A11DD5B48B0D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108754"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een schoolklas in het schooljaar 1993-1994 van de Amandelschool (Amandelstraat 12) te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "23F672787F7B5F40B5F6DCC9496BCB62"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108757"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een schoolklas in het schooljaar 1989-1990 van de Amandelschool (Amandelstraat 12) te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "259D2FDEC83B5322A7479F10D30E4818"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108764"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bezoek van Sinterklaas aan de Amandelschool (Amandelstraat 12) te Utrecht, de goedheiligman arriveert met een hoogwerker. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3281424348FA5961A1CC96DFFAC446FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de, in de Amandelstraat gelegen, voorgevels van de huizen Ondiep 9-11 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3AE0BE4BE5B156A1A5965AE117C72D9E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122995"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pijnboomstraat te Utrecht, uit het noordoosten; links van het midden het huis Amandelstraat 33 en daarnaast de huizen Pijnboomstraat 7-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3FB3EE1739835F9FB21055B2389F820B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23336"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5246C398AAEE5C359ACF700FBFBF2A95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404268"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kinderspeelplaats aan de Amandelstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "553848772FB25E05985716EE7E634E0B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19566"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Sparstraat 2- hoger te Utrecht met links op de voorgrond de ingang van de Amandelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FA6BFAB976B5D37BE61720C912EAA18"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23337"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60AF316E585854C382299614FAFD977D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122998"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht, uit het noordwesten; links het huis nr. 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B5F6E5F81DB5758B9BD7D4880CA3805"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805162"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht; rechts op de achtergrond de Nederlands Hervormde Gemeenteschool (Amandelstraat 12)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73E58D342E8552DE88BAD45312964D1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108751"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een schoolklas in het schooljaar 1996-1997 van basisschool de Boemerang (Amandelstraat 12) te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7955B76A138B5BDBA7635A57D8D8E258"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122990"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht, uit het noordwesten; op de achtergrond de flatgebouwen Ahornstraat 12 (links)-14."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AB4BDA06B9E50E7938F48537EF99238"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123099"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht, uit het noordwesten; rechts de huizen nrs. 1-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D19507DA54855908EF91BF3D30378F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122999"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht, uit het noordwesten; links de huizen Sparstraat 1-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9034276FC52350B998D9675C30101144"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51587"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands Hervormde Gemeenteschool (Amandelstraat 12) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98DA51E55B4B54A4BC97FB8FF2101F60"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108750"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een schoolklas in het schooljaar 1987-1988 van de Amandelschool (Amandelstraat 12) te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CD69B13B8C1539BA43E03C92F453B2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122992"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht met links de huizen nrs. 69 (links)- lager, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0B08FAB461159148540D90E1B515326"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123001"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht, uit het noordwesten; rechts de huizen nrs. 47 (rechts)- hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4FBD45B22A95FFE900C9FAF4710223C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123000"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pijnboomstraat te Utrecht, vanaf de Royaards van den Hamkade, uit het zuidwesten; links het huis Royaards van den Hamkade 53 en op de achtergrond de Amandelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5A32CCA3B6F5ACF87890FBF3B56608B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404376"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een groep kinderen rond een clown in de Amandelstraat te Utrecht, tijdens een feest ter gelegenheid van de aanleg van de verbetering van de verkeersveiligheid in de straat.<ZR><ZR>N.B. Het feest werd georganiseerd door het buurthuis Ons Ondiep. Opmerking: Zie ook Utrechts Nieuwsblad, 29 juni 1989: \"Drempels maken Amandelstraat veiliger\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CCC5A7790B4B546BB1205AEAF56B16E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122997"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht, uit het noordwesten; rechts det huizen Ondiep 9-11 (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CEC46C529E115543BDB67EE36217BDCF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rietstraat te Utrecht, uit het noordoosten; links de huizen nrs. 15-lager; op de achtergrond de Amandelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1B1A9DDD6AB549EBFDBD6441D0EFA4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Ondiep te Utrecht, uit het zuidwesten, met geheel links het Ondiep en op de voorgrond de Amandelstraat. Daarachter, van links naar rechts, de Boerhaavelaan en net boven het midden de Vijgeboomstraat en de Laan van Chartroise."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D59E3B5D3D215EDC86007D367E07D142"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19567"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Sparstraat 1- hoger te Utrecht met rechts op de voorgrond de Amandelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB4FB1CB209157CF9C7D342A215831F4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122996"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht, uit het zuidoosten; rechts het huis Sparstraat 2 en op de achtergrond het Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3BEEA9143285049B3F9E0A111CAED13"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108708"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een schoolklas in het schooljaar 1988-1989 van de Amandelschool (Amandelstraat 12) te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E702D37CC0AE548BAC2B09D07DACB025"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122993"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amandelstraat te Utrecht, uit het zuidoosten; rechts op de voorgrond het huis Rietstraat 2 en daarnaast de huizen Amandelstraat 4-10 (rechts van het midden)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E80A9D53A0D85366A3BA368461A421E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108715"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een schoolklas in het schooljaar 1989-1990 van de Amandelschool (Amandelstraat 12) te Utrecht. Opmerking: De afbeelding maakt deel uit van de collectie foto's verzameld door het Buurthuis Ondiep."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AAA924701AF25859978189D458870F93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127053"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele woningen aan het Marmerplein te Utrecht; op de achtergrond de Blauwkapelseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5AE331DBAD854319BB0E649BA89E8D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127052"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele woningen aan het Marmerplein te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

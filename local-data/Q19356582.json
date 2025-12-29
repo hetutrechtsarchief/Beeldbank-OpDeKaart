@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B35A11CCB6656F4BDE739591B684313"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92193"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nijverheidstraat met bebouwing te Baarn. Opmerking: In 1987 vervaardigde fotoreproductie van een ca 1875 gemaakte foto. De originele foto bevindt zich bij de Historische Kring Baerne."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1870-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1875-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

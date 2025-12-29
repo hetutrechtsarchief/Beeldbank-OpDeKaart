@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37B9B17764665E96BD5A7CA92FF2353C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72423"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlisthof te Utrecht, vanaf de Mijdrechtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46670CD709B156B1B75C535639B1B7C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814070"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlisthof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAF8D0B84A2D5EC6BFFC37A968E5A860"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64447"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Mijdrechtstraat 49-hoger te Utrecht; rechts het hoekhuis nr. 49, geheel rechts de ingang van het Vlisthof en links van het midden op de achtergrond een gedeelte van de torenspits van de St. Gertrudiskerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

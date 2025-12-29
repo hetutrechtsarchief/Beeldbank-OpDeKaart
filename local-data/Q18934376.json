@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "84119CCA131A56E4B682439669541F51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50988"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het landgoed Dijnselburg en omgeving  te Zeist, met links de Amersfoortseweg en rechts de rijksweg A28, uit het westen. Op de voorgrond de Panweg met het kampeerterrein De Dijnselhoek (Badmeester Schenkpad 1) en de sporthal Dijnselburg (Badmeester Schenkpad 2). Rechts een gedeelte van de Verzetswijk te Zeist en op de achtergrond het dorp Huis ter Heide."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

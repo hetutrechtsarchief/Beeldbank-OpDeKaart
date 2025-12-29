@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "683CEBCF47D15D2CBA5D869F9589D3F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "171078"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de evenementenhalte Heerenveen IJsstadion van de N.S. te Heerenveen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "708F43C193E955D6B3EC002002BB8D46"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150398"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de overweg en het N.S.-station Heerenveen-IJsstadion met de hallen van Europa Meubel te Heerenveen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

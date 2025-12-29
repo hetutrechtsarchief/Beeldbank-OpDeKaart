@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "246B2C3D317150518260080F2A7C16D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823756"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van leden van de Kodokan Dojo (Anton Geesinkstraat 13 te Utrecht) voor een training in het Panbos te Zeist; in het midden Anton Geesink (met muts). Opmerking: De foto bevindt zich in het Archief van Anthonius Johannes (Anton) Geesink (HUA toegangsnummer 1391, inv.nr. 456)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA46B9FC1C955E129EA9083DD99BCBD1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "106778"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van de spelers van de A-selectie van FC Utrecht in training in het Zeister Panbos. Op de voorste rij van links naar rechts: Jan Streuer, Han Berger (trainer), Ron van Oosterom en Jan van Staa. Opmerking: Zie: Utrechts Nieuwsblad, 16 juli 1979, p. 13."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

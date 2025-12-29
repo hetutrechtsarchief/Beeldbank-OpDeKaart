@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "722BB215438A5188B9677763EE840876"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117749"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de Aleppodreef (voorgrond) en de Eufraatdreef te Utrecht.<ZR><ZR>N.B. De foto is gemaakt ter voorbereiding van scholieren voor de te fietsen route voor het Verkeersexamen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9F1D13C6EF255B3BAAD390574D507FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117750"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de Aleppodreef (voorgrond) en de Eufraatdreef te Utrecht. Geheel op de achtergrond de Haifadreef.<ZR><ZR>N.B. De foto is gemaakt ter voorbereiding van scholieren voor de te fietsen route voor het Verkeersexamen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

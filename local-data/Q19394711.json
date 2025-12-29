@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "199AF6D9BA655355BAF64926B795A482"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19833"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Ooievaarhof te Utrecht met op de achtergrond de Gansstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3466A5181AE1503A893F971F61738AD1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Ooievaarhof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AAD4E00E56B75739AF469359F6B40EA1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56939"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Gansstraat 86-90 te Utrecht met in het midden het huis nr. 86; links de ingang van het Ooievaarhof. Opmerking: De foto is genomen naar aanleiding van de sloop/nieuwbouw plannen van 18 woningen Gansstraat 86-108.<ZR>Zie Stadsplan, 11 juli 1994."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

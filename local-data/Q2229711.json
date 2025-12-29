@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A03E3B9F62A550B78FBACC4181AF9781"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165528"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het nieuwe N.S.-station Dordrecht Zuid te Dordrecht, tijdens het optreden van de harmonie van de gemeentepolitie van Dordrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C73A1980D15B55E2B07996AB239105A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165529"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van mr. Ch.H.M. Clemens (chef Exploitatie van het district Zuid-West) van de N.S. tijdens zijn toespraak bij de opening van het nieuwe N.S.-station Dordrecht Zuid te Dordrecht.<ZR><ZR>N.B. De foto is niet in het stationsgebouw gemaakt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

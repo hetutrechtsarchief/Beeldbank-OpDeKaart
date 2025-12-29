@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B885A3EF8FF5A85B17608325CF4CF16"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401440"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sparrendreef te Vianen, met op de achtergrond het geluidscherm langs de A2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82F6293F47B001BAE0534701000A6FF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839697"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provinciale weg P18 (M.A. Reinaldaweg) te Lopik, uit het zuiden, ter hoogte van de kruising van de Lopikerweg Oost. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P18 (Montfoort - Lopik) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 497."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82F69BB86A3C0B28E0534701000A2E6C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839721"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provinciale weg Montfoort - Lopik (M.A. Reinaldaweg) te Lopik, uit het zuiden, ter hoogte van de kruising met de Lopikerweg Oost. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P18 (Montfoort - Lopik) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 497."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

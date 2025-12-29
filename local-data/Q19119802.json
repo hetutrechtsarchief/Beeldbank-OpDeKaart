@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6ADBC005BEB857709B03DB782B9C6665"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18709"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen in de Gazellestraat te Utrecht met rechts de ingang van de Bokstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "882AED51021555E385B1277CE6438F64"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex op de hoek van de Gazellestraat (links) en Maansteenweg (rechts) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "94E5515F2EA255C6870C9C238604F028"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18710"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Gazellestraat 38 (rechts) - lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A4D299EFA234527EBE443AE8F3A35430"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831938"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Opaalweg te Utrecht vanaf de kruising met de Kornalijnlaan; rechts een appartementencomplex aan de Gazellestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

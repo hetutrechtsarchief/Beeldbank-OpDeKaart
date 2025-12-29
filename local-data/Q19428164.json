@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A5BB325B87353E982C7F8E325285A0A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21621"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Poortland te Vleuten (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

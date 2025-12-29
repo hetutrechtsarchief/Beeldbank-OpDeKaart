@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "894A8EFE2F105146A21C42AD8FA7C04D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50607"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het motel De Witte Bergen (Rijksweg A2) te Eemnes, uit het westen. Links de Rijksweg A1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

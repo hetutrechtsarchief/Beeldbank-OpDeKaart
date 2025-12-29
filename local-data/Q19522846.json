@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1986B81E284C5285A474EBBC1AD689F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12560"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Snouckaertlaan met bebouwing te Amersfoort uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CF2859D8B90531296FDA00E37CC975A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602346"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een optreden Johnny Kraaijkamp en Rijk de Gooijer (Johnny en Rijk) in het Grand Th\u00e9\u00e2tre (Snouckaertlaan 4) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

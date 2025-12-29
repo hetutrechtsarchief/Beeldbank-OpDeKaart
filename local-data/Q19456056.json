@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFDDC4A480AC5A28AF4262CBCED617C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92453"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het toegangshek van het landgoed Huis Doorn aan het Raadhuisplein te Doorn. Opmerking: Een rond 1990 gemaakte afdruk van een origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

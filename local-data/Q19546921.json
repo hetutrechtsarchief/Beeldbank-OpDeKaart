@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "96F47910F1C45F03BEF835C829CFC248"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167893"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een majorettenkorps op het Stationsplein te Waddinxveen, ter gelegenheid van de electrificatie van de spoorlijn Gouda - Alphen aan den Rijn.<ZR><ZR>Zie ook Nieuw Spoor, juni 1956, blz. 10-11: \"Feestritten door Peel- en Rijnland\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

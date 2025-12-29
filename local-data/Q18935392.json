@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0FF32D605A4354BFB62ED303E1C19AC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51568"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Alblasstraat te Utrecht met de voorgevels van de huizen nrs. 2 (links het hoekhuis)-hoger, vanuit de Mijdrechtstraat; rechts op de achtergrond enkele huizen aan de Volkerakstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "103FC31C09765670AF445078821FC0AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64453"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Mijdrechtstraat te Utrecht met de voorgevels van de huizen nrs. 14 (links)-hoger; links de ingang van de Alblasstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3DA863E377DE5DEA832B08BAA7DA30D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51567"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Alblasstraat te Utrecht met de voorgevels van de huizen nrs. 1(links van het midden)-hoger; rechts op de voorgrond de huizen Mijdrechtstraat nrs. 14-hoger en links op de achtergrond enkele huizen aan de Volkerakstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

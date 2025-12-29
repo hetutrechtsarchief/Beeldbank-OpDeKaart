@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "103039CA96A6580EA3B44FAE94D57895"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94897"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de laddertoren en de voorgevel (ged.) van de brandweerkazerne (Gaslaan 4) te Maarssen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "786B4483A2C0A60DE0534701000A19D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837733"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gymnastiekgebouw (Gaslaan 12) te Maarssen. Opmerking: De foto (18 x 24 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 383. De foto is gemaakt ten behoeve van de publicatie \"Scholen\" (Stichtse Monumenten Reeks), door Esther Leenheer-Wessel. Fotografie: Henk Bol (1997)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D83627E8A6A5F2DAF3D5AB24F7F47AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94896"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de brandweerkazerne (Gaslaan 4) te Maarssen uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

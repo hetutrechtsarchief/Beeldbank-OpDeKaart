@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83EFB6271B3D51B9BC3BD38DA09871C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500097"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bezoek van Prins Bertil (links) van Zweden en Prins Bernhard aan de kogellagerfabriek van S.K.F. (Wageningselaan) te Veenendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-06-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-06-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

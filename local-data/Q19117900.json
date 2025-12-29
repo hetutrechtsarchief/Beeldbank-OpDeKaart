@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D57DB3E9068577891AFB36FF9BBBABF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van Wienese Ladders (Reactorweg 5) te Utrecht, vanaf de Energieweg. Opmerking: De foto maakt deel uit van de serie \"Utrecht bij nacht\" van fotograaf Pieter van Leeuwen en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

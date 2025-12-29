@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "23D94C4D6A4950629829BB99C9F53CB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828389"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Oudegracht te Utrecht vanaf de Maartensbrug, met links panden aan de Lichtegaard en rechts de achtergevels van panden aan de Lijnmarkt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "761F990B1F17561AB7ABA481254E4A46"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816812"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Oudegracht te Utrecht, vanaf de Maartensbrug, met links de Lichtegaard en rechts de achtergevels van de panden aan de Lijnmarkt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8010AA65801EB587E0534701000AF357"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838970"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van mr. I.W. (Ivo) Opstelten op de Lichtegaard te Utrecht, met op de achtergrond het Stadhuis.<ZR><ZR>N.B. Opstelten was burgemeester van Utrecht tussen 1992 en 1999."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-07-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-07-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C666AC2D748F50F4870FF0B5D9F97626"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828372"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Maartensbrug te Utrecht, vanaf de werf langs de Oudegracht onder de Lichtegaard."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

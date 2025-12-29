@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13DEC37D36B55541B9B7711898FC4226"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19218"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de woningen Kelvinlaan nrs. 2 (links)-hoger te Utrecht met op de achtergrond de Celsiuslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D3ED88FA0A1540085969D6A54A29C2A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19213"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Julianaparklaan te Utrecht met de huizen nrs. 9 (links)-lager, in het midden de ingang van de Kelvinlaan en rechts op de achtergrond de Amsterdamsestraatweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

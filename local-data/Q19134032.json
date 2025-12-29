@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02B65DEC2F74548D8F852286F66DDF88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65997"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oderdreef 31-hoger (rechts) te Utrecht; voor de huizen de ingang van de Fanny Blankers-Koendreef met op de achtergrond een gedeelte van het flatgebouw aan de Jaap Edendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "942E307AAF6F580194AA9D34A94AA23E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65998"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oderdreef 31-hoger (rechts) te Utrecht; voor de huizen de ingang van de Fanny Blankers-Koendreef met op de achtergrond een gedeelte van het flatgebouw aan de Jaap Edendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEF9EE7DD1AA5E898AAE210D16074D35"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53982"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Fanny Blankers-Koendreef te Utrecht met de huizen nrs. 1-hoger; geheel rechts het huis nr. 1 en in het midden de achtergevels van enkele huizen aan de Oderdreef en links op de achtergrond een flatgebouw aan de Elbedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

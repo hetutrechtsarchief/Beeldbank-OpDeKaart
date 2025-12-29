@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A6035898955539992FAB127BEC1E4B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602380"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kasteel Moersbergen (Moersbergselaan 17) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31B9952554C45FAFB25C6405E37560A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "210056"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kasteel Moersbergen (Moersbergselaan 17) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBBF8266DE895434BCD439C702E6BDB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92476"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Moersbergselaan met loofbomen te Doorn uit het noorden; met rechts de voorgevel van een boerderij. Opmerking: De afbeelding is gepubliceerd in: Buiten, 1921."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

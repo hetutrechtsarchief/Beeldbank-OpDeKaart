@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30350D0CE1435B57904E79EFDFC09A69"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119969"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het hoekhuis Kromme Haven/ Biezenpoortstraat te Oudewater; rechts de aanzet van de brug over de Lange Linschoten en op de achtergrond het Amsterdamse Veer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

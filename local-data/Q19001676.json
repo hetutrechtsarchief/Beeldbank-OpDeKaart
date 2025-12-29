@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "96BADBBD4B2F5D7CB1829E81332BA7C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402570"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voordeuren van de huizen Daendelsstraat 55 en 53 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-09-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-09-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A92A1967CF7B5B729F34A107AC2CEA75"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21292"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Daendelsstraat 2-2A te <ZR>Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FCA2EDD4123A50F0B4A71826C6A7AC39"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21291"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Daendelsstraat 2-2A te <ZR>Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

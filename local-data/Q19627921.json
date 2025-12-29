@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6015F0CAC13D5F178BA44AAB3A3F17AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161812"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de wachterswoning nr. 13 (voormalige halte Nootdorp Noord) aan de spoorwegovergang aan de Veenweg te Nootdorp in de spoorlijn Gouda-Den Haag. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

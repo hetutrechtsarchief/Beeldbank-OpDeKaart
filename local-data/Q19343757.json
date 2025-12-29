@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08FA598361F35B0CB04C5B1C7CF6F0DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818237"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een kantoorgebouw aan de Mercatorlaan en Orteliuslaan, op het bedrijventerrein Papendorp te Utrecht, vanuit de kop van de pyloon van de Prins Clausbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9F5FE6116405043925C2700A1A43EEC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van enkele kantoorgebouwen aan de Mercatorlaan en Orteliuslaan, op het bedrijventerrein Papendorp te Utrecht, uit het noordwesten; op de voorgrond de volkstuinen van de ATV De Hoge Weide (Groenewoudsedijk 60) in het Park Groenewoud. Opmerking: De volkstuinvereniging De Hoge Weide moest in 2007 van het oude adres Hoge Weide 5A verhuizen vanwege de aanleg van de landtunnel in de autosnelweg A2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EAA3B20ACD59512CAF89E6EF99EE724D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802430"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het bedrijventerrein Papendorp te Utrecht, uit het noordoosten; op de voorgrond de Mercatorlaan en op de achtergrond het verkeersplein Oudenrijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

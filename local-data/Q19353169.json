@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3DC0376A664573AA7C2E2381BB00C56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817615"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegangsdeur tot de voormalige Nauwe Blindesteeg bij de Westerkade 26-27 te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D128A794F9DC5361B06C3350912FC2C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nauwe Blindesteeg te Utrecht. Opmerking: De afbeelding is gepubliceerd in Utrecht in Woord en Beeld, 1926 nr. 45"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "132C5B592C385C4E80766DB0648336CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54594"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het talud met de Brennerbaan te Utrecht en een ernaast gelegen fietspad, uit het noordoosten; rechts, onder het viadukt doorlopend, het Houtensepad; op de achtergrond enkele flatgebouwen aan de Apennijnen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

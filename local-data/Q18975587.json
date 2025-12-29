@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "00AB2381B038597BB5D63DB8E222CEC8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165157"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het viaduct in de Bruglaan te Baarn over de spoorlijn richting Hilversum. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1911-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1911-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A637899CD685FA19B83E63DC2327091"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165156"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het viaduct in de Bruglaan te Baarn over de spoorlijn richting Hilversum. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1911-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1911-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91FBE4C0211C5837B106539D1487B081"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170017"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het viaduct over de spoorlijn nabij de Bruglaan te Baarn, met een passerende trein. Opmerking: De afbeelding behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1911-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1916-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

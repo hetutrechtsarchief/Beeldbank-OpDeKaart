@@ -1,0 +1,772 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04DBFBB1971457A49EF6E9FFCCE121F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66003"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Offerhausweg te Utrecht met op de voorgrond de fortgracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1908-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1912-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1FD24481AC3B556B8DAF1E77968459B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46301"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "28FB196380205B6CA4C29476786C30BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21124"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een waterinlaat aan de Offerhausweg te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-08-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-08-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2963FF12AB1451F7B7C73F0E5928666E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46306"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32D26708FCBA50538349100C351D5DBB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46312"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "33318CBAC3705FEE8E2718728622C1B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op park Bloeyendael te Utrecht, vanaf de Offerhausweg. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-08-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-08-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34EE810CE9B7588493224F146BA61A7F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46313"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "361FDE592EC55602903476E3A00D0D64"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46305"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38492602E0C557BF9470F61B5014DEC8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46315"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "39E922D24E685CC68C3DAA8A8AB1D655"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21126"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op park Bloeyendael te Utrecht, vanaf de Offerhausweg. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-08-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-08-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BC0D1F6D7225814A79E30B179806F90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46317"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4ED3E02425F65B1FAFAC128FA599FACA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46310"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50CEC96223CD5F61B79BD465A1AE429C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Offerhausweg te Utrecht vanuit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "58D5F7280287568EAF6484F095CB9E8F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46303"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "62CC988E9DCD59A2943302781741900F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46314"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A556D3072B7F5D5593AF8CBB903E62D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46189"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de brug over de Biltsche Grift in het park Bloeyendael, tussen de Offerhausweg en de Archimedeslaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B0C33BBF34E65EA4995FA77E8E20F4AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66007"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Offerhausweg te Utrecht vanuit het westen, rechts de fortgracht rond Fort De Bilt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1FBDB4A6BA352CF81D542E61E9AA864"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66006"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Offerhausweg te Utrecht vanuit het noordoosten, links de Biltsche Grift."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BDEE704E8F285513931A6B86C679BEB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46316"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6FF399DA567564DA54458566FFD0686"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66005"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Offerhausweg te Utrecht vanuit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D37BFB4C97C2523AA3C5E6C6A8F0657C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46302"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DBC072E8EC935F6FB9B4D056A6736EE5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46304"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD38909F996D54A3A5E2C34551FEDAB9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46307"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DFB625EB44DC5D71B6042BDE7E374970"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77409"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de fortgracht op het zuidelijk bastion van Fort De Bilt te Utrecht, vanaf de Offerhausweg, uit het oosten. Opmerking: Litt.: Ad Littel, De oude vestingwerken in de provincie Utrecht, uitgave van Staatsbosbeheer, consulentschap voor natuurbehoud in de provincie Utrecht (1978)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2A38B0387A45EFDA27F2F4DA6F21B65"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46309"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0B36BCB104250EB81C73D39C8EA4A2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46308"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7827259795651ED9C1B62389CE1A39C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46311"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde duiker met sifon bij de Offerhausweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

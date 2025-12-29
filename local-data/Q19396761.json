@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A9555A68CAE52FB9CD35C883ED6A20B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15996"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op 't Rond/de Nassaulaan met beplanting te Zeist uit het noordoosten; met links de voorgevel van de  jongensschool van de Evangelische Broedergemeente ('t Rond 6A); met op achtergrond de voorgevel van Slot Zeist en het gebouwencomplex aan het Zusterplein (ged.).<ZR><ZR>N.B. De straatnaam Nassaulaan is later gewijzigd in Nassau Odijklaan. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 128-129."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

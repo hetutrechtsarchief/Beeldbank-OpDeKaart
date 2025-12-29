@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40C71FE93DD95320B0FF5CC371AC5D7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93980"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Beekweg met bebouwing en geparkeerde auto's te Maarssen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "816E5E31FBCD5B2895F0BAF726854B14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93981"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Beekweg, ingericht als woonerf, met bebouwing en geparkeerde auto's te Maarssen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

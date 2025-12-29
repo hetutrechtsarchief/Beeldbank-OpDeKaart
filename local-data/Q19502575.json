@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A0DC3DC84DD5399A1BF1D976A9A3337"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gerestaureerde theekoepel langs de Vaartsche Rijn te Utrecht; rechts het huis Salamanderpad 200."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14D513F51A345422BA19A19C24A14FFE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68112"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Oude Kerkweg 12 (rechts) en 13 te Utrecht met op de voorgrond de Vaartsche Rijn.<ZR><ZR>N.B. Het adres Oude Kerkweg 12 is in 1989 gewijzigd in Salamanderpad 200."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FB56F081797579C85C1948084953738"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20217"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Oude Kerkweg 12 te Utrecht met op de voorgrond de Vaartsche Rijn.<ZR><ZR>N.B. Het adres is in 1989 gewijzigd in Salamanderpad 200. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35427047E7DD5EBC92DA3088F9B9B84D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68111"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het huis Oude Kerkweg 12 te Utrecht.<ZR><ZR>N.B. Het adres is in 1989 gewijzigd in Salamanderpad 200."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C3919A5046859A9BC105B908F54FE9A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23394"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vaartsche Rijn op de achtergevels van de woningen aan de Zeeltstraat te Utrecht vanuit het zuiden; links het huis Salamanderpad 200."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43C494ED421D5DF2B2BE2695B46FD214"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18564"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het flatgebouw aan de Snoekstraat vanaf het Salamanderpad te Utrecht met links de Vaartsche Rijn met de Zuiderbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6CB93269086254F99F3C30EDF9467CFA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20216"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de theekoepel achter het huis Oude Kerkweg 15 te Utrecht.<ZR><ZR>N.B. Het adres is in 1989 gewijzigd in Salamanderpad 100. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8094E2520367804AE0534701000A6820"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840021"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de zinken brandtrap aan de zijgevel van het kantoorpand ('t Goylaan 1-7), op de hoek van de 't Goylaan en Salamanderpad (rechts) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-09-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-09-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81DF0E343EC06374E0534701000A017B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840034"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vaartsche Rijn te Utrecht, vanaf de Zuiderbrug met links het Salamanderpad. Opmerking: De foto is gemaakt in opdracht van het Hoogheemraadschap de Stichtse Rijnlanden, vanwege de vervuiling van de wateren in en rond de stad Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83AFD82F2FE11958E0534701000A02E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het theehuisje \"'t Oog in 't zeil\", aan de Vaartsche Rijn bij het Salamanderpad te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83AFD82F2FE21958E0534701000A02E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840344"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het theehuisje \"'t Oog in 't zeil\", aan de Vaartsche Rijn bij het Salamanderpad te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AC4748DF0235CF09F9D72242C6FD278"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68121"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de theekoepel gelegen bij het huis Oude Kerkweg 15 te Utrecht.<ZR><ZR>N.B. Het adres is in 1989 gewijzigd in Salamanderpad 100."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C58D8E51D1B50DEA05285DE7B3E279A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68120"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de theekoepel, staande naast het huis van de familie Stekelenburg  (Oude Kerkweg 15) te Utrecht.<ZR><ZR>N.B. Het adres is in 1989 gewijzigd in Salamanderpad 100. Opmerking: De theekoepel behoorde aanvankelijk bij het huis \"Ruimzicht\" en is later naar achteren verplaatst. <ZR>Catalogus \"Buiten binnen Utrecht\", cat. nr. 210."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DA229E8DC0D54E7AC64438B62924071"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68118"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker zijgevel van het huis Oude Kerkweg 15 gelegen aan de Vaartse Rijn (rechts) te Utrecht, uit het noordoosten.<ZR><ZR>N.B. Het adres is in 1989 gewijzigd in Salamanderpad 100."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E5F9D69C7B65836924B878D6C3722A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23395"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gerestaureerde theekoepel en een deel van het huis Salamanderpad 200 te Utrecht met links de Vaartsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F12CC12558A51FAB77B8162A2DE3F9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405415"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de feestelijke ingebruikneming van de gerestaureerde theekoepel aan de Vaartsche Rijn (ter hoogte van het Salamanderpad) als atelierruimte voor kunstenaars te Utrecht.<ZR><ZR>N.B. De theekoepel werd die dag in gebruik genomen door de kunstschilder Jan Tinholt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD42A83D86D25D4E8279CCCAC6433D07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123481"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Salamanderpad 100 (links)-102 te Utrecht; op de voorgrond de Vaartsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD6F29811D6C5F15BFDC4B19B33D1F03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68110"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Oude Kerkweg 12 te Utrecht.<ZR><ZR>N.B. Het adres is in 1989 gewijzigd in Salamanderpad 200."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AFD5E727BF2E5B51AA00B75DBF4B25A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68119"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de theekoepel, staande naast het huis van de familie Stekelenburg  (Oude Kerkweg 15) te Utrecht.<ZR><ZR>N.B. Het adres is in 1989 gewijzigd in Salamanderpad 100. Opmerking: Dit theehuis was vroeger eigendom van de \"overheer\" Ridder van Rappard en stond toen aan de Vaartse Rijn.<ZR>Zie: Maandblad Oud Utrecht, 1973, 58-60."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1798685B92551C4A3E6FBE1B0073F1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116441"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Salamanderpad 200 te Utrecht, met links de theekoepel aan de Vaartsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7EE3BAA9CA65B1DAB8E3A8473416FD1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20215"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de panden Oude Kerkweg 15 (links) - lager te Utrecht met op de voorgrond de Vaartsche Rijn.<ZR><ZR>N.B. De adressen Oude Kerkweg 14 en 15 zijn in 1989 gewijzigd in respectievelijk Salamanderpad 102 en 100. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6602731206CA584B94D61EA6949BB2AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828317"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de nieuwbouwwijk Galecop te Nieuwegein, vanuit het zuidoosten, met op de achtergrond verkeersplein Oudenrijn (links) en de rijksweg A12; onder de A.C. Verhoefweg en de Taludweg die evenwijdig lopen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "849ADF8B9481503C985DA3A4FDF16D50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401451"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het geluidscherm langs de A.C. Verhoefweg te Nieuwegein, met rechts de Adriaen van Ostadehage."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

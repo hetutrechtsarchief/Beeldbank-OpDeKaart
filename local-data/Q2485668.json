@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35529CE700BA50E9A85438EE81E55BC6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94235"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de werkzaamheden voor de reconstructie van het kruispunt Provincialeweg/Bovenkerkweg te Montfoort uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "427994B749A05AF3AD9BB786525D7326"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404933"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van kinderen in een klaslokaal van de Hoflandschool (Bovenkerkweg 74) te Montfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

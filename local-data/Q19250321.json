@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "602A64C7758E5B4B9341A20B9048ACB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linker zijgevel van het hoekhuis Hermesdreef 2 te Utrecht met links een gedeelte van de achtergevels van enkele huizen aan de Heradreef; op de voorgrond de Donaudreef. Op de voorgrond een beschadigde personenauto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

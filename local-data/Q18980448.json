@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F67E983D4CF505CB2941E7C2648E47B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9836"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Burgemeesterlaan 22-24 te Driebergen uit het noordoosten. <ZR><ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41ECC99AD0B15E27AEDF66E6D9F86D17"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9835"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Burgemeesterlaan te Driebergen uit het zuidoosten. <ZR><ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B51FCDE654C152F4B0262B67B72EA130"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9834"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Burgemeesterlaan te Driebergen uit het noordwesten, met links de voorgevel van het huis nr. 8. <ZR><ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

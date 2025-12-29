@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1514BA2890E5054A64609E49B1DA567"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72805"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Openbare K.O. school aan de Voortrekkersdreef te Utrecht: wandschildering \" Dromerige Namiddag\" van de kunstenaar H. Daamen. Opmerking: Plaatsing: 1975<ZR>Materiaal: muurverf met figuurtjes uit keramisch licht geglazuurd materiaal, in halfreli\u00ebf."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

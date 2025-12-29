@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F53BABFB8D456C090516475B4393013"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7126"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oude Postweg te Austerlitz.<ZR><ZR>N.B. Dit gedeelte van Austerlitz maakt deel uit van de gemeente Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AAC374A6EABE591EA570F708B5F5E631"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7128"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Theehuis Austerlitz (Oude Postweg 144) te Austerlitz.<ZR><ZR>N.B. Later is de naam Theehuis Austerlitz gewijzigd in restaurant Bonaparte.<ZR>        Dit gedeelte van Austerlitz maakt deel uit van de gemeente Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF46C21141FE5769A9121957686B27B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7127"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oude Postweg te Austerlitz."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

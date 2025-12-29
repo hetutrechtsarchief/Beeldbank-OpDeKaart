@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "00C82E8CEFC15970A29FBFE67CE65CEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Biltsche Grift te Utrecht na demping van het zwembad met links op de voorgrond het terrein waar later de Griftkade zal worden aangelegd; rechts het terrein voor de Alexander Numankade en op de achtergrond de gashouder van de gasfabriek aan de Blauwkapelseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05A08F0E187D5CF6A7F757406AB57E49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805179"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de besneeuwde Biltsche Grift te Utrecht met links de Griftkade en rechts de Alexander Numankade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B12211D767856FB9A2C1FAD05A7338F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57474"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Griftkade nrs.13 (links)-  lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B44183A9CAD5443A210969BD8D1B9A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101815"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Alexander Numankade en de huizen aan de Griftkade te Utrecht, vanaf de expeditieruimte van het gebouw van het Gemeentearchief Utrecht (Alexander Numankade 199)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F6BCA0E6D5654D396E2EC1F3F317FBB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65803"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van het gebouwencomplex van de Vakgroep Veterinaire Fysiologie  (Alexander Numankade 91-93) van de diergeneeskundige faculteit van de Rijksuniversiteit Utrecht (gebouwen C1-C4); op de achtergrond enkele huizen aan de Griftkade. Opmerking: Voor een plattegrond van het terrein zie nr. 65801."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1FA702965082560F9130181BF3525517"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "80273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de bouw van het gebouw van de Gemeentelijke Archiefdienst Utrecht en het Rijksarchief in de Provincie Utrecht (Alexander Numankade199-122) te Utrecht met rechts de Griftkade. Opmerking: Fotonrs.16,18,19,28,34,35,37,40,42,44,47,50."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "23D9AC007A5856699C774F41130B2B56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65903"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de, door Jan J. Pieters vervaardigde, plastiek Kruik met de Dode Zeerollen, op het bordes van de Gemeentelijke Archiefdienst Utrecht en het Rijksarchief in de Provincie Utrecht (Alexander Numankade 199-201) te Utrecht; op de achtergrond enkele huizen aan de Griftkade. Opmerking: De Gemeentelijke Archiefdienst Utrecht en het Rijksarchief in de Provincie Utrecht zijn in 1998 gefuseerd tot Het Utrechts Archief.<ZR>De \"peer\" stelt de Kruik met de Dode Zeerollen (de oudste vorm van archivering) voor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2BA0126C6AC25667914494587BCEBC53"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57348"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goedestraat te Utrecht met links de huizen nrs. 151-lager aan de oostelijke straatwand, vanaf de Griftkade, uit het noorden; links op de voorgrond de zijgevel van het huis Griftkade 6; na het huis nr. 139 de kruising met de Bollenhofsestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E0F41EFA02C525ABE0132C34674DEDB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832868"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de gebouwen van het Laboratorium voor Vergelijkende Fysiologie van de Subfaculteit der Biologie van de Rijksuniversiteit (Jan van Galenstraat 40) te Utrecht, met rechts een deel van de Kliniek voor Kleine Huisdieren (Alexander Numankade 91-93) van de diergeneeskundige faculteit en op de achtergrond de huizen aan de Griftkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "47419729F2B55FC4B72EC30490AEC154"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57473"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Griftkade 5 (links)- lager te Utrecht met op de voorgrond de Biltsche Grift. Geheel links de ingang van de Goedestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BD0AB820CA751409E1CE700AD7A9402"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het eind van de Goedestraat te Utrecht met rechts, sterk verkort, de voorgevels van de huizen nrs. 149-151, uit het zuiden; op de achtergrond de Biltsche Grift met de Griftkade; links de ingang van de Grasstraat met daarachter het huis Griftkade 5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82D40168974C52C9BEA2E3F07EE1548F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805178"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de besneeuwde Biltsche Grift te Utrecht met links de Griftkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D44D61C878451D9AE8D21DE0CF0A75E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84917"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Wittevrouwen te Utrecht, uit het zuiden; in het midden de Griftkade en de gebouwen van het Fysiologisch Laboratorium van de Faculteit Diergeneeskunde van de Universiteit (Alexander Numankade 93); op de achtergrond de wijk Tuindorp-Oost in aanleg. Opmerking: KLM fotonummer 35661."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "917A4CDF14BF534EA95CEF50990A29A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "80299"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het omliggend terrein van het gebouw van de Gemeentelijke Archiefdienst Utrecht (Alexander Numankade199) te Utrecht met op de achtergrond de voorgevels van enkele panden aan de Griftkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A18E839BF5EB52938A4D0BB08B33DCA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805180"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de besneeuwde Biltsche Grift te Utrecht, vanaf de fiets-/voetgangersbrug ter hoogte van de Bekkerstraat, met links de Griftkade en rechts de Alexander Numankade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DC45328DAE0351C8A6C1A361B5D2D404"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "80264"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de funderingswerkzaamheden voor de bouw van de Gemeentelijke Archiefdienst Utrecht en het Rijksarchief in de Provincie Utrecht (Alexander Numankade199-122) te Utrecht met op de achtergrond de voorgevels van enkele panden aan de Griftkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD56069FDFDD5033A8238B65801CBF39"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58161"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Griftkade en het bouwterrein voor het Gemeentearchief in de stad Utrecht en de Rijksarchief in Provincie Utrecht (Alexander Numankade 199-201), vanaf de Hengeveldstraat, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ECFDF5866A6952A2A2BE52E1526DDD31"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53128"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het gebouw van de dienst Lichamelijke Oefening en Sport van de Rijksuniversiteit (Bekkerstraat 141) te Utrecht met de tuin, vanaf de overzijde van de Biltsche Grift (voorgrond), uit het noordoosten; in de halfronde uitbouw de oefenruimte van het gebouw met rechts de huizen aan de Griftkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2FB1BFAF0BA54B08EA6F44D6A40B0A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53127"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het gebouw van de dienst Lichamelijke Oefening en Sport van de Rijksuniversiteit (Bekkerstraat 141) te Utrecht met de tuin, vanaf de overzijde van de Biltsche Grift (voorgrond), uit het noordoosten; in de halfronde uitbouw de oefenruimte van het gebouw met rechts de huizen aan de Griftkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAB9760098925FA0BB5796C237CD1ED1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57345"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het eind van de Goedestraat te Utrecht met rechts de huizen nrs. 139-hoger aan de oostelijke straatwand, uit het zuiden; vooraan de kruising met de Bollenhofsestraat met links de huizen Bollenhofsestraat 82-84 en op de achtergrond de Biltsche Grift met de Griftkade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC3FC9C583B45ED1BB470104D40E2079"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "80265"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouw van het gebouw van de Gemeentelijke Archiefdienst Utrecht en het Rijksarchief in de Provincie Utrecht (Alexander Numankade199-122) te Utrecht met op de achtergrond de voorgevels van enkele panden aan de Griftkade. Opmerking: Fotonrs.16,18,19,28,34,35,37,40,42,44,47,50."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

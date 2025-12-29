@@ -1,0 +1,464 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2666CA102DC7506195B2E70B130F60BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59851"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekpand Kanaalstraat 194 te Utrecht met links de voorgevels van de panden Palembangstraat 1-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37C993328673524F80456FCFA09EF2C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68450"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels Palembangstraat 2-hoger te Utrecht; links een gedeelte van het winkelwoonhuis nr. 134 aan de Kanaalstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "65C8CB0616405E699D4369C36524B038"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59722"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kanaalstraat te Utrecht, uit het oosten met links de huizen nrs. 132-hoger, rechts de nrs. 173-hoger; links, na het huis nr. 134, de ingang van de Palembangstraat en meer naar achteren de St. Antonius van Paduakerk (Kanaalstraat 198)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7364B9F50E05598DBEAA043008A722AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68448"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Palembangstraat 1-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "743D2C7918665F2186194F672DE891EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820448"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Kanaalstraat 134 (\"Istanbul Hali Pazari\") te Utrecht; rechts de Palembangstraat.<ZR><ZR>N.B. Van ca. 1950 tot 1985 was in het pand Banketbakkerij en Patisserie Peek gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D50501EF6955D26A3457FF1D97AF039"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Palembangstraat 20 -lager te Utrecht, vanaf de hoek met de Van Riebeeckstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "846A13F2CBF55062A11EFC0208C701C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824015"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de directiekeet aan de Ternatestraat te Utrecht voor de bouw van de Nutswoningen aan de Kanaalstraat, Semarangstraat, Bantamstraat, Van Heutszstraat, Bandoengstraat, Palembangstraat Medanstraat, Soerabayastraat en Van Riebeeckstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1926-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D2348BA70D8501A9570887CD9ABACC6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824030"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Palembangstraat 14 (links) -20 te Utrecht, met links de hoek met de Medanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8DE6CB23B198526494D5AE1A4E3299E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59849"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kanaalstraat 132-134 te Utrecht met rechts de ingang van de Palembangstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "903B9728044258B985B1E5507DFD70B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824025"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nog onbbouwde terrein aan de Kanaalstraat (geheel rechts) te Utrecht, tussen de Soerabayastraat en de Palembangstraat (achtergrond). Rechts op de achtergrond de toren van de St.-Antonius van Paduakerk (Kanaalstraat 198)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B04F0517240954B1BDBBA4390B9E29E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824022"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nog onbbouwde terrein aan de Kanaalstraat (rechts) te Utrecht, tussen de Soerabayastraat en de Palembangstraat (links). Geheel rechts de ingang van de Bandoengstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFEF987029FA54C6822F4851FC256440"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59848"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kanaalstraat 132-134 te Utrecht met rechts de ingang van de Palembangstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C189D0ACA9B850E19B5C2A236EC3A8D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824004"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pui van de apotheek van mej. G.J.M. Dikkenberg (Kanaalstraat 194) te Utrecht, op de hoek met de Palembangstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7DA1B3BF34C597A918369BF495099E3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820449"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het hoekpand Kanaalstraat 134 (\"Istanbul Hali Pazari\") te Utrecht; rechts de Palembangstraat.<ZR><ZR>N.B. Van ca. 1950 tot 1985 was in het pand Banketbakkerij en Patisserie Peek gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0598297531350B9AF21EE083217D1E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824036"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Palembangstraat te Utrecht, door het poortje naar de Bantamstraat, met in het midden de kruisende Kanaalstraat. Rechts de apotheek van mej. G.J.M. Dikkenberg (Kanaalstraat 194)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5A306D52AF053789566DB7926FC0DC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824013"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen aan de Palembangstraat te Utrecht, met op de voorgrond de Kanaalstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B884B6FF6C5B5583A849D1C58E29AD2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de markt met publiek in klederdracht in de Kerkstraat en Spuistraat te Spakenburg (gemeente Bunschoten), uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

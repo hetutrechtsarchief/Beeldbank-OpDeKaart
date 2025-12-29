@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F3CA602BB5A5BA5B9DB5E393A2F26DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809628"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Benschoplaan te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-03-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "383E55E55DF6533BB1E6FE5323F2CCBC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Benschoplaan te Utrecht met de voorgevels van enkele huizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43C0C5955DE45DDF9FAE623CA0D3B60B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45386"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Krikkelaan te Utrecht, ter hoogte van de Benschoplaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9765AECB61B35B9CB17FEF94CAC9B0F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19331"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de woningen Benschoplaan 16 (links)-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

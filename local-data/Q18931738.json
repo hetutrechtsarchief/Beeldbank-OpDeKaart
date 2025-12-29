@@ -1,0 +1,940 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "087C4AD109D55921B8F2B5C3F1D0E146"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53337"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Beneluxlaan te Utrecht; met het kruispunt met de Admiraal Helfrichlaan (links)/Van Heuven Goedhartlaan (rechts), vanaf de middenberm, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1527463474875AD0AF3243DF3D35058C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116195"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van Cap Gemini (Admiraal Helfrichlaan 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1D2055D8244E5FFE8B750994340C3330"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127873"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw Beneluxlaan 12-210 te Utrecht, op de hoek met de Admiraal Helfrichlaan (links)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22803329472E5EAF87949F596FBC4EC8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44260"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht vanaf het ROVU-kantoorgebouw (Ravellaan 96) te Utrecht op het parkeerterrein van de Jaarbeurs tussen de Weg der Verenigde Naties (voorgrond) en de Admiraal Helfrichlaan. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24B31DAFF0A35670AA0B0BB51B48F281"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Beneluxlaan te Utrecht vanuit het noorden; op de voorgrond de kruising met de Admiraal Helfrichlaan. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "280500F966D6554B98B6AEE283616E4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "97444"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een zijgevel van het autobedrijf Terberg Utrecht BV (Admiraal Helfrichlaan 6) te Utrecht. Opmerking: Twee aan elkaar geplakte foto's die deel uitmaakten van een aanvraag voor bouwvergunning."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "294991A1BC3E560D931F923955A30E4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "97443"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een zijgevel van het autobedrijf Terberg Utrecht BV (Admiraal Helfrichlaan 6) te Utrecht. Opmerking: Twee aan elkaar geplakte foto's die deel uitmaakten van een aanvraag voor bouwvergunning."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E385BD53A11581FADB2D45E333C657C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117301"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde (tijdelijke) gebouw van Holland Casino Utrecht (Overste den Oudenlaan 2) te Utrecht, op de hoek met de Admiraal Helfrichlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2EC96F9F3C305B30A65D1DFD92942D1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806303"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de jeu de boulesbaan op de binnenplaats achter de Admiraal Helfrichlaan en de Uniceflaan te Utrecht. Opmerking: De originele foto bevindt zich in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "380ADE8806445B0AA1E493E7CA0BFDE1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85524"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijke deel van de wijk Kanaleneiland te Utrecht, uit het zuiden, met op de voorgrond de Beneluxlaan en in het midden de Admiraal Helfrichlaan. Op de achtergrond de Weg der verenigde Naties."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "467EA2C609AB532C943C24C8FE5389D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58092"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van een flatgebouw met woningen en winkels aan de Admiraal Helfrichlaan  te Utrecht. Opmerking: Fotonummer 2939"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F02661A668457C1BF60392B7174C88C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87681"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het beeld \"Admiraal Helfrich\", door Joop Hekman, aan de Admiraal Helfrichlaan te Utrecht. Opmerking: Fotonummer Hulskamp 23621"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55315610398F515A95D85D7D42BA2070"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58093"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Admiraal Helfrichlaan en omgeving te Utrecht met op de achtergrond de kruising met de Van Bijnkershoeklaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "56B20D5C7D5957E989CA40E925699641"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44259"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht vanaf het ROVU-kantoorgebouw (Ravellaan 96) te Utrecht op het parkeerterrein van de Jaarbeurs tussen de Weg der Verenigde Naties (voorgrond) en de Admiraal Helfrichlaan. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "668D5EDDA8BF52BFA01457A0F4876FD6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58096"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouwspeelplaats op de hoek van de Van Bijnkershoeklaan en de Admiraal Helfrichlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "696B52ACFDA15DFCA64202E173BB34E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53325"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de Beneluxlaan te Utrecht met de Admiraal Helfrichlaan (links) en de Van Heuven Goedhartlaan (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C6BBF4FA6B250499701C0240A6C3D86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "97441"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een zijgevel van het autobedrijf Terberg Utrecht BV (Admiraal Helfrichlaan 6) te Utrecht. Opmerking: Drie aan elkaar geplakte foto's die deel uitmaakten van een aanvraag voor bouwvergunning."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CFAF846C3971DB1E0534701000A5BE1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de Beneluxlaan te Utrecht met de Admiraal Helfrichlaan (linksonder) en Van Heuven Goedhartlaan (rechtsboven), vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204), bij avond. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakte kleinbeelddia."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "985CC4590B0A53B296F8B102BDFC297E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404531"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de opgebroken Admiraal Helfrichlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B4C6196961B75068A6E22DC4D3687CC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405572"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van Autobedrijf Honders (Admiraal Helfrichlaan 6-8) te Utrecht: showroom."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB39B1A2EE7F52C39BDE1531E3CD6EB6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58094"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Admiraal Helfrichlaan te Utrecht, vanaf het gedeeltelijk voltooide fietspad, uit het noordoosten. Opmerking: Persfotobureau 't Sticht fotonummer: 1588-11A."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BDB952977D9A5C60AAECCE868A13BBC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24354"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw met woningen aan de Admiraal Helfrichlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C70DF7D6C95C5992AB92EC469B8EE5AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "97442"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het autobedrijf Terberg Utrecht BV (Admiraal Helfrichlaan 6) te Utrecht. Opmerking: Twee aan elkaar geplakte foto's die deel uitmaakten van een aanvraag voor bouwvergunning."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7C1892B4A3D5BC3A47A4B5E50293E8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de onderpui en ingang van het kantoorgebouw Admiraal Helfrichlaan 36 (Kantoor van het Weekblad Panorama) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8BAB44C2C0F5477B1A091C8AE481DA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71996"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het braakliggende terrein aan de Weg der Verenigde Naties te Utrecht. Geheel links enkele flatgebouwen aan de Admiraal Helfrichlaan. Rechts op de achtergrond het kantoorgebouw aan de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBB1AAE168B156DA81F9EBF2904C1C44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819742"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het pand Admiraal Helfrichlaan 54 (\"Transwijk Telecom\") te Utrecht.<ZR><ZR>N.B. Tot ca. 1990 was in dit pand een winkel van Bakkerij De Raad gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D5BDF528252759B08C066DF5FE912447"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101470"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het in werking stellen van een computer voor de regeling van de verkeerslichten op het kruispunt Beneluxlaan / Admiraal Helfrichlaan te Utrecht door burgemeester jhr. mr. C.J.A. de Ranitz, in het hoofdbureau van politie (Paardenveld) te Utrecht, met rechts van de burgemeester (v.l.n.r.) de wethouders A. Looten en W.J. Vergeer en hoofdcommissaris H.W. Offers. Opmerking: 't Sticht fotonummer 6776/8."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-02-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-02-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E478D57FA4C0546C9343814326628AB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127438"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van bezoekers en geparkeerde auto's in verband met de Voorjaarsbeurs op de hoek van de Overste den Oudenlaan en Admiraal Helfrichlaan (voorgrond) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E52A5861FD7F507BAE172582072CCB78"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405565"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van Cap Gemini (Admiraal Helfrichlaan 1) te Utrecht, voorzien van schotelantennes voor de communicatie met andere kantoren van het bedrijf."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E912E73E785150D3B7DD25F1EA448D6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24414"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw aan de Overste den Oudenlaan (links) hoek Admiraal Helfrichlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE11F4E317FC55C48B72B7EDEEE41108"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117204"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw Admiraal Helfrichlaan 1 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE210F8DD07B5E1CA17C3CE44A1A9DC4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127872"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Beneluxlaan te Utrecht, vanaf de kruising met de Admiraal Helfrichlaan / Van Heuven Goedhartlaan, uit het noordwesten. Links het flatgebouw Beneluxlaan 12-210."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F6E1503344FD55C3AF217BF687F4A337"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Admiraal Helfrichlaan met het parkeerterrein te Utrecht; op de achtergrond het flatgebouw De Hoogt, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5DD55FEB1A0251A8957D3A85ECDFC7C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69605"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Rupelmondelaan te Utrecht. Opmerking: Overgebracht uit archieven, 10 mei 1988."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "96104BAA59E153C0A4B9FB84493DDB55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69057"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan het Queeckhovenplein te Utrecht met daarin de woningen Queeckhovenplein 11-hoger. Geheel rechts de ingang van de Rupelmondelaan. Opmerking: Overgebracht uit archieven, 10 mei 1988."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

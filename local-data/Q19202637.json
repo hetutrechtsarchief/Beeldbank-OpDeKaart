@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09028D78A5965482A2F5D20EBFC2F92D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Heemstedelaan te Utrecht met de huizen nrs. 24-lager; rechts op de voorgrond een gedeelte van een flatgebouw aan de Oud-Wulvenlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DCA504E42EF5A12882A19202E98407D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18593"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Heemstedelaan 14 (midden)- hoger te Utrecht met links op de voorgrond de Roelof Droststraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

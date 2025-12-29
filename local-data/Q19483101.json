@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5378B355768C5E4891C1DE3E26BA282F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92348"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de brand in de woning Rubenslaan 3 te Bilthoven (gemeeente De Bilt)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

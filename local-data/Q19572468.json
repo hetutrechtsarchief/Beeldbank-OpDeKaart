@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "616DE48860FB57B19521055CC6B7CA5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7590"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het Tehuis voor wezen en ouden van dagen aan de Tromplaan te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD0B13E2F36351D092BEE15C2C7F92C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het Tehuis voor wezen en ouden van dagen aan de Tromplaan te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF513F0337BC5501AD9D4173BA75AE0B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7589"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het Tehuis voor wezen en ouden van dagen aan de Tromplaan te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

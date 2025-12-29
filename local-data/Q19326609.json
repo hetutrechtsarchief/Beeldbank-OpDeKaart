@@ -1,0 +1,828 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DB1928D4E86531296FDB8E2BF5922DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62511"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het erf van de boerderij Buitenlust (Liesbosweg 42) te Utrecht met een tilbury; op de achtergrond het polderlandschap tijdens het uitvoeren van werkzaamheden t.b.v. het uitbreidingsplan Hoograven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "150930820BF85B088F4C60AE898C5DDA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22669"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Liesbosweg te Utrecht met op de achtergrond de Hooft Graaflandstraat. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B86C601AD9051168C288F165095BB78"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35532"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Liesbosweg te Utrecht en omgeving, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1EDB2940629A55C4BB8B57D1A581F4DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829427"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti van \"KWC\" uit 2012, in een steenoven van de voormalige Steenfabriek 'De Liesbosch' in het Liesbospark (Liesbosweg) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B133E2512F3598697B11EA43BF434FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72016"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde panden Verlengde Hoogravenseweg 13-15 (Clubgebouw De Driewerf: roeiverenigingen ORCA, Triton en Viking) te Utrecht, vanuit het zuidwesten, vanaf de brug in Rijksweg 12. Op de achtergrond het industrieterrein Hoograven (links) en de panden aan de Verlengde Hoogravenseweg en de Liesbosweg (rechts). Op de voorgrond het Merwedekanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FD88CFB07FA55128A45CD352CC16BF2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101494"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de aanleg van twee korfbalvelden voor de Utrechtse Stichting voor Lichamelijke Oefening (U.S.L.O.) tussen de Liesbosweg en de Pagelaan te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, woensdag 3 april 1968, blz. 4."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "352C899CC44350C28F5A94AD5709AB6B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "103015"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de vlootschouw in de Vaartsche Rijn te Utrecht ter gelegenheid van de viering van het 9e lustrum van de Wilhelminagroep Zeeverkenners, ter hoogte van hun clubgebouw aan de Liesbosweg. Opmerking: Zie ook Utrechts Nieuwsblad, 13 september 1982, blz. 7."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-09-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36C3B6B43B17576297DF360043C2CEF0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "28206"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ru\u00efne van de steen- en dakpannenfabriek De Liesbosch (Liesbosweg 2) te Utrecht vanaf het Merwedekanaal, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38F022EBD77D5665AB2E965B42007297"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62508"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Liesbosweg te Utrecht met de voorgevels van enkele huizen; links de ingang van de Verlengde Hoogravenseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51E8292EA1EF59C98E9759457A2729BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813825"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sportvelden van Sportaccomodatie Lunetten (Oude Liesbosweg) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "560562181AAA5240AA08AC5DF2388E24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met vermoedelijk een imitatie van de Utrechtse kabouter (KBTR), in een steenoven van de voormalige Steenfabriek 'De Liesbosch' in het Liesbospark (Liesbosweg) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5956243F6722527981A87787ACCFBCA3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126102"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vervuilde sloot (Liesboswetering) langs de Liesbosweg (ter hoogte van het einde van de Verlengde Hoogravenseweg) te Utrecht, met op de achtergrond de oud-ijzerhandel Tinca."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D542B6044085085870F6D3B0C96B511"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22602"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele spelende kinderen bij een sloot langs de Liesbosweg te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "610DDE0F157F5C649A46CA0691BFDA6A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "28207"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Fantasievoorstelling van de ru\u00efne van de steen- en dakpannenfabriek De Liesbosch (Liesbosweg 2) te Utrecht, met drie neergeklapte muren en een windrichting-aanduiding."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CBA7F6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350187"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Liesbossche Wetering met een sluis en een schut te Utrecht uit het westen; met links de Liesbosweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "678CABC431215DB2AD55913E9A5AEAB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "83604"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bruggetje over de Liesboswetering in de Verlengde Hoogravenseweg te Utrecht, uit het zuidwesten. Op de achtergrond links enkele huizen aan de Liesbosweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69E87B13A4F1505DA4E08DCBEF31956F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45312"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij van De Leeuw aan de Liesbosweg te Utrecht, nabij de Rijksweg 12."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E8220D2903D5DEE9D19E1134A1F0AC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een toegangsbrug naar de speeltuin Fort Luna (Oude Liesbosweg 40) te Utrecht; op de achtergrond een flatgebouw aan de Karpaten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87BF5C0EFF7D509C88C0528E320962B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31550"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bevroren fortgracht en de westhoek van het fort Lunet 4 te Utrecht vanaf de Oude Liesbosweg, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "970C46D02DB05E209887972C59652B33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62509"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ru\u00efne van de steen- en dakpannenfabriek De Liesbosch (Liesbosweg 2) te Utrecht vanaf de overzijde van het Merwedekanaal"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A780AF3B811952C18384113B03DEE407"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822919"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de restanten van een steenoven van de voormalige Steenfabriek \"De Liesbosch\" in het Liesbospark (Liesbosweg) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACADDABB461F5F6D96BC479B2F95F3E3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22665"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele panden aan de Liesbosweg te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE8EA47454025DC9A2124F858DF8B6C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829429"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met vermoedelijk een imitatie van de Utrechtse kabouter (KBTR), in een steenoven van de voormalige Steenfabriek 'De Liesbosch' in het Liesbospark (Liesbosweg) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7BF162B7ADF5C2DBEC4B4F47A1CF622"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101493"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de aanleg van twee korfbalvelden voor de Utrechtse Stichting voor Lichamelijke Oefening (U.S.L.O.) tussen de Liesbosweg en de Pagelaan te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, woensdag 3 april 1968, blz. 4."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C905CD0BCCDC586EB6E165375047FED6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62510"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de boerderij Buitenlust (Liesbosweg 42) in het landschap te Utrecht, tijdens het uitvoeren van werkzaamheden t.b.v. het uitbreidingsplan Hoograven. Opmerking: Op de achterzijde van de foto staan gegevens vermeld over de bewoner van de boerderij."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0069D5D495F5D0187C91F708EB7BEFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829426"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti van \"KWC\" uit 2012, in een steenoven van de voormalige Steenfabriek 'De Liesbosch' in het Liesbospark (Liesbosweg) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB8A6020607D51BDBCD628ECAEB247F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800526"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ru\u00efne van de steen- en dakpannenfabriek De Liesbosch (Liesbosweg 2) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F73AE35947625A0BAF95D72BEF69C0BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108386"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ru\u00efne van de de steen- en dakpannenfabriek De Liesbosch (Liesbosweg 2) te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Merwedekanaal\" van fotograaf Arthur Blonk (1945-2012) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD5B1E5E447D5A0EBF5B809A4C5AC934"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72014"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele voorgevels van een aantal panden aan de Verlengde Hoogravenseweg te Utrecht. Rechts de zijgevel van het pand Liesbosweg 51 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

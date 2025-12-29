@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "701617D306869E84E0534701000ABC0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "502315"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over, vermoedelijk, de Kromme Rijn in de wijk Rijnsweerd te Utrecht; rechts enkele huizen aan de Horatiuslaan en Ovidiuslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC5C6DB60AC15B7A87ECB4B152F35E8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58657"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Horatiuslaan 1 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9F76DBEE5085C5FAEA866B54E68CB4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele in aanbouw zijnde huizen aan de Sophocleslaan te Utrecht met links op de voorgrond de ingang van de Horatiuslaan. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

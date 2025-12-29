@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82E76AFB603A5E3BBB06DFF8EB9D0E36"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405234"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de busremise van de N.B.M. (Verlengde Trambaanweg 4-6) te Rhenen, met enkele autobussen. Opmerking: De foto maakt onderdeel uit van een serie foto's met betrekking tot het 75-jarig jubileum van de N.B.M. in 1954.<ZR>Zie ook \"Vijf en Zeventig Jaar N.B.M.\", door P. van Campen (1954), blz. 61."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ABB678D1F041593FB3679B8201B480B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405236"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de busremise van de N.B.M. (Verlengde Trambaanweg 4-6) te Rhenen, met enkele autobussen. Opmerking: De foto maakt onderdeel uit van een serie foto's met betrekking tot het 75-jarig jubileum van de N.B.M. in 1954."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

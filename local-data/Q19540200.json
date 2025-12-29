@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69EE9C9236CE5BF8A813EBFA60741575"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang aan de Spoorstraat te Barneveld, met op de achtergrond het kasteel De Schaffelaar. Opmerking: NS fotonummer 20610"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8ADF89FD77FB57D19CC97A9717D9248B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165077"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorlijn van de N.C.S. langs de Spoorstraat te Barneveld, met links op de achtergrond het N.C.S.-station Barneveld Dorp.<ZR><ZR>N.B. De stationsnaam Barneveld Dorp is per 31 mei 1981 gewijzigd in Barneveld Centrum. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1909-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8E181BDF78E5E82A54C43F1B7E07F9C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162641"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Spoorstraat te Barneveld, met rechts de spoorlijn richting Voorthuizen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

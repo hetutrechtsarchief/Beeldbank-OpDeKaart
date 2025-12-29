@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E26523541D915E4A82796ACADA704A19"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803173"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Bijleveld te Harmelen, uit het zuiden, met rechts op de voorgrond de nog niet doorgetrokken Dorpeldijk. Op de achtergrond de boerderij 't Spijck (ook wel 't Spijk, gemeente Vleuten-De Meern) en de spoorlijn Utrecht-Rotterdam."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

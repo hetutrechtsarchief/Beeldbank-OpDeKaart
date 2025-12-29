@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD0F0C5D59D9548B923913355F1237AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812115"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.H.-station Enter te Enter (spoorlijn Neede-Hellendoorn). Opmerking: De afbeelding is afkomstig uit \"Voor Allen der H.IJ.S.M\", 1910, blz. 58.<ZR>Collectie De Pater, bibl. HUA De Pater DK52."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

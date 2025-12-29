@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC7903A915A855A09CD7F6EE507C31ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92204"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het gebouw van de Baarnsche Zwem- en Badinrichting (August Janssenweg) te Baarn.<ZR><ZR>N.B. Het gebouw is verloren gegaan tijdens de zware storm in januari 1916 en in hetzelfde jaar vervangen door een nieuw stenen gebouw. Opmerking: In 1980 vervaardigde fotoreproductie van een ca 1915 gemaakte foto. De originele foto bevindt zich in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

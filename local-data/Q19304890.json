@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C2C24990EA3B58698E388501158075AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85569"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de Vleutenseweg en omgeving te Utrecht, uit het zuiden. Op de voorgrond de 1e Atjehstraat en de 1e Delistraat (midden), in het midden de Kneppelhoutstraat en het Cremerplein met links daarvan de Van Koetsveldstraat en rechts de Hasebroekstraat. Op de achtergrond het terrein van de Spoorstaaflasinrichting (SLI) van de Nederlandse Spoorwegen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE6AB4C12A5A5593BFD55D771898AE68"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60349"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kneppelhoutstraat 23-lager te Utrecht; links het huis nr. 23."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

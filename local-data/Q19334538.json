@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "552356DCDFC551248489D8E6484A920B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817623"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de toegang tot de Mantelmeeuwhof te Utrecht vanaf de Oosterkade naar het oosten; links de zijgevel van het pand Oosterkade 15. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B6D88DCE49558359608EED8CD8542AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808722"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Mantelmeeuwhof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D83053D99AD351998B1BDA5CFCFAC408"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808719"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouwwoningen aan de Mantelmeeuwhof en de Zeemeeuwhof te Utrecht, vanaf de Wulpstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-02-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

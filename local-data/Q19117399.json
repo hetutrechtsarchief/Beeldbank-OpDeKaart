@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82A01BC185B05DD4A53ADBF19280028F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93663"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de Ds. J. Bogermanschool (Emmalaan 66) te Lopik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

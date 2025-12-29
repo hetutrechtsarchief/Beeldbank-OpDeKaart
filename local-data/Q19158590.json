@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E04A189D708527B86C7CA194F5659A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75433"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van de Nutsspaarbank (Fortunadreef) te Utrecht. Opmerking: 't Sticht fotonummer 7757/18"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4ECD63BEEEEA58CDA916490A5AC06E66"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75434"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het gebouw van de Nutsspaarbank (Fortunadreef) te Utrecht: kantoor. Opmerking: 't Sticht fotonummer 7757/14"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC6411185E24589A8561230E2BC0554E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75029"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de supermarkt Simon de Wit aan de Fortunadreef te Utrecht. Opmerking: 'f Sticht fotonummer 3746-7"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-02-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-02-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "004956EBB2895701829CBEBEA2D43A2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819257"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Korte Hamstraat te Utrecht, vanuit de Willemstraat naar het oosten; op de achtergrond kantoorgebouwen aan de St.-Jacobsstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08AC9F13B52854C2BB9381C2150A05A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819258"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Korte Hamstraat 5 - lager te Utrecht vanuit de Willemstraat; op de achtergrond een kantoorgebouw aan de St.-Jacobsstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D304A81BDB5547BB790A48EF0D92C15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73843"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Willemstraat 31 (links) -39 te Utrecht. Rechts van nr. 39 de Korte Hamstraat en op de voorgrond het parkeerterrein aan de Varkenmarkt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3DD5F11ED2095C68A4210340B1659441"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73847"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en linker zijgevel van het huis Willemstraat 39 te Utrecht. Op de voorgrond de Korte Hamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F46F219CDCF51458CFC994CD0D36BE3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60559"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Korte Hamstraat 1-3-5 te Utrecht, uit het zuidoosten met rechts de ingang van de vroegere Lange Hamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43C6B36538435C29BB6DC2D0CBA6A52C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60558"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Korte Hamstraat 1-3-5 te Utrecht, uit het oosten met op de achtergrond de rechter zijgevel van het huis Willemstraat 41 en rechts de ingang van de vroegere Lange Hamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F0EEA3556295E6F9CB4879EA25DFB20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21398"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Korte Hamstraat te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60722135D11C5B8D98D54D879FF616BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "86193"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Korte Hamstraat te Utrecht, uit het oosten; op de achtergrond de Willemstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC8076B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "836029"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de panden Willemstraat 35 (links) -39 te Utrecht, met rechts de huizen Korte Hamstraat 1 - 5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC8266B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "836060"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van duiven op de dakgoot van de huizen Korte Hamstraat 1 - 3 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC8276B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "836061"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pleintje achter de Willemstraat en de Varkenmarkt te Utrecht, met rechts de huizen Korte Hamstraat 1 - 5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC82F6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "836069"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bovenste deel van de huizen Korte Hamstraat 1 - 3 te Utrecht, met links het huis Willemstraat 41."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC8396B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "836079"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Korte Hamstraat 1 - 5 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D502185D80B52F08387448DDA719B84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60560"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van het huis Korte Hamstraat 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "72C8AC09F46E574F8054AC7340FF4DFA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20372"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willemstraat te Utrecht met de huizen nrs. 39 (links het hoekhuis)-lager; links op de voorgrond de ingang van de Korte Hamstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AA149AAC8745689AA58A462B05A6DA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73849"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willemstraat te Utrecht, uit het noordwesten, met de huizen nrs. 43-lager. In het midden de ingang van de Korte Hamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C4FC604D5785062BD1D2247BF1DD635"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73846"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Willemstraat 49 (links) -37 te Utrecht. Tussen de nrs. 41 en 39 de ingang van de Korte Hamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "89DF21845B3853D993658E716CFE2D99"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120088"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de St. Jacobsstraat te Utrecht, uit het westen. Links de Waterstraat met de Jacobikerk (Jacobskerkhof). Op de achtergrond de Oudegracht met de St.-Augustinuskerk (Oudegracht 69). Op de voorgrond de Willemstraat en de Korte Hamstraat en rechts de Varkenmarkt. Opmerking: Fotonummer 50092.<ZR>Afdruk van origineel negatief, 2002."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98237089EF4758579F6087EB08F7D207"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601485"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijdes van enkele huizen aan de Varkenmarkt (links) en de Willemstraat te Utrecht, vanaf het parkeerterrein tussen de Korte Hamstraat en de Varkenmarkt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-10-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-10-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C265C2A8A4445621BF76922DBC54AF30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823257"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de panden Lange Hamstraat 2 (rechts) - hoger te Utrecht met twee bewoners zittend voor de deur; op de achtergrond de ingang van de Korte Hamstraat; enkele panden zijn dichtgetimmerd voor de komende sloop.<ZR><ZR>N.B. De straatnaam Lange Hamstraat is in 1970 vervallen verklaard. Opmerking: De foto werd gemaakt in opdracht van de Zusters Augustinessen voor mogelijke plaatsing in hun maandblad \"De Stad Gods\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C884647FC78C51A583A422629A1407C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819259"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Korte Hamstraat te Utrecht vanuit de straat naar het westen; op de achtergrond de Willemstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D14E3C98F73B5DFEAA69D8E1429333E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819260"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Korte Hamstraat 1 - hoger te Utrecht; op de achtergrond de Willemstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E41F605B776957ECB9787177D0DD685D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73848"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Willemstraat 43 (links) -39 te Utrecht. Tussen de nrs. 41 en 39 de ingang van de Korte Hamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E759615912F9510BB98D6B07ECAA3F4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119749"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Willemstraat 37 (rechts, Caf\u00e9 Kees)- 41 te Utrecht, vanaf een braakliggend terrein; in het midden de ingang van de Korte Hamstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE4F92CD13195FE3926EE6521AF7DF63"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823255"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een groepje lezende kinderen zittend op straat in de Korte Hamstraat te Utrecht; op de achtergrond de Lange Hamstraat. Opmerking: Gepubliceerd in het maandblad van de Zusters Augustinessen \"De Stad Gods\", aug. 1949, met het bijschrift: \"Ook in kleine straten spelen kinderen\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

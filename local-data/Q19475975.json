@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CBF1D6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501963"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde wijk Hoograven te Utrecht, uit het zuidwesten, vanaf (ongeveer) de Vronesteinlaan, met op de voorgrond de 't Goylaan en de 't Goybrug. Links de flatgebouwen aan de Roelof Drosthof en rechts op de achtergrond de St.-Johannes de Doperkerk (Plettenburgplantsoen 2).<ZR><ZR>N.B. De foto is onderdeel van een drieluik-panorama; zie cat. nr. 501961 t/m 501963 en de als tweede afbeelding toegevoegde digitale montage."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

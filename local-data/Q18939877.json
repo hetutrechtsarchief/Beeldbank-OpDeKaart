@@ -1,0 +1,408 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05BB8BBE5DA652C3AA0DD6911646C02B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52251"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bedrijfsgebouw Aquamarijnlaan 59-63 te Utrecht, uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "127A59392C88512B93730DB4CB5BF539"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52248"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij met stal  Aquamarijnlaan 51 te Utrecht, uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "26EEEA336ECF58C3ABD82FB6C77C028D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44590"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de werkzaamheden ten behoeve van de uitvoering van het uitbreidingsplan Tolsteeg te Utrecht, vanaf de Hoogravensedijk (dit deel werd later de Aquamarijnlaan), met gereedliggende rioolbuizen.<ZR><ZR>N.B. De straatnaam Hoogravensedijk is in 1976 vervallen verklaard. Opmerking: Circa 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "33BDF19007825F08B4BADA2F6777BCD5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117788"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jan van Arkelstraat te Utrecht, uit het zuiden, met op de achtergrond de kruising met de Aquamarijnlaan.<ZR><ZR>N.B. De foto is gemaakt ter voorbereiding van scholieren voor de te fietsen route voor het Verkeersexamen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38FCA544B1A55AA8A29F69AD563A7687"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75072"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van de Kapsalon Nagtegaal (Julianaweg 467) te Utrecht; rechts de Aquamarijnlaan)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CF8A239713654F28B5483CAD38DB9E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18679"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen Aquamarijnlaan 340-lager te Utrecht; rechts een gedeelte van de woningen aan de Detmoldstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6499FEEA877C51EAA6C63219201C3068"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52259"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van een flatgebouw aan de Aquamarijnlaan te Utrecht, vanuit het zuiden met op de voorgrond de Jan van Arkelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "820A1A68B9E65E1AA72004C556EA602C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52250"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de stal en de boerderij Aquamarijnlaan 51 te Utrecht, vanaf het Prinses Beatrixplein met rechts het bedrijfsgebouw Aquamarijnlaan 59-63."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83EBE6CB821E51949C59E5A6F2736604"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18678"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het flatgebouw met de woningen Detmoldstraat 17 (links) -lager te Utrecht met links de ingang van de Aquamarijnlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8808A5FEB6A35200BBB936C472182596"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het blussen van de brand in het voormalige garagebouw Aquamarijnlaan 59-63 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A33BB3F852C150939A418D9443714F85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117789"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Aquamarijnlaan te Utrecht, uit het westen, met op de achtergrond de kruising met de Detmoldstraat.<ZR><ZR>N.B. De foto is gemaakt ter voorbereiding van scholieren voor de te fietsen route voor het Verkeersexamen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B25037422E325907921B803F477FCFFA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45644"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Smaragdplein en omgeving te Utrecht, uit het noordwesten, met links op de voorgrond de Smaragdhof, bovenaan de Detmoldstraat en rechts de Aquamarijnlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DCE6F96EA9885753852943E0857EE0D9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44531"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Aquamarijnlaan te Utrecht, uit het oosten, vanaf de hoek met de Detmoldstraat. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB86A359D04C5F7087F100DABA6030A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52249"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de stal bij de boerderij Aquamarijnlaan 51 te Utrecht met rechts de achtergevel van de boerderij, uit het zuiden, vanaf het Prinses Beatrixplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

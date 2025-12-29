@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC0DD6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604294"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goethelaan te Utrecht tijdens winterse omstandigheden, met op de achtergrond de hoek met de Byronstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC0E66B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604303"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goethelaan te Utrecht, vanaf de voortuin van het huis Goethelaan 73. In het midden de ingang van de Byronstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC0E76B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604304"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goethelaan te Utrecht, vanaf de voortuin van het huis Goethelaan 73. Links de ingang van de Byronstraat en rechts de hoek met de Schillerlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "63377EBAE87F5A129CFBE60789F022C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125058"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een draaiorgel met het orgelpaard Silvia in de Byronstraat te Utrecht. Opmerking: Het paard is op 28 februari 1976 in De Paardenkamp, het Nationaal Rusthuis voor Paarden, te Soest opgenomen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F288FDD31A05465BB5141C7451D542D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156402"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden voor het hoogspoor en de bouw van het spoorviaduct bij de Gagelstraat te Eindhoven. Opmerking: De afbeelding staat in het album D\u00e9 Overweg / de oplossing van het probleem in foto's van Martien Coppens, aangeboden door het gemeentebestuur van Eindhoven, ter dankbare herinnering aan de totstandkoming en feestelijke in gebruikneming van de hoge spoorbaan en de nieuwe perrons. Eindhoven, 28 november 1953"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8730EFB76A9554D9745DAF5CE14CA0C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156403"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden ten behoeve van de aanleg van het hoogspoor te Eindhoven, ter hoogte van de Gagelstraat. Opmerking: De afbeelding staat in het album D\u00e9 Overweg / de oplossing van het probleem in foto's van Martien Coppens, aangeboden door het gemeentebestuur van Eindhoven, ter dankbare herinnering aan de totstandkoming en feestelijke in gebruikneming van de hoge spoorbaan en de nieuwe perrons. Eindhoven, 28 november 1953"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      }
+    ]
+  }
+}

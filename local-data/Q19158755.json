@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "00CA36F5AF935E8283487EA46A0EB18C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19474"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het bedrijfspand Franciscusdreef 82 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F5E962DB67055EAAC941C136A047885"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85275"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de J. M. de Muinck Keizerbrug over de Vecht te Utrecht, uit het zuidwesten. Links de Atletiekbaan Overvecht en op de achtergrond het Bedrijventerrein Overvecht en de Franciscusdreef. Rechts het Fort De Klop."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CE5901E344458E997F1E2932AC0A375"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85281"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het gedeelte van de wijk Overvecht te Utrecht tussen de Franciscusdreef (links) en de Klopvaart (rechts), uit het zuiden. Geheel links een deel van het Bedrijventerrein Overvecht en geheel rechts op de voorgrond een deel van het bejaardencentrum 't Huis aan de Vecht (Costa Ricadreef 9)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E4AD575FBFA5C37B27CD2B3010DAC47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50670"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordwestelijke gedeelte van de wijk Overvecht te Utrecht, uit het zuiden, met op de voorgrond het College De Klop (Orinocodreef 7-9) en van linksonder naar rechtsboven de Franciscusdreef met daarachter het bedrijventerrein Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2977E5E46FD15D109CA65DC55A6F0C87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85289"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de  Atletiekbaan Overvecht (1e Polderweg 7) te Utrecht (rechts), uit het noordwesten en links de Kunstijsbaan Utrecht (Mississippidreef 151). Links op de achtergrond de Franciscusdreef en het Fort De Klop.<ZR><ZR>N.B. De naam Kunstijsbaan Utrecht is in 1983 gewijzigd in Kunstijsbaan De Vechtsebanen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A1DCDC5FE47518194CDEA313C9D9CF2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75030"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bijna voltooide gebouw van de Konsumentenmarkt Overvecht aan de Franciscusdreef te Utrecht, uit het zuidoosten. Opmerking: 'f Sticht fotonummer 9633/6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FCC514AE840552297C2F3F0E2A679E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50671"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordwestelijke deel van de wijk Overvecht te Utrecht, uit het noordoosten, met links op de voorgrond de Rio Brancodreef en rechts de Franciscusdreef met daarachter het bedrijventerrein Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3FF969AA466D589F8552E4353426C19D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Franciscusdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B8894ED739C5B5088A46D9F4593FC47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Crematorium Daelwijck en de 4e Algemene Begraafplaats Daelwijck aan de Floridadreef te Utrecht, uit het zuiden, met links op de voorgrond een deel van het Bedrijventerrein Overvecht, rechts de Franciscusdreef en op de achtergrond de in aanleg zijnde Zuilense Ring en de Gageldijk te Maarsseveen. Opmerking: KLM fotonummer KO 7584."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "59C93C709B7959A8AC82C4F0BEC6BD83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802173"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Kunstijsbaan Utrecht (Mississippidreef 151) te Utrecht; rechts de  Atletiekbaan Overvecht (1e Polderweg 7); op de voorgrond  het volkstuincomplex Ons Genot (2e Polderweg 5) en op de achtergrond de Franciscusdreef.<ZR><ZR>N.B. De naam Kunstijsbaan Utrecht is in 1983 gewijzigd in Kunstijsbaan De Vechtsebanen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75A8DDFDD0D6573480E5C39093375AAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Franciscusdreef en omgeving te Utrecht, uit het zuiden, met op de voorgrond de Acapulcodreef en de Nicaraguadreef en links op de achtergrond het bedrijventerrein Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A0BEB5523BC525391F84078B98443CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een bedrijfsgebouw aan de Franciscusdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A95738C478E510E96E37B778D89F16E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400974"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanbouw zijnde wijk Klopvaart (Overvecht) te Utrecht, uit het zuiden, met links op de voorgrond de Orinocodreefen, rechts de Klopvaart en van linksmidden naar rechtsboven de Franciscusdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90B78B09852854B1AE673C4B32C4B3C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85288"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanleg zijnde Atletiekbaan Overvecht (1e Polderweg 7) te Utrecht, uit het noordwesten. Links op de voorgrond de kunstijsbaan Utrecht (Mississippidreef 151), in het midden de Franciscusdreef en op de achtergrond het Fort De Klop.<ZR><ZR>N.B. De naam Kunstijsbaan Utrecht is in 1983 gewijzigd in Kunstijsbaan De Vechtsebanen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "937C256E270E51FAB8F37F20A0AEFA6A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56751"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van een flatgebouw aan de Franciscusdreef te Utrecht, uit het zuidzuidwesten; rechts een deel van een flatgebouw aan de Mexicodreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A3FF5C263125FB894E0EE93FFD2C374"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803183"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het in aanleg zijnde bedrijventerrein Overvecht te Utrecht, uit het zuidwesten, met van onder naar boven de Franciscusdreef en naar links de St. Laurensdreef. Linksboven van het midden een vestiging van automobielbedrijf Terberg Utrecht N.V. (Franciscusdreef 68)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D38F7CCD9585B9C97113EC1AF551FE6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117995"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanleg zijnde Atletiekbaan Overvecht (1e Polderweg 7) te Utrecht, uit het zuidwesten; in het midden de kunstijsbaan Utrecht (Mississippidreef 151) en rechts de Franciscusdreef.<ZR><ZR>N.B. De naam Kunstijsbaan Utrecht is in 1983 gewijzigd in Kunstijsbaan De Vechtsebanen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE7E5477A4885F5F91F18DF178CBE642"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400957"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Orinocodreef te Utrecht, ter hoogte van de kruising met de Franciscusdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B91D3A529636585F95E7B5693B161F1C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401962"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Griekse restaurant Thassos, gevestigd op de bovenverdieping van een bedrijfspand aan de Franciscusdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC78D10E750C5B33809B314FD80C708C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802176"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Bedrijventerrein Overvecht te Utrecht met op de vorgrond de Vecht en in het midden de Franciscusdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE87D13EFF595068BF1CD3A13D44B64B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402350"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van P.M. Trost, \u00e9\u00e9n van de directeuren van autohandel Trost BV Toyota (Franciscusdreef 10-16) te Utrecht, in een auto in de showroom van zijn bedrijf."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-06-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C658ED0E257355B19853CBFFD8618B05"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nog braakliggende terrein tussen de Klopvaart (voorgrond) en de Franciscusdreef (achtergrond) in de wijk Overvecht te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C74B76358F8156DBB1F458EF822DB80E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116130"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van enkele flatgebouwen aan de Franciscusdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D90B2AA58C565A2B94DBFED37DA7747B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116178"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw met toonzalen van de Mercedes-Benz dealer Pordon (Franciscusdreef 68) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2438A92004C5E6088266E4A2B7B5E33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56752"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van Dolf v.d. Made NV., Fiat-dealer (Franciscusdreef 10) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFC10B4594D65438AFFB342AADB43590"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400923"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van een flatgebouw aan de Franciscusdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0417AA424D752B39B99F0A643370A24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanleg zijnde Atletiekbaan Overvecht (1e Polderweg 7) te Utrecht, uit het zuidwesten; in het midden de kunstijsbaan Utrecht (Mississippidreef 151) en rechts de Franciscusdreef.<ZR><ZR>N.B. De naam Kunstijsbaan Utrecht is in 1983 gewijzigd in Kunstijsbaan De Vechtsebanen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7098396713C53CB806D2E4AA238C0CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85274"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het in ontwikkeling zijnde gebied tussen de Franciscusdreef (links) en de Klopvaart (rechts) te Utrecht, uit het zuiden. Op de voorgrond de Vecht en het Fort De Klop. Links op de achtergrond het Bedrijventerrein Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD211A562AFB53678FFDEB527CFFEC64"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803188"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het in aanleg zijnde bedrijventerrein Overvecht te Utrecht, uit het zuidwesten, met van onder naar boven de Franciscusdreef en naar links de St. Laurensdreef. Linksboven van het midden een vestiging van automobielbedrijf Terberg Utrecht N.V. (Franciscusdreef 68)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD340472CC66597A9FC6CF4D1412BCDB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809301"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Franciscusdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-02-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-02-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

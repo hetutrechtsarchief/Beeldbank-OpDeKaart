@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E45E0F2117FB5765A91DBC1C8CC5790B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5717"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van een flatgebouw aan de Agricolastraat te Wijk bij Duurstede uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

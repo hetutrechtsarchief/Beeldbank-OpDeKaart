@@ -1,0 +1,940 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0453604BF47A521285E847DE8855F2A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Weesp te Weesp: stationshal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "19FFEF38B6095E1DB82E6BF21C8D356C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161548"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Weesp te Weesp. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2936FB402EDB55649993AC6CBD40A803"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155961"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe tweede perron van het N.S.-station Weesp te Weesp. Opmerking: De foto is gepubliceerd in De Koppeling, nr. 939 (20 april 1984), p. 7."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30DD19875F425797BFD25849D364BEB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166231"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35A31588A66056B5BD7B1C9C3B368777"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161546"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Weesp te Weesp. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BB747A8B900504C97CC01A6BF900B04"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150821"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Weesp te Weesp, kort voor de afbraak."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3DF30D522D19580487DC4C9596D081C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166124"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Weesp te Weesp: stationshal, met loketten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E50A79A9EAB58E09C862F26FBE1BB16"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E81BA65AABF5D698500E0FBB82FEBCC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156248"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40EE5C1E77485704A552EA460F849F36"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156249"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Weesp te Weesp. Opmerking: De foto is gepubliceerd in De Koppeling nr. 722 (2 maart 1979), p. 3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "42BEC67A1CDD5F10A49791C0223595E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150824"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A71742C3C635419B2B194624E7352E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150822"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "67952689F8B1579C84FD5A383844AAF0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161547"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Weesp te Weesp. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68C83D4E38EF56EAA2D90364814D401C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166167"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Weesp te Weesp: stationshal, met loketten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D403C7D65E056099048E534C37078DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166193"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7029FD3C075F5BEFA8642291D7868053"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164812"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het stationsplein te Weesp, met rechts het N.S.-station Weesp. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7224A5BAD50E5F72A83E7C1F91DF32F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150826"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de uurwerktoren annex schoorsteen van het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73B395D87951513DAAF927D22828CFCA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170258"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de laad- en losplaats van het N.S.-station Weesp, met rechts de spoorlijn richting Diemen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74B3F9690CC450F3B99395D0362112CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150819"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "815FFB0D359D59FB89AAA9EF6F212845"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150825"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang fietsenstalling en toegangstrap <ZR>van het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "96D0B0E1431152499F3939203E6F0B2C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150827"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9BDE44DDA7DE527D9A8C1E19537D1D34"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150823"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8A787CAB6D458FB94DB1450E13A461F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S,-station Weesp te Weesp met een electrisch treinstel mat. 1954 (plan P) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C59C713B2C5A50A7BDEBBE0CE8506B92"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150829"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van het N.S.-station Weesp te Weesp met op de achtergrond het oude stationsgebouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C72BD5E43198570B9603AA2538C2CF87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF22BD61A916599BA8E7D27535C63319"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150833"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DABEF386CFAC5070AC5BD2EF722877EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156247"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E1D528930C5352F0990440F679B83C5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155085"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S,-station Weesp te Weesp met een electrisch treinstel mat. 1936 van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E416FC8D85E057F7A10F378C6EACD754"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166143"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de lokettist in het plaatskaartenkantoor van het N.S.-station Weesp te Weesp, met op de voorgrond de plaatsbewijskastjes van het systeem Bollmann."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB91BBD6E2565CBEB38D3BCD9961C39D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150820"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het N.S.-station Weesp te Weesp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F30CDB5633F35216B8D3EE2D3DE02CD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166128"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Weesp te Weesp: loketten in de stationshal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9000508902752578B7D41495326342C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161549"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Weesp te Weesp. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF67BAA4654758EDAD590FC033357F32"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161550"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Weesp te Weesp, met rechts het reservoirgebouw. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1908-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B127C83C9D753C7AFDF9A84EC7E94F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802638"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Vleuterweide te Vleuten (gemeente Utrecht, stadsdeel Leidsche Rijn), uit het zuidwesten met op de voorgrond de Landschapsbaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "918E63754B0F5F40994AB33BDFF04AB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802640"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Vleuterweide te Vleuten (gemeente Utrecht, stadsdeel Leidsche Rijn), uit het oosten; op de voorgrond de Landschapsbaan (links) en Europalaan; in het midden de Hardenbroek"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6978A03E934505DBB1F377B1381595D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802639"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Vleuterweide te Vleuten (gemeente Utrecht, stadsdeel Leidsche Rijn), uit het zuidoosten met op de voorgrond de kruising Europaweg/ Landschapsbaan en Burgemeester Middelweerdbaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

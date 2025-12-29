@@ -1,0 +1,912 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E1FB1EDC50D5955B39C5411CCDF1DB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164352"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van stoomschip \"R. van Hasselt\" van Rederij Koppe langs de kade bij het N.S.-station Enkhuizen te Enkuizen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1EBBC0E1BB75519DBAB519BCA20DF6C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166753"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de goederenloods bij het N.S.-station Enkhuizen te Enkhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2CB19446D26C5A1296E3A60C75DC7167"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161365"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 7713 (serie 7700, \"Bello\") van de N.S. met een tram naar Hoorn via Venhuizen langs het perron van het N.S.-station Enkhuizen te Enkhuizen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2CDC4D37CE63505F9182F91F8014084E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152432"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Enkhuizen te Enkhuizen: hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FE4D081DA8F5559A5FC673EE78C86EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150291"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de restauratie en de perronkap van het N.S.-station Enkhuizen te Enkhuizen. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38D6AB72DE375FE28DC49E59CB52CAE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162033"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Spoorhaven te Enkhuizen, met links het N.S.-station Enkhuizen en rechts het motorschip W.F. van der Wyck van Rederij Koppe voor de bootdienst Enkhuizen-Stavoren. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A0AB1B3B4F258D09C23C5BB66C1A3A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de haven en het H.S.M.-station Enkhuizen te Enkhuizen. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F81E2D9F7FC57AB9249FD9B60603618"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165179"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Enkhuizen te Enkhuizen. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "56489E6899A85B6E9B9ACDAD52E7D6AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152431"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Enkhuizen te Enkhuizen: hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "619215B612285A26819962E9DB07FEC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165180"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aanlegplaats van de veerboot naar Stavoren bij het H.S.M.-station Enkhuizen te Enkhuizen. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "669B6D8CC8E25955A595C41F0A4C0AB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166249"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Enkhuizen te Enkhuizen: wachtkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "67485587D1DD50A7B7D294047DA98A01"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165631"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het motorschip W.F. van der Wyck van Rederij Koppe voor de bootdienst Enkhuizen-Stavoren in de haven bij het N.S.-station Enkhuizen te Enkhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69AE50D5C31452289ECE2EA30303D4A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165630"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het motorschip W.F. van der Wyck van Rederij Koppe voor de bootdienst Enkhuizen-Stavoren in de haven bij het N.S.-station Enkhuizen te Enkhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "810289E44E6551FB924E705619D036AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150289"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron en de achterzijde van het N.S.-station te Enkhuizen. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "821577964B5B5B459EF1200D602E9F9E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162032"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het motorschip W. F. van der Wyck van Rederij Koppe voor de bootdienst Enkhuizen-Stavoren. Op de achtergrond het N.S.-station Enkhuizen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1923-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1926-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83550F2F0A1F51E3B12C86343FE4ABE4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150290"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S-station Enkhuizen te Enkhuizen, met een autobus van de N.Z.H. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8A8A0E805EB5572FAFBA7F0635B1BFFF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162781"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Enkhuizen te Enkhuizen, met de kop van een diesel-electrisch treinstel DE 5 (serie 181-197, voorheen serie 51-68) van de N.S. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-05-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-05-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9028AF58980D552CB5DF8C380689B571"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165629"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het overstappen van reizigers van de boot uit Stavoren op de trein op het N.S.-station Enkhuizen te Enkhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9EA24D7E531555068CF185B1A0E4B209"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162044"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de veerpont (spoorpont) voor het overzetten van goederenwagens tussen Enkhuizen en Stavoren in de haven te Enkhuizen. Links het H.S.M.-station Enkhuizen.. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A8D9A1E4C34F5C76B17991785E59518A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165178"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorhaven te Enkhuizen, met links de spoorpont naar Stavoren en rechts het H.S.M.-station Enkhuizen. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1907-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1907-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD77F576901455AF8134E1136CC53BE7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150292"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Enkhuizen te Enkhuizen. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD6D0B7909E257A4A179C48B282EA340"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165632"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het overstappen van reizigers van de boot uit Stavoren op de trein op het N.S.-station Enkhuizen te Enkhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDCEABA26F7E59C887E3E15F7BD5FBF2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166651"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Enkhuizen te Enkhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E23B83D436F856A4945EECD9F4FD2DB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150288"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Enkhuizen te Enkhuizen, met een autobus van de N.A.C.O. Opmerking: Zwaar beschadigde foto is vernietigd, scan van negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E437599996A45E878A1D95F51538AC54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160962"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het motorrijtuig omC 907 (serie omC 901-908) van de N.S. bij het N.S.-station Enkhuizen te Enkhuizen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E4C1E38B39E255F9ACD27B66C8E9DA41"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153085"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het emplacement van het N.S.-station Enkhuizen te Enkhuizen met links het perron en een diesel-electrisch treinstel plan U (DE 3) van de N.S. en rechts de goederenloods."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E53FB285DBC95B82B983E2E0F574127D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163216"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kade van de haven te Enkhuizen, met links de stoomboot van Rederij Koppe naar Stavoren en rechts het perron van het N.S.-station Enkhuizen met een juist aangekomen trein getrokken door de stoomlocomotief nr. 6006 (serie 6000) van de N.S. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EBEFF2653BAF53888C9C6CF565E522B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Enkhuizen te Enkhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F37053DE2FB754BA92214674949BDAA5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162045"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de veerpont (spoorpont) voor het overzetten van goederenwagens tussen Enkhuizen en Stavoren te Enkhuizen. De pont is bij wijze van uitzondering met personenrijtuigen beladen. Rechts het H.S.M.-station Enkhuizen. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F542F6AB0D6F5995AC87E763299B4660"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150287"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kade en het restaurantterras bij het N.S.-station Enkhuizen te Enkhuizen. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8448A47FBA45EC2A3C9F64A48B5B898"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154049"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het schilderij in de stationshal van het N.S.-station Enkhuizen te Enkhuizen voorstellende een aantal vissers."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFA2F8CC2032514AA18A4A239312067D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154050"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het schilderij van F.F. Vingerhoed voorstellende het stoomschip R. van Hasselt van Rederij Koppe in de stationshal van het N.S.-station Enkhuizen te Enkhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

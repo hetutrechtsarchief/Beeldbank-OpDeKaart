@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0409EEEE44935F90A22E14D4000D0D69"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813629"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de boerderij \"Het Blauwe Huis\" aan de Oude Mereveldseweg 8A te Houten.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht. Opmerking: Reproductiefoto in november 1980 gemaakt door de Fotodienst."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C04539527715DF4918876A423D7906F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij Het Blauwe Huis (Oude Mereveldseweg 8A) te Houten, uit het oosten.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31475B2D794750B7B841FA36DA5977EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68150"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linker zijgevel van het woongedeelte van de boerderij \"Het Blauwe Huis\" aan de Oude Mereveldseweg 8A te Houten, vanuit het zuidoosten.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31CFEDD8376C5859BCC7A8441148968E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "804324"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de grondwerkzaamheden ten behoeve van de uitbreiding van de spoorlijn tussen Utrecht en Houten langs de Nieuwe Houtenseweg te Utrecht in het kader van het project Randstadspoor, met een passerende trein bestaande uit dubbeldekstreinstellen DD-IRM van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-10-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-10-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B90F5F991CD5C3EA16A73E35E4891B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65406"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de als beschermd woonproject ingerichte boerderij Het Blauwe Huis (Nieuwe Houtenseweg 55) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B98F4C3B28A5038AB9EF9783FEFB276"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85469"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Furkaplateau te Utrecht, uit het zuiden. Rechts het kantoorgebouw aan de Nieuwe Houtenseweg en de spoorweghalte Utrecht Lunetten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43BB90F5BB5851E68CF8A06F5F9A466A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68151"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker zijgevel van het woongedeelte en de schuur van de boerderij \"Het Blauwe Huis\" aan de Oude Mereveldseweg 8A te Houten, vanuit het zuiden.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44CD4969B57A5EDDB108589F2E39BE38"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68155"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linkere zijgevel van het woongedeelte van de boerderij \"Het Blauwe Huis\" aan de Oude Mereveldseweg 8A te Houten, uit het zuiden.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50302938D52C5113A677613CBF65219C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812798"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe, 140 meter lange viaduct over de A27 in de Nieuwe Houtenseweg te Utrecht, met rechts de verbrede spoorlijn tussen Lunetten en Houten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-01-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-01-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "745DC1AE6E11576590DC3C8A0CFEF736"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68158"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bedrijfsgedeelte van de boerderij \"Het Blauwe Huis\" aan de Oude Mereveldseweg 8A te Houten, uit het zuidwesten.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A193FB90C14555FBBF7CAE7DAB1A879"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68154"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linkere zijgevel van het woongedeelte van de boerderij \"Het Blauwe Huis\" met de schuur aan de Oude Mereveldseweg 8A te Houten, uit het zuiden.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E2E663497012D6BE0534701000A47C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838667"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Furkaplateau te Utrecht, uit het zuidoosten. Rechts het kantoorgebouw aan de Nieuwe Houtenseweg en de spoorweghalte Utrecht Lunetten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8414AE79CD1562B7E0534701000A81AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Lunetten te Utrecht, vanuit het zuidoosten. Op de voorgrond de afslag van de A27 (rechts), op de achtergrond rechts de Nieuwe Houtenseweg, met viaduct over de A27."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87BE86BF542554649EF96F763A691E98"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65405"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van de boerderij Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8EAA30BD28AB5FAF9B6429A96AE8E7EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68152"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het woongedeelte van de boerderij \"Het Blauwe Huis\" aan de Oude Mereveldseweg 8A te Houten, uit het oosten.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C575D16A0C195A238BC7C9ECF7D29161"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68159"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bedrijfsgedeelte van de boerderij \"Het Blauwe Huis\" aan de Oude Mereveldseweg 8A te Houten, uit het noordwesten.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C60C3B7BB62553E2AC6A2E205F224C44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68153"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker zijgevel van het woongedeelte van de boerderij \"Het Blauwe Huis\" met de voorgevel van de schuur aan de Oude Mereveldseweg 8A te Houten, uit het zuidoosten.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C61076938F53573995D9654C744B1D99"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij Het Blauwe Huis (Oude Mereveldseweg 8A) te Houten, met rechts de spoorlijn Utrecht-Den Bosch.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8EF7828139F5F319AFBA1A7D95E6AF5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68156"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de schuur van de boerderij \"Het Blauwe Huis\" aan de Oude Mereveldseweg 8A te Houten, uit het westen.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC054621D80A5E66960D990B2EFC5280"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810380"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij Het Blauwe Huis (Oude Mereveldseweg 8A) te Houten.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC9A59F32373500BAFDA6D17E0E9C061"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68157"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de schuur van het stalgedeelte van de boerderij \"Het Blauwe Huis\" aan de Oude Mereveldseweg 8A te Houten, uit het westen.<ZR><ZR>N.B. Het adres is ca. 1980 gewijzigd in Nieuwe Houtenseweg 55 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

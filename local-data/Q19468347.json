@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "598A0BA67E71568D94BBC73E790D9D93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "202752"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Leidsche Rijn te De Meern (gemeente Vleuten-De Meern), met links het huis Rijksstraatweg 19."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      }
+    ]
+  }
+}

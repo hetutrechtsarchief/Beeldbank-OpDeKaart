@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B93AD0DC0465BBAB42393F4C2A76C8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het door architect G.Th. Rietveld ontworpen huizen De Louterlaan 12 en 14 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AAB238429C805E9AA7B125FAE9E20D8F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "804469"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de wijk Transwijk (Kanaleneiland) te Utrecht, vanaf het kantoorgebouw Churchilllaan 11 (Piet van Dommelenhuis), uit het zuidwesten, met op de voorgrond de Van Vollenhovenlaan, rechts de Koningin Wilhelminalaan en in het midden de De Louterlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D070172F53565FF3BD8AF6C71B88C1DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84815"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van Transwijk te Utrecht, vanaf het kantoorgebouw Churchilllaan 11(Piet van Dommelenhuis), uit het zuidwesten; op de voorgrond de Beneluxlaan, daarachter de Van Vollenhovenlaan en de De Louterlaan en rechts de Koningin Wilhelminalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-10-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-10-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

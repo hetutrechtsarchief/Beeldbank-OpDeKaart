@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB0366B8CD5D57AFA04B6772ABEB80EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165205"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Hillegom te Hillegom. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9FCEA0F8017531E8089888DA2CFA736"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een trein getrokken door een stoomlocomotief uit de serie 359-408 van de H.S.M. (later serie 1600 van de N.S.) met een trein langs het perron van het H.S.M.-station Hillegom te Hillegom. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8BA0D77C46254078CE0FBDC302AAD25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165204"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Hillegom te Hillegom. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1907-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

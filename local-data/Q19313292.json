@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C64F64CA3265B11ACEF72FDF1F9B349"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het hoofdgebouw van het Koos Vorrinkhuis (Koudelaan 16) te Lage vuursche (gemeente Baarn): de keuken met apparatuur en servies."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C764E311E3B150459FA14B7AC7155E7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16554"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het hoofdgebouw van het Koos Vorrinkhuis (Koudelaan 16) te Lage vuursche (gemeente Baarn): een slaapkamer met bedden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5041904B57352CB9284810AD6993C93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16551"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het hoofdgebouw en de rechtergevel van het appartementencomplex van het Koos Vorrinkhuis (Koudelaan 16) te Lage vuursche (gemeente Baarn)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

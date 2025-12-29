@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1ECC9116CF7A5C989378A316D3EA3E3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11679"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hooglandseweg met bebouwing te Amersfoort; met een groep personen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FEA1BF02C7C5013A9CC8E9862D85FEA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "801179"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zeepfabriek van Chr. Pleines (De Duif) aan de Hooglandseweg te Amersfoort. Opmerking: De afbeelding (lithografie) bevindt zich in het boek \"Koninklijke Zeepfabrieken \"De Duif\" van Chr. Pleines, 1889 - 29 october 1914\", bibl. HUA, DF 2000-6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1893-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1896-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FB3B41CFB13529C809C4BC118D7E754"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169378"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Hooglandseweg te Amersfoort. Opmerking: NS fotonummer 16122"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "89203BC42C615AB7A892960B6B36108D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169351"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Hooglandseweg te Amersfoort. Opmerking: NS fotonummer 16123"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

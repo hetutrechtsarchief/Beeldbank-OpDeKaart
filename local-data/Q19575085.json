@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C26DFD85BCC5FB89C7E6C73F7DC347B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802644"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Het Zand in het stadsdeel Leidsche Rijn te Utrecht, uit het zuidoosten; op de voorgrond de Tweede Westerparklaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

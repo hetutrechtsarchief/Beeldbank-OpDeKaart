@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DC8F3134BA985DEF8B8502DEA7550E06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45516"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van spelende kinderen aan de Aphroditedreef te Utrecht. Opmerking: Literatuur: \"Overvecht toen en nu\", door Hanekroot, in: De Timmerwerf, nr. 100, augustus 1967, pp. 3-7 (bibl. HUA XIX F 10)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E60B7FB38D4959B8853E16F5F4F5656A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23040"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de flatgebouwen aan de Aphroditedreef te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

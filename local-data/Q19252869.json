@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A5A6B6DC39C530C8DC3AC4BA79CE89D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94356"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het buurthuis in de sneeuw aan de Hildo Kropstraat te Nieuwegein"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

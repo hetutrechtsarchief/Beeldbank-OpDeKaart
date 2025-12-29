@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66E3173F8BCF5C86BAE75B0D0C49E540"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500015"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de pupillen van het kindertehuis W.A. Ortthuis (Bosweg 6) te Amersfoort, tijdens de bezetting van het tehuis in verband met de voorgenomen sluiting. Opmerking: De originele foto is sterk vergeeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C011DAEFDEDE54EE99607CC305B80398"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13018"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het Doorgangshuis, onderdeel van  Huize Zandbergen van de Maatschappij tot Opvoeding van Weezen in het Huisgezin (Bosweg 10) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

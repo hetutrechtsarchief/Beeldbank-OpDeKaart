@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04B236B46140506395AD9D32BFFBB55A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10050"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het terras en de speeltuin van het caf\u00e9 Boschzicht (Traay/hoek Arnhemsebovenweg) te Driebergen.<ZR><ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CB0DA055F5C50E3B117E089D52A028C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9833"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Arnhemsebovenweg te Driebergen uit het noordwesten. <ZR><ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

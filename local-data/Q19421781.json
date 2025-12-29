@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0592E5D480D85666BDCEC3CA947E7F1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68763"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Eben Ha\u00ebzerkerk (Pionstraat 3) te Utrecht, uit het zuidwesten. Opmerking: Het kerkgebouw was tot ca. 1980 de St.-Salvatorkerk (Adr. van Bergenstraat 63)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0C0122709FFA5F57BFA7AD2D66533579"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Zuilen te Utrecht, uit het westen. Op de voorgrond het Adriaan van Bergenplein met links de St.-Salvatorkerk (Adr. van Bergenstraat 63). Op de achtergrond de Vecht met de woonboten langs het Zandpad en de Zweminrichting Het Noorderbad (Boisotstraat).<ZR><ZR>N.B.: De St.-Salvatorkerk heet sinds ca. 1980 Eben Ha\u00ebzerkerk. Het adres is gewijzigd in Pionstraat 3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DA3C28A8A3F5CB6A27CC65A7EF0B2ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68767"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van de St.-Salvatorkerk (Adr. van Bergenstraat 63) te Utrecht, uit het oosten.<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024674"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0ECBAB63AB625D6AB9D1DDF3E8525402"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79310"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de R.K. Huishoudschool Mari\u00ebndaal (Pionstraat 9) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15A1E00D48265AE9AA437E979855E475"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68764"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Salvatorkerk en pastorie (Adr. van Bergenstraat 63) te Utrecht, uit het zuidoosten.<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024676"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "170B81705D825C9ABCA2E31CAA4C0C7F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44785"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het te verlengen gedeelte van de Prinses Irenelaan te Utrecht, vanaf de Pionstraat. Links op de achtergrond de Koningin Julianaschool (Prinses Irenelaan 200). Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F48008DF2FE546298F880FE60359A84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69244"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de plastiek met een voorstelling van de Heilige Familie bij de 2e R.K. huishoudschool \"Mari\u00ebndaal\" (Pionstraat 9) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DDCCBAADD83590CAC960F0FB5469E25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68772"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de St.-Salvatorkerk (Adr. van Bergenstraat 63) te Utrecht: orgel.<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024671"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30E4FA72CFE854469EE411BAE8A2973A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68773"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de St.-Salvatorkerk (Adr. van Bergenstraat 63) te Utrecht: doopkapel.<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024665"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35196C18092E5637AB3872D89A14F538"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70922"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stauntonstraat te Utrecht, met de verschillende huizenblokken. Geheel links de achtergevels van de panden aan de Koningstraat. Van links naar rechts de Koningstraat, Damestraat, Loperstraat, Paardstraat, Torenstraat en de Pionstraat. Geheel rechts op de achtergrond een gedeelte van de Eben Ha\u00ebzerkerk (Pionstraat 3)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3871D0621B4151D789555C167D61F53F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101359"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de reconstructie van de kruising van de Adriaan van Bergenstraat met de Pionstraat (achtergrond) te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, woensdag 9 augustus 1967, blz. 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-08-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-08-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E5A69A37E6D57348719EC209D514BBD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68769"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de St.-Salvatorkerk (Adr. van Bergenstraat 63) te Utrecht: altaar.<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024666"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4687715B8FD6595EA3923838EBFBC3BA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68774"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en achtergevel van de Eben Ha\u00ebzerkerk (Pionstraat 3) te Utrecht, uit het oosten. Opmerking: Het kerkgebouw was tot ca. 1980 de St.-Salvatorkerk (Adr. van Bergenstraat 63)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "499DD40A69B45F9484E999BA85F560AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805451"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de Geuzenwijk in de wijk Zuilen te Utrecht met links in het midden het kruispunt Adriaan van Bergenstraat (links), Jacob Simonsz de Rijkstraat (onder) en Pionstraat met de Eben Ha\u00ebzerkerk (Pionstraat 3); rechts de Vecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "518F86EB96B35C3A80D7244273C35F4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68770"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de St.-Salvatorkerk (Adr. van Bergenstraat 63) te Utrecht: preekstoel, altaar en communiebank (voorgrond).<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024667"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E5AD5AA372F5904BF451AEAB1C20D73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68768"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de St.-Salvatorkerk (Adr. van Bergenstraat 63) te Utrecht: gezicht naar het altaar.<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024668"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6572D42BE9F156F9AF560F3F1EFB33BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de brand in het voormalige schoolgebouw Pionstraat 9 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "65A42A04253055BDBCFB75C2387B1B2F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56644"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dr. Max Euwestraat te Utrecht met verschillende huizenblokken; geheel rechts een gedeelte van de zijgevel van een huis aan de Koningstraat; van rechts naar links: de Koningstraat, Damestraat, Loperstraat, Paardstraat, Torenstraat en geheel links op de achtergrond een gedeelte van enkele huizen aan de Pionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "695EC772A2BC521C955CB1E7CB687592"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "4837"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen aan de Pionstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "70719E41C408524CB0C84D4787D0DCE8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58839"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prinses Irenelaan met de voorgevels van de huizen nrs. 13 (links)-lager te Utrecht; rechts van het huis de ingang van de Vreelanthof en geheel rechts op de achtergrond de huizen Pionstraat 40-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A2E4B20505C5E90ACAE93F92CE6B6BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805452"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de Geuzenwijk (onder) in de wijk Zuilen te Utrecht met in het midden het kruispunt Adriaan van Bergenstraat (links), Jacob Simonsz de Rijkstraat (rechtsonder) en Pionstraat met de Eben Ha\u00ebzerkerk (Pionstraat 3); links de Schaakwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "841EB9B45F1D7F38E0534701000A29DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840417"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het terrein waar de woningen van de Schaakwijk te Utrecht zijn gesloopt, uit het zuiden. Links van het midden de Burgemeester van Tuyllkade en Prinses Margrietstraat; rechts van het midden de Adriaan van Bergenstraat overgaand in de Pionstraat en rechtsboven de Vecht.<ZR><ZR>In de Schaakwijk zullen nieuwe woningen worden terug gebouwd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "841EB9B45F337F38E0534701000A29DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het terrein waar de woningen van de Schaakwijk te Utrecht zijn gesloopt, uit het zuidoosten. Links van het midden de Burgemeester van Tuyllkade en Prinses Margrietstraat; op de voorgrond het gebouw Sweserengh met seniorenwoningen, vanaf links de Sweder van Zuylenweg, die overgaat in de Adriaan van Bergenstraat die weer  overgaat in de Pionstraat en op de achtergrond de Vecht.<ZR><ZR>In de Schaakwijk zullen nieuwe woningen worden terug gebouwd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "895936A43E935AFB9711DE43245D5250"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85223"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Zuilen te Utrecht, uit het westen. Op de voorgrond het Adriaan van Bergenplein met links de St.-Salvatorkerk (Adr. van Bergenstraat 63). Op de achtergrond de Vecht met de woonboten langs het Zandpad.<ZR><ZR>N.B.: De St.-Salvatorkerk heet sinds ca. 1980 Eben Ha\u00ebzerkerk. Het adres is gewijzigd in Pionstraat 3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90D7704811B75F1FB8CD01971517736C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53410"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Adriaan van Bergenstraat 135 (links van het midden) te Utrecht, vanuit de Jacob Simonsz. de Rijkstraat (voorgrond) met op de achtergrond het flatgebouw aan de Pionstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93D007E9AE4D53729359F581F8B87C7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "103075"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de inzamelingsactie van kleding ten behoeve van Meisjesstad door leerlingen van de School voor Katholiek Beroepsonderwijs Mari\u00ebndaal (Pionstraat 9) te Utrecht. Opmerking: Zie ook Utrechts Nieuwsblad, 25 november 1982, blz. 17."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "955BA7990D1256B6B28F14E1D0982EC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de brand in het voormalige schoolgebouw Pionstraat 9 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6C1F45BA824518DB4AE94218507C9F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68766"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Salvatorkerk en pastorie (Adr. van Bergenstraat 63) te Utrecht, uit het zuiden.<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024673"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C18DBE2917B75395A1EA2ABA22566E23"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405481"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de brand in het voormalige schoolgebouw Pionstraat 9 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE411AC80B535D5EB588F61721763EC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68775"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Eben Ha\u00ebzerkerk (Pionstraat 3) te Utrecht: gezicht naar het liturgisch centrum, uit het westen. Opmerking: Het kerkgebouw was tot ca. 1980 de St.-Salvatorkerk (Adr. van Bergenstraat 63)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CEF44BC2904E5226A9196EA4F7CBD02E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68771"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de St.-Salvatorkerk (Adr. van Bergenstraat 63) te Utrecht: gezicht naar de orgeltribune vanaf het altaar.<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024669"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5F4BD79FF985D11BD2A6A989C1E0F99"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68776"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Eben Ha\u00ebzerkerk (Pionstraat 3) te Utrecht: gezicht naar de orgeltribune, uit het oosten. Opmerking: Het kerkgebouw was tot ca. 1980 de St.-Salvatorkerk (Adr. van Bergenstraat 63)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F55F64D4DD455BDCAE700BFB19319A52"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68761"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen in de Pionstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8ECC73F5723566780C09302B2385299"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68765"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Salvatorkerk en pastorie (Adr. van Bergenstraat 63) te Utrecht, uit het zuidoosten.<ZR><ZR>N.B.: De bestemming en adres zijn in ca. 1980 gewijzigd in Eben Ha\u00ebzerkerk (Pionstraat 3). Opmerking: Fotonummer: 024675"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

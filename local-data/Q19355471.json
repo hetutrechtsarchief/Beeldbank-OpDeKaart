@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD46322D9725503B9D9F636FCA34124F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405088"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Nieuwerhoekplein te Soest, met op de achtergrond de Vredehofstraat. Opmerking: Foto Pers Bureau Utrecht fotonummer 32168"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1932-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D961D50570B058938874DA026CBA7EB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400269"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver in het park, behorende bij het rusthuis Mari\u00ebnburg (Nieuwerhoekplein 10) te Soest. Opmerking: Fotonummer V.H. 3494<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-04-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-04-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

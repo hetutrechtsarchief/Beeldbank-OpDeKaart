@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0655210B87535B579AAFBA5CF48F10F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161113"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 3761 (serie 3700/3800) van de N.S. met een trein bij binnenkomst in het N.S.-station Arnhem te Arnhem, gezien vanaf de voetbrug bij de Bovenbrugstraat. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-07-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-07-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "873B60545728596B8B31B0BD22AE6826"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156858"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele villa's aan de Bovenbrugstraat te Arnhem met op de voorgrond de gemetselde keerwand van de ingraving voor het spoorwegemplacement en enkele goederenwagens."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1870-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1880-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB13E07A4A63535BA450E2F9FE23BBA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156859"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele villa's aan de Bovenbrugstraat te Arnhem met op de voorgrond de voetgangersbrug over het spoorwegemplacement."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1870-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1880-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

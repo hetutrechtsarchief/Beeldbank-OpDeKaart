@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC351D2CBFEA531197756FBBF0B1B986"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5380"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Joris Dircksenstraat te Breukelen uit het zuiden, met op de achtergrond de toren van de N.H.-kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B43BE5EB8AC25B7F909E3049326B2C7E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Joris Dircksenstraat te Breukelen uit het zuiden, met op de achtergrond de toren van de N.H.-kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F179FCAF464A5696A1EB9DE3B6EE8A8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5398"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Joris Dircksenstraat te Breukelen uit het zuiden, met op de achtergrond de toren van de N.H.-kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

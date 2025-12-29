@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C0CD27AAF415A1FA1571A74F6EDA924"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93493"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele klaslokalen van de Christelijke Basisschool (Floraweg 26) te Vreeland (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

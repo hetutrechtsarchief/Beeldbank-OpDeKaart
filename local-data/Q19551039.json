@@ -1,0 +1,688 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D94DBB166715441B675DEDBD6F52F10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814663"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het uitgebrande en dichtgetimmerde huis Stieltjesstraat 75 te Utrecht, op de hoek van de Menno van Coehoornstraat, met rechts het huis Stieltjesstraat 73."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25707AA43F8E5DB0BAB15A95EC319E24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120809"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en zijgevel van het Ketelhuis (Stieltjesstraat 76) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2910AAFE8F5357ECB628EF72821F7101"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van Musschenbroekstraat 45-hoger te Utrecht; vooraan de rechter zijgevel van het hoekhuis nr. 45 en rechts op de voorgrond de ingang van de Stieltjesstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DDE5FD7BF695707B756C5FEB4FC2142"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828658"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een paneel uit de serie 'Hollandse vogels', met een schildering van o.a. een meerkoet, in het buurtje rond de Stieltjesstraat en de Dopplerhof te Utrecht.<ZR><ZR>N.B. De serie is gemaakt door de kunstenares Nina Valkhoff, naar een idee van enkele buurtbewoners, en op 16 juli 2014 onthuld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3504390031235B5FB72DE811FB7214E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814666"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het (gekraakte) pand Stieltjesstraat 73 te Utrecht. Rechts het uitgebrande pand Stieltjesstraat 75."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "45FD0526D3F35E02B37BA9C16478579F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828592"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffitikunst op de dichtgetimmerde deur en een dichtgetimmerd raam in het pand Stieltjesstraat 75 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-03-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-03-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "583D1618EA9056FDA0CF00340C0C5AEB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814671"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Musschenbroekstraat te Utrecht, uit het zuiden, vanaf de kruising met de Stieltjesstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5A69F444989C550DA5ECF8D1ECD72E49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Biltsche Grift te Utrecht, ter hoogte van de Vaaltwegbrug in de Stieltjesstraat (rechts). Links een gedeelte van het Bedrijvencentrum Hooghiemstra (Hooghiemstraplein 165)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-11-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-11-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C900424D94A5323BC6387D4378032C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828644"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een paneel uit de serie 'Hollandse vogels', met een schildering van kerkuilen, in het buurtje rond de Stieltjesstraat en de Dopplerhof te Utrecht.<ZR><ZR>N.B. De serie is gemaakt door de kunstenares Nina Valkhoff, naar een idee van enkele buurtbewoners, en op 16 juli 2014 onthuld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "625DF5985E845AC0AF61C6DBAEEBE2DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814665"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de panden Stieltjesstraat 73 en 75 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F035E1D1174524AAB480A5DA42EB8B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71059"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stieltjesstraat te Utrecht met links de huizen nrs. 54-664."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FC67D41EFA05EE19A37079ECC25FBBC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73495"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gebouwen van de Gemeentelijke Voorzieningsdienst op het Vaaltterrein te Utrecht, uit het zuiden. Links het woonhuis Weerdsingel O.Z. 97, rechts het kantoorgebouw Weerdsingel O.Z. 99 en daarachter kantoor- en magazijngebouwen. Op de achtergrond de Van Swindenstraat.<ZR><ZR>N.B. Het adres Weerdsingel O.Z. 97 is in 1982 gewijzigd in Stieltjesstraat 75."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78DA8F77BDC35EFDB34CA6CA50CF2E13"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812482"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Weerdsingel O.Z. te Utrecht, vanaf de hoek met de Stieltjesstraat. Links de achterzijde van de bebouwing aan de Plompetorenbrug en de Van Asch van Wijckskade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-11-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-11-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91D4DFAB313956BBAD88022F6CE73819"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828643"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een paneel uit de serie 'Hollandse vogels', met een schildering van blauwe reigers, in het buurtje rond de Stieltjesstraat en de Dopplerhof te Utrecht.<ZR><ZR>N.B. De serie is gemaakt door de kunstenares Nina Valkhoff, naar een idee van enkele buurtbewoners, en op 16 juli 2014 onthuld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "985E386BE46552C7AE2813CA277D90BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828640"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een paneel uit de serie 'Hollandse vogels', met een schildering van de vlaamse gaai en de ekster, in het buurtje rond de Stieltjesstraat en de Dopplerhof te Utrecht.<ZR><ZR>N.B. De serie is gemaakt door de kunstenares Nina Valkhoff, naar een idee van enkele buurtbewoners, en op 16 juli 2014 onthuld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C7B0103B7D257DB857CA093C54EF0EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108487"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het dichtgetimmerde, voormalige kantoorgebouw van de Gemeentelijke Reinigingsdienst (Stieltjesstraat 76, \"Het Ketelhuis\") te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Utrecht bij nacht\" van fotograaf Pieter van Leeuwen en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CD3C41CE8D15EE0928283B19D1381A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814667"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bedrijfsverzamelgebouw De Voorziening (Stieltjesstraat 76) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A0E0D345732858178F75FF0B9D14C5F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405351"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het blussen van de tweede brand binnen een week in het voormalige  sociaal-cultureel centrum Ketelhuis (Stieltjesstraat 76) te Utrecht. Opmerking: Zie ook het Utrechts Nieuwsblad, vrijdag 22 april 1994, blz. 11: \"Tweede brand laat weinig over van leegstaand Ketelhuis\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A215AE5487515156875A91ACE8DCF8CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van de Gemeentelijke Voorzieningsdienst (Weerdsingel O.Z. 99) te Utrecht.<ZR><ZR>N.B. Het adres is in 1982 gewijzigd in Stieltjesstraat 76."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6F1CF039E675AE4B6F5BA632F1922A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828657"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een paneel uit de serie 'Hollandse vogels', met een schildering van o.a. een koolmees, in het buurtje rond de Stieltjesstraat en de Dopplerhof te Utrecht.<ZR><ZR>N.B. De serie is gemaakt door de kunstenares Nina Valkhoff, naar een idee van enkele buurtbewoners, en op 16 juli 2014 onthuld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD8EBFD7D22C5327AFDE62A5350E0548"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71061"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het sociaal-cultureel centrum Ketelhuis (Stieltjesstraat 76) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5FA56072A2B5377B1F3DB34124F4205"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828591"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffitikunst op de dichtgetimmerde ramen van het pand Stieltjesstraat 75 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-03-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-03-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D721915B23C059CEA34B2E86C24E2C61"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828641"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een paneel uit de serie 'Hollandse vogels', met een schildering van roodborstjes, in het buurtje rond de Stieltjesstraat en de Dopplerhof te Utrecht.<ZR><ZR>N.B. De serie is gemaakt door de kunstenares Nina Valkhoff, naar een idee van enkele buurtbewoners, en op 16 juli 2014 onthuld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FEF3533619F758BE898AFB20AB22E782"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828642"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een paneel uit de serie 'Hollandse vogels', met een schildering van blauwe gaaien, in het buurtje rond de Stieltjesstraat en de Dopplerhof te Utrecht.<ZR><ZR>N.B. De serie is gemaakt door de kunstenares Nina Valkhoff, naar een idee van enkele buurtbewoners, en op 16 juli 2014 onthuld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

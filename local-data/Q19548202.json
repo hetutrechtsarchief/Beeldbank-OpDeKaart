@@ -1,0 +1,716 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "095A716D562B56B495D44064C9BF7C8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44824"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: tribune in de veilingzaal. Opmerking: Circa 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0AFEE4F530AE51AC910BBF339F82502A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44819"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van de Bloemen- en Plantenveiling Utrecht en omstreken (Steenovenweg 2) te Utrecht. Opmerking: Circa 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0FA983EBC040583F8320CB34795A5CB7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44827"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: veilingklok en zetel van de veilingmeester in de veilingzaal. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "12974EBC504E537F82479E9E12B20E64"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44830"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: administratieruimte met doorgifte naar de veilingzaal. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D8A6F5D207759F1B51895FEA05E1DAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44833"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: kantine. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51D92CF67EEF5548AC173B3219732847"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44822"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de toegang tot de veilingzaal van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "520A6C2BD7B455D88FCC1782F6D1A47A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44821"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op \u00e9\u00e9n van de hoeken van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht. Opmerking: Circa 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C8098581B9A51178D154317CB7F9E75"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44825"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: tribune in de veilingzaal, met telefoon. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BCA8A6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44818"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van de Bloemen- en Plantenveiling Utrecht en omstreken (Steenovenweg 2) te Utrecht. Opmerking: Afdruk afkomstig uit archief DOW.<ZR>De afbeelding is gepubliceerd in Bibl.HUA II D 28, De Bouwrevue, Utrecht, hart van 't land, blz. 27."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6A8122C195675828A365CF8AEDEE8562"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44834"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: stookinstallatie in de ruimte onder de tribune. Opmerking: Circa 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75EA2F7C595D58F7B095E615D47C8B1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129868"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht, tijdens het opmetselen van de buitenmuren. Opmerking: In 2009 gemaakte afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93ED9E4D96ED501390D86FBA90B7F338"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "947ED2A4E63654F7B99F260C3FFE69AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23055"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Industriehallen aan de Steenovenweg te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9BF155D60BEE53C7AEA6CCDC1080FA29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402096"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de snackwagen van Irene Hartwig aan de Steenovenweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9EAB13DD14E15A16BA926D1A2B813A25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44832"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: hal. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F13355A9EC15A85AD0AA959611E3A79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72278"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kruispunt Vleutenseweg/ Thomas \u00e0 Kempisweg te Utrecht; op de achtergrond de Wickes Bouwmarkt (Steenovenweg 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9FD44516F4B651139E702B010262E907"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44820"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pergola voor het gebouw van de Bloemen- en Plantenveiling Utrecht en omstreken (Steenovenweg 2) te Utrecht. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE8D4C7C7BC35A50BAF6D222315A6F22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814342"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van stratenmakers tijdens het aanleggen van parkeervakken op het terrein voor het gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E1FE88CFC9CB5C46B4AD8418B480094B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44823"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: tribune in de veilingzaal. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E33803FE700059649EC5AE4E1E5920DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44831"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: telefooncel op de tribune. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E4E2045A7D505CDF82572FD17569D212"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44826"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: veilingklok en zetel van de veilingmeester in de veilingzaal. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E649C204214C574184E9CD48209D0012"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het in aanbouw zijnde Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht. Opmerking: In 2009 gemaakte afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E9DECBADF400599EB344E332A511BBCB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44829"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: opstelhal met hoofdtoegang tot de tribune. Opmerking: Circa 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2B83E6CC6C45668826EF555BED40694"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829251"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de graffititekst \"TRICK\", op een rolluik in het pand Steenovenweg 1 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB2165212631533B873E85566E8079A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Gebouw van de Bloemen- en Plantenveiling Utrecht en Omstreken (Steenovenweg 2) te Utrecht: pakboxen in de opstelhal. Opmerking: Circa 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

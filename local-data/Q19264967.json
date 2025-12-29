@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0538ABC2B0BA521A9B310908FF5A73CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806313"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Jenalaan gelegen zijgevel van het Martinus G. de Bruingebouw (Yalelaan 7) van de faculteit Diergeneeskunde van de Universiteit Utrecht te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "26B6A22473035B548DAF54098D47E183"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806279"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de barakken van de faculteit Diergeneeskunde van de Universiteit Utrecht aan de Jenalaan te Utrecht, met op de achtergrond de schoorstenen van de warmtekrachtcentrale (Limalaan 36) van de universiteit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92803E2CF1F85B0F92456A8BE5239998"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806280"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de barakken van de faculteit Diergeneeskunde van de Universiteit Utrecht aan de Jenalaan te Utrecht, met op de achtergrond de schoorstenen van de warmtekrachtcentrale (Limalaan 36) van de universiteit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

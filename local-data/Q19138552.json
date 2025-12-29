@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "16B0487F72395449AEBD84C46A7A8263"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5082"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dr. F.M. Wibautstraat te Utrecht met links de flatgebouwen aan de K. ter Laanstraat, A.H. Gerhardstraat en Prof. Ph. Kohnstammstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D200D18B634151EB9082A54398033A8E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18797"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw in de A.H. Gerhardstraat te Utrecht met de woningen nrs. 1-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4F229D161595D07A28B617046C6A78E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18799"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het flatgebouw in de A.H. Gerhardstraat te Utrecht met de woningen nrs. 1-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D70E713A47345ACCA8472D6F1C1303DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18796"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het flatgebouw K. ter Laanstraat te Utrecht met de woningen nrs. 10-lager met links op de voorgrond de ingang van de A.H. Gerhardstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

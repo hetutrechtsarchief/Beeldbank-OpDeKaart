@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9BA9554499F55D92A1BD2DBA9D50DE73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108574"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de weilanden aan de Nedereindseweg te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Reizigers van weleer\" van fotograaf Bert Creyghton en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      }
+    ]
+  }
+}

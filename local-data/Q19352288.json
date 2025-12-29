@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5180256A931A53C18A97522546C4D86E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805519"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Trouwfoto van C.P.G.C. Balfour van Burleigh en J.J. Pos, bij het huis van de bruid, De Zonnetop (Naarderweg 63) te Blaricum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1922-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1922-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

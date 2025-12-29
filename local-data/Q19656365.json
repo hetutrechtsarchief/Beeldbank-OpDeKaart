@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "721AC33D7E585DAFB26D34F886D80324"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9056"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het Duivenhuis (Willem Arntszlaan 9) te Den Dolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

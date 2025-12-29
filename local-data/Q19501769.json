@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0EBA8DBC37F457898CECC073A2917EE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46510"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Japur\u00e1dreef te Utrecht, met een opvallend groot aantal voorrangsborden bij de zijstraten. Rechts enkele huizen aan de Sabadreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "12F14AA2D059529F94EFE178A9F02229"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59072"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jamaicadreef te Utrecht met de huizen nrs. 57 (rechts)-hoger, uit het zuidwesten; op de achtergrond een flatgebouw aan de St. Maartendreef, rechts de ingang naar de Sabadreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

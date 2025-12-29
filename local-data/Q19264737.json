@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D20ACF00182A56CEAB59A4496ED4E3BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19184"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Huetlaan te  Utrecht met de huizen nrs 1 (links) - hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F79177CA4168535BB1EDE72D205E29C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19228"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Huetlaan 13-15 (rechts) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE73D8225873520E98D58DF189B715FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818335"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Huetlaan te Utrecht vanaf het Werkspoorplein. Opmerking: De afbeelding is gemaakt voor de Zuilenwandeling, een rondleiding door de wijk Zuilen die de Vereniging Oud-Utrecht in september 2011 organiseerde tijdens haar jaarlijkse Groot Evenement met als titel Vorstelijk Zuilen, in een Vorstelijk Complex.<ZR>Een werkexemplaar van de wandeling is opgenomen in de bibliotheek van Het Utrechts Archief: Bibl. HUA ..."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

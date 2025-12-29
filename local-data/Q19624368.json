@@ -1,0 +1,940 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "035833C7181A583F8DE769C821004405"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70350"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Van Speijkstraat 12 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0874E016DCA05291A30D00CF7BC24A11"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Van Speijkstraat 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10F1E7B12AA150F1BE52C21CCEFEB8C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71578"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Van Speijkstraat gelegen gevel van het huis M.H. Trompstraat 7-7I-7II te Utrecht; vanuit het oosten met rechts de hoek van de M.H. Trompstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1131ECAE84105CE19DE844971887D3E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70333"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van Speijkstraat 15 (links) -1 te Utrecht met links de hoek van de M. H. Trompstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2909B15F9753585785766A19B38D0F86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70340"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Van Speijkstraat 21 (Koninklijke Nederlandse Zuivelbond, Technische Dienst) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34281FB11A365AF986AC0C728BEFB7A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129309"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Speijkstraat te Utrecht, vanuit een zolderraam van een van de huizen in de straat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "389A28448B205182A9ECEFBDE85F2B53"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129310"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Speijkstraat te Utrecht, vanuit een zolderraam van een van de huizen in de straat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "49BFC4A744C454089581FBBC3EC3311A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70345"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Van Speijkstraat 2 (links) en 4 te Utrecht vanuit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AF8E8516D165B22AC3E6BB61B09EFF2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70351"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van Speijkstraat 14-22 te Utrecht met rechts op de achtergrond de Admiraal van Gentstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5108931FC6B25239825DB5B661F9787C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56659"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Cornelis Evertsenstraat te Utrecht met de huizen nrs. 31-lager aan de noordelijke straatwand, uit het zuidwesten; links de zijgevel van het huis nr. 31 met het begin van de Van Speijkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D347708247E5F9EA2E48AA4A1C085FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70335"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Van Speijkstraat 9 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E24AA198B1B57F5A5C748FE091C7453"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70339"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Van Speijkstraat 19 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E39A1AD6343530ABC4B25283AA38BCD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70334"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van Speijkstraat 7 en 9 (links) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7DEF371A30B7586AB751685B90BBBA6C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70353"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Van Speijkstraat 22 te Utrecht met links daarvan de huizen nrs. 20 en 18."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8200885C0E905923AD7C4B778E2A5A2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70348"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Van Speijkstraat 8 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AC1EBA8965A51DE915EFFE0AC036700"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "2555"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de M.H. Trompstraat  te Utrecht met rechts van het midden enkele huizen aan de Van Speijkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1896-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91868B2F60A8577FBB7A2D9DF99D9CB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70336"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van Speijkstraat 9 en11 (links) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93463E38FE265CE0BE38FEA893D17B84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70342"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Admiraal van Gentstraat gelegen zijgevel van het huis Van Speijkstraat 21 (Koninklijke Nederlandse Zuivelbond, Technische Dienst) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "982302CA62F35022A9543D7698101A1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19013"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Van Speijkstraat 17 (rechts)-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A0A463CEECAB5D5ABCE0BE26EC335B47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70344"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Van Speijkstraat 2 (links) en 4 te Utrecht vanuit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2BF6CF18A605A5A82CB75007C50D76B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35353"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Admiraal van Gentstraat 33 te Utrecht vanuit de Van Speijkstraat, uit het zuidwesten, met rechts de huizen Van Speijkstraat 19-21."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AAE59C62A6315E24A0D189B725D78BCD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56658"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Cornelis Evertsenstraat 23-31 en een gedeelte van de rechter zijgevel van het huis nr. 29 te Utrecht, uit het zuidoosten; geheel links de hoek van de Van Speijkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B98EE8EF866855979D2A914E4434F7DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70346"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Van Speijkstraat 4-4bis te Utrecht met rechts een deel van het huis Van Speijkstraat 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C19804B12F8657B6A183D20278C1DE8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404167"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Madelon Bruna met enkele door haar bedrukte stoffen in haar textielzeefdrukkerij (Van Speijkstraat 3) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-02-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C1B8616C31B85F4493B707CF4FE46421"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24709"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Admiraal van Gentstraat 31 (midden)- hoger te Utrecht, uit het zuiden, met links het huis Van Speijkstraat 22. Op de voorgrond het bouwrijp gemaakte terrein tussen de Van Speijkstraat, Admiraal van Gentstraat en de M. H. Trompstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C909BD536A6F5B33BF5C9630742F621F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70349"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van Speijkstraat 10 (links) en 12 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBA8EFFC294E5EEDA5B7C090FD63A743"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70352"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Van Speijkstraat 18 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE68E8C5DCD35ADDADF00AE67F022E3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65793"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Alexander Numankade 29 (rechts)-hoger te Utrecht, uit het zuiden; geheel rechts de hoek met de Van Speijkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D46F2339186F5972856AE178F21F19E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Van Speijkstraat 6 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA1FEBF66BD554E898C561D0C4E3056E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70341"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Van Speijkstraat 21 (links) -17 te Utrecht vanuit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E26CB11AB6E35817B0D3EFE615A66A2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70338"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Van Speijkstraat 17 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F212958E108D54E1990EB13B47B931AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70332"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Van Speijkstraat 5 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F4301781CEB35EA098B686E57F0BA699"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70331"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Van Speijkstraat 1 en 3 (links) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

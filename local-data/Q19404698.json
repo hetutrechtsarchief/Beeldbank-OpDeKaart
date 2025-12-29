@@ -1,0 +1,996 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0271B2838C425772B855027EB49907AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68441"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Pahud de Mortangesdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05D894FF914B5753AD9F68D7BD9C4FAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810799"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gageldijk te Utrecht, ter hoogte van de kruising met de St.-Anthoniedijk, met rechts een deel van het flatgebouw aan de Dommeringdreef en de Pahud de Mortangesdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "074BA633C3AD566A961982E84CA311A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123834"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde flatgebouw aan de Pahud de Mortangesdreef te Utrecht, vanaf het flatgebouw aan de Dommeringdreef. Op de achtergrond de Gageldijk en het trac\u00e9 voor de toekomstige Albert Schweitzerdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0887B76CB2B55F63A746ED2AC1E307A6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Pahud de Mortangesdreef (rechts van het midden) te Utrecht; rechts een gedeelte van het eraan gekoppelde flatgebouw aan de Dommeringdreef; op de voorgrond de aanleg van de Albert Schweitzerdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08A0A903B24C5B868643D9D1A365FF98"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71926"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van het flatgebouw aan de Dommeringdreef (rechts) en de Pahud de Mortangesdreef (links) te Utrecht, op de voorgrond een huis aan de Gageldijk (v\u00f3\u00f3r de aanleg van de Albert  Schweitzerdreef)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1D366DCB05E95962BE9BD5F5D10AE3B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55858"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Dommeringdreef (rechts) en de Pahud de Mortangesdreef (links) te Utrecht,op de voorgrond de aanleg van de Albert  Schweitzerdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "256CDEEEAA2158F1838E8BBB7CAF4AF1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814690"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Pahud de Mortangesdreef te Utrecht (rechts), uit het oosten, met links het flatgebouw aan de Jaap Edendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "27BDFFB360FB56B89B5886662C8D072A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810798"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele huizen aan de St.-Anthoniedijk te Utrecht, ter hoogte van de kruising met de Gageldijk. Op de achtergrond  een deel van het flatgebouw aan de Dommeringdreef en de Pahud de Mortangesdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2819953522525000A3B94F4C8D768259"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de school voor R.K. U.L.O. (Pahud de Mortangesdreef 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "315C1E19FE2C50D2905B07144AD87A1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Anthoniedijk te Utrecht, vanuit het noordoosten met in het midden op de achtergrond een gedeelte van het flatgebouw aan de Pahud de Mortangesdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37C3D54D44EC524B84623875EF46E274"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123800"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bijna voltooide flatgebouw aan de Dommeringdreef te Utrecht. Links de hoek met de Pahud de Mortangesdreef en rechts op de achtergrond de watertoren. Opmerking: Schipper fotonummer 104"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C0500A1AE145B469E248F073FE2051D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126114"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele bouwvakkers op het dak van het flatgebouw aan de Pahud de Mortangesdreef te Utrecht, tijdens het (ondanks de vorst) doorwerken aan de bouw van de huizen en flatgebouwen in de wijk Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "429457BF0D535F7299BB3071B92EA60F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814320"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Dommeringdreef / Pahud de Mortangesdreef te Utrecht, vanaf het flatgebouw aan de Jaap Edendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FCF67692E9B57CEAF95A155D21277DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84943"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Overvecht-Zuid te Utrecht, uit het westen; links de hoge flatgebouwen aan de Dommeringdreef, Pahud de Mortangesdreef en Jaap Edendreef; op de voorgrond o.a. de Lotsydreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6037AC033CC053C489F7997D01C12575"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Anthoniedijk te Utrecht, vanuit het noordoosten met in het midden op de achtergrond een gedeelte van een flatgebouw aan de Pahud de Mortangesdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E61C4DFEE495ADAA560F79B77486029"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60334"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op, vermoedelijk, de Gageldijk te Utrecht tijdens wateroverlast; op de achtergrond, mogelijk het flatgebouw aan de Dommeringdreef en de Pahud de Mortangesdreef. Opmerking: Fotonummer  8762-21"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CC65348E5B7559E9094B3B58CC91A7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814713"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pahud de Mortangesdreef te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FBAC5F6571C54EC86929F8752250BFA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61324"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het dependancegebouw van de school Economisch College Overvecht (Kruisweg  9 ) te Utrecht; de school zelf bevindt zich aan de Pahud de Mortangesdreef nr. 41."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "814E3669877258ABAAFCD51BB2F3BA7E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20643"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bloemkwekerij Van Erp (Gageldijk 198) te Utrecht met op de achtergrond een gedeelte van een flat aan de Pahud de Mortangesdreef. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CB76C8C9EAA539BB3F69DC5E3C43287"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87525"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een wandmoza\u00efek naar ontwerp van M. van der Heyden in de  R.K. U.L.O. Pahud de Mortangesdreef 4 te Utrecht. Opmerking: Fotonummer Hulskamp 22192"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9438A9EE5A845BC3A02C441EFD36FD64"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126113"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele bouwvakkers op het dak van het flatgebouw aan de Pahud de Mortangesdreef te Utrecht, tijdens het (ondanks de vorst) doorwerken aan de bouw van de huizen en flatgebouwen in de wijk Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B215320615655C6A3DB626D02BF08DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het uitzicht vanaf een woning in het flatgebouw aan de Pahud de Mortangesdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B98B3744EF55B1EBAD123BE04BC3627"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55857"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Dommeringdreef (rechts) en het flatgebouw aan de Pahud de Mortangesdreef (links) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD9D313683FF569EA781BA7E094EF2E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816183"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Dommeringdreef (links) en het flatgebouw aan de Pahud de Mortangesdreef (rechts) te Utrecht, bij avond."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE73AC0B0FA45760A3225993913BD785"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821782"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Overvecht Zuid te Utrecht, met in het midden de flatgebouwen aan de Pahud de Mortangesdreef en Dommeringdreef. Rechts op de voorgrond de Albert Schweitzerdreef en de Gageldijk. Opmerking: De foto is gemaakt voor de website www.bouwpututrecht.nl"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B47DA36D062152C291EFD2267535D3C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Pahud de Mortangesdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B837D4B2DFBC5E44808A956557056DCB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802989"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van het flatgebouw aan de Pahud de Mortangesdreef (links) te Utrecht, op de voorgrond een schuur aan de Gageldijk (v\u00f3\u00f3r de aanleg van de Albert  Schweitzerdreef)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5C32D1F608B5D5A99361D025BEBA724"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55856"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Dommeringdreef (links) en het flatgebouw aan de Pahud de Mortangesdreef (rechts) te Utrecht; gezien vanaf een flatgebouw aan de Jaap Edendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6B10C1A60A75E56B5CA05F9D33A0342"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68438"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Pahud de Mortangesdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C80BE8D7C4645D959DBA93DC945C29A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816082"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het uitzicht vanaf een woning in het flatgebouw aan de Pahud de Mortangesdreef te Utrecht. Op de voorgrond de Gageldijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA71E1E6526B5D7AB4D7F6F82D86CC06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814322"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oderdreef in de wijk Overvecht te Utrecht, vanaf de Elbedreef, met links op de voorgrond een deel van de Prof. dr. G. Heymansschool (Wezerdreef 3) en op de achtergrond de flatgebouwen aan de Jaap Edendreef (links) en de Pahud de Mortangesdreef (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA4836872FCA5EC49F15B311295063A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816086"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het uitzicht vanaf een woning in het flatgebouw aan de Pahud de Mortangesdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFC7EA4684245E89BC724A25AC515ED5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68440"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Pahud de Mortangesdreef te Utrecht; rechts de Gageldijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0745CA7444953989CF7324B1B3EC5F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69249"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de MAVO Pahud de Mortangesdreef 41 te Utrecht: paneelschildering."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1CC526F90425919BB653C8E03E678F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20642"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de bloemkwekerij Van Erp (Gageldijk 198) te Utrecht met op de achtergrond een gedeelte van een flat aan de Pahud de Mortangesdreef. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

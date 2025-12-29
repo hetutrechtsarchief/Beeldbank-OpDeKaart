@@ -1,0 +1,884 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "123F8E435DC9542F902097145EDA7DC0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9336"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver op de voorzijde van het huis Schoonoord (Postweg 18) te Doorn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15845B282BB75C8DB6383DACA0192FAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9337"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn uit het zuidwesten, met op de achtergrond de voorzijde van het huis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "26259C68FC575D69AF943C8DCEE598DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9361"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2988809C93D358F7943CE6EECDA80ADD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9348"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het huis Schoonoord (Postweg 18) te Doorn uit het zuidoosten.  <ZR><ZR>N.B. Vanaf 1947 is het huis Schoonoord in gebruik als Christelijk Conferentie- en Vakantieoord Het Brandpunt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C6820FC3D9B53158E2D4094C466FBA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9344"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Schoonoord (Postweg 18) te Doorn uit het zuiden.<ZR><ZR>N.B. Vanaf 1947 is het huis Schoonoord in gebruik als Christelijk Conferentie- en Vakantieoord Het Brandpunt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D89A34BACFB55F99C1D756D1C8C4624"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9358"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een laan met loofbomen in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "439456FC799158B18AF76ED14A06AEC3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9351"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn uit het zuidwesten, met op de achtergrond de voorzijde van het huis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44E79FCFA45B5EB3AADFE126DC8729F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9354"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn uit het zuidwesten, met op de achtergrond de linkerzijde van het huis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4ABDCE8DE2635DB880097AA7F238E274"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9352"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn uit het zuidwesten, met op de achtergrond de voorzijde van het huis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4EBD01867CEF5A30B2E6B1CCC6A4A8F4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9338"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Schoonoord (Postweg 18) te Doorn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F15DD53039057EFA4AC94DA129F40BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602378"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Schoonoord (Postweg 18) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "54678600C9F751A9A46643EA6E6CE465"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9345"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver van de buitenplaats Schoonoord (Postweg 18) te Doorn uit het westen, met links de linker- en voorzijde van het huis. <ZR><ZR>N.B. Vanaf 1947 is het huis Schoonoord in gebruik als Christelijk Conferentie- en Vakantieoord Het Brandpunt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66BEA73FDFF2501EAAD93A30291F3C3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9357"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn uit het zuidwesten, met op de achtergrond de linker- en voorzijde van het huis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D4F0B30A63A5F00B05F41C078996FE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9350"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechter- en achterzijde van het huis Schoonoord (Postweg 18) te Doorn uit het noordoosten.<ZR><ZR>N.B. Vanaf 1947 is het huis Schoonoord in gebruik als Christelijk Conferentie- en Vakantieoord Het Brandpunt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74595FACB08056958A9B1F6CEF25F35F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9341"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het huis Schoonoord (Postweg 18) te Doorn uit het zuiden.<ZR><ZR>N.B. Vanaf 1947 is het huis Schoonoord in gebruik als Christelijk Conferentie- en Vakantieoord Het Brandpunt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75BCA95543797A9DE0534701000AE10A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9335"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver op de voorzijde van het huis Schoonoord (Postweg 18) te Doorn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "77CB72D152389435E0534701000AC537"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837597"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Vulkaanhuisje (ook wel: De Ru\u00efne) op het terrein van het vroegere huis Schoonoord aan de Postweg te Doorn. Opmerking: De foto (24 x 30 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 382. De foto is gemaakt ten behoeve van de publicatie \"Follies en tuinsieraden\" (Stichtse Monumenten Reeks), door Wim Meulenkamp. Fotografie: Henk Bol (1994)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8A84B16467FE5AE39B47DD14AC31A08A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9355"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn uit het zuidwesten, met op de achtergrond de voorzijde van het huis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8DD5D87D2930529E86D77AB88CDC8C69"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het huis Schoonoord (Postweg 18) te Doorn uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FC4F54D76B95C8686FE4258AA3A10D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9650"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "917B0CEBECB15E9A806ECA2648F77326"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het huis Schoonoord (Postweg 18) te Doorn uit het noorden. <ZR><ZR>N.B. Vanaf 1947 is het huis Schoonoord in gebruik als Christelijk Conferentie- en Vakantieoord Het Brandpunt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A390193502F156DC98B3253E26EB2AAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9362"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA69CAA79C4C51AA8EE0A500C96E977D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9346"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het huis Schoonoord (Postweg 18) te Doorn uit het noorden. <ZR><ZR>N.B. Vanaf 1947 is het huis Schoonoord in gebruik als Christelijk Conferentie- en Vakantieoord Het Brandpunt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B331FD2D562F5F6ABF19B1669AC53D7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9339"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Schoonoord (Postweg 18) te Doorn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C864FE4FCFAC5B8AA9E67209AE82FEB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9360"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in enkele lanen met loofbomen in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD80CAB3343E584AB1E48BF0ACD1D205"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9353"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn uit het zuidwesten, met op de achtergrond de linkerzijde van het huis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB6B65EF1FC657FB8389D6E91CC6F3BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9359"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in een laan met loofbomen in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EAA73009F1FA586F952F5194FADA5880"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9349"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorzijde van het huis Schoonoord (Postweg 18) te Doorn uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB324ACC273C58179F148C5422C7F827"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9342"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het huis Schoonoord (Postweg 18) te Doorn uit het zuidoosten. <ZR><ZR>N.B. Vanaf 1947 is het huis Schoonoord in gebruik als Christelijk Conferentie- en Vakantieoord Het Brandpunt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FCB6B9682BF95657B28EB6EF48C1CC05"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9356"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver in het park van de buitenplaats Schoonoord (Postweg 18) te Doorn uit het zuidwesten, met op de achtergrond de linker- en voorzijde van het huis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFB7B37B85A053EE84FB91CF7BBCF5F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9340"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Schoonoord (Postweg 18) te Doorn uit het zuiden.<ZR><ZR>N.B. Vanaf 1947 is het huis Schoonoord in gebruik als Christelijk Conferentie- en Vakantieoord Het Brandpunt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

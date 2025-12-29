@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "033E78C34FD0595B9841B1970A2E961C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169021"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele wegwerkers van de N.S. tijdens werkzaamheden aan de spoorlijn bij Utrecht Maliebaan. Op de achtergrond de voetbrug over het spoor tussen de Bolstraat en de 1e Korte Baanstraat. Opmerking: NS fotonummer 18845."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1584E61B66F05CA4818A08573FE33DF0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101382"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de sloop van de voetgangersbrug over de Oosterspoorweg tussen de Bolstraat en de 1e Korte Baanstraat te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, maandag 25 september 1967, blz. 2: \"Brug weggetild\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B72E72B343F5EB78E5EBA0AA62932A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45430"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde rioolgemaal aan de 1e Korte Baanstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FCE3919CAC051EF86BA1186027272F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20027"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 1e Korte Baanstraat te Utrecht, uit het oosten met geheel rechts een gedeelte van een huis aan de 2e Korte Baanstraat; op de voorgrond een gedeelte van de Oosterspoorweg (emplacement Utrecht Maliebaan). Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32397D5CBA055B57B8359A5E66336B07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45431"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde rioolgemaal aan de 1e Korte Baanstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "382E32889BCC56AEB27094581A234424"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "76530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de reeds afgesloten voetbrug over de Oosterspoorweg tussen de Bolstraat en de 1e Korte Baanstraat te Utrecht. Opmerking: N.B. Fotonummer 4545"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BCBE8D041A15CF1ADFF0606105F8BC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45429"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde rioolgemaal aan de 1e Korte Baanstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4235F1C0152D5A57ABF218DADE51406B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87168"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Rioolgemaal aan de 1e Korte Baanstraat te Utrecht: roosterruimte. Opmerking: Fotonummer 15298."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4753A40562A75BF6B06EDFAC77914C65"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "86948"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Rioolgemaal aan de  1e Korte Baanstraat te Utrecht, tijdens de bouw. Opmerking: De fotograaf, A.F.S.J. Hulskamp, fotografeerde o.a. veel in opdracht van de Dienst Bouw- en Woningtoezicht van de Gemeente Utrecht.<ZR><ZR>Fotonummer 12656."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C3D04AD78505BD697562DD1FD161667"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87167"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Rioolgemaal aan de 1e Korte Baanstraat te Utrecht. Opmerking: Fotonummer 15297."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51CFCAF69B09573F8C6435EE30A73B45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169010"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele wegwerkers van de N.S. tijdens werkzaamheden aan de spoorlijn bij Utrecht Maliebaan. Op de achtergrond de voetbrug over het spoor tussen de Bolstraat en de 1e Korte Baanstraat. Opmerking: NS fotonummer 18834."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5209EB12B55E5E56BCCF5ECF034A78FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30284"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen aan de zuidoostzijde van de Maliebaan te Utrecht tussen de Johan van Oldenbarneveltlaan en de 1e Korte Baanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CD3798A38F95F15AEA6840717FA4F3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127548"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de (afgesloten) voetbrug over de Oosterspoorweg tussen de Bolstraat en de 1e Korte Baanstraat te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, donderdag 10 december 1964, blz. 4: \"Spoorwegen probereb opnieuw luchtbrug weg te krijgen / Verzoek bij de gemeenteraad ingediend\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "72F61A58D1A157D0933C81C06EDD1ADA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169014"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele wegwerkers van de N.S. tijdens werkzaamheden aan de spoorlijn bij Utrecht Maliebaan. Op de achtergrond de voetbrug over het spoor tussen de Bolstraat en de 1e Korte Baanstraat. Opmerking: NS fotonummer 18838."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81A94C35CAFD5A7F9B1FCC6B5B35FA82"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20640"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 1e Korte Baanstraat te Utrecht met de huizen nrs. 1-hoger in de sneeuw. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-02-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "94ADFE3BBD1354CCA53478D505ED1C22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600812"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voetbrug over de Oosterspoorweg tussen de Bolstraat en de 1e Korte Baanstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9AB28E6DAB745EF9BC1943C972082F5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117401"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Maliebaan 27 te Utrecht, met rechts de ingang van de 1e Korte Baanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2002-03-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-03-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B3D73998E575E5186F71CF2243C8AA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117416"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Maliebaan 27 (rechts) -hoger te Utrecht, met rechts de hoek met de 1e Korte Baanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2003-03-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2003-03-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF593C0D319753A784B976372B3201A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87119"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het rioolgemaal in de 1e Korte Baanstraat te Utrecht. Opmerking: Fotonummer 15300."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B4037AD3FEE15452A0BB152E46DC84DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "76529"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voetbrug over de Oosterspoorweg tussen de Bolstraat en de 1e Korte Baanstraat te Utrecht. Opmerking: N.B. Fotonummer 9189"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD8139AE2BF75B9097B8F429777F5EF5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819722"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 1e Korte Baanstraat te Utrecht, vanaf de Maliebaan naar het zuidoosten. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CB0B61658FE55668892C299CD263779"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164743"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het N.S.-station Utrecht Maliebaan te Utrecht, uit het noorden, met de loopbrug tussen de 1e Korte Baanstraat en Bolstraat en links een waterkolom. Opmerking: De afbeelding behoort tot de collectie De Pater.<ZR>Reproductiefoto J. Esser."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C09B588F6AA758C7A2C6BCE17E1EE928"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128749"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sloop van de voetgangersbrug over de Oosterspoorweg tussen de Bolstraat en de 1e Korte Baanstraat te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, maandag 25 september 1967, blz. 2: \"Brug weggetild\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBF8E7C780C65AE3974524ED60B90584"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87118"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het rioolgemaal in de 1e Korte Baanstraat te Utrecht: motorenruimte. Opmerking: Fotonummer 15299."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D002D2C0B0965F0B81DCB5B92C7C8424"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62965"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Maliebaan 27 te Utrecht, uit het noordwesten met rechts de hoek van de 1e Korte Baanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1526F508F37525788D7F1C8B639BE16"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802158"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Maliebaan 27 te Utrecht; geheel rechts de ingang van de 1e Korte Baanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D170B96F706A5A128A326992F0DEF873"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819724"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 1e Korte Baanstraat te Utrecht, vanuit de straat naar het noordwesten; op de achtergrond de Maliebaan. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DED5142220155BB2B681EE3D4FB789AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62966"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Maliebaan 27 te Utrecht met rechts de hoek van de 1e Korte Baanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DF71F0F5F33353738584520E546B20E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62963"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker zijgevel en de voorgevel van het huis Maliebaan 25 te Utrecht, uit het noorden met links de ingang van de 1e Korte Baanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E664F5F6171658BA8BC9E8957BD9532A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169022"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele wegwerkers van de N.S. tijdens werkzaamheden aan de spoorlijn bij Utrecht Maliebaan. Op de achtergrond de voetbrug over het spoor tussen de Bolstraat en de 1e Korte Baanstraat. Opmerking: NS fotonummer 18846."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E830961BB00E55BDB803B224576B90DD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62964"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekhuis Maliebaan 27 te Utrecht met rechts de ingang van de 1e Korte Baanstraat. Opmerking: Reproductie van een omstreeks 1938 gemaakte opname."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5C3DCBBD6EE5561AE73AFD0B53FF406"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de bouwput voor het rioolgemaal aan de 1e Korte Baanstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB729BD536EC5076B2B4D50C8503A1F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819723"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen 1e Korte Baanstraat 6 (rechts) - lager te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF0DD2486F2E57A693F18A7DFA835D86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122472"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Maliebaan te Utrecht, uit het zuiden; rechts de ingang van de 1e Korte Baanstraat. Opmerking: Bij de veilingen van Beijers op 20-2-1991 (lot 1194) en 9-5-1994 (lot 1717) zijn soortgelijke en soms identieke foto's geveild als deze foto uit verzameling 17. De in 1994 geveilde foto's zaten in een portefeuille met het opschrift Utrecht 25 october 1889."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

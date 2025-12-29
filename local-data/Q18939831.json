@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DCBA77AA4AD5E21BB9816554D52080E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52247"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Appelstraat te Utrecht met de huizen nrs. 1-hoger; rechts het huis nr. 1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EF3FE3EA36953129FA26E2EA237776B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71642"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de parkeerplaats achter de huizen Tulpstraat 15 en 17 te Utrecht. Links de achterzijdes van de huizen Appelstraat 15-19 en rechts de achterzijdes van de huizen Kerkstraat 57-61 (Speyart van Woerden's Hofje)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8A20D555BAC25523A04D28C0C8517336"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20951"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Appelstraat 1-hoger te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

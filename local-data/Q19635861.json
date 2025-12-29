@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "53FFF17E71BC5425B4E9E2BFAD72763D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821349"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlaamse Toren (de nieuwe steeg tussen het Muziekpaleis Vredenburg en het winkel- en appartementencomplex De Vredenburg) te Utrecht. Opmerking: De foto is gemaakt voor de website www.bouwpututrecht.nl"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA177C8EB04F570B943B7B6B05D416C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe Muziekpaleis Vredenburg op het Vredenburg te Utrecht, met op de voorgrond het oude muziekcentrum tijdens de renovatie. Rechts de nieuwe doorgang Vlaamse Toren tussen het Muziekplaleis en het appartementencomplex De Vredenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-06-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-06-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

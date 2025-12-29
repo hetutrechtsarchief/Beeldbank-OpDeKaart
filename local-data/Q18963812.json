@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "19C01BD4C13E51E98637643571AD57E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92483"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kopgevel van de schaapskooi aan de Boswijklaan te Doorn. Opmerking: Een in 1981 gemaakte fotoreproductie van een in 1972 vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

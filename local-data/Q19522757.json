@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F7D9AA22FF858139FEF1B807EE1819C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de sloop van een huis aan de Snippenlaan in de wijk Tuindorp te Bilthoven (gemeente De Bilt)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-11-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-11-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

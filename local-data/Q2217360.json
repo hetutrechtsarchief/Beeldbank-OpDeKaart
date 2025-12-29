@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9927AAB6BD85ED187E9A984CD0ABB68"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164285"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het goederenemplacement Rotterdam Rechter Maasoever (RMO) te Rotterdam, uit het oosten. Op de achtergrond het HAKA-gebouw van de Co\u00f6peratieve Groothandelsvereeniging De Handelskamer aan de Vierhavensstraat. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,772 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0ABA8B91739D515D87E99CF5E4105A58"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68338"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oudwijkerdwarstraat te Utrecht vanuit het noordoosten met links een deel van het schoolgebouw Paarlstraat 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2425B6AE371D55CC93B97D77321516CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24040"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Paarlstraat 41-49 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A5BE1EE953A518684B38D595BA109FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120630"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Paarlstraat 14-16 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2CDB7A942F5A5E6E9EDBF49962389552"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120890"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Paarlstraat 47-43 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "375F78F48F4A557495F0D5BA1267AAC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68427"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Paarlstraat 40 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38413D8B695250B1A5CE1CDBA5C67F73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120894"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Paarlstraat 51-47 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A2481FA68825308BE68EC1B37202D82"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120631"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Paarlstraat 26-30 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B8C9F89DA495DAD9ADF4BF60ABEE1B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832935"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paarlstraat te Utrecht, vanaf de hoek met de Schelpstraat, met op de achtergrond enkele huizen aan de Nicolaasweg en links de kinderspeelplaats en de achterzijde van het pand Nicolaasweg 39/39bis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5332E091273F50E299EA8A37395A9A15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68426"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het noordwestelijk gedeelte van de Paarlstraat te Utrecht, tussen de Bankstraat (voorgrond) en Oudwijkerdwarsstraat (achtergrond), met de huizen nrs. 32 (rechts)-lager, uit het zuidoosten; links de zuidwestelijke straatwand met de huizen nrs. 35-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CB929ACC065539CBC29B8CF82D563A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paarlstraat te Utrecht met de huizen nrs. 55 (links)-hoger, aan de zuidwestelijke straatwand,vanaf de Nicolaasweg, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DE20C647F6858F48AE4049DF36CFA25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832934"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paarlstraat te Utrecht, vanaf de hoek met de Schelpstraat, met op de achtergrond enkele huizen aan de Nicolaasweg en links de kinderspeelplaats en de achterzijde van het pand Nicolaasweg 39/39bis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "751969BF813552F89B32B00E97FAC746"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120893"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Paarlstraat 57-53 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76FB191F2C1252479D1F227D00DE4B3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820455"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Oudwijkerdwarsstraat 133 te Utrecht; links de Paarlstraat.<ZR><ZR>N.B. Vanaf ca. 1910 tot 1932 waren in het pand de Brood- en Banketbakkerijen G.J. Trommel en H.J. van Rooijen gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-03-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-03-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7DA7D4FF07565F5D9E470B1D0166854E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68419"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paarlstraat te Utrecht met de huizen nrs. 11 (rechts)-hoger, aan de zuidwestelijke straatwand, uit het noordwesten; op de achtergrond de Nicolaasweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "855C570B8AFF5DC4836A42B17A36C46D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120629"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Paarlstraat 20-24 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "954BA2F904575CA7A3B0499583338111"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817516"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pand van het Bouwburo \"Oudwijk\" (Paarlstraat 2) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-02-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-02-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9591B61AAA525954A2235AF8E306E6F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68424"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paarlstraat te Utrecht met de huizen nrs. 12 (links)-hoger aan het noordwestelijk deel van de noordoostelijke straatwand, uit het westnoordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B333B6AB061D52DE937BFFF7245AF40F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68337"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het schoolgebouw Paarlstraat 2 te Utrecht met links de gevel aan de Oudwijkerdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9611E568FF85C5A8EF3E023333E9D07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het schoolgebouw Paarlstraat 2 te Utrecht, met links de gevel aan de Oudwijkerdwarsstraat Opmerking: De fotograaf, A.F.S.J. Hulskamp, fotografeerde o.a. veel in opdracht van de Dienst Bouw- en Woningtoezicht van de Gemeente Utrecht.<ZR><ZR>Fotonummer 14213."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF00A24FC1BF5629A246959640FE5580"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20786"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paarlstraat te Utrecht met de huizen nrs. 32-lager; op de voorgrond de Bankstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0FFA80C505E5CA4AE9EA61BA5ABCD1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115910"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de appartementencomplex met de woningen Paarlstraat 41 -51 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D505D5B090165D89A84088FF6043FE98"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Paarlstraat 51-lager te Utrecht met geheel links een gedeelte van het huis nr. 53. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA49AFEF1E2057ED96CDF589AADFFF7F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120918"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Nicolaasweg 39 te Utrecht met links de Paarlstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB19D6B435945A77BDD42690FA1ED2DD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het zaklopen tijdens een buurtfeest georganiseerd door de buurtvereniging Door Eendracht Sterk in de Paarlstraat en Schelpstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0B24A27716855A79E319F7CCDA7583F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het hoekpand Oudwijkerdwarsstraat 133 te Utrecht; links de Paarlstraat.<ZR><ZR>N.B. Vanaf ca. 1910 tot 1932 waren in het pand de Brood- en Banketbakkerijen G.J. Trommel en H.J. van Rooijen gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-03-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-03-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2A9A1B57102527FA1EA71771A6D30DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paarlstraat te Utrecht met de huizen aan de noordoostelijke straatwand,  nrs. 32 (links van het midden)-lager, uit het zuidoosten; rechts op de voorgrond de ingang van de Schelpstraat, met de voor- en zijgevel van het huis Schelpstraat 21; daarachter de rechter zijgevel van het huis Bankstraat 24, met de ingang van de Bankstraat; aan het eind de Oudwijkerdwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFEAC1C59F365CDBA22C2AC6883AF73D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paarlstraat te Utrecht met de huizen nrs. 1 (rechts)-hoger aan de zuidwestelijke straatwand; op de achtergrond de Nicolaasweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

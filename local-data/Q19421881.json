@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02F861A71D315F9EAA051B78D1CE4683"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plantsoen aan de Pizarrolaan te Utrecht, met rechts de zijgevel van het flatgebouw met de woningen Livingstonelaan 263-357."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D112EC35D0D52D5AB9C0D2234C3541F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816040"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plantsoen aan de Pizarrolaan te Utrecht, met de huizen Pizarrolaan 27 (rechts) -lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5110C8ADA86F5FD2BBF94A8CAA304C82"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807411"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver tussen de Pizarrolaan (links) en de Vasco da Gamalaan (rechts) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "620B87922F6151E3B76C19500131C270"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126541"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de berging van een te water geraakte auto uit het water tussen de Vasco da Gamalaan en de Pizarrolaan te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, maandag 20 mei 1968, blz. 4: \"Hoofdagent W. Stam redt automobilist uit Utrechtse singel / En het publiek keek toe...\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01135F33524156BABF2A5943C828584F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53025"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen De Bazelstraat 34-36 te Utrecht met de tuin en de rechter zijgevel van het schuurtje van het huis nr. 36, uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08A729CC72365367810522F77DBDA2D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53022"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de voor sloop bestemde huizen De Bazelstraat 25-29 te Utrecht met de rechter zijgevel van het huis nr. 25, uit het westen; rechts de La Croixstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1651BCC1984C58F6BAAB953318F21517"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18765"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lelimanstraat te Utrecht met de huizen nrs. 53 (midden)-lager; in het midden de ingang van de De Bazelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1ECFF6F0136B5C169B116D17FAFA17B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53016"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Bazelstraat te Utrecht, uit het zuidwesten met geheel rechts op de voorgrond de hoek van de La Croixstraat en aan het eind de Burgemeeser Norbruislaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "27E2FA71DA2F59F486E17B099070E951"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53018"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Bazelstraat te Utrecht, uit het noordoosten met rechts het huis nr. 64, daarachter de plaats van de gesloopte huizen nrs. 62-lager en links de hoek van de M. de Klerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29BEA2B75CCF5E5F9A6BAB5F6D3593DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55611"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen La Croixstraat 42-44 te Utrecht, vanaf de overkant met rechts voor de sloop bestemde huizen aan de De Bazelstraat (nrs. 19-lager)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "305CD844E5C1533599FBCB8D4E5489DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53017"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Bazelstraat te Utrecht, vanaf de Burgemeester Norbruislaan (voorgrond), uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A8F28A3D8705145A8E74BD9CCC07A29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55610"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen La Croixstraat 43-45 te Utrecht, vanaf de overkant met links de hoek van de De Bazelstraat met de rechter zijgevel van het huis De Bazelstraat 25 (gedeeltelijk dichtgetimmerd)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "57ABF0DD0982516993F4520ABD891713"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53019"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het zuidwestelijke deel van de De Bazelstraat te Utrecht met de huizen nrs. 1-hoger, vanaf de kruising met de Lelimanstraat (voorgrond), uit het westen; tussen de huizen nrs. 11 en 13 de ingang van de M. de Klerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "58781231B5125B99A8EC6FDD45A8A9F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53024"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechter zijgevel van het  huis De Bazelstraat 18 te Utrecht, vanuit de M. de Klerkstraat (rechts op de voorgrond), uit het zuidoosten; rechts van het huis de plaats van de gesloopte huizen nrs. 20-hoger en op de achtergrond de achterzijde van enkele huizen aan de Van Heukelomlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FC4C4DE7FE258B8B99C9AC75597ABB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68599"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van der Pekstraat te Utrecht, vanaf de De Bazelstraat. Links de linkerzijgevel van het pand De Bazelstraat 64, rechts daarvan de plaats van de gesloopte panden De Bazelstraat 62-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "627AEF3C644957619525A2B69DE1F13C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53023"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het noordelijke deel van de De Bazelstraat te Utrecht met de huizen nrs. 2-hoger, vanaf de kruising met de Lelimanstraat (voorgrond), uit het zuiden met links de linker zijgevel van het huis De Bazelstraat 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "64090153882F5575A5A5E4CADC6F5792"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60324"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechter zijgevel van het huis M. de Klerkstraat 45 te Utrecht, uit het zuiden met op de voorgrond links de De Bazelstraat met de achterkant van de huizen aan de Van Heukelomlaan. Opmerking: Afdruk gedeelte van negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E64074260D25A4D8778301AC21B28F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23309"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de De Bazelstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "801120A806EE5E28A0F9C082302D3581"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74978"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis De Bazelstraat 23 te Utrecht; beneden de etalages van Kapsalon H. Pol."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "854A98E411EE5040A5F1C4705D7E9DA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53015"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Bazelstraat te Utrecht, uit het zuidwesten met rechts op de voorgrond de hoek van de M. de Klerkstraat; aan het eind de Burgemeester Norbruislaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92FCA7468ED15F8F9DF1B013B6B0FBC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53020"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het zuidwestelijke deel van de De Bazelstraat te Utrecht met de huizen nrs. 1-11 (vooraan), uit het noorden met links op de voorgrond de hoek van de M. de Klerkstraat, met een deel van nr. 40; na het huis nr. 11 de kruising met de Lelimanstraat en in het verlengde de Prof. Wattjesstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99DFA31698DA50CD8EB52AC2EFB6F3F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53026"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen De Bazelstraat 64-66 te Utrecht en de linker zijgevel van het huis nr. 64, vanuit de Van der Pekstraat (voorgrond), uit het zuidoosten met links de plaats van de gesloopte huizen nrs. 62-lager; op de achtergrond de achterzijde van enkele huizen aan de Van Heukelomlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B4F69959270F5E9AA0CF9BFEF853C34F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55609"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de La Croixstraat te Utrecht, vanaf de De Bazelstraat, uit het noordwesten met links de voor de sloop bestemde huizen De Bazelstraat 25-25bis-27 en op de voorgrond de plaats van de gesloopte huizen aan de noordkant van de De Bazelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E4764BBB941F5FA6813BA8E27AF55E86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53021"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het zuidoostelijke deel van de De Bazelstraat te Utrecht met de huizen nrs. 23-lager, vanaf de hoek van de La Croixstraat (links op de voorgrond), uit het noorden; tussen de nrs. 13 en 11 de ingang van de M. de Klerkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8887B68F2A65348A9B900201F22D4FB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60323"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de M. de Klerkstraat te Utrecht, vanaf de De Bazelstraat, uit het noordwesten; links de huizen De Bazelstraat 17, 15 en 13 met het hoekhuis M. De Klerkstraat 45, voor de sloop en op de voorgrond de plaats van de gesloopte huizen aan de noordzijde van de De Bazelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

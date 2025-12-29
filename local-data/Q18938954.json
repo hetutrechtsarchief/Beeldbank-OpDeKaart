@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6AC7C7B7AAF75A49944A267397C1D08B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118241"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het inundatiekanaal in de wijk Lunetten te Utrecht langs de Oude Liesbosweg (rechts); geheel rechts enkele huizen aan de Antillen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CC5941F76A95C53A300CC40F691BC4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602880"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de commissaris van de Koningin in de provincie Utrecht mr. C.Th.E. graaf van Lynden van Sandenburg (midden) in gesprek met de voorzitters van de staten-generaal van Suriname, J.S.P. Kraag, en van de Nederlandse Antillen, J.A.O. Bikker."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B91330EEF77652E68ACC882DC636AB4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Oude Liesbosweg te Utrecht, uit het noorden met links de achtergevels van enkele huizen aan de Antillen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

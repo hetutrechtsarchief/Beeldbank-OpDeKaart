@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55396AF93EC555BD982A5FF7612DEE63"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10605"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kerklaan te Hoogland uit het westen, met op de achtergrond de toren van de R.K. St.-Martinuskerk.<ZR><ZR>N.B. De gemeente Hoogland is per 1 januari 1974 bij de gemeente Amersfoort gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

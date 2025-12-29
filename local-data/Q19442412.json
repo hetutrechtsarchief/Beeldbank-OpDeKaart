@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "420C812E3C6455228A3B3376D6E7FECF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25407"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gemaal Polsbroek Groot & Klein Keulevaarts (Provincialeweg Oost 115) te Haastrecht (Z-H). Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

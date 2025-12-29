@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44814BB745425D98A89E1D5FA613AAC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89927"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de informatieavond over de toekomstige reconstructie van de Rijksstraatweg tussen de Meentweg en de Boekbinderslaan te De Meern (gemeente Vleuten-De Meern) in het restaurant Rhenomare (Meerndijk 1) te De Meern. De heer J. Moltmaker (hoofd civiele werken) geeft uitleg over de plannen.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "97B2F04BB4D451B997465982817FF230"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88054"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuwbouw aan de Boekbinderslaan te De Meern (gemeente Vleuten-De Meern).  <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

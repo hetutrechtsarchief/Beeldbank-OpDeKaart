@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0B206B0C01E5933B8CA6AB68DBB9428"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163665"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Ruyschstraat te Amsterdam, bij het N.S.-station Amsterdam Weesperpoort.<ZR><ZR>N.B. De afbeelding maakt deel uit van een serie foto's met betrekking tot de Spoorwegwerken te Amsterdam. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Reproductiefoto"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

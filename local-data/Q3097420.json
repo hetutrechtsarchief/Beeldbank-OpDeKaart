@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C497BB6957257F7B3AA50774BB1C091"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161097"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 3819 (serie 3700/3800) van de N.S. met een goederentrein bij het N.S.-station Rilland-Bath te Rilland. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DD126B7F5915EC39F0E5896EBEC9C52"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152847"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het noodstation Rilland-Bath te Rilland kort na de watersnoodramp met assistent-stationsambtenaar P.E. Kalle. Opmerking: lit.: J. Matthijssen, Sporen door het water, p. 77"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-02-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-02-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

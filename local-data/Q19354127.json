@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "786B4483A2C5A60DE0534701000A19D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837738"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het schoolgebouw Nicolaas Beetslaan 2 te Zeist. Opmerking: De foto (18 x 24 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 383. De foto is gemaakt ten behoeve van de publicatie \"Scholen\" (Stichtse Monumenten Reeks), door Esther Leenheer-Wessel. Fotografie: Henk Bol (1997)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

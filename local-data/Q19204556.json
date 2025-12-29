@@ -1,0 +1,800 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D2E000E353F5AA5BE853C1822F4A39E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821144"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Grasstraat te Utrecht, met op de achtergrond enkele huizen aan de Goedestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15BDA74B592652EBB7AA3798D3FCE767"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27122"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E92480749F75EEFB9E9720EBBB56C4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121097"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Openbare Fr\u00f6belschool Grasstraat 10 te Utrecht: speellokaal. Opmerking: De school is in 1934 verplaatst naar de Vleutenseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "39A2043362855949A2CD88ECB87F1EB9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27124"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: slaapkamer op zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A86CC13C5195F849071F02444E3AC43"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27121"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: gang met de voordeur."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41CC12F3A5CB5CF783C806EA8C61F0B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27123"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: slaapkamer op zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BD0AB820CA751409E1CE700AD7A9402"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het eind van de Goedestraat te Utrecht met rechts, sterk verkort, de voorgevels van de huizen nrs. 149-151, uit het zuiden; op de achtergrond de Biltsche Grift met de Griftkade; links de ingang van de Grasstraat met daarachter het huis Griftkade 5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FAD88B5838751A7A2414D043C35C8E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27112"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Grasstraat 4 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60F1E40C0E8D522BA4D5A2A21F721157"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27116"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: woonkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BB8616B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40525"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de duiktoren, met poserende zwemmers, in de Openbare Badplaats aan de Grasstraat te Utrecht; op de achtergrond de Biltsche Grift. Opmerking: Afdruk van origineel negatief, 1979."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "77D6BDB6A57A5D1D86BA0B34346F8778"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821143"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Grasstraat 2 (links) en Grasstraat 4 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C66014EFE5D56AFA2891E6A8D2025E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57383"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goedestraat te Utrecht met rechts de huizen nrs. 136-lager aan de westelijke straatwand, vanaf de kruising met de Grasstraat, uit het noorden; vooraan het hoekhuis Grasstraat 33 met de voorgevel van het huis Grasstraat 31 (rechts daarvan) en iets naar achteren de kruising met de Bollenhofsestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8BBC07402CB35610AEC20C2B3CD15E2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120789"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van poserende zwemmers en badmeesters bij de duiktoren van de Openbare Badplaats aan de Grasstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D32A0249D5B55BEA2E98E07B8F55EA8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27120"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: trap naar de zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92C0277C13AE54DEBE52295DA6175F26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27114"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel en aanbouw van het pand Grasstraat 4 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A533D2898D15375B141CF5F824BBF06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821142"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de (autoluwe) Grasstraat te Utrecht, met links op de voorgrond een \"Victor Veilig\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DA075BBD5E1597BAA61A72709ED401C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27113"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel en aanbouw van het pand Grasstraat 4 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F5F18B55E2B509A8365E6FBE9CEE880"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27117"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: keuken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A86627D3E18F5F4AA7F76BAEE701549F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121098"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Openbare Fr\u00f6belschool Grasstraat 10 te Utrecht: klaslokaal. Opmerking: De afbeelding is gepubliceerd in Utrecht, Uitgave van de Gemeente Utrecht, 1920.<ZR>De school is in 1934 verplaatst naar de Vleutenseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE1208205F3F590485A121FB91B15200"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27119"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: toilet."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AFDDC115B40A5A0586EBB729BFE3C307"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27111"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Grasstraat 2-4 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7939433BBB85AB6969A37FC8A9B3D7C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27115"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: woonkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7B92723C9D2558EBF12C3238FD234ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57346"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het noordelijk gedeelte van de Goedestraat te Utrecht met de huizen nrs. 145-lager aan de oostelijke straatwand, uit het noordnoordwesten; na het huis nr. 139 de kruising met de Bollenhofsestraat, meer naar achteren de kruising met de Klaverstraat; rechts op de voorgrond de hoek van de Grasstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5CD2E5F325B52459A2ECC226CA6CEAE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27126"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: kinderkamer op zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC63C38E57F2543EB8BE7BACADFCE5B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: slaapkamer op zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFAF62ACFEC65CD898CC3D6725FAC3CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "39779"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het terrein achter het pand Vlasstraat 34 te Utrecht, met rechts de zijgevel van het hoekhuis van de Grasstraat en op de achtergrond de bomen langs de Alexander Numankade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2D245A2C44F5FB2BE70A13E0A8425A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "43624"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Alexander Numankade te Utrecht, tijdens asfalteringswerkzaamheden. Op de achtergrond het terrein tussen de Biltsche Grift en de Grasstraat. Opmerking: In 1979 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAB1E63869495894918AC5DB2B182E86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27118"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Grasstraat 4 te Utrecht: keuken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

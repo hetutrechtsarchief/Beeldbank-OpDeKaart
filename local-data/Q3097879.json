@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "067B8A05F94357EC9573866CE00B298D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170120"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Stationsweg te Tiel, met op de achtergrond het H.S.M.-station Tiel. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "016B2AD0ED0B53819F7C9BF38C56C38F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158094"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een tijdens de oorlog vernielde loods bij de laad- en losweg van het N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "085C66DE5A21533385DC78A493745789"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166142"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Tiel te Tiel: stationshal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0CA1F0E3FB975BED9F8B0104FE5530A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170169"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Tiel te Tiel, met een stoomlocomotief uit de serie 74-82, 89-98 en 116-125 van de H.S.M. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2CEFD32379275B5EB45F0720D43F897B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155568"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het vernieuwde perron van het N.S.-station Tiel te Tiel met links een electrisch treinstel plan V (mat. 1964) en rechts een diesel-electrisch treinstel DE 2 (\"Blauwe Engel\", plan X) van de N.S. Opmerking: De foto is gepubliceerd in de Koppeling nr. 892 (4 maart 1983), p. 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35CE385D4956534AAC64BE3087DD5FDA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Tiel te Tiel. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37F9052A326D59F39661C7E73A8BDEE6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158096"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de tijdens de oorlog vernielde loods bij de laad- en losweg van het N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E548DE18DAE57F58EFA513D98C49798"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166090"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Tiel te Tiel: wachtkamer 2e klasse."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "490960BCFDF85B6A954752DA1F69148F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158090"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het tijdens de oorlog beschadigde N.S.-station Tiel te Tiel: verwoesting door voltreffer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "574C0D84ADA7525EB64D45F1E463AB57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een tijdens de oorlog vernielde loods bij de laad- en losweg van het N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71A35BB5D5F65A5297B8F6A4E86F11D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog beschadigde N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "72FD68D34F7FCC44E0534701000AAAC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837216"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het diesel-electrische treinstel nr. 1002 (?)  (DE 4, serie 1000, RAm, T.E.E.) van de N.S./S.B.B. langs het perron van het N.S.-station Tiel tijdens een proefrit. Opmerking: NS fotonummer 12254"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7969F994E48A5775BF1E4218F8A63241"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160800"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de locomotor nr. 216 (serie 200/300) van de N.S. met het rijtuig C 7005 als volgtrein 3155 langs het perron van het N.S.-station Tiel te Tiel. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-11-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-11-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F3BB123162B5068BD733314E5A50F70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155025"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het N.S.-station Tiel te Tiel met het diesel-electrische treinstel nr. 145 (DE 3, plan U) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AB7B107345F59B0A7F5EAC62DEACF29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170121"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Tiel te Tiel. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9259C513CE095859A9A0573C6C2F83EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158085"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronkap van het tijdens de oorlog beschadigde N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B158014388157409C61B492B207421D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163126"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Tiel te Tiel. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1DFA779F6345D0A84293935E7F3C3BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158093"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een tijdens de oorlog vernielde loods bij het N.S.-station Tiel te Tiel met enkele autowrakken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B54938B6C3C450C492175B4AFC27D053"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166173"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Tiel te Tiel: hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7357A89A63855F9A669069D116DD1B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152988"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van museum-stoomlocomotief nr. 3737 tijdens een rit voor de N.V.B.S. langs het perron van het N.S.-station Tiel te Tiel. Opmerking: Zie 'De Koppeling', 25 mei 1974, p. 7."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB7C1EF6891E5A38A14F0FBC81EC07D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158089"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de linker zijgevel van het tijdens de oorlog beschadigde N.S.-station Tiel te Tiel met inslagen van kogels en granaatscherven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C857C590EC535CCBA9A64EE2D621A02D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158087"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronkap van het tijdens de oorlog beschadigde N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CACCA9866FA25C3F835A4B700CB32AA2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158092"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog vernielde bijgebouw van het N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D65CFB7E6CF75DA7B54D696B9F4BA8B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158086"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de perrongevel van het tijdens de oorlog beschadigde N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DCE5BE9AA92A5D7494226917CED312C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150716"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E78CB4CC42105855B8F8F6C3B7D54AC8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163127"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Tiel te Tiel. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E9F08236F0D655D6957A1C0EB6B62DE7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155024"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het N.S.-station Tiel te Tiel met het diesel-electrische treinstel nr. 145 (DE 3, plan U) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED7E35EF9D13568E9443B7730EAB523E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het diesel-electrische treinstel nr. 1002 (DE 4, RAm, T.E.E.) van de N.S. tijdens een proefrit op het emplacement van het N.S.-station Tiel. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Werkspoor fotonr. 13144<ZR>De foto bevindt zich ook in het archief van de dienst van Materieel en Werkplaatsen van NS (toegang 955, inv. nr. 752 en 783)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F40BD2939E7858ECBB057915AF2E41C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158091"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog vernielde bijgebouw van het N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFC2598EA4765C649610CACF246BA9F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158088"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het tijdens de oorlog beschadigde N.S.-station Tiel te Tiel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

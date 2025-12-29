@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B79182342C454F8AC28A35BF3EE0E6C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18598"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soestdijkstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24E5D30384B55B3EB1324A1854DD3F00"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84836"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de wijk Hoograven te Utrecht, vanaf de Johannes de Doperkerk (Plettenburgplantsoen 2), uit het zuiden; op de voorgrond de Oranje Nassaulaan en in het midden de Soestdijkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9E3B8D30DB859E59F1D14A712F94BD5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18599"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soestdijkstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05E08B1F6A7A54DCA25DF96465CDCD19"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150227"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Deinum te Deinum, uit het zuidwesten. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "53C6671E3B285EB3A7FA706E3EF59402"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155567"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde nieuwe N.S.-station Deinum te Deinum met een diesel-electrisch treinstel DE 2 (\"Blauwe Engel\") van de N.S. Opmerking: De foto is gepubliceerd in De Koppeling, nr. 888 (4 februari 1983), p. 5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "676BFBA7FF725C64B1B96EEC2E80E9D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166065"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Deinum te Deinum: wachtkamer, met loket."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C3533B7353965E4B8C53FA3F40966FCF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150226"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het  N.S.-station te Deinum met fietsenstalling en 65+vlag ten behoeve van de  promotie van de zogenaamde 65+ kaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

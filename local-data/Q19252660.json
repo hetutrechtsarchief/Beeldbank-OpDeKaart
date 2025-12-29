@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "898F8748BC7B580A9E43D7C388E501A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Heycopplein te Utrecht; links de sporthal U.K.V.De Halter (Heycopplein 5)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB3D455806B6532F97837352934EBC5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127094"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kinderdagverblijf Spikkels (Heycopplein 3) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

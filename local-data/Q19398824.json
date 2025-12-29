@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "236234E293FD537885D8977ED99656D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85285"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het verzorgingscentrum Titus Brandsma (Grote Trekdreef 87) te Utrecht, uit het zuidoosten. Op de achtergrond de Zambesidreef met rechts de Ossewagendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FED0F74EB5E5A77B26AD8D52C27739C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66226"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw met woningen aan de Ossewagendreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7DB414EFFD635451927F684344807AF2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814197"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanleg zijnde Einsteindreef in de wijk Overvecht te Utrecht, vanaf de hoek met de Humberdreef, uit het zuiden. Links de flatgebouwen aan de Ossewagendreef en de Nataldreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC8859A7F9E9561DBCD5AE4E3A28D554"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833324"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een Utrechtse kabouter (KBTR) met een waarschuwingssticker als muts, op een hoogspanningskastje aan de Ossewagendreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

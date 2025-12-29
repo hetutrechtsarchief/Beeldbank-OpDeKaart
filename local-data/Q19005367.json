@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "127CC7BBF763548A9AC69A22239626EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "300767"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een bladzijde uit het tijdschrift Het Leven Ge\u00efllustreerd uit 1918 met de portretten van een deel van de exposanten op de tweede Jaarbeurs te Utrecht:<ZR>441. B. Reinhart (Groninger Mantelfabriek te Groningen), 442. W. Kluvers (N.V. Extractfabrieken Santa te Amsterdam), 443. W.E. Kranen (W.E. Kranen Electrische Apparaten te Schiedam), 444. H. Rubingh Ozn. (H. Rubingh Ozn. Borstel- Bezem en Kwastenfabriek te Veendam), 445. G.J. Herfkens (Canoy-Herfkens Steenfabrieken te Venlo), 446. A. Bellm (Alph. Bellm Tafelkleeden enz. te Amsterdam), 447. H.C. Zwarts (H.G. Zwarts Zakkenhandel te Utrecht), 448. J.N. Haagens (Gebroeders Haagens Etikettenfabriek te Rotterdam), 449. Van Neck (Wennekes & Van Neck Chloorkalk enz. te Oosterbeek), 450. K. Gerkens (N.V. Noorwegen Oli\u00ebn te Amsterdam), 451. M. Koster Jzn. (M. Koster Jzn. Agentuur en Commissiehandel te Amsterdam), 452. H.G. Peletier (Nederlandsche Sigarenfabriek De Huifkar te Oisterwijk), 453. L. Drielsma (A.J. Polak Pudding te Groningen), 454. A.J. Kortebein (N.V. Fabriek van Fijne Verven en Inkten Talens & Zn. te Apeldoorn), 455. A. Fongers (Groningsche Rijwielenfabriek A. Fongers te Groningen), 456. J. Bendien Sr. (Isa\u00e4c Bendien Jzn. Kinder- en Werkmanskleeding te Almelo), 457. W. v.d. Bilst (Verbond van Nederlandsche Fabrikantenvereeniging te Den Haag), 458. W. Woldering (Woldering's Fabriek van Gedroogde Groenten en Aardappelen te Gouda), 459. J. Muijsson Jr. (Cie. De Bronzes d'Art te Rotterdam), 460. C.G. Simons (Bond van Steenhouwerspatroonsvereeniging in Nederland te Amsterdam), 461. S. de Swaan (Gebr. De Swaan Jute Zakken te Groningen), 462. J. de Ceuster (Cede Fabrieken Motoren Carburators te Leiden), 463. M. de Bruijn (Conservenfabrieken Hollandia te Bergen op Zoom), 464. J.K. Happe (Maatschappij Rora NederlandschePharmaceutische Handelsmaatschappij te Rokanje). Opmerking: De afbeelding is afkomstig uit het tijdschrift Het Leven Ge\u00efllustreerd uit 1918, nr. 9 of 10.<ZR>De tweede jaarbeurs werd van 25 februari tot 9 maart 1918 gehouden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1918-02-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1918-03-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

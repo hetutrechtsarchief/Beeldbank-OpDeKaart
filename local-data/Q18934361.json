@@ -1,0 +1,996 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07ABBDF5000B556A96352496ADBF590E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16648"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van de buitenplaats Zandbergen  (Amersfoortseweg 18) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DB5485E59F554D2B2684B6A775AB51F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129106"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het caf\u00e9-restaurant Spitfire (Amersfoortseweg 10F) te Huis ter Heide (gemeente Zeist), gevestigd in het voormalige stationsgebouw van de N.C.S.-halte Huis ter Heide."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "286A13F3D3115B5F8BC1BB3FF59E9D1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827577"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Katholiek Militair Tehuis De Cockpit (Amersfoortseweg 43) te Huis ter Heide (gemeente Zeist), met op de voorgrond een Spitfire. Opmerking: Digitale reproductie. Het origineel is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35C78183F6B25BCC98AC73E46A33A60C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10722"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de achtergevel van het hoofdgebouw van de Johannes Stichting (Amersfoortseweg 56) te Huis ter Heide (gemeente Zeist). <ZR><ZR>N.B. De naam Johannes Stichting is in 1973 gewijzigd in Sterrenberg; deze naam is in 1998 gewijzigd in Abrona."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3AE1BB527D785E259314F11BA8531A6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827578"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Katholiek Militair Tehuis De Cockpit (Amersfoortseweg 43) te Huis ter Heide (gemeente Zeist). Opmerking: Digitale reproductie. Het origineel is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BF0EDBBC366597D8D764D7E07EEDFD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10716"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Beukbergen (Amersfoortseweg 59) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D2A0E81970C5066AE825EFE1F5C02F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129108"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het caf\u00e9-restaurant Spitfire (Amersfoortseweg 10F) te Huis ter Heide (gemeente Zeist), gevestigd in het voormalige stationsgebouw van de N.C.S.-halte Huis ter Heide."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E7C9B14FFFA5D338DFF25993F03C292"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10746"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver van het Blookerpark in het park van de buitenplaats Zandbergen (Amersfoortseweg 18) te Huis ter Heide (gemeente Zeist); met op de achtergrond het landhuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1918-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "467667F82F0B55349943FFC90442B904"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161749"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorlijn Bilthoven-Zeist, vanaf de spoorwegovergang in de Amersfoortseweg te Huis ter Heide (gemeente Zeist), met een naderende trein. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4822792D4759524BA0D88AC0F0A45DB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16549"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Keienhuisje in het Blookerpark (Amersfoortseweg) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5AFA99BB5ED351CC96C20C69310CF453"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602954"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Zandbergen (Amersfoortseweg 18) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61FAF7015FF75B5A99051E406ABE13BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het landhuis Dijnselburg met omringend park (Amersfoortseweg 10) te Huis ter Heide (gemeente Zeist). Opmerking: Lit. Zeist, Groei en Bouw, dl. Huis ter Heide, Lyceumkwartier en Austerlitz, p. 37-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2B7A616B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16669"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Beukbergen met omringende tuin (Amersfoortseweg 59) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "674886E4A847594794A9CA953BB19A72"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10747"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Keienhuisje in het Blookerpark (Amersfoortseweg) te Huis ter Heide (gemeente Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "737679E03DCD56EAA3C4A35BC067F34B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94825"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Zandbergen (Amersfoortseweg 18) te Huis ter Heide (gemeente Zeist) uit het noordoosten. Opmerking: Lit. Zeist, Groei en Bouw, deel Huis ter Heide, Lyceumkwartier en Austerlitz, p. 49-54. <ZR>De afbeelding is gepubliceerd in: Ons eigen land, 1908."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1907-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1907-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "77B58950B076EC1CE0534701000AF971"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837572"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het transformatorhuisje van de PUEM aan de Amersfoortseweg te Huis ter Heide (gemeente Zeist). Opmerking: De foto (24 x 30 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 381. De foto is gemaakt ten behoeve van de publicatie \"Trafohuisjes\" (Stichtse Monumenten Reeks), door Roland Blijdenstijn, Max Cramer, Ed Schulte, J.J. Verwaal. Fotografie: Henk Bol (1993). Bij deze foto bevindt zich een bijna identiek 2e exemplaar."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "77CB72D1522F9435E0534701000AC537"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837595"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Keienhuisje, een follie in het Blookerpark aan de Amersfoortseweg te Huis ter Heide (gemeente Zeist). Opmerking: De foto (24 x 30 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 382. De foto is gemaakt ten behoeve van de publicatie \"Follies en tuinsieraden\" (Stichtse Monumenten Reeks), door Wim Meulenkamp. Fotografie: Henk Bol (1994)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "798369F28B4B048FE0534701000AC697"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837909"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het woonwagencentrum Beukbergen aan de Amersfoortseweg te Huis ter Heide (gemeente Zeist). Opmerking: De foto (17 x 23 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 226."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "798369F28B60048FE0534701000AC697"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837910"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een jongetje tussen enkele personenauto's op het woonwagencentrum Beukbergen aan de Amersfoortseweg te Huis ter Heide (gemeente Zeist). Opmerking: De foto (17 x 23 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 226."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7983E9EAED24BA96E0534701000AA7CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837912"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van bewoners van het woonwagencentrum Beukbergen aan de Amersfoortseweg te Huis ter Heide (gemeente Zeist) tijdens een bijeenkomst over de herinrichting van het woonwagencentrum. Opmerking: De foto (17 x 23 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 226."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7983E9EAED25BA96E0534701000AA7CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837913"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van bewoners van het woonwagencentrum Beukbergen aan de Amersfoortseweg te Huis ter Heide (gemeente Zeist) tijdens een bijeenkomst over de herinrichting van het woonwagencentrum. Opmerking: De foto (15 x 23 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 226."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C19294A94705CE58D9C22CB3D0252E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808640"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Anton Henri baron Sloet van Oldruitenborgh, zich noemende van Marxveld, geboren Vollenhove 29 oktober 1869, eigenaar van de buitenplaats Beukbergen , Amersfoortseweg 59 te Huis ter Heide (gemeente Zeist), overleden Vollenhove 13 oktober 1957. Borstbeeld links van voren. Opmerking: Fotograaf waarschijnlijk F. Kramer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87C539C17BED5DF69CD22CC315D58D05"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10750"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in een laan met gemengde bomen op de buitenplaats Zandbergen (Amersfoortseweg 18) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "89FBF734A6A05F3E973856741B267D33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16646"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Zandbergen met omringend park (Amersfoortseweg 18) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E7FECA41C285CEB86B852E0B75A382D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10721"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het hoofdgebouw van de Johannes Stichting (Amersfoortseweg 56) te Huis ter Heide (gemeente Zeist). <ZR><ZR>N.B. De naam Johannes Stichting is in 1973 gewijzigd in Sterrenberg; deze naam is in 1998 gewijzigd in Abrona."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90629F2CC55851AF9E7696E44D1A00FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10744"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Zandbergen (Amersfoortseweg 18) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C772539736FD5FFC9384C4A18F054A08"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16543"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het landhuis Dijnselburg met omringend park (Amersfoortseweg 10) te Huis ter Heide (gemeente Zeist). Opmerking: Lit. Zeist, Groei en Bouw, dl. Huis ter Heide, Lyceumkwartier en Austerlitz, p. 37-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA1A2AA93F2E54A1BD1BECDFDDE52C08"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16647"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Zandbergen met omringend park (Amersfoortseweg 18) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D62F4763ABA75D388150A0C7DB48AA67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10717"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het landhuis Beukbergen  (Amersfoortseweg 59) te Huis ter Heide (gemeente Zeist): de eetzaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D87C8248CAC55C0681833B3023259796"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10745"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van de buitenplaats Zandbergen (Amersfoortseweg 18) te Huis ter Heide (gemeente Zeist); met op de achtergrond het landhuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEC21E38F5C757ACA52255B7BAC9EFD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808639"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Anton Henri baron Sloet van Oldruitenborgh, zich noemende van Marxveld, geboren Vollenhove 29 oktober 1869, eigenaar van de buitenplaats Beukbergen , Amersfoortseweg 59 te Huis ter Heide (gemeente Zeist), overleden Vollenhove 13 oktober 1957. Borstbeeld van voren. Opmerking: Fotograaf waarschijnlijk F. Kramer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DFB957FB2D4E5A49988BB07FF196C069"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169408"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Amersfoortseweg te Huis ter Heide, met rechts een gedeelte van het haltegebouw van de N.S. Opmerking: NS fotonummer 2579."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E130537644D858ABBB66709E3F7ABD0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10718"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het hotel-caf\u00e9-restaurant Van den Akker (Amersfoortseweg 10) te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E823338204EE5013A5CAFECD8A42F03F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827579"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Katholiek Militair Tehuis De Cockpit (Amersfoortseweg 43) te Huis ter Heide (gemeente Zeist). Opmerking: Digitale reproductie. Het origineel is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F776A0406D2257D4B2B102FC8AEEEB11"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129107"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het caf\u00e9-restaurant Spitfire (Amersfoortseweg 10F) te Huis ter Heide (gemeente Zeist), gevestigd in het voormalige stationsgebouw van de N.C.S.-halte Huis ter Heide."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

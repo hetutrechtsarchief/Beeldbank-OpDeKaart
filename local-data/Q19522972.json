@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6E4AF251D7851E4B2B91AFB96F47EFF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601822"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis De Witte Burcht (Soesterengweg 4) te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-09-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-09-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFB8696C686A5E8E8F8EF1284F901C6B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14403"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis De Witte Burcht  met omringende tuin (Soesterengweg 4) te Soest. Opmerking: Lit. MIP Soest, p. 250-252."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1916-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

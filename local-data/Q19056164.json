@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C5AE8F4BBB7522388C0AA32641A0E17"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13732"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Driehuis met bebouwing te Mijdrecht; met rechts de voorgevel van de Rooms-katholieke pastorie (Driehuisplein 3) en een grote groep kinderen.  <ZR>  <ZR>N.B. De gemeente Mijdrecht is per 1 januari 1989 opgenomen in de nieuw gevormde gemeente De Ronde Venen. Opmerking: Lit. MIP Mijdrecht, p. 134-135."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

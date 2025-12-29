@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A5EF115EED9F5ADCA7668EE75C57BA95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23435"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de panden aan de Fuuthof te Utrecht met op de voorgrond het voormalige Cindu-terrein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0522659A3F35520901C323BDA516D1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108656"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Fuuthof te Utrecht.<ZR><ZR>N.B. De foto is gemaakt door Lauri ten Hove. Zij schrijft erover: \"Dit is de straat waar ik woon. Ik speel niet zo vaak buiten. De gemeente heeft de bomen neergezet. Als ze gesnoeid zijn, vind ik ze heel lelijk. Gelukkig groeien er snel weer takken aan. Er staan ook veel auto's in de straat, dat mag niet, maar sommige mensen doen het toch. Stom h\u00e8?\" Opmerking: De foto maakt deel uit van de serie \"Utrecht door de ogen van kinderen\", begeleid door de fotografen Marije van der Hoeven en Marieke Middelkoop en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      }
+    ]
+  }
+}

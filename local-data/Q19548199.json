@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6482A08BBEF55664ABA4CF525C69BD8F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116475"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het districtskantoor van het Gasbedrijf Centraal Nederland (G.C.N., Steenovenweg 11) te Montfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-06-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5283D81322C5DD1A82DFDB565F03870"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115378"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van het Gasbedrijf Centraal Nederland (Steenovenweg 11) te Montfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

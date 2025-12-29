@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "736EB09AAC7F53C2A97FE789C3063D79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23085"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Guatemaladreef te Utrecht vanaf de Nicaraguadreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75A8DDFDD0D6573480E5C39093375AAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Franciscusdreef en omgeving te Utrecht, uit het zuiden, met op de voorgrond de Acapulcodreef en de Nicaraguadreef en links op de achtergrond het bedrijventerrein Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B97EDD812DF751F3925B11B40D80B2D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23116"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nicaraguadreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

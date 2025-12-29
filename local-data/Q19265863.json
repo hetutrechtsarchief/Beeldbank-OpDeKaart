@@ -1,0 +1,520 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E8661A4B9A450F68B909E0119BA3E63"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54023"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Bloemstraat te Utrecht ter hoogte van Hulststraat (links), op de achtergrond de Bankstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AE6AEBAD6D75D6B9C593B65E802F591"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817582"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een binnenterrein aan de Jachtstraat te Utrecht; op de achtergrond de achtergevels van nieuwbouwwoningen op de hoek van de Hulststraat en de Bloemstraat,"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B8EA3FD9590523D994C5135A50670B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27105"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Hulststraat 11 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DFF130FADFD52E191AB4C26A690AE21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27104"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het hoekpand Hulststraat 21 te Utrecht: zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3492AED57E8A5AD185C594CC33FFEBCE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24044"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de  Baanstraat Utrecht met links de Hulststraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4143DAE877E759B9AAF0775F4C774464"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25652"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Baanstraat 5 te Utrecht met rechts de Hulststraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C9B52916DF1546FBA7840C7E89C2825"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27108"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Hulststraat 21 te Utrecht met links de Baanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "559C2B6462A25C3BBC39E8C8A5F3B100"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27103"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Baanstraat 5 te Utrecht met rechts de Hulststraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D5CECBDE25555F397833872D6A7B19D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120906"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Hulststraat 17 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68430BFA50CB5027A0A39199307D70A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27106"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Hulststraat 13 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FD254835ED55AD9B7B4398BB518848C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27110"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Hulststraat 21 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71D20625D6C85C0BAF00ED74E9B3662B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115795"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van enkele nieuwbouwwoningen aan de Hulststraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3A0868F62585ED09EAA7819AC70D5A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54031"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het zuidoostelijke deel van de Bloemstraat te Utrecht met in hoofdzaak de noordoostelijke straatwand, vanaf de Oudwijkerdwarsstraat, uit het westnoordwesten; vooraan het hoekhuis Oudwijkerdwarsstraat 135, daarachter de zijgevel van het huis Hulststraat 21, de ingang van de Hulststraat en de zijgevel van het huis Hulststraat 10, daarachter de voorgevel van het huis Bloemstraat 70."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF941B59FE165055B9EC2FC4CB2950F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120923"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Hulststraat 1-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4773C30C75A5B16AB2458759A8D9773"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27109"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van het pand Hulststraat 21 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD4F1277E69257A18E2340BB72183D4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27102"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hulststraat te Utrecht met op de achtergrond de Bloemstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDF4C06FF6A652589B8DCBED3556F9EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120905"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Hulststraat 15 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E30A8A4DC9C6570F88BFC0F8FEAD7260"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "27107"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Hulststraat 19-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

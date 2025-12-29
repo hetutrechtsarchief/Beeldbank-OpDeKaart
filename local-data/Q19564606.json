@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6C6183586285FEAAD402FD6A64FBA20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Teherandreef te Utrecht, ter hoogte van de kruising met de Damascusdreef (rechts).<ZR><ZR>N.B. De foto is gemaakt ter voorbereiding van scholieren voor de te fietsen route voor het Verkeersexamen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

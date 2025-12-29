@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7520DE29A6C152BBB80479FB829DD673"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24255"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de bouw van enkele panden aan de Prof. Zonnebloemlaan te Utrecht gezien vanaf de Eykmanlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E0843DD6FE355F8A0044167FB9C5D1B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119935"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plantsoen tussen de Prof. Jordanlaan (links buiten beeld) en de Eykmanlaan (rechts) te Utrecht, met links het beeld Genesis van Wout Maters, in het midden het appartementengebouw aan de Prof. Zonnebloemlaan en rechts op de achtergrond het flatgebouw aan de Lam\u00e9rislaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2008-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2008-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

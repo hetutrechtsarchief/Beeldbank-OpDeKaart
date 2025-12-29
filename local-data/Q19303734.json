@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3EF79908322574B847F7898A047C1DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50258"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het bedrijventerrein De Fliert te Achterveld (gemeente Leusden), uit het zuiden, met rechts de Klettersteeg en een gedeelte van het Kerstens-sportpark."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

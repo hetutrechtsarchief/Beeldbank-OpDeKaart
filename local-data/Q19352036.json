@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "00181D243B345ECB86C6333225534F3C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834734"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama van de parkeerplaats op het Muziekplein te Utrecht, met links de spoorlijn naar Gouda, in het midden het appartementencomplex Poort van Terwijde aan de Operettelaan en rechts de Musicallaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "355499C1688C5251BB6380CEC4850CCF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120303"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de speeltoestellen in het Waterwinpark in de wijk Terwijde te Utrecht, bij avond. Op de achtergrond de in aanbouw zijnde flatgebouwen aan de Musicallaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E6919E870555869A5E17EB17DAD646A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120304"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een in aanbouw zijnd flatgebouw aan de Musicallaan te Utrecht, bij avond."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "80E239B5360C598CB4406145731119CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120306"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Waterwinpark in de wijk Terwijde te Utrecht, bij avond, uit het westen. Op de achtergrond de in aanbouw zijnde flatgebouwen aan de Musicallaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

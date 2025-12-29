@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B14D738BDC15976871C4093A5BA96FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11637"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Bosch Kemperlaan met bebouwing te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

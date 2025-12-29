@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3093FDE437E057D982062DE838D63568"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74498"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bijna voltooide flats aan de Zamenhofdreef te Utrecht. Op de voorgrond de flat aan de Androsdreef met daarachter een gedeelte van de flat aan de Theemsdreef. Geheel rechts op de achtergrond een gedeelte van de flat aan de Patmosdreef. Opmerking: Gepubliceerd in: Utrechts Nieuwsblad, 8 november 1966."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DF663A8A167053C087D11B8E0255A9BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de speelplaats en Euroflats op de hoek Theemsdreef met de Chiosdreef te Utrecht, vanaf een flatgebouw aan de Patmosdreef. Opmerking: Fotonr. 9806/17"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

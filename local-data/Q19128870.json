@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "373846975E945C6586F41459B9C926F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8506"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis Gaudeamus aan de Gerard Doulaan 31 te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3FDCCB9D5D7658BB87AF961D33032ADB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8436"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linkerzijde van het huis Gaudeamus (Gerard Doulaan 21) te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5231373583258FA86A78863C36B807B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en linkerzijde van het huis Gaudeamus (Gerard Doulaan 21) te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81DD09AF609E3ED6E0534701000A0A01"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839627"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Amersfoortseweg te Bunschoten, uit het zuiden, met naar rechts de Nijkerkerweg. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P13 (Bunschoten-Amersfoort) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 493."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

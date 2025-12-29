@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B12E7DD96055A958B3A1AB0409F76FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10673"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op voorgevel van het poortgebouw bij de boerderij De Stenen Poort (Warinenpoort 90) te Houten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AA527AF5CE25C10A3519307E7DA9476"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Stenen Poort met het poortgebouw (Warinenpoort 90) te Houten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6025DE8EC82B589DB2A5E625C30E52F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85006"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hofstede De Stenen Poort (Warinenpoort 90) te Houten; bij het versierde poortgebouw staat het ontvangstcomit\u00e9 voor de neomist (pasgewijd priester) Marinus Adrianus van Rooijen (geboren op de hofstede De Stenen Poort in 1897, overleden te Dachau in 1942). Opmerking: De afbeelding is afkomstig uit het Archief van de Fundatie van de Beyerskameren (toegang 755, inv.nr. 472)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-08-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

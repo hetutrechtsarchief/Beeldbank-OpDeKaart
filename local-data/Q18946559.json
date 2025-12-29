@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04195226325957199862F0245D31886D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10978"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Bentincklaan te Leersum uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

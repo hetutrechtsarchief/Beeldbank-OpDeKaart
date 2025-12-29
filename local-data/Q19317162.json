@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D2B5EAFD15C054759336531A37439C87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50522"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk 't Hart te Soest, uit het zuiden, begrensd door de Laanstraat (links) en de Beetzlaan (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

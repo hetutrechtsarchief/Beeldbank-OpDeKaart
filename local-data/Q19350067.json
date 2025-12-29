@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34F1E793533051278E84D84872DF9BDE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan de Marshallaan en Monnetlaan te Utrecht, vanaf de Prins Clausbrug over het Amsterdam-Rijnkanaal; op de achtergrond het winkelcentrum Kanaleneiland (Hammmarskj\u00f6ldhof)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CAD16DF0C4D57A7ABDD8CCBECB07120"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809700"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen in de wijk Kanaleneiland te Utrecht, vanaf de parkeergarage van het winkelcentrum Kanaleneiland, uit het oosten. Op de voorgrond de achterzijde van een deel van een flatgebouw aan de Monnetlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6BB14314B4975E8296CA04F5E314D612"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64325"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Monnetlaan te Utrecht, vanuit de Churchilllaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

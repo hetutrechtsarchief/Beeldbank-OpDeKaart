@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C441899721CAC26E0534701000AD6E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Utrechtse binnenstad vanuit het restaurant van warenhuis V&D in het kantoren- en winkelcentrum Hoog Catharijne te Utrecht. Centraal op de voorgrond de Korte Elisabethstraat, uitlopend op de Lange Elisabethstraat; links de Neudeflat en rechts de Domkerk met de Domtoren en de Buurkerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "081F7279243F5F1E96F4B0842C7F9225"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60549"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelwoonhuis Korte Elisabethstraat 1 te Utrecht met uiterst rechts de Lange Elisabethstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A1F361ACAD05FA0A4BE4E48CB3C8AC0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20361"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in Achter Clarenburg te Utrecht met de huizen nrs. 21 (links)-lager; links op de voorgrond de ingang van de Korte Elisabethstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44B316B6950759F6B9563F05C78542DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60552"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het poortje naast het huis Korte Elisabethstraat 8 te Utrecht.<ZR><ZR>N.B. Het poortje is verplaatst in april 1974."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51140B81809C5E2F8E409660D3977515"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61450"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan het Achter Clarenburg gelegen achtergevel van Broekman's Kledingmagazijn (Lange Elisabethstraat 20) te Utrecht, uit het zuidwesten met links de hoek van de Korte Elisabethstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "685AD1ABBE2C5B47B449C19A37656605"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "99443"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de brand in de kelder van het Manufacturenmagazijn Sal Roeg (Lange Elisabethstraat 22) te Utrecht, met links de Korte Elisabethstraat en rechts de Lange Elisabethstraat. Opmerking: Digitale scan van een in 1980 vervaardigd reproductienegatief van een, door F.F. van der Werf gemaakte, foto in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-03-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-03-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69A1DD8077B0553F8BDBB56EF8CBD1F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821935"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Korte Elisabethstraat te Utrecht, met feestverlichting."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74B1717A8426504FB95BFF554B112250"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Korte Elisabethstraat te Utrecht met de voorgevels van de huizen nrs. 7 (links)-lager; op de achtergrond de Lange Elisabethstraat. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C441899721BAC26E0534701000AD6E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838543"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de Utrechtse binnenstad vanuit het restaurant van warenhuis V&D in het kantoren- en winkelcentrum Hoog Catharijne te Utrecht. Rechts op de voorgrond de Korte Elisabethstraat, uitlopend op de Lange Elisabethstraat; centraal de Neudeflat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D6765B255545828A6F9CC6E7C81CDA0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "216051"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van het blok huizen tussen de Rijnstraat / Lange Elisabethstraat / Korte Elisabethstraat / Achter Clarenbrug te Utrecht; met indeling en vermelding van oppervlaktematen. Opmerking: Een in 1878 door D. van der Werf gemaakte kopie van een in ca 1540 vervaardigde plattegrond. De originele plattegrond berust in het archief van het Gereformeerd Burgerweeshuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1540-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1540-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E891EE593D75A7BB834DEE772644F1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "689"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en rechterzijde van Kledingmagazijn Nieuw Engeland (Lange Elisabethstraat 22) te Utrecht met links het begin van de Korte Elisabethstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "845CCE7449F759DA8F0456610B9040D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60550"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Korte Elisabethstraat 7 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "84AB12DD5BAD5B1881C3215A7B4E78CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60551"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het poortje naast het huis Korte Elisabethstraat 8 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91B463B36FC75542B9B81027EDB791A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61449"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Lange Elisabethstraat 12-20 te Utrecht, uit het noorden met rechts de ingang van de Korte Elisabethstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9595A69C1B975ACE96A87EBF71E7CE1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87455"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pand Korte Elisabethstraat 9 te Utrecht, kort voor de sloop. Links op de achtergrond het dubbele huis Achter Clarenburg 23-25. Opmerking: Fotonummer Hulskamp 20665<ZR>Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B8101549B5851649ED86618417ABF40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20362"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen in de Korte Elisabethstraat te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7B320E041645B9E916DD2E55B4B9689"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831320"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in (vermoedelijk) de gang achter het classicistische poortje van het huis Achter Clarenburg 27 te Utrecht.<ZR><ZR>N.B. Op deze plek tussen Vredenburg, Lange Elisabethstraat, Korte Elisabethstraat en Achter Clarenburg lag in de 16e eeuw het St. Elisabethsgasthuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3B053864FF359D5AD4FFCFE6D67F9B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20687"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Korte Elisabethstraat 7-lager te Utrecht met rechts op de achtergrond een gedeelte van een huis aan de Lange Elisabethstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-06-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B529FBFA66B25939BFA453884BBE95D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400661"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Korte Elisabethstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFA97DDB4BD85C34B9A2B2EBFB65F6DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "102165"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden aan de riolering ter hoogte van Achter Clarenburg te Utrecht, in verband met de voorbereidingen voor de bouw van het nieuwe warenhuis van Vroom & Dreesmann. Op de achtergrond de hoek Korte Elisabethstraat (links) / Achter Clarenburg (rechts). Opmerking: 't Sticht fotonummer 2488-15.<ZR>Zie ook Nieuw Utrechts Dagblad, zaterdag 20 maart 1971, blz. 5: \"Oude Achter Clarenburg onderhanden voor komst van nieuwe warenhuis\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-03-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-03-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB01A9E384BB56E58EC112C0689D331B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52517"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in Achter Clarenburg te Utrecht met de huizen nrs. 23 (links van het midden)-hoger met op de voorgrond een gedeelte van het huis Korte Elisabethstraat 9. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

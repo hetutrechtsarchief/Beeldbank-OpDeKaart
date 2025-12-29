@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F6846660AE0513B82ED6C90D60C2698"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819898"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voormalige winkelpui van het hoekpand Pieter Nieuwlandstraat 33 te Utrecht; rechts de Kamerlingh Onnesstraat.<ZR><ZR>N.B. Van 1928 tot 1960 was in dit pand de Brood- en Banketbakkerswinkel van P. Landsman gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E15F7DCDB55B594490CFCD6A0880849D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819897"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Pieter Nieuwlandstraat 33 te Utrecht; rechts de Kamerlingh Onnesstraat.<ZR><ZR>N.B. Van 1928 tot 1960 was in dit pand de Brood- en Banketbakkerswinkel van P. Landsman gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

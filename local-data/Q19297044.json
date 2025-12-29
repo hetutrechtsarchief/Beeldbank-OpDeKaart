@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "52150671F208566BAEF2A3E8332BCEA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92601"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kerkstraat te Wilnis, vanaf de Dorpsstraat.<ZR><ZR>N.B. De gemeente Wilnis is per 1 januari 1989 opgenomen in de nieuw gevormde gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A23696850A625CEFBD66E26E9E2C5E3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158747"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hulpbrug over het Hoendiep bij Groningen. Op de achtergrond het N.S.-station Hoogkerk-Vierverlaten te Hoogkerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "00A73EA6587753B88709CE923371231E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169407"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een aanplakbord met een affiche over spoorabonnementen bij het N.S.-station Huis ter Heide te Huis ter Heide (gemeente Zeist). Opmerking: NS fotonummer 1458"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3AB80D906815309AB4F491FB30162F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94497"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorlijn Bilthoven-Zeist en het station Huis ter Heide te Huis ter Heide (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

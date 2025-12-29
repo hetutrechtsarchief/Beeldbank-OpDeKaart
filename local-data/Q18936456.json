@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76D4C65AA9E4536889924D553BB4E1A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21660"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen aan de Lindehoeve (links) te Vleuten (gemeente Utrecht); rechts de achterzijde van enkele huizen aan de oostzijde van de Alidahoeve."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-04-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-04-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "890B86BFC584511699E4DB622CF998F4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21635"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen aan de Alidahoeve te Vleuten (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

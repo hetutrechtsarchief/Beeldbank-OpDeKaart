@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01E4F5399A3956F69E2102E1B9C7C221"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602488"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de villa Vijverlaan 1 te Groenekan (gemeente Maatrtensdijk).<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente De Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE221606A8C532794359E2EDB0A9898"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10360"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de villa Vijverlaan 1 te Groenekan (gemeente Maatrtensdijk) uit het zuiden.<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente de Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "94C9463CE5605C36901F8F678D099D4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125108"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de villa Vijverlaan 1 te Groenekan (gemeente Maatrtensdijk) uit het zuiden.<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente de Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

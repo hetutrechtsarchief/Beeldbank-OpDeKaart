@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DD2D04636BD5B7B897A49CEAEC4F9EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92509"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het hijsen van de vlag ter gelegenheid van het bereiken van het hoogste punt van de nieuwbouw van het herstellingsoord van de Bond van Nederlandse Militaire Oorlogs- en Dienstslachtoffers (Willem van Lanschotplein 2) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

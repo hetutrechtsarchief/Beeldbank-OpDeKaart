@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C841811A1B15BAC970E9B44BAC891D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814887"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Saharadreef te Utrecht, met op de achtergrond het schoolgebouw Piramidedreef 5 (hier in gebruik als tijdelijke lokatie voor de Marcusschool)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93EF9FB006715698B1096F9CE3589E90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127918"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Saharadreef te Utrecht richting de Bantoedreef, met links de flatgebouwen aan de Ibisdreef en rechts een gedeelte van de prot. chr. basisschool Onze Wereld (Piramidedreef 5)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

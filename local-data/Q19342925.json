@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7ACF1CED012E35DDE0534701000AAFFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838227"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een skate-halfpipe vol graffiti bij de Melissekade in Leidsche Rijn (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7ACF1CED012F35DDE0534701000AAFFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838228"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding graffiti van een Utrechtse kabouter (KBTR) op een skate-halfpipe vol graffiti bij de Melissekade in Leidsche Rijn (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7ACF1CED013735DDE0534701000AAFFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838236"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de achterzijde van de skate-halfpipe met een schildering van gestileerde vogels, bij de Melissekade in Leidsche Rijn (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-09-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

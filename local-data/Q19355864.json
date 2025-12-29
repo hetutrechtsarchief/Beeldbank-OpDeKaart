@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1D2B1E21FCE351EEB82387BCC87644E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12542"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat met bebouwing te Amersfoort uit het zuidoosten; met links de voorgevels van de panden nrs. 11-lager en rechts de voorgevels van de panden nrs. 10-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DB248151B1C5F34946F452B5AE42295"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12675"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Nieuwstraat op de voorgevels van de panden  Zevenhuizen 1 (caf\u00e9 De Grote Slok)-5 te Amersfoort uit het zuidoosten; met op de achtergrond de St.-Joriskerk (Hof 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3F935DDAAD3576382D2FE30741ACCE4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400057"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te Amersfoort, met op de achtergrond de Zevenhuizen en een deel van de St.-Joriskerk (Hof 1). Opmerking: Fotonummer V 40-40<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

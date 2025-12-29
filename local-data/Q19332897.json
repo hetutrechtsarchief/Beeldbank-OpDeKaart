@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FA46BDE1A0156E6905314AE5CD21B7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de Nederlands-hervormde pastorie (Maarsbergseweg 13) te Woudenberg. Opmerking: Lit. MIP Woudenberg, p. 129-130."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B0E5DCFD065B4EE0534701000A9FB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839599"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provincialeweg P11 (Maarsbergseweg) te Woudenberg, uit het noorden, met rechts de molen De Liefde (zonder wieken). Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81B20C8F5BDC068BE0534701000A85B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839601"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de provincialeweg P11 (Maarsbergseweg) te Woudenberg, uit het noorden, na de verbetering van de weg en het kappen van een groot aantal bomen. Rechts de molen De Liefde (zonder wieken). Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P11 (Woudenberg-Leersum) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 492."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

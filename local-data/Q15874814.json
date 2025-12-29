@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "157C7C3FDDC9567986D3E4EC659CD1B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14429"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Eemstraat met rijen bomen en bebouwing te Soest uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "746D42B327F354EBB8937CCDCE6A1411"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14549"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Eemstraat met bebouwing te Soest uit het noordoosten; met links de voorgevel van het voormalig Mannen- en Vrouwenhuis (Eemstraat 4-8) en rechts de voorgevel van de voormalige dorpsschool annex onderwijzerswoning (Eemstraat 1-1b). Opmerking: Lit. MIP Soest, p. 157 (Eemstraat 4-8).<ZR>Lit. MIP Soest, p. 155-156 (Eemstraat 1-1b)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FE3418F79855F6AA870FC8F177EF734"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Eemstraat met rijen bomen en bebouwing te Soest uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D10F63E2B0E5354BE3DC1B5B29A2AAA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50248"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanleg zijnde wijk \u00b4t Ruige Veld te Leusden, uit het zuiden, met in het midden de Randweg en het Valleikanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFCCCFA0237F55399B1F768980C725C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50247"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanleg zijnde wijk \u00b4t Ruige Veld te Leusden, uit het zuiden, met in het midden de Randweg en het Valleikanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

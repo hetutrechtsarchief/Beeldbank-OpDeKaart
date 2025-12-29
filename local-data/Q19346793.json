@@ -1,0 +1,912 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01AB97DD61C45FD995B6AED863BA102C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71211"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van een flatgebouw met dichtgetimmerde ramen aan de Minister Talmastraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05E54F4BDCFE52C3AC14F4CF6F6CE605"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68551"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Patrimoniumstraat1-3 te Utrecht. In het midden de achtergevel van het pand Minister Talmastraat 41 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0CE37E8C27445BA4ACBAE788C87A1ECD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405765"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een klimrek op een kinderspeelplaats aan de Minister Talmastraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F974E6A7CB65306B92D8FB072295D4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex Minister Talmastraat 101-183 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-07-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-07-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24CA5F97416053D491D8F4ABDCC62941"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812793"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex Minister Talmastraat 101-183 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35011F21372B5F93B081E84D9B31D892"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75153"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de onderkant van de voorgevel van het winkelpand \"Sigarenmagazijn Talma, W Kuyper\" (Minister Talmastraat 33) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B31F5BC8A275B8DA61B9086F55FC5D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71215"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Minister Talmastraat 41 te Utrecht met links de Patrimoniumstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "405E91A5CE0151C3AA7F1A08C46831AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71214"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de muur behorende bij het huis Minister Talmastraat 41 te Utrecht, vanaf de Patrimoniumstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41FE9CAF314752149B4E5894D8AA1C61"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71206"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Minister Talmastraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "45320BAC1DE25F63A685E097C6125450"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18786"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oosterleestraat te Utrecht met de achtergevels van enkele huizen aan de Minister Talmastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BF82474AB55577DAA453DE9BA7A284B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405768"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van dhr. J. Kuijper, bewoner van \u00e9\u00e9n van de flats aan de Minister Talmastraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "57E03435850750AFB4FC05CFD4514EAA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71213"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het schuurtje aan de achterzijde van het huis Minister Talmastraat 41 te Utrecht, vanaf de Patrimoniumstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "585548F310E65C8C8F02689F38CE9F44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820269"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de panden Minister Talmastraat 37 (rechts) - 41 te Utrecht.<ZR><ZR>N.B. In het pand Minister Talmastraat 39 was tot ca. 1995 een winkel van Boonzaaijer's Bakkerij (Vlampijpstraat 53) gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F4C7863404758E2A87374D806882EB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18830"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lieven de Keylaan te Utrecht uit het zuidwesten met rechts de ingang van de W.J. Bossenbroekstraat en op de achtergrond de Minister Talmastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2C19D06B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85253"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijke gedeelte van de wijk Zuilen te Utrecht, uit het zuidwesten. Op de voorgrond het Amsterdam-Rijnkanaal, links het Theo Thijssenplein, in het midden de flatgebouwen aan de Minister Talmastraat en de Dr. F. M. Wibautstraat. Op de achtergrond de Burgemeester Norbruislaan en de Vecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "764B87727F2253198C86E15FB3E07A9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812792"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex Minister Talmastraat 101-183 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "79595F2FE9E15F18A5636ACD8D75F403"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71210"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Minister Talmastraat te Utrecht. Opmerking: Gepubliceerd in Verslag van de Bouw- en Woningdienst en de Schoonheidscommissie der gemeente Utrecht over 1957, na. p. 54."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C490FE865F75A779AE256F71EB98D6C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71208"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan de Minister Talmastraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8DCACA546A2B5C56B6E8D4B7A46D3CA5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127965"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Minister Talmastraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-07-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-07-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9357B645DCDD54B6AD312D95566E1810"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18783"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Minister Talmastraat te Utrecht met de woningen nrs. 103-hoger vanaf de Jan van Zutphenlaan (voorgrond)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "97EA9876F4DD569284A06E2373EDE500"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18791"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de H. Diemerstraat te Utrecht met rechts een gedeelte van het hoekhuis Minister Talmastraat 53."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A91B35403885D368BE4FBF342377404"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23326"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw met woningen aan de Minister Talmastraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2FFCFF508735F3996D1D146C32C1281"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85254"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijke gedeelte van de wijk Zuilen te Utrecht, uit het zuidwesten. Op de voorgrond het Amsterdam-Rijnkanaal, in het midden de Minister Talmastraat en de C. Smeenkstraat, rechts de 2e Algemene Technische School (ir. J.D.M. Bardetschool, Lieven de Keylaan 9) en op de achtergrond de Burgemeester Norbruislaan en de Vecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A635CDA6AFDD596AACF24BB5E16799F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820270"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het pand Minister Talmastraat 39 te Utrecht.<ZR><ZR>N.B. In het pand was tot ca. 1995 een winkel van Boonzaaijer's Bakkerij (Vlampijpstraat 53) gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD911D1FC22654CC9FE061AA8A27C23D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71207"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Minister Talmastraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE1DC961645B58199C992004B216E911"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71212"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het schuurtje aan de achterzijde van het huis Minister Talmastraat 41 te Utrecht, vanaf de Patrimoniumstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BEA50A58AE9C566A810AE3990CF3F7DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18781"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Minister Talmastraat te Utrecht met de woningen nrs. 117-lager; links de ingang van de Jan van Zutphenlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4C7A84AB68C53F9B77E80F890D1DF88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402041"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van mevr. B. Hoekstra van Hoekstra Catering (Minister Talmastraat 41) te Utrecht, met enkele bezorgdozen. Opmerking: Zie ook Utrechts Nieuwsblad, maandag 27 december 1993, blz. 13: \"'n Croissantje aan de deur\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-12-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7F0F516CF6250B9BF90A305D6CCEBF2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18788"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oosterleestraat te Utrecht met op de achtergrond het bedrijfsgebouw nr. 4 vanaf de Minister Talmastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E93DE1101DE95C3D8E813802A9286D9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108483"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex Minister Talmastraat 101-183 te Utrecht, bij avond, met rechts de H. Diemerstraat. Opmerking: De foto maakt deel uit van de serie \"Utrecht bij nacht\" van fotograaf Pieter van Leeuwen en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8477937F06D5C5495AB3955ED4CF43C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823366"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van Fitnesscentrum Henny Hijman (Minister Talmastraat 20-22) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-03-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-03-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FEE5B0184B165FF4AE1028891C50782D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71209"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan de Minister Talmastraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

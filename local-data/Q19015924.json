@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "183A7A67237A5B12A48DA52858384FD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166526"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bewaakte spoorwegovegang in de Stationsstraat te Zoetermeer, met rechts het seinhuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "758EA7F766F9513CA960618849DBCC4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166515"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Stationsstraat te Zoetermeer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D480ACB5DA659EA8E909C2CB9AB8404"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166527"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bewaakte spoorwegovegang in de Stationsstraat te Zoetermeer, tijdens het sluiten van de overwegbomen, met rechts het seinhuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

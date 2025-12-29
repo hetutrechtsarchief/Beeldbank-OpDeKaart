@@ -1,0 +1,632 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05224212076B5BAABBDDA0A785577D45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88148"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brinkstraat te Haarzuilens (gemeente Vleuten-De Meern). <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08AB3AD367DD578D808F1A65C811B987"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54690"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de dependance van de basisschool Villa Nova (Rhijnvis Feithstraat 2/ Bakhuizen van de Brinkstraat 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E927978C3855949A2AFEECC2323B84B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90476"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brinkstraat te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3ABC36DAFEE75BCBB88F3D07501C0C75"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85738"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van Haarzuilens (gemeente Utrecht), uit het oosten, met in het midden de Brinkstraat en de Brink. Links op de achtergrond de Eikstraat met rechts daarvan de boerderij De Koningshof (Eikstraat 9)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B5D5C459E605E8DA8FBDA5C2604199E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88147"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Brinkstraat te Haarzuilens. <ZR><ZR>N.B. De gemeente Haarzuilens is per 1 januari 1954 opgenomen in de gemeente Vleuten-De Meern; deze is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BC6BC033F7F5889B295964E8E5FA1CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88151"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de parkeerplaats achter restaurant De Vier Balken (Brinkstraat 3) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "465C8B751ABF5E9F9EB1543E1D0CA9E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de gekapte, zieke bomen op de wal bij de Brinkstraat te Haarzuilens (gemeente Vleuten-De Meern), met rechts het restaurant De Vier Balken (Brinkstraat 3).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "480B0B8ACD4054C5BDF708CCE1BB0B9E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88149"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brinkstraat te Haarzuilens (gemeente Vleuten-De Meern) met links restaurant De Vier Balken.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4DA51DC84F8A527A960CE6168F689EEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "502232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Cordis dos Optima Candor (Brinkstraat 1) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5AA0906D7AC45F0C97658842FFB8154A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54696"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de huizen nrs. 48 (rechts)-lager; geheel rechts de ingang van de Bakhuizen van der Brinkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66B61B089E065A529A7E0B923850009F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brinkstraat te Haarzuilens (gemeente Vleuten-De Meern), met \"gekalaberde\", zieke bomen.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B7E3B65C590579B8F27F3BF1A1D8B54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54695"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Busken Huetstraat te Utrecht met de huizen nrs. 48 (midden op de acgregrond)-lager; links de huizen nrs. 27 (links)-lager; op de achtergrond enkele huizen aan de Vleutenseweg; rechts een gedeelte van de dependance van de basisschool Villa Nova (Rhijnvis Feithstraat 2/ Bakhuizen van de Brinkstraat 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76B9A29CC5DD5FA9BDC52B98052E18AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het kappen van zieke bomen op de wal bij de Brinkstraat te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "770E5A38973A5D0A849F7FF5DA79F246"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90869"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het feestjaar \"90 jaar De Haar\" door wethouder J. A. Steenbeek in het restaurant De Vier Balken (Brinkstraat 3) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "786B4483A2C1A60DE0534701000A19D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837734"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St. Bonifatiusschool (Brinkstraat 2-4) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd. Opmerking: De foto (18 x 24 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 383. De foto is gemaakt ten behoeve van de publicatie \"Scholen\" (Stichtse Monumenten Reeks), door Esther Leenheer-Wessel. Fotografie: Henk Bol (1997)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "95613D3E23F55D56B908AC02633C17BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52901"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dependance van de basisschool St. Thomas \u00e0 Villanova (Bakhuizen van den Brinkstraat 1/ Rhijnvis Feithstraat 2) te Utrecht, vanaf de kruising met de Busken Huetstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A737D1F81583507D8B65407ED0BF4C90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52900"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dependance van de basisschool St. Thomas \u00e0 Villanova (Bakhuizen van den Brinkstraat 1/ Rhijnvis Feithstraat 2) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C323A5B9004F52FFB261898805A9A286"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88146"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brinkstraat te Haarzuilens. <ZR><ZR>N.B. De gemeente Haarzuilens is per 1 januari 1954 opgenomen in de gemeente Vleuten-De Meern; deze is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4E30729E8D05355BE5240E86BB82A94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90771"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het blussen van een brand in het fornuis in de keuken van het restaurant De Vier Balken (Brinkstraat 3) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E37AF866C033588D986FFDE11D9BFB26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89931"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de hoorzitting over de mogelijke ontwikkelingen van de woningbouw en de verkeersafwikkeling in Haarzuilens (gemeente Vleuten-De Meern) in het restaurant De Vier Balken (Brinkstraat 3) te Haarzuilens.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E9001553AAA551B19FEBABB62B566B96"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "91733"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een koffieconcert, georganiseerd door de Kulturele Kring Vleuten-De Meern, in het restaurant De Vier Balken (Brinkstraat 3) te Haarzuilens (gemeente Vleuten-De Meern), tijdens de uitvoering door het blokfluitduo Alexandra van Dijk en Malcolm Davies (familie van Lloyd?).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF0A3F3E5C1A5949BEF7FA16C90B9F37"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88150"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Brinkstraat 1 te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd. Opmerking: Opschrift op de voorgevel: Cordis Dos Optima Candor (de reinheid des harten is het grootste geluk)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

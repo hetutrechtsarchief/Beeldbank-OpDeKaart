@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3562A74088015C91956B22882930229E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812794"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex met de woningen De Wadden 1 - 107 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C266D46D57555D71937AAEB582E62C44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812796"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex met de woningen De Wadden 1 - 107 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E45364E298675FFC8AAB4D1E14DA9D02"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812795"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex met de woningen De Wadden 1 - 107 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

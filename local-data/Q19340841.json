@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1D384E1E431E5581BBEA5EB8DE798ECB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108426"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Wolgadreef te Utrecht, ter hoogte van de hoek met de Medusadreef. Opmerking: De foto maakt deel uit van de serie \"Veranderend Stadsbeeld\" van fotograaf Nico Bick (1964) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

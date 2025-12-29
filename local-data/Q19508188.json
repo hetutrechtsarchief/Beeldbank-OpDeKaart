@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8180301D43C5A9687D61AFE195DDE85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk 't Hart te Soest, uit het zuiden, met links de Schaepmanstraat en rechts op de voorgrond de Nieuwstraat. Op de achtergrond de Koninginnelaan en het woonwagencentrum aan de Meent."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

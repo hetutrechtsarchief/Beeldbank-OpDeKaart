@@ -1,0 +1,1528 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01AAE89DEC3D502F82D8214609660634"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825346"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gebouwen van Kinderopvang Partou (links Toulouselaan 43 en rechts Toulouselaan 45, voormalige boerderij De Uithof) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "058408F3CFFC5F8B9E841E9159A82DBD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806182"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de weilanden tussen de Toulouselaan en de Cambridgelaan te Utrecht, met op de achtergrond de studentenwoningen (\"spaceboxen\") aan de Bolognalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "082B810E21345AFB87219CD0CA29369E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828363"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de weilanden met koeien bij het Universiteitscentrum De Uithof vanaf de Toulouselaan te Utrecht, met centraal op de achtergrond het F. A. F. C. Wentgebouw van de faculteit Tandheelkunde van de Universiteit Utrecht (Sorbonnelaan 16)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-08-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-08-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "092F6CAC3A895F75A088193C2C4108BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806448"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de fietspoolplaats op de hoek van de Toulouselaan en de Bolognalaan te Utrecht, met op de achtergrond een deel van het gebouw van de faculteit Gezondheidszorg van de Hogeschool Utrecht (Bolognalaan 101)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0AC9FC8CCED95DA8B9B73E84E9A26C43"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31417"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de noordelijke ingang van de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. Het adres is later gewijzigd in Toulouselaan 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "16F6D2178F6A52ACA0A2FAEC7B50DFF2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825344"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voormalige boerderij De Uithof (Toulouselaan 45) te Utrecht, hier in gebruik als gebouw voor Kinderopvang Partou."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B215060785055C39335994C93101D73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92241"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. Het adres is later gewijzigd in Toulouselaan 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B9F2D31B7D15489B4A0333E65067C34"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806424"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele schapen in een weiland aan de Toulouselaan te Utrecht, met op de achtergrond het universiteitscentrum De Uithof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22C79803C2E957979B45C844208B8840"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828361"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de weilanden met paarden bij het Universiteitscentrum De Uithof vanaf de Toulouselaan te Utrecht, met rechts op de achtergrond Transitorium II (Heidelberglaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-08-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-08-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D13D446572453D6A9EB9DCCEA044872"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79600"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de proefboerderij De Uithof (Toulouselaan 45) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FE3D4E538385C1399F46DEDDDDB30EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129671"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. In de boerderij zal de proefboerderij van het Instituut voor Zo\u00f6techniek van de Rijksuniversiteit gevestigd worden.<ZR>In de volksmond heette de straat waar de boerderij aan lag de steeg van Toon van Scherpenzeel. Het adres is later gewijzigd in Toulouselaan 45. Opmerking: Fotonummer: 8342."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3261A7230E025E248CBBBCED05E1B60D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806385"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van schapen in een weiland aan de Toulouselaan te Utrecht, met op de achtergrond \u00e9\u00e9n van de twee studentenflats (\"De Bisschoppen\") aan het Salamancapad en de Cambridgelaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BF09E4A69735A20814318A1F4971D5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het studentencomplex aan de Cambridgelaan te Utrecht, vanaf de Toulouselaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F2D62ECE6985B43B4884A8D2552229F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806446"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het studentencomplex aan de Cambridgelaan te Utrecht, vanaf het plantsoen aan de Toulouselaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44078562877E541884B938217BC13702"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806383"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een weiland met schapen aan de Toulouselaan te Utrecht, met links het studentencomplex aan de Cambridgelaan en rechts op de achtergrond de studentenflats (\"De Bisschoppen\") aan het Salamancapad en de Cambridgelaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44D3E82022D45293AA40239E40D2FBAB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45463"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. Het adres is later gewijzigd in Toulouselaan 45. Opmerking: Literatuur: \"De ontwikkeling in Utrecht-Oost\", door ir. C. J. A. Felperlaan, in: De Timmerwerf, nr. 68, april 1968, pp. 2-6 (bibl. HUA XIX F 9)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "466110EBCFC851CD9C0289B2D9D6B213"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72809"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Toulouselaan vanaf de Vossegatsedijk te Utrecht, vanuit het zuidwesten. Opmerking: fotonummer 105035"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4DFD96F2654A5B8D8BE6CE50C33CBE2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de weilanden aan de Toulouselaan te Utrecht, met op de achtergrond het Willem C. van Unnikgebouw (voorheen Transitorium II, Heidelberglaan 2) van de Universiteit Utrecht op het universiteitscentrum De Uithof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E14CA8C75385C63A1DE9583585B26EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79599"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de proefboerderij De Uithof (Toulouselaan 45) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "54D05BD0E0B45E4BBCDDDF5414E82EFE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de proefboerderij \"De Uithof\" (Toulouselaan 45) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B21E2DF121F5BD1ACEE2CB5A45659D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825338"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de splitsing van de fietspaden Toulouselaan (links) en Oxfordpad te Utrecht, vanaf de Bolognalaan, met op de voorgrond een wegwijzer voor fietsers."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C94DFE28F2257BAA5DC7BC9A0FEF404"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806423"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Willem C. van Unnikgebouw (voorheen Transitorium II, Heidelberglaan 2) van de Universiteit Utrecht, vanaf de Toulouselaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "628942E16CDC597F9806AA9D08845F07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405789"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de weilanden nabij de boerderij De Uithof (Hooffdijk 45) te Utrecht.<ZR><ZR>N.B. Het adres is later gewijzigd in Toulouselaan 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6291DA4BD0CD50DFAF2C1529301B1639"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129674"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. In de boerderij zal de proefboerderij van het Instituut voor Zo\u00f6techniek van de Rijksuniversiteit gevestigd worden.<ZR>In de volksmond heette de straat waar de boerderij aan lag de steeg van Toon van Scherpenzeel. Het adres is later gewijzigd in Toulouselaan 45. Opmerking: Fotonummer: 8343."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "62B6C138654A5BD7AA893665CFBE6BD9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Toulouselaan te Utrecht, vanaf het studentencomplex aan de Cambridgelaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66866F8DCDDE58C68C583B39D48506B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129670"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. In de boerderij zal de proefboerderij van het Instituut voor Zo\u00f6techniek van de Rijksuniversiteit gevestigd worden.<ZR>In de volksmond heette de straat waar de boerderij aan lag de steeg van Toon van Scherpenzeel. Het adres is later gewijzigd in Toulouselaan 45. Opmerking: Fotonummer: 8347."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "67ECEFCA9EB35EBCB5B38BC44E00FEAA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31403"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij (genaamd Vreeswijk?) op de hoek van de Zandlaan en de Toulouselaan te Utrecht, vlak bij de proefboerderij Uithof, uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7901B935305459F09CD15B8AB497C84B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602279"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de proefboerderij De Uithof (Toulouselaan 45) van het Instituut voor Zo\u00f6techniek van de Rijksuniversiteit te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-07-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7BCF9A58996C51B8BD924D7C645C2537"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van Kinderopvang Partou (Toulouselaan 43) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D9E87D3BD64545B9EF291E3852A5B24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806445"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het studentencomplex (links) aan de Cambridgelaan te Utrecht, met op de voorgrond de Toulouselaan en rechts op de achtergrond de studentenflats \"De Bisschoppen\" aan de Cambridgelaan en het Salamancapad."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "80C14192D2B25A71BC1DDF547B439087"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23474"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een studentencomplex aan de Toulouselaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "814DD38D8AD15ACC805E730C12201CD0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20018"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht aan de steeg genoemd het Laantje van Toon van Scherpenzeel.<ZR><ZR>N.B. Het adres is later gewijzigd in Toulouselaan 45. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82AC77CD39365B61A32D71817F466489"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79598"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de proefboerderij De Uithof (Hoofddijk 45) in de Johannapolder te Utrecht.<ZR><ZR>N.B. Het adres is later gewijzigd in Toulouselaan 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "846C85EF835051F3B2D4465AB98D375C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde studentencomplex Johanna aan de Bolognalaan te Utrecht, vanaf de Toulouselaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8BA3567A3E735F84B229D8F0B9E6A321"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825337"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de fietspoolplaats op de hoek van de Toulouselaan en de Bolognalaan te Utrecht, met op de achtergrond een deel van het gebouw van de faculteit Gezondheidszorg van de Hogeschool Utrecht (Bolognalaan 101)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FA4FBCB52B15B048472965BA8B56E2E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79597"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de proefboerderij De Uithof (Toulouselaan 45) van het Instituut voor Zo\u00f6techniek van de Rijksuniversiteit Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92FA1F9283CB5D79901F31DB0F052FA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806382"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee schapen in een weiland aan de Toulouselaan te Utrecht. Op de achtergrond het Universiteitscentrum De Uithof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9540F54BE93D5E95AE0B3A2CAD827E6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828362"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de weilanden met koeien bij het Universiteitscentrum De Uithof vanaf de Toulouselaan te Utrecht, met links op de achtergrond het F. A. F. C. Wentgebouw (Sorbonnelaan 16) en daarnaast Transitorium II (Heidelberglaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-08-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-08-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "990A07D7838F5010B5FA87DF0210A8E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806440"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het universiteitscentrum De Uithof te Utrecht, vanaf de Toulouselaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A72C02537A705A5BA354856D9DBD98A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602278"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Toulouselaan te Utrecht op het toekomstige universiteitscentrum De Uithof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-09-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-09-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9EFB3E74E135FD79040B034FDAB9200"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825348"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de sloop van het F.A.F.C. Wentgebouw van de Universiteit Utrecht (Sorbonnelaan 16) te Utrecht, gezien vanaf de Toulouselaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC84C2FB1DF659AAA4B9A51207F79BC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806183"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een studerende studente in het park aan de Toulouselaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B689538A517F539BB71A34664443A276"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129673"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. In de boerderij zal de proefboerderij van het Instituut voor Zo\u00f6techniek van de Rijksuniversiteit gevestigd worden.<ZR>In de volksmond heette de straat waar de boerderij aan lag de steeg van Toon van Scherpenzeel. Het adres is later gewijzigd in Toulouselaan 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB247A5C32875B1E9F601BB36A53641A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de proefboerderij De Uithof (Toulouselaan 45) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C62096070F3C57EDB039C174C60DDC8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79967"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. Het adres is later gewijzigd in Toulouselaan 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4040C6B6FBC5A41AFF354683B33FD02"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129675"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een tafel en twee stoelen in een hoekje van een kamer in de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. In de boerderij zal de proefboerderij van het Instituut voor Zo\u00f6techniek van de Rijksuniversiteit gevestigd worden.<ZR>In de volksmond heette de straat waar de boerderij aan lag de steeg van Toon van Scherpenzeel. Het adres is later gewijzigd in Toulouselaan 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D76649BFF786580C8EA8727E437D9563"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806441"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het studentencomplex aan de Cambridgelaan te Utrecht, met op de voorgrond de weilanden aan de Toulouselaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD335FE7A7005B6F9172E14E1EA1F352"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. In de boerderij zal de proefboerderij van het Instituut voor Zo\u00f6techniek van de Rijksuniversiteit gevestigd worden.<ZR>In de volksmond heette de straat waar de boerderij aan lag de steeg van Toon van Scherpenzeel. Het adres is later gewijzigd in Toulouselaan 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0C429F2C0005A4392FAA3CD21B18F10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht, uit het zuiden.<ZR><ZR>N.B. Het adres is later gewijzigd in Toulouselaan 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E12D7D72CF4C5E39BD6A4FF9DAD627CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23472"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het studentencomplex aan de Toulouselaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5BA9B144B995AB3B0315F9F60C20F2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806176"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Cambridgelaan gelegen zijdes van de gebouwen van de faculteit Communicatie en Journalistiek van de Hogeschool Utrecht (links, Padualaan 99) en de faculteit Economie en Management (rechts, Padualaan 101), met op de voorgrond het weiland tussen de Toulouselaan en Cambridgelaan. Op de achtergrond het Hugo R. Kruytgebouw (Padualaan 8) van de Universiteit Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB6757F379015117BF3AF5533482F0AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129669"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij De Uithof (Hoofddijk 45) te Utrecht.<ZR><ZR>N.B. In deze boerderij van eigenaar Toon van Scherpenzeel zal het Instituut voor Zo\u00f6techniek van de Rijksuniversiteit gevestigd worden.<ZR>Het adres is later gewijzigd in Toulouselaan 45. Opmerking: Fotonummer: 8348."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE9B002EE26050FBB8692A98CA7FC262"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806384"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een weiland met schapen aan de Toulouselaan te Utrecht, met op de achtergrond de studentenflats (\"De Bisschoppen\") aan het Salamancapad en de Cambridgelaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE2CD2CC4E4D55A3A5B847C51B3E0DDF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71392"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de proefboerderij \"De Uithof\" (Toulouselaan 45) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

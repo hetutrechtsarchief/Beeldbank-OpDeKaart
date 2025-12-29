@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F3A5FFAC6DB5200968C930AFF1460B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800340"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de paalfunderingen, vermoedelijk voor het toekomstige flatgebouw aan de Zwanenvechtlaan te Utrecht. Op de achtergrond de huizen aan de Prinses Margrietlaan en links de Schaakwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82F6D1FA5BB4596A9751B725A765A345"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74831"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf de Prinses Margrietlaan in de Zwanenvechtlaan te Utrecht met het flatgebouw met de huizen nrs. 10-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

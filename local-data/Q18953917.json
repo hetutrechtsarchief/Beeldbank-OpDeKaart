@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DD01DB1F3B85162A58AD8A9763E20CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126843"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van de priester en hoofdlegeraalmoezenier b.d. mgr. H.J.J.M. van Straelen in de tuin van zijn woning aan de Bilthovenseweg te De Bilt. Opmerking: Zie ook Utrechtsch Nieuwsblad, donderdag 7 augustus 1969, blz. 4: \"Jubilerende hoofdlegeraalmoezenier b.d. H.J.J.M. van Straelen uit De Bilt: Een aalmoezenier moet tegen stootje kunnen\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

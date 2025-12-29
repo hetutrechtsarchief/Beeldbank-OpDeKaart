@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BCFDD82D9745805834D2947BA1C8246"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94440"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Wilhelminastraat 7 te Nieuwer ter Aa (gemeente Breukelen)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "544024234878546FB03E3F3BDF07F319"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94441"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Wilhelminastraat 7 te Nieuwer ter Aa (gemeente Breukelen)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FB8A78B378A5A5E8F690E15D1CFA557"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wilhelminastraat te Nieuwer ter Aa (gemeente Breukelen), uit het zuiden, met links de boerderij Wilhelminastraat 7 en de toren van de N.H.-kerk (Kerklaan)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

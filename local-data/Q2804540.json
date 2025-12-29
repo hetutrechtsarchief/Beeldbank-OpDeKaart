@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5512AC35687558F497CB8A758387963F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809780"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Nootdorp Oost te Nootdorp. Opmerking: De originele foto bevindt zich in de Collectie De Pater, voorlopig inv. nr. 356-1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F331186BC94B59FF899CBBB321253D1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809781"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Nootdorp Oost te Nootdorp, met rechts de overwegwachter. Opmerking: De originele foto bevindt zich in de Collectie De Pater, voorlopig inv. nr. 356-1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1932-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

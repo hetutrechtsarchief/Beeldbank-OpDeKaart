@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "969B6E8D953E56CBBA6C7C3F8E0B5C87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10314"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Veenendaalsestraatweg/hoek Franseweg te Elst (gemeente Rhenen) uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A69CAEF16E435A1BBA32342B2D32588C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10315"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Veenendaalsestraatweg/hoek Franseweg te Elst (gemeente Rhenen) uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD9DFEB7CE6F5500BE4BC7C4F31E110C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10312"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Franseweg te Elst (gemeente Rhenen). ."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

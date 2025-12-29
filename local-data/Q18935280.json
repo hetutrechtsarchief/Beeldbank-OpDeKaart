@@ -1,0 +1,632 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "143C8464C51E5EE38B1A0874BB84E72D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87904"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amsterdamsestraatweg te Abcoude, uit het zuiden, rechts de slagerij (Kerkplein 24). Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B31C271AA48539CBF5BDB0DFDE56CCE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350292"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Angstel te Abcoude (gemeente Abcoude-Proostdij), uit het noordwesten; links de Amsterdamsestraatweg en rechts de Voordijk met bebouwing. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proostdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2BB27B1DAD0A5CA98382751488DA8551"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350285"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een paard-en-wagen op de Amsterdamsestraatweg te Abcoude (gemeente Abcoude-Proostdij), ter hoogte van het Amsterdamsch Koffiehuis, uit het zuidoosten; links de Angstel. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proostdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "39393E42F0FB572E8F8BCD4D7A53D20A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350280"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Angstel en de Amsterdamsestraatweg te Abcoude (gemeente Abcoude-Proostdij), uit het zuidoosten; rechts de garage van het Amsterdamsch Koffiehuis. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proostdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D24AB533F975F4586758F78706D39A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87864"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Amsterdamsestraatweg 7 (links)- 9 te Abcoude, uit het zuidoosten; rechts de timmerloods Amsterdamsestraatweg 11. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "451AD724FB6D5D5890CC8264489BC132"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163624"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Angstel te Abcoude, met links de Amsterdamsestraatweg, in het midden de Voordijk en op de achtergrond de Hervormde Kerk. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proosdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "460A138D4B335EC18394AC2566C0303F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87862"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel met graffiti van de schuur van de Witte boerderij (Amsterdamsestraatweg 2) te Abcoude, uit het noordwesten. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46FC36A3147E5DAA81C3D85B2A296EA2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92052"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de 100-jarige herdenking van het herstel van de onafhankelijkheid na het vertrek van de Fransen in 1813 met als voorstelling de aankomst van Koning Willem I in Scheveningen: de prins met zijn gevolg en publiek in historische kostuums bij de aankomst van de boot op het Abcoudermeer bij de Amsterdamsestraatweg te Abcoude (gemeente Abcoude-Proostdij). Opmerking: De originele foto berust bij de gemeente Abcoude.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proostdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B37FB042F1352FE865FF3569E2509C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87964"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het bedrijfspand van de fa. J.C. de Pijper (Amsterdamsestraatweg 11) te Abcoude. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50DBE6BBA7135B7AA669C3826FCB70B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87860"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amsterdamsestraatweg te Abcoude, uit het zuidoosten, met rechts de voorgevels van de panden Kerkplein 25-24. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "52CD3366969650299B8A2906B6D44944"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "502253"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de ereboog aan de Amsterdamsestraatweg te Abcoude, ter hoogte van het Amsterdams Koffiehuis, ter gelegenheid van de viering van het bevrijdingsfeest c.q. Koninginnedag. Opmerking: De foto is afkomstig uit een album met foto's van het bevrijdingsfeest dat tegelijkertijd met Koninginnedag werd gevierd. De foto is om conservatorische redenen losgemaakt uit het album. De zure bladen uit het album zijn vervolgens vernietigd.<ZR>De foto is gepubliceerd in: Bibl.HUA K 1997-341, Else Flim, Dat vergeet je nooit meer ..., blz. 168.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "52E1A55DEE535BDBAF848FBF22933DC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92054"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de 100-jarige herdenking van het herstel van de onafhankelijkheid na het vertrek van de Fransen in 1813 met als voorstelling de aankomst van Koning Willem I in Scheveningen: publiek in historische kostuums bij de boot op het Abcoudermeer bij de Amsterdamsestraatweg te Abcoude (gemeente Abcoude-Proostdij). Opmerking: De originele foto berust bij de gemeente Abcoude.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proostdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "59346875E05D589AACE3FC2B9011E8F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87977"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Angstel te Abcoude, uit het zuidoosten, met links de Voordijk, rechts de achtergevel van het bedrijfspand van de fa. J.C. de Pijper (Amsterdamsestraatweg) en op de achtergrond het Amsterdamsch Koffiehuijs (Amsterdamsestraatweg 26). Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69F94C60318E563C97E42D96539861D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87976"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Voordijk 29 (links)- hoger en de Angstel te Abcoude, uit het zuidoosten; op de achtergrond het Amsterdamsch Koffiehuijs (Amsterdamsestraatweg 26). Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "742A5DAC904E581D9B7A250190C1E5DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87861"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amsterdamsestraatweg te Abcoude, uit het zuidoosten, met links de rechtergevel van de bar-petit restaurant 't Reghthuys (Brugstraat 1-2). Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "847436C85EAB5195AB59CE4698C39181"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92053"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de 100-jarige herdenking van het herstel van de onafhankelijkheid na het vertrek van de Fransen in 1813 met als voorstelling de aankomst van Koning Willem I in Scheveningen: de prins met zijn gevolg en publiek in historische kostuums bij de aankomst van de boot op het Abcoudermeer bij de Amsterdamsestraatweg te Abcoude (gemeente Abcoude-Proostdij). Opmerking: De originele foto berust bij de gemeente Abcoude.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proostdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A072E19491205E6CB01F070E9ACDC853"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87963"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Amsterdamsch Koffiehuijs (Amsterdamsestraatweg 26) te Abcoude, uit het zuidwesdten; op de voorgrond de Angstel. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A811A2C578EE5249837A52EA523D26AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87965"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Angstel op de voorgevels van de huizen Voordijk 38-lager te Abcoude, uit het noordwesten; links de rechtergevel van het bedrijfspand van de fa. J.C. de Pijper (Amsterdamsestraatweg 11) . Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B2AF900FD9E65A10A8A208B029BA807F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87865"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Amsterdamsestraatweg te Abcoude, uit het noordwesten, met links de achtergevel van de schuur van de Witte boerderij (Amsterdamsestraatweg 2) en rechts de rechtergevel van Bar-Petit Restaurant 't Regthuys ((Brugstraat 1-2) en de voorgevels van de huizen Amsterdamsestraatweg nrs. 5-7 (ged.). Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B91659B9B3D4582D9F4102BBDB636038"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94851"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Angstel met een rij loofbomen langs de Amsterdamsestraatweg te Abcoude (gemeente Abcoude-Baambrugge), uit het zuidoosten; links de Voordijk. Opmerking: De afbeelding is gepubliceerd in: Ons eigen land, 1908.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proosdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1907-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1907-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7F26B75017E549EB1A086B45ABC0432"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92055"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de 100-jarige herdenking van het herstel van de onafhankelijkheid na het vertrek van de Fransen in 1813 met als voorstelling de aankomst van Koning Willem I in Scheveningen: publiek in historische kostuums bij de Amsterdamsestraatweg te Abcoude (gemeente Abcoude-Proostdij). Opmerking: De originele foto berust bij de gemeente Abcoude.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proostdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA3EB737031553E9AFB6A7B6DABD65F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92002"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Angstel te Abcoude (gemeente Abcoude-Proostdij), uit het noordwesten, met links de Amsterdamsestraatweg en rechts het Jaagpad. Opmerking: In 1978 vervaardigde fotoreproductie van een in ca 1900 gemaakte foto. De originele foto bevindt zich bij de gemeente Abcoude, fotonr. 177.<ZR>De straatnaam Jaagpad is ca. 1930 gewijzigd in Voordijk.<ZR>De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

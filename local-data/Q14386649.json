@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B7A2FB047C859A79F926EEBC9E95961"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154637"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Legmeerpolder (lijn Amsterdam Haarlemmermeer-Uithoorn) met op de achtergrond dienstwoning nr. 38."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F61E8D1AB4BB55E3A9B46F650358287C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166833"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Legmeerpolder (lijn Amsterdam Haarlemmermeer-Uithoorn)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

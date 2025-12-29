@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05CD04FAE88C5A69BEE164899A7B6598"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829546"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een Utrechtse kabouter (KBTR), op een relaiskast langs het spoor ter hoogte van de Winterboeidreef te Utrecht. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "080CEC0E04D05E88A15A5A78C841CEDD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101380"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de inwijding door kardinaal B.J. Alfrink van de H. Cleophas-Emma\u00fcskerk (Winterboeidreef 2-4) te Utrecht. Opmerking: 't Sticht fotonummer 5677."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0AB8858C65CE5BB68F48374944162B8C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Tannh\u00e4userdreef te Utrecht, met rechts de Jenaplanschool Cleophas (Winterboeidreef 6), die enkele uren na de opname grotendeels zou afbranden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2008-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2008-12-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "116DB32319F651F6B4C39475B3EAEBE5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73937"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de moskee Omar Al Faroek (El Sunna) (Winterboeidreef 2, voormalige H. Cleophas-Emma\u00fcskerk) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "154B63A4F900555CBB36E316C406A909"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73938"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de markt aan de Winterboeidreef te Utrecht. Links een deel van de moskee Omar Al Faroek (El Sunna) (Winterboeidreef 2) en op de achtergrond een deel van de achterzijde van een flatgebouw aan de Tannha\u00fcserdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "159AF0CC47B65392B0084BF9A0096B15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400947"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de H. Cleophas-Emma\u00fcskerk (Winterboeidreef 2) te Utrecht, kort voor de verbouwing tot moskee (Omar Al Faroek)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1DE7A9B933D15D59B00E7FB9E4CF4F6C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73940"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de wandplastiek \"Vogelreli\u00ebf\" in het gebouw van de kleuterschool \"'t Woelige Nest\" (Winterboeidreef 10) te Utrecht. Opmerking: naam kunstenaar: Jo de Recht<ZR>datum plaatsing: 1970"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2416344EA5025D2CA1B0474BCB18F06B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85321"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanleg zijnde onderdoorgang van de spoorlijn naar Amersfoort in de Tiberdreef (midden) en de Mr. Tripkade (rechts) te Utrecht. Links de N.S.-halte Utrecht Overvecht. Op de voorgrond het flatgebouw aan de Tannh\u00e4userdreef met links de moskee Omar Al Faroek (El Sunna), Winterboeidreef 2, voormalige H. Cleophas-Emma\u00fcskerk) en op de achtergrond een deel van de wijk Tuindorp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "281236C79E57546BA920B1400BB77DAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85266"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de N.S.-halte Utrecht Overvecht te Utrecht, uit het zuidwesten. Links de Tiberdreef en de Winterboeidreef. Op de voorgrond een deel van Tuindorp met de Linnaeuslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B6DA9553EE65ED788F0DB0E623855DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87678"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de wandplastiek \"Vogelreli\u00ebf\", door Jo de Recht, aan de gevel van de kleuterschool \"'t Woelige Nest\" (Winterboeidreef 10) te Utrecht. Opmerking: De fotograaf, A.F.S.J. Hulskamp, fotografeerde o.a. veel in opdracht van de Dienst Bouw- en Woningtoezicht van de Gemeente Utrecht.<ZR>Fotonummer Hulskamp 23618"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B1C0C4B9B1E5D01B8292034A686323F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe schoolgebouw aan de Teun de Jagerdreef te Utrecht vanaf de Winterboeidreef. Het nieuwe gebouw biedt onderdak aan twee scholen, twee peutercentra, gymzalen en een buurthuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4140B28E21E1525D9879D91A6E2F9D79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829547"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een Utrechtse kabouter (KBTR), op een muur langs het spoor bij de Winterboeidreef te Utrecht, bij station Utrecht Overvecht. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "56338402480A55B0B07C60FC9F8FA4C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101453"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de werkzaamheden ten behoeve van de aanleg van het N.S.-station Utrecht Overvecht te Utrecht, met op de achtergrond de Winterboeidreef en de Arnodreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5BD623EB0A925C039D41BFF66A432409"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "76341"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de grondwerkzaamheden ten behoeve van de bouw van het N.S.-station Utrecht Overvecht te Utrecht. Links het geraamte van het toekomstige stationsgebouw. Geheel op de achtergrond links de Rooms-Katholieke H. Cleophas-Emma\u00fcskerk (Winterboeidreef 2-4)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5EECEF230E695C40926DBE471A67ACE2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73939"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de kleuterschool \"'t Woelige Nest\" (Winterboeidreef 10) te Utrecht: klaslokaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "603BE30C6E38536C8782660405A60BD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101211"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde Rooms-Katholieke H. Cleophas-Emma\u00fcskerk (Winterboeidreef 2-4) te Utrecht, na het bereiken van het hoogste punt. Opmerking: Zie ook Utrechtsch Nieuwsblad, donderdag 11 november 1966, blz. 4.<ZR>Zie ook catalogus nr. 73932."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2C20036B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87409"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het glasmozaiek Kind en de Natuur, ontworpen door J. Braendle, in de r.k. Cleophasschool voor lager onderwijs (Winterboeidreef 6) te Utrecht. Opmerking: Fotonummer Hulskamp 20065."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73959AD046EE539F8D5299085BB460E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouw van de Rooms-Katholieke H. Cleophas-Emma\u00fcskerk (Winterboeidreef 2-4) te Utrecht. Links op de achtergrond een deel van de achterzijde van een flatgebouw aan de Tannha\u00fcserdreef. Opmerking: Zie ook catalogus nr. 101211."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D2932195A3D5ABF959D06F383B736EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73933"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Winterboeidreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8232CD46AD0C544CB4C11EA28C3FE6B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de inwijding door kardinaal B.J. Alfrink van de H. Cleophas-Emma\u00fcskerk (Winterboeidreef 2-4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82DD5A81A6995438BA18A2D48FD311C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een straatlantaarn bij het fietspad langs het spoor ter hoogte van de Winterboeidreef (rechts) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D92D5209E655BC8A4FC361431E0CE83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128597"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de toespraak door wethouder C. Pot tijdens de offici\u00eble opening van de kleuterschool 't Woelige Nest (Winterboeidreef 10) te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, donderdag 5 november 1970, blz. 2: \"'t Woelige Nest' is geopend\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92D07EAE5E2A5B21B625347987BC05CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73935"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de moskee Omar Al Faroek (El Sunna) (Winterboeidreef 2, voormalige H. Cleophas-Emma\u00fcskerk) te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A06C3C75044F5B559ABD7BFD0CA49CEC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73936"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de moskee Omar Al Faroek (El Sunna) (Winterboeidreef 2, voormalige H. Cleophas-Emma\u00fcskerk) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BECA7DC69A685AE1A1CDAE7D2BF128AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829514"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de leegstaande sportzaal vol graffiti, aan de Van Brammendreef te Utrecht, vanaf de Winterboeidreef. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFAF694249E658B19C2C1F03E27E9F22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128598"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de kleuterschool 't Woelige Nest (Winterboeidreef 10) te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, donderdag 5 november 1970, blz. 2: \"'t Woelige Nest' is geopend\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C2C9854B9EF8540CBF19FB8839B5E494"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87408"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het glasmozaiek Kind en de School, ontworpen door J. Braendle, in de r.k. Cleophasschool voor lager onderwijs (Winterboeidreef 6) te Utrecht. Opmerking: Fotonummer Hulskamp 20064."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C47CD9980F695901B87DC9201597490E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829584"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met o.a. de tekst \"Forza Utreg\" en van een besnorde Utrechtse kabouter (KBTR), op twee relaiskasten langs het spoor ter hoogte van de Winterboeidreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E201F6390C6D5A82B0E786D29DBC4192"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87412"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het glasmozaiek Ave Maria, ontworpen door J. Braendle, in de r.k. Cleophasschool voor lager onderwijs (Winterboeidreef 6) te Utrecht. Opmerking: Fotonummer Hulskamp 20068."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E4425DED8E0B5C5E87CB42AB45B5529A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79214"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Kleuterschool 't Woelige nest (Winterboeidreef 10) te Utrecht; vanuit het noordoosten. Opmerking: N.B. Fotonummer 1946-24"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E54808340F1F50589A41D74B24131DD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829515"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met de tekst \"REG\", op een relaiskast langs het spoor ter hoogte van de Winterboeidreef te Utrecht. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F6498D2C90855DA795B8361FAF3F2B88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73934"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de moskee Omar Al Faroek (El Sunna) (Winterboeidreef 2, voormalige H. Cleophas-Emma\u00fcskerk) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F70944567B705CB68E7754CCBA87E62A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405624"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de Marokkaanse groentemarkt aan de Arnodreef / Winterboeidreef in de wijk Overvecht te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC2320D83A345EE084197CDBA1961289"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128599"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de kleuterschool 't Woelige Nest (Winterboeidreef 10) te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, donderdag 5 november 1970, blz. 2: \"'t Woelige Nest' is geopend\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BE15C88674457BC83E9335292B67D48"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69243"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Rabelaisstraat 1-6 te Utrecht, vanuit het zuidoosten. Geheel rechts op de voorgrond de Dickenslaan"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-10-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-10-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "427B86B92BF559AC9309C7E53D9F6D6F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831354"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen aan de Rabelaisstraat te Utrecht; rechts een flatgebouw aan de Dickenskaan en op de achtergrond de Douwe Egberts (Keulsekade 143)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87C03253768C5C5FB74AB13D1FF3D6CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73229"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de flatgebouwen aan de Johan Wagenaarkade te Utrecht met de woningen nrs. 82-lager. Links de ingang van de Rabelaisstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

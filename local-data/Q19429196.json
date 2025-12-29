@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "407B7462B8C45C34B1B011133A14A1E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129792"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Sint Rochuskapel van de Stichting  Armen de Poth aan de Pothstraat te Amersfoort. Opmerking: Fotonummer V.12317<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-11-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-11-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D789B337B125561B8AAD1879514C598F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het hofje van de Stichting Armen de Poth (Pothstraat 16) te Amersfoort : de regentenzaal met schouw, meubilair en schilderijen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F70B640714415C53BDCE2DE4DEA8995E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12980"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en achtergevel van de Sint Rochuskapel van de Stichting  Armen de Poth, met het toegangspoortje aan de Pothstraat te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "504A35A4CE405619B77E0D2F681D3CB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5656"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het smeedijzeren inrijhek van de Algemene Begraafplaats aan de Steenstraat te Wijk bij Duurstede."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

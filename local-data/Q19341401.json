@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40C5A6FAE57A58B8AC1EB20CBBF9971B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brasemstraat te Utrecht met links op de voorgrond de achtergevels van de huizen Meervalstraat 49 (links)- 57; geheel rechts op de achtergrond enkele huizen aan de Verlengde Hoogravenseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

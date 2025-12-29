@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32DD7FF808EE5D449136F8641AFC9B61"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex aan de Taco Sybrantshof te Utrecht, met de toren van de voormalige Oranjekerk (Amsterdamsestraatweg 441)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CFAF214FDCE55A08D77A05C5A5A70DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18872"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hermannus Elconiusstraat te Utrecht met het flatgebouw met de woningen Taco Sybrantshof 5-15; op de achtergrond de voorgevel van enkele huizen aan de Cornelis Mertenssstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

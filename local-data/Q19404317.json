@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7DC0BABB1E8F53849CFECC33E905450E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12294"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paardenlaan te IJsselstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A53887FD96E3519D893CA69B78146A8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12293"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paardenlaan te IJsselstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0C85C65309E561BBBED1690EC6AF9F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802335"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paardenlaan te IJsselstein vanaf de kruising met de Mr. Abbink-Spainkstraat, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

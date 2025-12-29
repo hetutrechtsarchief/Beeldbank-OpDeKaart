@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8920572E3F2052038B4A404654815D45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169798"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de internationale trein \"Rheingold\" bij het N.S.-station Amsterdam Amstel te Amsterdam (viaduct Meester Treublaan). Opmerking: NS fotonummer 16862."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-05-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-05-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F641CBE7D9575006A722C473CB1E3A4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163911"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het spoorviaduct in de Mr. Treublaan te Amsterdam, vlakbij het N.S.-station Amsterdam Amstel. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

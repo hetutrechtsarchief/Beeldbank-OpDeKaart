@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFEE3182B3B6586189CD81C1DC9412AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85228"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de St.-Josephlaan en omgeving te Utrecht, uit het zuidwesten. Op de voorgrond de spoorlijn naar Amsterdam met rechts de Cartesiusweg / St.-Josephlaan. Links een gedeelte van het Julianapark en op de achtergrond de Amsterdamsestraatweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3D906E9D60E57F9BCBBCB6AE9588426"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "51777"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Amsterdamsestraatweg 448-452 te Utrecht met links het huis St.-Josephlaan 1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DC4EE3315DD15673BDA0596957CCD1FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van kinderen die een rondedans maken om de Julianaboom in het plantsoen tussen de Prof. Joh. Westerdijklaan, Prof. Reinwardtlaan en de Dr. J.P. Thijsselaan (Tuindorp) te Utrecht, waarschijnlijk tijdens de viering van Koninginnedag of Bevrijdingsdag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

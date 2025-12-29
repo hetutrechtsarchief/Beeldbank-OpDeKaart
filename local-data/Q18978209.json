@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F5B5C57FEC0524DA39DE4F1F3CCD68D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92590"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel van de toren en een gedeelte van het schip van de Nederlands Hervormde kerk (burgemeester Talsmaweg z.n.) te Kamerik (gemeente Woerden)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1902-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "20732075165856F18E3C639808766FA3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92608"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en rechtergevel van de Nederlands Hervormde kerk (Burgemeester Talsmaweg z.n.) te Kamerik.<ZR><ZR>N.B. Per 1 januari 1989 is het grootste deel van de gemeente Kamerik bij de gemeente Woerden gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

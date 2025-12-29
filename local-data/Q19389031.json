@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02EE71B0AEDD5E70ADF943CF052E6F0C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92334"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van een aantal kinderen tijdens de kerstboomverbranding bij de Olberslaan te Bilthoven (gemeente De Bilt)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

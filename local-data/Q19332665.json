@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5765F763C784595A8D7DC8042726C966"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11001"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de M.C. Verloopweg met bebouwing te Leersum uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "975FEA44C0EF573D8A21092335AF6242"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11000"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de M.C. Verloopweg te Leersum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F136F76ECC8058CEB191AE3AF6B399C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11002"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de M.C. Verloopweg met bebouwing te Leersum uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

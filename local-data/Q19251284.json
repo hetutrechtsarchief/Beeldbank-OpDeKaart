@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0AF63477CFF75722BB89EC34B341BBF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92345"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hessenweg te De Bilt met feestverlichting en geparkeerde auto's. Opmerking: N.B. Sfeerfoto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "20104CFBCF975ED19DDC1FFCEDDCFF05"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92332"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de wateroverlast aan de zuidzijde van de Hessenweg te De Bilt; met een auto rijdend door het water."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2CC34ECA1F985249BB6DDB95B26A6681"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8106"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hessenweg te De Bilt uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85C80633BA4852BF88B5B612C9040F67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8107"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hessenweg te De Bilt uit het zuiden, met op de achtergrond de voorzijde van het huis Meijenhage aan de Groenekanseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

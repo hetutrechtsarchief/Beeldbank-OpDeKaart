@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2848B7B2F7C352B8BF328C8172023532"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92338"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de carnavalsoptocht op de Vinkenlaan te Bilthoven (gemeente De Bilt): de versierde wagen van het ziekenhuis Berg en Bosch als protest tegen de voorgenomen sluiting."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F436FE2F236E58F1A1ADBF157AA5A91F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8423"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een aantal winkels in de Vinkenlaan te Bilthoven uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F96928E1F46D5949B5A0B8DCC0381C3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8334"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Collage van gezichten te Bilthoven:<ZR>- De watertoren.<ZR>- De Vinkenlaan.<ZR>- Het Emmaplein.<ZR>- Een boslaan.<ZR>- Het gemeentehuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

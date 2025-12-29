@@ -1,0 +1,996 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "00BE1D2ED48B5E9AABB512C3F5D33D55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het autoverkeer op de Pijperlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "038D027C4BA2578A9EBFEF3C35C7596E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829738"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de muurschildering op de zijgevel van het pand op de hoek van de Ds. Maarten Luther Kinglaan en Pijperlaan te Utrecht, gemaakt door 'Jan is de Man' in samenwerking met Aarendonk Schilderwerken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13EB75FD1841538AAAFD3D7439170BDA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602431"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pijperlaan te Utrecht, met links het huis Pijperlaan 17."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "20071A338A635A40BA60F85F85997F10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822801"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Rusthuis Welgelegen (Leidseweg 132) te Utrecht, uit het noordoosten. Op de voorgrond een kantoorgebouw aan het Rachmaninoffplantsoen, vanaf links naar boven loopt de Pijperlaan overgaande in de Jospeh Haydnlaan, met een vleugel van het Centraal Militair Hospitaal; rechts de Leidsche Rijn met enkele woonboten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "299C2B8502EA58CBBF924B5DFBEFD60D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69241"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Pijperlaan 35-37 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B9F2AF74DA25FD6A9706F8A113F06B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829739"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de muurschildering op de zijgevel van het pand op de hoek van de Ds. Maarten Luther Kinglaan en Pijperlaan te Utrecht, gemaakt door 'Jan is de Man' in samenwerking met Aarendonk Schilderwerken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DE85915978757C89909E851D2D343D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123844"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het 24 Oktoberplein te Utrecht, uit het noordwesten; rechts de Pijperlaan en op de achtergrond de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E191E396FBF546785332A0BBA03CF8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402012"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de sloop van het hotel-caf\u00e9-restaurant Chalet Den Hommel (Pijperlaan 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "361C57DEB3135168B303E80156C21B83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24099"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Ibis Hotel Utrecht (Bizetlaan 1) te Utrecht met op de voorgrond de Pijperlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4829922D395651C8BBEE6EAB2B3210B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45399"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hoek van de Pijperlaan en het 24 oktoberplein te Utrecht, uit het zuiden. Op de achtergrond het Rusthuis Welgelegen (Leidseweg 132)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "49BA8EE58C335C1899CEB549ACF2CFB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808785"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pijperlaan te Utrecht, vanuit het zuidoosten. Links een gedeelte van het Restaurant Den Hommel (Leidseweg 134)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "52314D4D3B8C588693357197BA3A597A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53976"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Ibis Hotel Utrecht (Bizetlaan 1) te Utrecht, vanaf de Pijperlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D8A812360FD51F7B699765179479C45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69240"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Pijperlaan 31-33 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BCA706B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44796"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wethouder Diemontlaan te Utrecht te Utrecht, uit het noorden, ter hoogte van de ingang van het Homoeopathisch Ziekenhuis.<ZR><ZR>N.B. Op 8 mei 1970 is de straatnaam Wethouder Diemontlaan vervallen verklaard. Het gedeelte op de foto heet sinds 1958/1959 Pijperlaan. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AA2702C4AC95A3BB90BDDC023420947"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66017"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het 24 oktoberplein te Utrecht, vanuit het zuidoosten; met de klok mee achtereenvolgens de Beneluxlaan met trambaan, Ds. Martin Luther Kinglaan, Pijperlaan en de Weg der Verenigde Naties."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C3D02B0CAB757A2809CFF56DAC921C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een maquette voor de wijk Kanaleneiland te Utrecht, met in het midden het 24 oktoberplein en op de voorgrond de Pijperlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CF9E8B838DEED95E0534701000A3A4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835238"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het 24 Oktoberplein te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204) te Utrecht, bij avond; op de voorgrond de Beneluxlaan en op de achtergrond de Pijperlaan. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakte kleinbeelddia."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "814E1F84E27C5EEA8B015281A12A69A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118960"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het 24 oktoberplein en omgeving te Utrecht, uit het westen, met links de Weg der Verenigde Naties en de Pijperlaan (voorgrond) en rechts de Beneluxlaan met het flatgebouw De Hoogt. Geheel links de flatgebouwen aan het Rachmaninoffplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "832282B746F85CCEB5F100340A042656"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817214"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hotel-caf\u00e9-restaurant Chalet Den Hommel (Pijperlaan 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8889C6EDA4B35B01B3B6827292D144A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69238"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Pijperlaan 15-17 te Utrecht, vanuit het noordoosten. Rechts de Bizetlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "89425410B0CD55778DFA97F65C8DE72E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66014"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Welgelegen te Utrecht met v.l.n.r. de Leidseweg, Merwedekanaal, Weg der Verenigde Naties, op de voorgrond de Pijperlaan en het 24 oktoberplein te Utrecht. Opmerking: Fotonummer G 4533."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E31AFFFD9475742A3BB8D34F96616D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69237"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pijperlaan te Utrecht, met links het rusthuis Welgelegen (Leidseweg 132) en rechts de aanleunwoningen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8ED91C7B6A2B540482832B62F3772297"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120936"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Pijperlaan te Utrecht met links de H\u00e4ndelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91A85A94A5845DEC83E455E759E3143E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124402"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een woonboot in de Leidsche Rijn te Utrecht, uit het westen; op de achtergrond het hotel-caf\u00e9-restaurant Den Hommel (Leidseweg 134).<ZR><ZR>N.B.: Het adres Leidseweg 134 is later gewijzigd in Pijperlaan 1. Opmerking: De foto maakt onderdeel uit van een serie foto's waarin de fotograaf de grenzen van de voormalige stadsvrijheid van Utrecht in het toenmalige stadsbeeld heeft vastgelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92AA555C78975DEAADBDE4FFCB5A639D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44795"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wethouder Diemontlaan te Utrecht te Utrecht, uit het zuiden, ter hoogte van de ingang van het Homoeopathisch Ziekenhuis.<ZR><ZR>N.B. Op 8 mei 1970 is de straatnaam Wethouder Diemontlaan vervallen verklaard. Het gedeelte op de foto heet sinds 1958/1959 Pijperlaan. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B3C05CCBD345651A9389D75BF2D459E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402011"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hotel-caf\u00e9-restaurant Chalet Den Hommel (Pijperlaan 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-07-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-07-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C357AA4B6465B65A5EFD6746F6DC8F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69236"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pijperlaan te Utrecht, vanuit het zuidoosten. Links een gedeelte van het Restaurant Den Hommel (Leidseweg 134). Op de achtergrond de Joseph Haydnlaan met links achter de bomen het Militair Hospitaal (Joseph Haydenlaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A907FBA4FB16576D85BB8C5A6AA9EB56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Pijperlaan 15 (rechts)- 17 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC96FFD6B4365B2B9E57C0E6E61B8A6E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84818"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Welgelegen te Utrecht, met de Ravellaan, uit het westen; op de voorgrond de Pijperlaan en rechts het 24 oktoberplein. Opmerking: Fotonummer: G 4532."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5B24DE6240C56CD80B746184FF71C3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69239"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Pijperlaan 15-21 te Utrecht, vanuit het noordoosten. Rechts op de achtergrond het Ibis Hotel (Bizetlaan 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C10318748E585C6C8CFFB21471371823"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404998"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Pijperlaan te Utrecht, met op de achtergrond het flatgebouw De Hoogt aan de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C2732679B44F554DA5C327C01FFCE5BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62383"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Rusthuis Welgelegen (Leidseweg 132) te Utrecht met links de Pijperlaan en  op de achtergrond de woonboten in de Leidsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA4FCD097292586E89F0CBB690E2EB7C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45638"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Pijperlaan te Utrecht, uit het zuidoosten, met links op de achtergrond de toegang tot de Bizetlaan en daarachter het Restaurant Den Hommel (Leidseweg 134)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F60CB147418A54978A27AABDB3FAC1F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85523"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het 24 oktoberplein en omgeving te Utrecht, uit het westen, met links de Weg der Verenigde Naties en de Pijperlaan (voorgrond) en rechts de Beneluxlaan met het flatgebouw De Hoogt. Geheel links de flatgebouwen aan het Rachmaninoffplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB0CE26CA07252358619F00EE71C031F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23228"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pijperlaan te Utrecht vanuit het noordwesten. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

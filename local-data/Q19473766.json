@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B218A8571AC5A969FD50BC513F5A691"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69516"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden aan het Ripperdaplein te Utrecht. Rechts de ingang van de Kenaustraat. Op de achtergrond de Marnixlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1923-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3A475FBA9695989B59118F974DC035E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Ripperdaplein 26-lager te Utrecht, vanaf de Kenaustraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

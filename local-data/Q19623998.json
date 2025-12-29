@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6478669640E5EBE9A49C62E0850346C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810259"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Reeslaan te Nieuwegein, vanaf een flatgebouw aan het Nijpelsplantsoen; rechts de Sluyterslaan en op de achtergrond de flatgebouwen aan het Wenckebachplantsoen en Van Herwijnenplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

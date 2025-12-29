@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "033823CDDA7D5A80BAA64B14DE4A0FAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87885"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude, uit het noorden; links de ingang van de Stationsstraat en rechts de voorgevels van de winkelpanden nrs. 4- lager. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BDE54DC8D6051F58D10AA689E051BED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6455"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Klapbrug over het Gein te Abcoude, vanaf de Hoogstraat, met op de achtergrond de Hervormde kerk aan het Kerkplein. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "225B78E11829501D9BC07D8E21A169C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92004"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Baambrugge), uit het zuiden; geheel links de ingang van het huis nr. 20. Opmerking: In 1978 vervaardigde fotoreproductie van een in ca 1905 gemaakte foto. De originele foto bevindt zich bij de gemeente Abcoude.<ZR>De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DDD97C2771B571EB356AB696CC0DC05"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6772"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Baambrugge), uit het zuiden. Opmerking: De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A5CAA3FFAD1510E9BFAC1F123EDF6C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92006"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Baambrugge) met op de achtergrond de Klapbrug over het Gein en de Nederlands Hervormde kerk, uit het zuiden. Opmerking: In 1978 vervaardigde fotoreproductie van een in ca 1900 gemaakte foto. De originele foto bevindt zich bij de gemeente Abcoude.<ZR>De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E78199E72185734A20222D38BC7013F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87888"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Binnenrust (Hoogstraat 24) te Abcoude, uit het oosten. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3FEA46A2D6995AA1A5B87BDD29717251"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92003"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Baambrugge), uit het zuiden;. Opmerking: In 1978 vervaardigde fotoreproductie van een in ca 1900 gemaakte foto. De originele foto bevindt zich bij de gemeente Abcoude.<ZR>De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A481983C5945A81A99625DA7531613A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87887"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogstraat 18 (rechts)- 22 te Abcoude, uit het zuiden. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BD509790E035750BCD90ED4F017698E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Hulksbrug over de Angstel te Abcoude, uit het zuiden, met op de achtergrond de Hoogstraat. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4CF99CC2C0825483ACA8380C490028E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6767"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Hulksbrug te Abcoude (gemeente Abcoude-Proostdij), uit het zuiden, met op de achtergrond de Hoogstraat. Opmerking: De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B6C7DB2E17F5E31959B510BCD91EF94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6785"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Proostdij), uit het zuiden, met op de achtergrond de Klapbrug over het Nauwe Gein. Opmerking: De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5EECB34342D25359ABC115825F114881"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87889"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het caf\u00e9-restaurant De Eendracht (Hoogstraat 27) te Abcoude, uit het zuidwesten. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C89EB82C3FB5D46A2485682437C8FCA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350283"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat met de Klapbrug over het Gein te Abcoude (gemeente Abcoude-Proostdij), uit het zuiden; met rechts een paard-en-wagen en links enkele landbouwwerktuigen bij Smederij Van Ophem. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proosdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73C14E04CEBC5531B58815F26A5BE742"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350276"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Proostdij), met links de Heinkuitenbrug en rechts de Norton drinkwaterpomp, uit het noordwesten. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld.<ZR>De door de Maatschappij tot Nut van het Algemeen geplaatste drinkwaterpomp werd in 1929 gesloopt.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proosdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "77EA07ECFF435F1BA929224A87F2ACE5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87882"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Hulksbrug, brugwachterswoning vanuit de Hoogstraat te Abcoude, uit het zuidwesten. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CB841F74C1D5AFFBB859091D75B026A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6769"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Proostdij), uit het zuiden. Opmerking: De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85CFFCF1052B51F790898CCC852A0F4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6774"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Baambrugge), uit het noorden. Opmerking: N.B. Beschadigd exemplaar.<ZR>De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86C92311911153C582DB5551EAED4FFF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87883"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Klapbrug over het Gein, vanuit de Hoogstraat te Abcoude, uit het zuidwesten, met op de achtergrond de Nederlands Hervormde kerk. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D74F32D1AE85B099AFDE8113DEE853A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "200321"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Hoogstraat te Abcoude op de Nederlands Hervormde kerk met rechts bij de ophaalbrug de herberg De Jonge Prins. Opmerking: Prentje, midden 18de eeuw, naar een tekening van Jan de Beijer uit 1745/47 (nr. 200321), afkomstig uit Nederlandsche Tafereelen, deel 7, uitgegeven in 1792."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1745-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1747-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A877ED53F32E55C983C9BDCB83BB7729"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6786"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Proostdij), uit het zuiden, met op de achtergrond de Klapbrug over het Nauwe Gein. Opmerking: De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1926-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B596B7779F3B5D6E921D1609CD194B57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350286"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat en op de in aanbouw zijnde nieuwe Klapbrug over het Gein te Abcoude (gemeente Abcoude-Proostdij), uit het zuiden. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proostdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BA0E82A18AFF5840A788E122601EF429"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350297"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat en de nieuwe Klapbrug over het Gein te Abcoude, uit het zuiden; op de achtergrond de Nederlands-Hervormde kerk. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C292DDD68F225A0CB985A91E00BFC112"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87880"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Klapbrug over het Gein vanuit de Hoogstraat te Abcoude, uit het zuiden, met op de achtergrond de Nederlands Hervormde kerk. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4068D1F6B385BA8BFB9D5C1806FA22F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87884"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude, uit het zuiden; rechts de voorgevels van de winkelpanden nrs. 1-3. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA6C159E8A7F56EB9A78319D7DD3F454"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6756"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Klapbrug over het Gein te Abcoude (gemeente Abcoude-Proostdij), vanaf het Kerkplein; op de achtergrond de Hoogstraat. Opmerking: De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1903-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E00AE7CE02365DD3A9C1109D71BA83A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92007"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het toegangshek van Het Markvelt (in de 18e en 19e eeuw een plaats waar paardendraverijen werden gehouden) in de Hoogstraat t.o. nr. 24 te Abcoude (gemeente Abcoude-Baambrugge). Opmerking: In 1978 vervaardigde fotoreproductie van een in 1926 gemaakte foto. De originele foto bevindt zich bij de gemeente Abcoude.<ZR>Het hek werd in 1935 verplaatst naar buiten de gemeente.<ZR>De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1926-10-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1926-10-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E08B469786D35CB8A5E0B64A63251D6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6771"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Baambrugge), uit het zuiden. Opmerking: De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E1060346CE455EA586AD7A3B76A694B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6768"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Proostdij), uit het zuiden, met rechts caf\u00e9 De Eendracht. Opmerking: De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E10802D1CF345DC3AC1F9BC81E4FB249"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6770"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Baambrugge), uit het zuiden. Opmerking: De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC59A26ADC1E50CEB5578A23429D3C32"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogstraat 20-22 (links) te Abcoude uit het zuiden. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1DD78EE3CDD53208B7626B37B882D8C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350278"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat met de Klapbrug te Abcoude (gemeente Abcoude-Proostdij), uit het noordwesten. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld.<ZR>De gemeenten Abcoude-Baambrugge en Abcoude-Proosdij zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F4118834333A58389AA4A46B660B5A6C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6773"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Klapbrug over het Gein te Abcoude, vanaf de Hoogstraat, met op de achtergrond de Hervormde kerk aan het Kerkplein. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F6323D514FF155368B3D7A780F143938"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92005"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Abcoude (gemeente Abcoude-Baambrugge), uit het zuiden. Opmerking: In 1978 vervaardigde fotoreproductie van een in ca 1905 gemaakte foto. De originele foto bevindt zich bij de gemeente Abcoude.<ZR>De gemeenten Abcoude-Proostdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA0CD8CBEEC9565AA25F9447ED3703F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87881"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Hulksbrug te Abcoude met rechts de brugwachterswoning en op de achtergrond de Hoogstraat, uit het zuidwesten. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A1B42442DDA5487A402A9DA360D88E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56037"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het begin van de Donaudreef te Utrecht met de voorgevels van de huizen nrs. 1-3, bij de kruising met de Wolgadreef, uit het zuidzuidwesten; naar achteren de Apollodreef, met de ingangsgevel van de flat met de woningen Apollodreef 2-196."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37DA2279022055978DCEB16F83D069BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501533"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanbouw zijnde wijk Overvecht-Zuid te Utrecht, uit het westen, met links op de voorgrond de Moezeldreef en centraal de Donaudreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3FFA9BD26AA4577F8524457F9429C498"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403649"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een maquette van het winkelcentrum Euterpedreegf te Utrecht; rechts de Wolgadreef en op de voorgrond de Donaudreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "456DDCC927805B9BA030BF02B75C4A3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56035"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Donaudreef te Utrecht, uit het zuidoosten met op de achtergrond, loodrecht op de Donaudreef de Berezinadreef met daarachter opgespoten bouwterrein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51F375DC22D15127B40D1E4582CCC1CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85072"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de in aanleg zijnde wijk Overvecht te Utrecht, uit het westen. Op de voorgrond de Moezeldreef en van het midden naar linksboven de Donaudreef. Opmerking: Fotonummer E 4836 A."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-09-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "525BB9DFBBE751C18C805A01D76A693C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de flat met de woningen Donaudreef 188-lager te Utrecht met rechts op de voorgrond de ingang van de Maria Theresiadreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "562F100453FF5C34813023E12F3AA764"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806854"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele nieuwbouwwoningen in de wijk Overvecht-Zuid te Utrecht, met op de voorgrond de Ikarosdreef en links de Donaudreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E2E9E9D1DD15368A1B6DDAC2CEBBC28"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56040"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Donaudreef te Utrecht met de kopgevel en een deel van de ingangsgevel van de flat met de woningen nrs. 166-188, vanaf de kruising met de Moezeldreef, uit het westzuidwesten; links, achter de groenstrook, de huizen Donaudreef 53-55 en rechts de ingang van de Maria Theresiadreef met een deel van de achtergevel van de flat met de woningen Maria van Hongarijedreef 129-143."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "602A64C7758E5B4B9341A20B9048ACB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linker zijgevel van het hoekhuis Hermesdreef 2 te Utrecht met links een gedeelte van de achtergevels van enkele huizen aan de Heradreef; op de voorgrond de Donaudreef. Op de voorgrond een beschadigde personenauto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "774EFF304E5259EB9568A355DFC05E5C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87215"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht op een gedeelte van de wijk Overvecht te Utrecht, linksonder de huizen Donaudreef 53 (voorgrond)-63 op de hoek met de Moezeldreef; daarachter de Margaretha van Parmadreef. Opmerking: De fotograaf, A.F.S.J. Hulskamp, fotografeerde o.a. veel in opdracht van de Dienst Bouw- en Woningtoezicht van de Gemeente Utrecht.<ZR><ZR>Fotonummer 17368."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "77D397B5D980510C851707ADAE37FA8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54087"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de speeltuin met rechts de voorgevels van de huizen Anna Boleyndreef 21-23 te Utrecht; links de Anna van Saksendreef en op de achtergrond een flat aan de Donaudreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8DF8E7DCBD935865B47C2CA54F618972"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806778"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het voor sloop bestemde flatgebouwen aan de Donaudreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "933A225A603C57EA9269EBC96F557FFF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108453"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van twee jongens op de Donaudreef te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Jongens in Overvecht\" van fotograaf Hans Traag (1960) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A54F8A34BBD5A7399ED70E209372F25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806777"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het voor sloop bestemde flatgebouwen aan de Donaudreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F74D67451DE58AAA82D194D4174F57C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56038"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Donaudreef 9 (links)-lager te Utrecht met rechts op de achtergrond een gedeelte van een flat aan de Apollodreef. Op de voorgrond een (beschadigde) personenauto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD6E194DE9EC5BE89E14BAACA5D6BC18"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56036"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Donaudreef te Utrecht, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C00ABC57AC0550278E6CEEE3B38A3641"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23041"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de flatgebouwen aan de Vulcanusdreef te Utrecht met op de achtergrond de Donaudreef. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C24E48ABFAB35B2F9DB61FBA624C8585"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "80828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rooms Katholieke noodkerk (Donaudreef 31) te Utrecht.<ZR><ZR>N.B. Later zou deze kerk overgebracht worden naar Ter Weyde in Culemborg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-09-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA2293C416625204909C223B6332CF31"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806771"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor sloop bestemde flatgebouwen aan de Donaudreef (links) en de Jacoba van Beierendreef (rechts) te Utrecht, vanaf het plantsoen achter de Maria van Hongarijedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D859C8C4FB425547A411E1EC21A77CBD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603395"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht over de wijk Overvecht te Utrecht vanaf het kantoorgebouw A\u00efdadreef met in het midden de Moezeldreef, links op de voorgrond de Tiberdreef en rechts de kruising met de Donaudreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DC956ED9156B57EFAF98A35762A23502"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806779"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het voor sloop bestemde flatgebouwen aan de Donaudreef te Utrecht, vanaf de speelplaats achter de Maria van Hongarijedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F84BA685CE2C50DEBA792A5E9C7DE0B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403600"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een maquette van het gebouw van de Gereformeerde Vereniging voor Kinderbescherming en het jeugdhuis De Stuw (Donaudreef 21) te Utrecht. Opmerking: De foto is gepubliceerd in het Nieuw Utrechts Dagblad, 28 januari 1969."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB7878BAAFB657DF8B3CC5CA060B70AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117986"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw aan de Apollodreef te Utrecht; op de voorgrond de kruising Wolgadreef/ Donaudreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB9F92C7468556EF86BF0DCC13E3B88D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806776"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor sloop bestemde flatgebouwen aan de Donaudreef (links) en de Jacoba van Beierendreef (rechts) te Utrecht, vanaf de speelplaats achter de Maria van Hongarijedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-02-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

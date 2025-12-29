@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C311EF0C7B05156908940D08B138661"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "202265"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op twee boerderijcomplexen te Soest. <ZR>Boven: \"De Huizenberg (?)\" aan de Olijkeweg.<ZR>Onder: \"De Grote Melm\" aan de Melmweg. Opmerking: Twee schetsen op een blad door Eeke Fernhout uit 1953."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34F3D553DB425D04943CD4C011C79906"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53048"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Beethovenlaan te Utrecht met de voorgevels van de huizen nrs. 31-lager; links de Chopinstraat en uiterst rechts het huis H\u00e4ndelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "64585DD6AFF258D09F9F153A31F778DD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115565"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Chopinstraat te Utrecht; rechts enkele glazenwassers. Opmerking: Litt.: Bibl.HUA UAT 513, GM Kwadraat, 2007 nr. 28, P. Notermans, Nico Jesse: het stadsleven zoals zich dat aan het oog van tijdgenoten in de bezettingsjaren vertoonde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EA0769D3EC05739A94266F803C2A3CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53053"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Beethovenlaan 30 (rechts)-lager te Utrecht met rechts een gedeelte van het huis Chopinstraat 49 en links een gedeelte van het huis H\u00e4ndelstraat 68."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F06AE646FCF2520986E4FE3E98C3ED80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55321"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Chopinstraat nrs.49 (links)- lager te Utrecht met op de voorgrond de Beethovenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

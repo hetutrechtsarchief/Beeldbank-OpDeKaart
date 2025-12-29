@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13B8375EDC235D0985EAADD59C787BDA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het seinhuis Post I bij de spoorwegovergang in de Harderwijkerweg te Dieren. Opmerking: NS fotonummer 20131"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02E23309434D586CAE5C60F2FE74F9CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156903"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het station Valburg van de Staatsspoorwegen te Valburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1882-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1882-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

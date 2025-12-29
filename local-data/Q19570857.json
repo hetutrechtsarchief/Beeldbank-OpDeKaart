@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8045D49267823160E0534701000A3F50"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het huis Trekpad 1 op het eiland Bijltje op de grens van de Eerste en Tweede Plas in de Loosdrechtse Plassen te Loosdrecht (gemeente Wijdemeren, Noord-Holland)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2002-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

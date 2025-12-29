@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F330F98F2875EDE9C34403968A3BB85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92171"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kersweg met bebouwing te Amerongen; met een tractor en een auto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-03-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

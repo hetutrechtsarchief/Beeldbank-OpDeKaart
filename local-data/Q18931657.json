@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "439FB4FC949E5C45899AE2A621787540"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807688"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het beschadigde spoorviaduct over de Adelheidstraat te Den Haag, na de ontsporing van trein 1107, grotrendeels bestaande uit electrische rijtuigen mat. 1924 (\"Blokkendozen\") van de N.S. nabij de halte Laan van NOI. Geheel op de achtergrond is een deel van de ontspoorde trein te zien. Opmerking: De foto bevindt zich in het archief van de Dienst van Exploitatie van de N.S. (toegangsnummer 943, inv. nr. 1106)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1943-01-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-01-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6A05016EAD92597EB5C2ED5792797AE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85298"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de polder De Gagel te Utrecht, uit het zuidwesten. Op de voorgrond de Yokohamadreef en daarachter de Karl Marxdreef/Gageldijk. Links de Burgemeester Huydecoperweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C6ECE3AC16C5F498CBC69BDEE5B24B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Noltheniusstraat 53 te Utrecht met links daarvan de huizen Catharina van Renneslaan 2 en 4. Opmerking: Overgebracht uit archieven, 10 mei 1988."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

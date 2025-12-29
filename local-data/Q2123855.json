@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04EEEA3608C85ADD8A9BA24C9677335C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163174"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het voormalige N.F.L.S.-station Sexbierum-Pietersbierum te Sexbierum. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-08-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

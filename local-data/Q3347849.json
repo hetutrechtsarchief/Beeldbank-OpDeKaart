@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E2F5390B8455D2A8344BF9E92C8E5BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12488"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de R.K. kerk Heilige Johannes de Doper (Om 't Wedde 2 / Hoogstraat 82) te Montfoort, met rechts de pastorie (Hoogstraat 80), vanaf de toren van de N.H. St. Janskerk (Korte Kerkstraat 5)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A91C10C35B45045B740DBA653F4344C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12421"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Verlengde Hoogstraat te Montfoort, uit het zuidwesten, met op de achtergrond de Gereformeerde Kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15022B342AF95E57B69355356E9D4B2E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12429"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de R.K. kerk Heilige Johannes de Doper (Om 't Wedde 2 / Hoogstraat 82) te Montfoort, met op de voorgrond Hollandsche IJssel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29CEB6F52FF35D5B9B0980AD93C7CF1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12422"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Verlengde Hoogstraat te Montfoort, uit het zuidwesten, met op de achtergrond de Gereformeerde Kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1899-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D8A795638185BAA8F27E2630821452C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12435"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stadhuis (Hoogstraat 36) te Montfoort, met rechts een deel van de IJsselpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "492D4A8DDAA152B38B19BE97D29323D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125360"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stadhuis (Hoogstraat 36) te Montfoort, tijdens restauratie, met rechts de IJsselpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "60F0A0B47D96550ABF273056CA66AB71"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12436"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het Stadhuis (Hoogstraat 36) te Montfoort, met links de IJsselpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "64AF0461FB2B590E9960A66138523D6A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Onder de Boompjes te Montfoort, uit het westen, met op de voorgrond de Hollandsche IJssel, op de achtergrond de achterzijdes van de huizen aan de Hoogstraat en links de Brug over de IJssel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69D25EB9963E55B58B7949B8A3781E25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12409"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Montfoort, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EDBC18932B55ADFB9B9C004DE906014"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Museum van Oudheden (Hoogstraat 36) te Montfoort, gevestigd in het stadhuis in de ruimte boven de belendende IJsselpoort: stijlkamer met een van het Rijksmuseum te Amsterdam afkomstige renaissanceschouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1906-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1906-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85C6A227345F5B84809F18D8A72D8450"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12407"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Montfoort, uit het zuidwesten, met rechts de ingang van de Hofstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A43F3CEDCCB85239B2E296277439B1E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12494"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stadhuis (Hoogstraat 36) te Montfoort, met rechts de IJsselpoort, met rechtsboven het stadswapen. Opmerking: De prentbriefkaart behoort tot de Atlas Coenen van 's Gravesloot."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA4EE119FCC85348A2444C431DBC0A62"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12434"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stadhuis (Hoogstraat 36) te Montfoort, met rechts de IJsselpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7D712A017A658D7BD32DC87A92A95A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12408"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Montfoort, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BF7F06DCA81858B193A490A8E44DAFDB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6438"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het stadhuis (Hoogstraat 36) te Montfoort, met rechts de IJsselpoort en rechtsonder het wapen van Montfoort. Opmerking: Fotoreproductie van een door G. D. Hoogendoorn vervaardigde aquarel met de titel \"Montfoort\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D40C5988267B5107A20A1BF403CFA261"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12490"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stadhuis (Hoogstraat 36) te Montfoort, met rechts de IJsselpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E125DB72222A57BE989F49CE076F49D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Montfoort, met op de achtergrond de R.K. kerk Heilige Johannes de Doper (Om 't Wedde 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1912-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1912-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8FFD1F7BFC253E7977B85EB8D8FF6F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12427"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de R.K. kerk Heilige Johannes de Doper (Om 't Wedde 2 / Hoogstraat 82) te Montfoort, met rechts de pastorie (Hoogstraat 80)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EAE6E2C79EDA59F8B6BB053DC1B4AC49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de R.K. kerk Heilige Johannes de Doper (Om 't Wedde 2 / Hoogstraat 82) te Montfoort, met rechts de pastorie (Hoogstraat 80)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3E4CBE9B9A4582899C3C8C7E61F7ECD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12472"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Montfoort, vanaf de Waterpoort, met een groep poserende personen en rechts de Stadswaag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1908-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAF7E283A36F5CF281A08B6965F3E1C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12406"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogstraat te Montfoort, met op de achtergrond de R.K. kerk Heilige Johannes de Doper (Om 't Wedde 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

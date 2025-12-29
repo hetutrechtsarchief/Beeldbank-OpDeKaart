@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98AACCFE03315C4984E9251769534929"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94434"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijnseweg met loofbomen te Odijk (gemeente Bunnik) uit het zuidoosten; met links de Langbroeker Wetering."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8135AD256B758BCB86A72F05EBAB3C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94423"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij Rijnseweg 2 op de T-kruising Rijnseweg/Zeisterweg te Odijk. <ZR><ZR>N.B. De gemeente Odijk is per 1 september 1964 bij de gemeente Bunnik gevoegd. Opmerking: In circa 1975 vervaardigde reproduktie van een in ca 1960  gemaakte foto.<ZR>Lit. MIP Bunnik, p. 221-222."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB3F4AE1F95C5AAE8EB3FC103CE3DFC2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57482"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de gevel van het huis Jakob Grimmstraat 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8D13D62B9B95E388544497D4A15C539"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57481"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de gevel van het huis Jakob Grimmstraat 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08DDE938E9375438BA17F6B86D5B2024"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68790"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de westgevel van de St.-Johannes de Doperkerk (Plettenburgplantsoen 2) te Utrecht. Links het Parochiehuis (Gymzaal, Oranje-Nassaulaan 2)"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "79CB0AB925E158E183F3942EAE1E29C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404198"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Johannes de Doperkerk (Plettenburgplantsoen 2) te Utrecht, met links het parochiehuis annex gymzaal (Oranje-Nassaulaan 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

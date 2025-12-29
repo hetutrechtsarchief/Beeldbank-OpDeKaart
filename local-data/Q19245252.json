@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4249683EFCE75E8ABBF548582A590DF9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829373"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met de tekst \"PR\u00d6F\", op het elektriciteitshuisje aan de Hekmeijerstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "493FDB14D971520B8703E378CEB9AE33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805265"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde appartementenocmplex aan de Hekmeijerstraat te Utrecht, vanaf het dak van de Gemeentelijke Archiefdienst (Alexander Numankade 199)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF90EE5780535D56BE62893BC0FCCDC3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58091"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde panden aan de Hekmeijerstraat te Utrecht vanaf het dak van de Gemeentelijke Archiefdienst (Alexander Numankade 199)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F6381CED8019575D88CD3BB53794ED63"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24322"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hekmeijerstraat te Utrecht gezien vanaf de Alexander Numankade."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

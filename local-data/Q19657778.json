@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "579AFCAD62B157B4983BA7553B2FF2D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93962"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Willem van der Veldestraat met bebouwing te Maarssen. Opmerking: Een ca 1995 gemaakte reproduktie van een prentbriefkaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

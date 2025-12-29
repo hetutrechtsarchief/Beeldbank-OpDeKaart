@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4986D9F578C85D37A06FE847E8B49AD3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69619"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Rottumeroog 14-hoger te Utrecht vanuit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

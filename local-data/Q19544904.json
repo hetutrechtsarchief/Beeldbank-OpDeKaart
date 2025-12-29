@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5BC0A815866D520A9BDEDFD1B40FF0AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169119"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tunnel (Krispijntunnel) onder het spoor in de Spuiweg te Dordrecht. Opmerking: N.S. fotonummer 6065."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1936-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD53EC7AB46B58ED850DE17DAFD8CE4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169120"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tunnel (Krispijntunnel) onder het spoor in de Spuiweg te Dordrecht. Opmerking: N.S. fotonummer 6067."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1936-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

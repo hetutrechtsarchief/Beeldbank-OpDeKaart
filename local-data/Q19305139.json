@@ -1,0 +1,2424 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "073D602DF4FF57F892FA9D941ED09BB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68634"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Pelmolenweg te Utrecht, met de voorgevels van de panden Pelmolenweg 12-lager, de ingang van de Lange Rozendaal en de Kockstraat. Op de achtergrond de toren van de Geertekerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "023CBDA442F1566CA90C949C0A3D3B3B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52542"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht met op de voorgrond de Pelmolenweg. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "03369F4564B65A93A8503659AB8D6411"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603776"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van verklede kinderen tijdens een buurtfeest in de De Kockstraat te Utrecht. Opmerking: Zie ook het Utrechtsch Nieuwsblad, maandag 2 september 1963, blz. 4: \"Regen spelbreker op de Utrechtse buurtfeesten\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E1C6CA6C3D55CDD9A76FB3B3E81543F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60376"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen van de De Kockstraat 8-lager te Utrecht; rechts nr. 8."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1326538E33C35F7DA2148E8245BCE829"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822421"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pelmolenweg te Utrecht te Utrecht; rechts het complex van de \"Zeven Steegjes\" met de ingangen van respectievelijk de Fockstraat (rechts), Suikerstraat, Boogstraat, Brouwerstraat, Kockstraat en Lange Rozendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15CF25A35DBB5B8E875C50AE365F3786"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "301173"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van onder meer Riet en Anneke tijdens een buurtfeest in de De Kockstraat te Utrecht. Opmerking: De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "16225F6C5E87557E94B017C5C8155B41"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834569"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat (Zeven Steegjes) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CB7E91971035B52A9240B76560002CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403426"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor sloop bestemde huizen aan de De Kockstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-09-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-09-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1DE3BEFAD49B56A0AFDD5C397327756D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2183103841C55DAE9A22A69CC0DA5497"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60372"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht; met de achterkant van de huizen in de Lange Rozendaal (links naast het hoekhuis Pelmolenweg nr. 13, het huis nr. 46- lager), uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2550CA5119725F78BDBD0F32E40AB3A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830216"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een bewoner van de De Kockstraat (Zeven Steegjes) te Utrecht die zijn fiets repareert. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FC60219DEF65F40A36870F558A7D1CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60370"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de versierde De Kockstraat te Utrecht. Opmerking: Deze foto behoort bij fotowedstrijd 1964.                             Het huisadres van M. de Wind is Robijnhof 10 I."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "319ED2712CCA5509B0B8024236717F97"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115578"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kockstraat te Utrecht. Opmerking: Litt.: Bibl.HUA UAT 513, GM Kwadraat, 2007 nr. 28, P. Notermans, Nico Jesse: het stadsleven zoals zich dat aan het oog van tijdgenoten in de bezettingsjaren vertoonde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "33CEA8DC0AD65DCCAB1DB9805A1936A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35445"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34DC7E10C1C55ECA9D4787223ADDB7C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35446"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het steegje tussen de huizen Lange Rozendaal 26 en 28 te Utrecht, uit het oosten, met links een gedeelte van het huis De Kockstraat 6 en op de achtergrond het huis Boogstraat 12."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3813CE8AFDB0520ABC59DC0BF9151F47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830210"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Jan de Bie, bewoner van de De Kockstraat in de Zeven Steegjes te Utrecht, met een krat lege bierflessen op zijn fiets. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "381804C87EEE5B968E32AB66F3747FFE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830236"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van bewoners van de De Kockstraat (Zeven Steegjes) te Utrecht tijdens het rijgen van de vlaggetjes in verband met het buurtfeest. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38B82E1F1B545A8EA01EB6EBFD64431D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60364"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht; uit het oosten.. Opmerking: Deze afb. is te vinden in Utrecht in woord en beeld 1926, nr. 47.  N.B. Onder de afb. staat abusievelijk Hoekstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1926-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1926-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "408F978E453055109F4C239EDAE16954"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830252"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele toeschouwers van de fanfare-optocht door de De Kockstraat (Zeven Steegjes) te Utrecht, tijdens een buurtfeest. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C7FFF46F0CD5872B54024C151229604"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401408"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van dansende mensen tijdens een buurtfeest in de Zeven Steegjes (Kockstraat) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E0AABC2491A5608BAC8F0EA21D705D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830243"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van toeschouwers in de De Kockstraat (Zeven Steegjes) te Utrecht tijdens de kinderoptocht ter gelegenheid van een buurtfeest. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "537677B70C4D5EC1B94060531A130A5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819046"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kockstraat te Utrecht, vanaf de Moutstraat naar het westen; op de achtergrond de Pelmolenweg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "54F92B9000E059689F9CAC6F272F56D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403434"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Nol van Dongen (midden) en Ricardo Alberelli (rechts van Van Dongen), de auteurs van het boek \"De Zeven Steegjes\" in de De Kockstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-05-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-05-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5511C3140CDB5D2BABB747FBC4CAE2F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830237"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de Oranjepoort van buurtvereniging Margriet in de De Kockstraat te Utrecht, tijdens een buurtfeest, met op de achtergrond het Utrechtse feestorkest De Roodneuzen. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5540DC7D59DB50E28F6D1A1FB038CC58"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60373"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht; met de achtergevels van de huizen in de Lange Rozendaal (rechts het huis nr. 16-hoger), uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B3980A1F5B9543D90BCBE050F7556DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "301189"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van een gezin (\"drie generaties\") uit de De Kockstraat te Utrecht. Opmerking: De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B78C08A7B8C5D028C1F6EAFD440D35D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60369"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen in de De Kockstraat te Utrecht; rechts de achtergevels van de huizen in de Brouwerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FD6258AF3EC5A2CBB5C63E6E4161C26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830256"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele bewoners van de Zeven Steegjes te Utrecht, tijdens het maken van een sneeuwpop in de De Kockstraat. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BDA1C6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60365"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CBDC86B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403436"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het buurtje de Zeven Steegjes te Utrecht, met links de Brouwerstraat, in het midden de De Kockstraat en rechts op de achtergrond de Geertekerk (Geertekerkhof)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CBDC96B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het buurtfeest in de De Kockstraat (Zeven Steegjes) te Utrecht, met in het midden Ben van Luyn sr., links Henk Abels en rechts Henk de Bom."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC7056B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833809"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kockstraat (in de 'Zeven Steegjes') te Utrecht, met voor de straat de erepoort van de buurtvereniging 'Prinses Margriet', geplaatst voor het komende buurtfeest van de vereniging."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC7066B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kockstraat (in de 'Zeven Steegjes') te Utrecht, met voor de straat de erepoort van de buurtvereniging 'Prinses Margriet', geplaatst voor het komende buurtfeest van de vereniging."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "640AA5FC96AC5CA5B0DD79370680688D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Jan de Bie die zijn huwelijkstoespraak voorbereid in de De Kockstraat (Zeven Steegjes) te Utrecht. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "70E1B2D92B015D1B988BBB3F8C5D77E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830248"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van de gebroeders Van Luyn na afloop van een buurtfeest in de De Kockstraat (Zeven Steegjes) te Utrecht. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "72020983F5405685B3EE7417762140A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116062"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kockstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "735EEEE741675C9C9E1139D29F0DA1E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61877"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de De Kockstraat gelegen achtergevels van de huizen Lange Rozendaal 48-lager te Utrecht met de zijgevel van het huis nr. 48, vanaf het plantsoen bij de Pelmolenweg (voorgrond), uit het westnoordwesten; uiterst links de ingang van de Lange Rozendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "759036E363D25E1ABA2B413D1D1AA1A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830246"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de avondpolonaise tijdens een buurtfeest in de De Kockstraat (Zeven Steegjes) te Utrecht. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81FBF8E892775F1B93F2FEDBADB2CAA2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68638"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Pelmolenweg te Utrecht, met rechts van links de ingang van de Suikerstraat, Boogstraat en Brouwerstraat en Kockstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82A9F286CD2C3576E0534701000ADFA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840209"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de gevelsteen '50 jaar Buurtvereniging Margriet in de Zeven Steegjes, 1995', bij de Kockstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-02-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-02-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "859C021CA1345EF7B85889F52784BBE8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60367"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht. Opmerking: In 1998 vervaardigde reproductie van een omstreeks 1954 door G.J. Lauwers gemaakte foto.                               <ZR>Zie ook het archief van het Gemeentebestuur van Utrecht 1813-1969, toegang nr. 1007-3, inv. nr. 20508: Stukken betreffende plannen voor sanering en krotopruiming in de binnenstad, 1954-1964."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85A0EDBDFB1A50F0AA05723C15375E10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pelmolenweg te Utrecht vanaf het plantsoen langs de Catharijnesingel te Utrecht; rechts het complex van de \"Zeven Steegjes\" met de ingangen van respectievelijk de Suikerstraat (rechts), Boogstraat, Brouwerstraat, Kockstraat en Lange Rozendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-02-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B15DC184050530E9A4991A7BFFF943F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830244"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een buurtfeest in de De Kockstraat (Zeven Steegjes) te Utrecht, met Riet die buurtgenoot John afkoelt met de tuinslang. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F9E987F1B5950539BC60726F99FC635"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830259"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een fanfare in de De Kockstraat (Zeven Steegjes) te Utrecht, tijdens een buurtfeest. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "919CE0576A6D508B9079E644BF6D506F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830211"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Tante Riet die een vloerkleed schoonspuit in de De Kockstraat in de Zeven Steegjes te Utrecht. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9512BFFAD4DD5A1F87DE5A0911D31D69"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60374"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in  de De Kockstraat te Utrecht; tijdens de zomer, met op de voorgrond enkele bewoners."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "962BADB079CF5DA099839657D5B71E65"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60375"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht; met de huizen nrs. 1 (links)-hoger, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A3ED3CA2D1957909ED37588BE1E92C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403432"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de dames Van Oosterom (links) en De Graaf met haar zoontje in het door brandschade onbewoonbaar geworden huis Brouwerstraat 21 of De Kockstraat 14 te Utrecht, als gevolg van een explosie in het huis Brouwerstraat 23 op 19 november 1981 die brand veroorzaakte."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CE31A78BB2E577B8BF4EF7B450F65CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pelmolenweg te Utrecht met de ingangen van het Lange Rozendaal, de De Kockstraat en de Brouwerstraat. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E41B9E649045263989BC4EAD73832A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Jan de Bie, bewoner van de De Kockstraat (Zeven Steegjes) te Utrecht, tijdens het snijden van rabarber. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9EDCCF609ED55F229B8E19AEC34BD644"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61878"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Lange Rozendaal (links van het midden) te Utrecht met in hoofdzaak de huizen nrs. 48-lager aan de zuidelijke straatwand, vanaf het plantsoen bij de Pelmolenweg (voorgrond), uit het westnoordwesten; links een deel van het huis Lange Rozendaal 45 met in het midden de zijgevel van het huis nr. 48; rechts daarvan de ingang van de De Kockstraat met de voor- en zijgevel van het huis De Kockstraat 16."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3E0D53D27CD51BF9F38E777D89C70B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819045"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kockstraat te Utrecht, vanuit de straat naar het oosten; op de achtergrond de Moutstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9E04798DCC258F7AE743D6CA0071C26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61876"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het steegje tussen de huizen Lange Rozendaal 26 (links) en 28 (rechts) te Utrecht, van bovenaf gezien, uit het noorden; na de huizen nrs. 26 en 28 op de achtergrond de kruising met de De Kockstraat en de Brouwerstraat; aan het eind de Boogstraat met een deel van het huis Boogstraat 12."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AAF342CFBED051739C4EC4CA5578713E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830231"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het huis De Kockstraat 9 (Zeven Steegjes) te Utrecht, na een huwelijksfeest. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB0BE542A79159BB92FD6073FBCA8914"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "301193"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee bewoners van de De Kockstraat te Utrecht, tijdens het op straat kijken naar het WK-voetbal op televisie. Opmerking: De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC8386AAC66753169692338E72367380"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68616"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pelmolenweg te Utrecht, met rechts het begin de Kockstraat. Op de achtergrond een gedeelte van de St.-Martinuskerk (Oudegracht 401)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD4F6C37B74A51C7931D890BA6EC5E2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60368"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen in de De Kockstraat te Utrecht; rechts de achtergevels van de huizen in de Brouwerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE8CF013F7BC5304AB5ACC0F513591D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828383"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kockstraat (in het buurtje de Zeven Steegjes) te Utrecht, vanaf de Pelmolenweg. Rechts een gevelsteen die herinnert aan 50 jaar Buurtvereniging Margriet in de Zeven Steegjes (1995)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B285F87B681855B8831ABBEB28D140E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "301187"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Jan de Bie, speler van de grote trom bij het carnavalsorkest De Vrolijke Willempies, in zijn woning aan de De Kockstraat te Utrecht. Opmerking: De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3353AD8699854618D8C3B8E2675ED40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61871"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Lange Rozendaal te Utrecht met de huizen nrs. 45-lager aan de noordelijke straatwand, vanaf het plantsoen bij de Pelmolenweg (voorgrond), uit het westen; na het huis nr. 41 de ingang van de Korte Rozendaal met rechts van het midden de zijgevel van het huis Lange Rozendaal 48 met rechts daarvan de ingang van de De Kockstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6668F7E405451E4855254735F44BCC3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500650"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hek aan het einde van de De Kockstraat te Utrecht, ter afsluiting van het aldaar gelegen braakliggende terrein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6E9BE6B60F75ECD83C03685D1245030"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60366"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht; met de voorgevels van de huizen tijdens de restauratie. Opmerking: Zie Nieuw Utrechts Dagblad, dinsdag 13 januari 1953, pag. 2"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B797D1B05D125B5794E1FAA3846A0448"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830213"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee spelende kinderen bij een plas water in de De Kockstraat (Zeven Steegjes) te Utrecht. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B95398E8AF515D9CAF1EB144B0FC5EA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830258"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Zeven Steegjes te Utrecht, tijdens het afsteken van vuurwerk op Oudejaarsavond, met van links naar rechts de Boogstraat, de Brouwerstraat en de De Kockstraat. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BBFD9AA750E1534E8685FAE2864998B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele vervallen voorgevels aan de even zijde van de Kockstraat te Utrecht; op de achtergrond de Moutstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD5D1E8B9F3D58A3A6D3F013D0E61D89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele kinderen bij de grote trom van het Utrechtse feestorkest De Roodneuzen tijdens een buurtfeest in de De Kockstraat (Zeven Steegjes) te Utrecht. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4ED788140BD5934AACABEC386C09E53"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830250"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een jongen op een bromfiets in de De Kockstraat (Zeven Steegjes) te Utrecht. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5C387846F185397BEA2C5AA17AA5C9C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "301177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een kind verkleed als de Sneeuwkoningin tijdens een kinderverkleedwedstrijd in de De Kockstraat te Utrecht. Opmerking: De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C80DE726F14F53229801B22783231F04"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108468"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele dichtgetimmerde huizen aan de De Kockstraat te Utrecht, vanaf de Pelmolenweg, bij avond. Opmerking: De foto maakt deel uit van de serie \"Utrecht bij Nacht\" van fotograaf Siebe Swart en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA0EF4363C3D51BCACF89FBDE82506A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830238"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een kind op een als bar ingerichte vensterbank van een woning aan de De Kockstraat (Zeven Steegjes) te Utrecht tijdens een buurtfeest. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB54463898C65C5BA203BC7DA60E194E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "301195"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee bewoners van de De Kockstraat te Utrecht, met Gientje die meedoet aan de kinderverkleedwedstrijd. Opmerking: De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBF103CD942856AE9430CA2BE54EF04D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822342"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele vervallen gevels aan de even zijde van de Kockstraat te Utrecht; op de achtergrond de Moutstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD67F6CD6CDD5EFF8F1BA9941CB88125"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822341"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kockstraat te Utrecht, vanaf de Pelmolenweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFA4EF13C8FA5528AC36E6B16FEC1797"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830208"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de versierde voorgevel van een woning aan de De Kockstraat (Zeven Steegjes) te Utrecht in het kader van de buurtwedstrijd \"Gevelversieren\". Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0BF09BFD66C52388725B81C8F41CA90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501191"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kockstraat te Utrecht, vanaf de Pelmolenweg. Opmerking: Fotonummer: 34125."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E765650976D75D60AF3BC3FBE633ED98"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830245"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een jongetje dat verkleed is als Tiels Flipje tijdens de Kinderverkleedwedstrijd op een buurtfeest in de De Kockstraat (Zeven Steegjes) te Utrecht. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EC247D85E5BD5F30B6D6A8680A190B11"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822344"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele vervallen voorgevels in de Kockstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF1F57B53B305FE7B624375253D7BA40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64377"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Moutstraat te Utrecht, vanaf de hoek van de Brouwerstraat, uit het zuiden; van voor naar achteren delen van de huizen Brouwerstraat 1, Kockstraat 1 (met de ingang van de Kockstraat) en Lange Rozendaal 16; op de achtergrond het Lange Rozendaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F118894BAADD5F33AEBCCED02E26D845"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "830247"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een buurtfeest in de De Kockstraat (Zeven Steegjes) te Utrecht. Opmerking: Digitale reproductie van negatief in particulier bezit. De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3EBD82A4A205BA4AD59F435EB458894"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810062"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F98402C4180852A192706798C6428F5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "301191"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een burenpraatje van twee achterbuurvrouwen via het dakraam van hun woningen aan de De Kockstraat en de Brouwerstraat te Utrecht. Opmerking: De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB1D755462C85D4292A86BBA60D1065E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807152"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FCD52E0D98275B39907576A6F067A084"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60377"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen van de De Kockstraat 12-lager te Utrecht; rechts het huis nr. 12."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FCE8247213D25E4492BC7877FDB4E3C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "301182"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Ernst en Aaltje met hun kinderen op de bank in hun woning aan de De Kockstraat te Utrecht, na de doop van hun jongste kind. Opmerking: De foto maakt deel uit van een reportage over de Zeven Steegjes te Utrecht. Zie ook \"Beeld van een Buurt. Foto's van de Zeven Steegjes\", door Nol van Dongen en Gerrit H. Jansen, 1991."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD42A78C2F3457048D2C3EB75C591160"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403422"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de plaatsing van de gedenksteen ter herinnering aan het 50-jarig bestaan van de buurtvereniging Margriet in de Zeven Steegjes te Utrecht, in het hoekpand De Kockstraat 16."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FEC55A681E745C05955F4E1BD9709C49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60371"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de De Kockstraat te Utrecht; vanaf het plantsoen bij de Pelmolenweg (voorgrond), uit het westnoordwesten, links een deel van de zijgevel van het huis Lange Rozendaal 48, en de achtergevels van de huizen Lange Rozendaal 48-lager, rechts de zijgevel van het huis De Kockstraat 16 en de voorgevels van de huizen De Kockstraat 16-lager (doorlopende nummering)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

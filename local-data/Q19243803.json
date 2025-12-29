@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C9FCBF9A6715376A22BE907CCEAC02D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811898"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van vader Jan Verbeek te Utrecht die met zijn kinderen Hannie (links), Lisette en Jan (rechts) een kaartspelletje speelt in hun woning aan de Heijermansstraat op Oudejaarsavond. Opmerking: In 2011 vervaardigde digitale reproductie van een in 1946 gemaakte foto, afkomstig uit een particulier fotoalbum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22538C70F83652F9A398FDE9CFD7DF1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126167"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een inrijverbodsbord aan het begin van de Heijermansstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-07-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-07-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "535B92D6402E5903BC791A616974F6FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58416"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Heijermansstraat te Utrecht met de huizen nrs. 1-hoger, vanaf de kruising met de Jaffastraat; op de achtergrond de huizen aan de Louis Couperusstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

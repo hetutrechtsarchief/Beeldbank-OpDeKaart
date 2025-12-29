@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "540950A835C55045BD1591B8D341D79C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160097"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een lichtsein bij het N.S.-station Barneveld Noord te Barneveld. Het sein is voorzien van een rechthoekig wit reflecterend bord met twee zwarte dwarstrepen ter markering voor het lichtsein op een bijzonder gevaarpunt (i.c. Barneveld-Voorthuizen Aansluiting). Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9EB2A4233E7A5F0F95989893995738A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160098"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een bordje met reflecterende strippen bij het N.S.-station Barneveld Noord te Barneveld. Het bordje dient ter aankondiging van een lichtsein dat voorafgaat aan een niet-automatisch sein (i.c. het inrijsein van station Barneveld Centrum). Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

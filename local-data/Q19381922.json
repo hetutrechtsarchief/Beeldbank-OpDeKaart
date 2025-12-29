@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5D0AA1054DD502E9F9B8C81989EF601"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74505"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Zamenhofdreef te Utrecht, ter hoogte van de kruising met de Marnedreef, vanuit het westen. Op de achtergrond enkele flatgebouwen aan de Normadreef (rechts vanhet midden) en aan de Arabelladreef (geheel rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

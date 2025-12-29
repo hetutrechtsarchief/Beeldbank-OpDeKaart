@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "376A5383D7415BF389FF8A3BC99784D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Vreedenhorst (Bergseweg 18) te Vreeland. <ZR><ZR>N.B. De gemeente Vreeland is in 1964 bij de gemeente Loenen aan de Vecht gevoegd. Opmerking: Lit.: MIP Loenen, p. 105-108."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ECF1E5544ACE5AAE91E3A5135F13C1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het landhuis Vreedenhorst (Bergseweg 18) te Vreeland.<ZR><ZR>N.B. De gemeente Vreeland is in 1964 bij de gemeente Loenen aan de Vecht gevoegd. Opmerking: Lit. MIP Loenen, p. 110-111."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

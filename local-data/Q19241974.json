@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69F138A926F55355BA703CBD80E8F2A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "77247"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de speelplaats in de Hamakerlaan te Utrecht, uit het noorden. Opmerking: Fotonummer 7708/42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-06-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-06-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A15E171DB7F256F6BFF23C604D1EEA20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19329"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen Hijmans van den Berghlaan 106 (rechts)-116 te Utrecht, vanaf de Hamakerlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-02-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E4625A51B7C35AB88AA2D550EE124111"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57679"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hamakerlaan 28-lager te Utrecht met in het midden een kinderspeelplats."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

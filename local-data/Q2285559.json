@@ -1,0 +1,5336 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D02B96E8BFF51E489D029DAFEB20DBC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "39389"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het poortje in de achtergevel van de Statenkamer aan het Hoogt te Utrecht. Opmerking: Deze tekening is afkomstig uit de door de kunstenaar zelf samengestelde Atlas Grolman.<ZR>Vergelijk nr. 31671."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1917-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1917-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "017D608CFCD45800BDC6212AD473A0A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58610"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2-10 te Utrecht met links op de achtergrond de Telingstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01C8C41B85DA5A60B7E24D1F8FCCE9AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13575"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het landhuis De Hoogt (De Hoogt 6) te Maarn.<ZR><ZR>N.B. De gemeente Maarn is per 1 januari 2006 opgenomen in de nieuw gevormde gemeente Utrechtse Heuvelrug. Opmerking: Lit. MIP Maarn, p. 121-125."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0210F89D2D5159AFB485B923D05C186E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73406"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw De Hoogt aan de Van Weerden Poelmanlaan te Utrecht. Rechts op de achtergrond het ziekenhuis Oudenrijn (Van Heuven Goedhartlaan 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-10-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-10-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04C93BE8EE3C503C871A794FA577D2B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121837"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Hoogt 6 (rechts)- 14 te Utrecht vanuit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "059B657237FE5C00B7809E40422C8260"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121845"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de maquette van het gebouwencomplex Het Hoogt op de tentoonstelling van het Monumentenfonds t.g.v. haar 25-jarig bestaan op het Janskerkhof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "060B88C0588A5B698CF0EB04C2D304B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400386"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijke deel van de wijk Kanaleneiland te Utrecht, uit het zuidwesten, met op de voorgrond de Trumanlaan, links de Van Heuven Goedhartlaan, rechts de Peltlaan, in het midden van links naar rechts de Beneluxlaan en links op de achtergrond de Weg der Verenigde Naties. De cijfers op de foto's verwijzen naar het in aanbouw zijnde flatgebouw De Hoogt aan de Van Weerden Poelmanlaan (1), de nieuwbouw van het Ziekenhuis Oudenrijn (2), het toekomstige zusterhuis van het ziekenhuis (3), het kantoor van de Koninklijke Wegenbouw Stevin B.V. (4) en de Beneluxflat (5)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06E1F0B0E5A451828E5FEC1C459AB519"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58604"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekhuis Hoogt 2 te Utrecht met op de voorgrond de Telingstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "080F77491B125D11A2525A27D5C29BDC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115135"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (links, Hoogt 6) te Utrecht; rechts de ingang naar het Cultureel Centrum 't Hoogt (Hoogt 4)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0816D2F8324054618E7DAC9AD7FD6BC2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30171"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het huis Hoogt 6 te Utrecht, ingericht als timmerwerkplaats, vanuit een poortje in de straat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "088491EF5C6C53B3A1AE4F7495823149"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58613"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 4 (links)- 10 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0885DDA367B45C1698FF27680A68315E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58614"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het huis Hoogt 6 te Utrecht. Opmerking: Uit: Jaarverslag van het Utrechtsch Monumentenfonds over 1950."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0AC72381ECB0506289D7A7493F8F0812"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802673"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Hoogt 1 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0C619036C9635A95B38F11B086EB1032"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121129"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van Sl\u00f6jdschool van de heer H. van Wijland (Hoogt 12) te Utrecht: handvaardigheidsklas. Opmerking: Van Wijland was van 1900 tot 1926 op dit adres gevestigd. Daarna was er het Zo\u00f6logisch Laboratorium gevestigd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0CF06341E83E5862B5946AC6C8AB020B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58615"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis achter het huis Hoogt 8 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D5F588DFD7355E8AFEC41A013B5F08A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58606"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2 (links)- 10 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0EBB7BF3F7485F9582E769DDA61C6692"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58608"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2-8 te Utrecht, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0ED90CE5F55A5BD28E3AB6C5F2147BA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58601"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekhuis Hoogt 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F0D657A6E155EF6BA462F388E23A907"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501607"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Hoogt 2 te Utrecht, na de restauratie, vanuit de Telingstraat.<ZR><ZR>N.B. de afbeelding is bijna identiek aan cat. nr. 816855,"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10C46DA2CF885977A9BAE7E3636BADBA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819360"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het uithangbord van het Museum voor het Kruideniersbedrijf v.h. Betje Boerhave (Hoogt 6) te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "116225A98DFA5DDE9A937E4038FA6FC6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71265"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Telingstraat 1-hoger te Utrecht, vanuit het zuiden. Op de voorgrond een gedeelte van het pand Ganzenmarkt 28. Op de achtergrond een gedeelte van het huis Hoogt 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "12FE6E0CADB55D8EB41FBB423F039120"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44142"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijke gedeelte van de toekomstige wijk Kanaleneiland te Utrecht, uit het zuidwesten, met van linksmidden naar rechtsboven de Wethouder Diemontlaan en rechtsboven het 24 oktoberplein. In het midden de toekomstige Churchilllaan en rechtsonder de boerderij De Hoogt. Opmerking: Afdruk afkomstig uit archief DOW<ZR>Fotonummer C 4531"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17B369C4F3F352129E7E744DB99BCB8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819351"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in Kintgenshaven te Utrecht, vanaf de Neude naar het oosten; op de achtergrond het Cultureel Centrum 't Hoogt (Hoogt 4). Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1BD6D4F3ACFE5BF2AD1345979D771434"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58621"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van  de huizen Hoogt 10 (links)- 12 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E4F3875F285593F9A18CF6C0326DC72"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816855"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Hoogt 2 te Utrecht, na de restauratie, vanuit de Telingstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F56AF8A63D7581D9BDCAA575F97B9A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84809"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijk gedeelte van de wijk Kanaleneiland te Utrecht, uit het zuidwesten; in het midden het Ziekenhuis Oudenrijn en het flatgebouw De Hoogt (Beneluxlaan 2-6, Van Weerden Poelmanlaan 2-204) ; rechts beneden de Christus Koningkerk (Marshalllaan 139); op de voorgrond het Amsterdam-Rijnkanaal. Opmerking: Fotonummer Mil.reg.nr. 8468-287"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1FDBCCFC2B555C6B9916E3B394D37B04"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58607"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2 (links)- 10 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "22787BF4AF305C15AC582F033B8A1927"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819362"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de doorgang naar het pand Hoogt 6 te Utrecht naar het noorden, met de entrees van verschillende filmzalen van Filmtheater 't Hoogt (Hoogt 4); op de achtergrond de met een hek afgesloten doorgang naar de Lange Jansstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2588C6915AE350CCB54F04F43F61E423"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500712"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekhuis Hoogt 2 te Utrecht, na de restauratie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "259E8C156A805C708CB01FED4EE12C65"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84812"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van het Kanaleneiland-Noord te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-6, van Weerden Poelmanlaan 2-204), uit het noordwesten; op de voorgrond de Admiraal Helfrichlaan, links de van Vollenhovenlaan en rechts de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "267BC28DFFD25DF0AA920631F087DB45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602138"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kintgenshaven te Utrecht, vanaf de Neude, met links het pand Neude 1, rechts het pand Schoutenstraat 21 en op de achtergrond het pand Hoogt 4."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "26A91BE7C3945F2D8E1D3FDA3D1BFAB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121852"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de pahuizen nden Hoogt 2-14 te Utrecht vanaf de Lange Jansstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "294EF5F4A03B58A2A9B0D9D14EA0E89F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128257"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterpoort aan het Hoogt van de voormalige Statenkamer, het Zo\u00f6logisch Museum en Laboratorium (Janskerkhof 3) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "299D587A1FEC56B7A24B454E8180D427"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403794"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Hoogt 2 te Utrecht: hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A760D90AFF35183ACFF034FBEA73ABE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58598"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Hoogt 1 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AA2636D770C5EE6B4522B13B45A4A55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812020"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw De Hoogt met de woningen Beneluxlaan 2-204 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-06-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-06-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2ABCAB084F8E5CDBB8E2AAD729DC0CEA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13579"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de chauffeurswoning met  garage (De Hoogt 2-4) op het landgoed De Hoogt te Maarn. <ZR><ZR>N.B. De gemeente Maarn is per 1 januari 2006 opgenomen in de nieuw gevormde gemeente Utrechtse Heuvelrug. Opmerking: Lit. MIP Maarn, p. 120-121."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B869B1B5D9457F3A62536BC5FE388EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121896"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de panden Hoogt 14 (links)- 2 te Utrecht met rechts de voorgevel van het hoekpand Slachtstraat 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C05263EE6505DFE80C8FFFC0853803E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22249"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DB7B0E5013E562E8CEFFCBDDC79D629"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819361"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de decoratie boven de onderdoorgang naar het pand Hoogt 6 te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FC8276161C85E45819786F955B82FCD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58617"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht: winkel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30E4ECB2BE1758648AC3F491B57363E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22812"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de poort naar het Hoogt in het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32DAB2DE2EA9564C9B6D76CE657E74C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58599"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van  het hoekhuis Hoogt 2 te Utrecht met links de Slachtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32DF783601AF5BD2B4F60EE14B0C3E39"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129899"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Hoogt 2 te Utrecht: opkamer met schouw. Opmerking: In 2009 gemaakte afdruk van origineel negatief.<ZR>De afbeelding is ook uitgegeven als prentbriefkaart; zie catalogus nr. 26395."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "33FDDF45C2BB5DE79F1ADB56546258C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121894"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Eethuis in het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht: restaurant.<ZR><ZR>N.B. Het Eethuis was in het huis Hoogt 8, dat onderdeel uitmaakt van het complex, gevestigd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34D8CC74CBDF58E48C229A866D8371CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22148"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het flatgebouw De Hoogt met de woningen Beneluxlaan 2-204 te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36A592E1F4C753A2B2C6C60DDF733DB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121762"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 8 (links)- hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36D494F429725E0E92F868AE1E42E239"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58611"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2 (links)- 10 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3773C1F61A4B5868BFFC600BEEE03F88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58592"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Hoogt te Utrecht, uit het westen. Op de achtergrond de achtergevel van de Statenkamer. Opmerking: Fotonr. 33135."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3842726244645CC4A44DDEFDF95F1D5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118538"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het 24 oktoberplein en omgeving te Utrecht met in het midden het Ziekenhuis Oudenrijn (Van Heuven Goedhartlaan 1) en het flatgebouw De Hoogt (Van Weerden Poelmanlaan); op de achtergrond de Weg der Verenigde Naties en de wijk Welgelegen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A5E2E5F4F965B6FBD3858095D180104"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810203"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de wijk Kanaleneiland te Utrecht, vanaf het flatgebouw de Hoogt (Beneluxlaan 2-6, Van Weerden Poelmanlaan 2-204); links de Van Vollenhovenlaan en in het midden de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3AFD75E68843505880F29BCC4576CCF4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121761"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de binnenplaats van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BB8D4045BD058AB9A210C3E7214FA09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22797"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Hoogt 2 te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BF7AA3ACD2C5BA394CCFF8C8EA2D1CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37822"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de achterpoort van de Statenkamer aan het Hoogt te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1902-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C0FB5A8B6155831ACA58388981852E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "102807"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het circusterrein van Circus Krone bij de Weg der Verenigde Naties te Utrecht, vanaf het flatgebouw De Hoogt aan de Van Weerden Poelmanlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CCACE36BF73536A989A71EF32EC9F0B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816854"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Hoogt 2 te Utrecht: opkamer met schouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40383B4A0F295D7BAECA4B2CCF41F38E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66012"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het flatgebouw De Hoogt met de woningen Beneluxlaan 2-204 te Utrecht met op de voorgrond het 24 oktoberplein. Opmerking: Fotonr. 6666-10A"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41E44BAF7AB350A090A4E4CAD9C73A98"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht: winkel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4258751C024754518A7430482FEFDE47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20387"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 4 (links) en 8- hoger te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4439B905DCCF5B549070A342EB81E33A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13577"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis De Hoogt (De Hoogt 6) te Maarn; met op de voorgrond een gazon. <ZR><ZR>N.B. De gemeente Maarn is per 1 januari 2006 opgenomen in de nieuw gevormde gemeente Utrechtse Heuvelrug. Opmerking: Lit. MIP Maarn, p. 121-125."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "450B3D4092D258EF916EB058870F77B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120946"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de restauratie van de huizen aan het Hoogt en Slachtstraat te Utrecht ten behoeve van de realisatie van het Cultureel Centrum 't Hoogt (Hoogt 4)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "455B207D9A135EECA96F57EEBA5FA9B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121840"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Hoogt 6 (rechts) en 8 te Utrecht vanuit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "486B5342FCDB545C896EA8A1F8D9613A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58600"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van  het hoekhuis Hoogt 2 te Utrecht met links de Slachtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1943-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "498DA1AD05C45273B33B7CBA607C389D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22811"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de binnenplaats van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AB4F5012EB953C182319C64B9FB477A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37817"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Ontwerptekening van de achterpoort van de Statenkamer aan het Hoogt te Utrecht. Opmerking: Anonieme ontwerptekening uit 1640."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1640-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1640-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B6EBF0D22B95547848FAF546D15B054"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802969"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het noordelijk gedeelte van de wijk Kanaleneiland te Utrecht, vanaf; het flatgebouw De Hoogt (Beneluxlaan 2-6, Van Weerden Poelmanlaan 2-204), uit het noorden links van het midden de Van Vollenhovenlaan en rechts de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D688A2767425F17A829D571E91CA6AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22326"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Hoogt 2 te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FBC8991111E5D65B2CE2CD9BF5DF43E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37823"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel met de achterpoort van de Statenkamer aan het Hoogt te Utrecht. Opmerking: Anonieme tekening uit ca 1800 naar de situatie van het midden van de 17de eeuw. Pendant van nr. 37807."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1643-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1670-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50640A3028C4598CBFA5F1BF8C8A3BAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800152"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het poortje in de voorgevel van het huis Hoogt 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "523C8D06B04D5FBAB9AFBC654974C668"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805501"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een vrouw in de deuropening van de achterpoort aan het Hoogt, van de voormalige Statenkamer, het Zo\u00f6logisch Museum en Laboratorium (Janskerkhof 3) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "572D2767AAD95BA8BE45B04176CF866E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58616"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het aan het binnenterrein gelegen Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5752A6ED0501504C9F7E202747A6B2F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815784"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het toegangspoortje (anno 1642) van het pand Hoogt 2 te Utrecht. Opmerking: Dit poortje is omstreeks 1942, na de sloop van het huis, Achter Clarenburg 29, verplaatst naar Hoogt 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "58E11E942D26591C963F228CA321323E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816852"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Hoogt 2 te Utrecht: opkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "595C4CBB787C5C32AB719CDE506272DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125115"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht met  vrijwilligster mevrouw Kempers."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5BC7BBA5F9D850688859827B542F53AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121879"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de poort naast het huis Hoogt 4 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FEA03EE05EA58BE90E0FDDD39092DFE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37819"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Ontwerptekening (?) van de achterpoort van de Statenkamer aan het Hoogt te Utrecht. Opmerking: Anonieme (ontwerp)tekening uit ca. 1640."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1640-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1650-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FF93AB3213C5CE2B35D9DD08B01F8EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26395"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Huis 't Hoogt (Hoogt 2) te Utrecht: opkamer met schouw (midden 17e eeuw). Opmerking: Zie ook catalogus nr. 129899."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "644D96386D1651C1A9A4464804B6FDE6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58612"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Hoogt 4 te Utrecht met rechts de doorgang naar de aan het binnenterrein gelegen panden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "670F64825F6A5C45AB02005CD0EBF4CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37814"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Ontwerptekening van de achterpoort van de Statenkamer aan het Hoogt te Utrecht. Opmerking: Ontwerptekening van Frederick van Lobbrecht uit ca.1640."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1640-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1640-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "671DE88460285E08B80FC19CD614B1FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810199"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de wijk Kanaleneiland te Utrecht, vanaf het flatgebouw de Hoogt (Beneluxlaan 2-6, Van Weerden Poelmanlaan 2-204), rechts de ingang van de Van Heuven Goedhartlaan met links daarvan het  hoofdkantoor van Koninklijke Wegenbouw Stevin B.V. (Beneluxlaan 9)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "690A8811863759119F7BA52F990FD99B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802870"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van een deel van het complex van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht, vanuit de Slachtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B694573A9E25335A5F7EACEC1723C3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73409"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw De Hoogt aan de Van Weerden Poelmanlaan te Utrecht, uit het zuidwesten. Op de voorgrond de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EC0FD152F8D5780B37B5FB09B7B674D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58594"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het huis Hoogt 6 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FF9592BE7F05E689316D42F4F41C1D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821516"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de wijk Kanaleneiland te Utrecht, vanaf het flatgebouw De Hoogt aan de Beneluxlaan, met links de Beneluxlaan en rechts op de voorgrond de Van Heuven Goedhartlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "741AAB378CA253578BA417622B2E94F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58595"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kintgenshaven te Utrecht met op de achtergrond de voorgevel van het Cultureel Centrum 't Hoogt (Hoogt 4). Op de voorgrond (links) Neude 1en (rechts) Schoutenstraat 21."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74C9F6E677F7521C9ED213F06E2ED525"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "102928"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opvoering van het ge\u00efmproviseerde toneelstuk \"Met mij? Met mij gaat het goed\" door de Amateurtoneelvereniging Domstadtoneel in het Theater van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht. Opmerking: Zie ook Utrechts Nieuwsblad, 2 maart 1982, blz. 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7914054B31695EA4B53DCB109FBE17E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60254"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Ds. Martin Luther Kinglaan te Utrecht, vanaf het flatgebouw De Hoogt, links vooraan het Homoeopathisch Ziekenhuis en links achteraan de Oudenrijnsebrug (Amsterdam-Rijnkanaal); in het midden op de voorgrond het rusthuis De Wartburg met daarachter het zwembad Den Hommel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE684A92D7D206FE0534701000A8251"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835214"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan de Van Vollenhovenlaan (rechts) en Van Eysingalaan (links) te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204); op de voorgrond de ingang van de Loderlaan. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakt kleinbeeld negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE6D898EBB69BD6E0534701000A9EDE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835217"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204) te Utrecht, op twee fietsers op het fietspad langs de Beneluxlaan. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakt kleinbeeld negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE6D898EBB79BD6E0534701000A9EDE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835218"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204) te Utrecht, op twee Peugeot 404 auto's, naast elkaar rijdend in de Beneluxlaan. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakt kleinbeeld negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE8092B1338B220E0534701000AE94D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835220"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de flatgebouwen in de wijk Kanaleneiland te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204) te Utrecht, uit het noordoosten; op de achtergrond de zendmast Gerbrandytoren te IJsselstein. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakt kleinbeeld negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE8092B1339B220E0534701000AE94D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Beneluxlaan te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204) te Utrecht. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakt kleinbeeld negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CF92C7559A69953E0534701000A5724"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835235"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Beneluxlaan te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204) te Utrecht, bij avond. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakte kleinbeelddia."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CF92C7559A79953E0534701000A5724"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835236"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gebouw van de farmaceutische groothandel OPG (Europalaan 2) te Utrecht met op de achtergrond het flatgebouw De Hoogt (Beneluxlaan 2-204). Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakte kleinbeelddia."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CF9E8B838DEED95E0534701000A3A4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835238"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het 24 Oktoberplein te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204) te Utrecht, bij avond; op de voorgrond de Beneluxlaan en op de achtergrond de Pijperlaan. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakte kleinbeelddia."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CF9E8B838DFED95E0534701000A3A4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835239"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen in de wijk Kanaleneiland-Noord te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204), bij avond; op de voorgrond de Trumanlaan. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakte kleinbeelddia."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CFAF846C3961DB1E0534701000A5BE1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835241"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan de noordzijde van de wijk Kanaleneiland te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204); in het midden het Amsterdam-Rijnkanaal en op de achtergrond de polder Papendorp. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakte kleinbeelddia."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CFAF846C3971DB1E0534701000A5BE1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835242"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de Beneluxlaan te Utrecht met de Admiraal Helfrichlaan (linksonder) en Van Heuven Goedhartlaan (rechtsboven), vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204), bij avond. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakte kleinbeelddia."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CFBDAB06DA9472AE0534701000AAA70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835244"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Domtoren te Utrecht vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204). Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakte kleinbeelddia."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E300EAAAD655E9AAFEC4AD6156ADB20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52431"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Telingstraat te Utrecht met de voorgevels van de huizen nrs. 15 (links)-lager; links de ingang van het Hoogt. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8031B277F2305E4C942455A34006CFD7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602351"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Koos van Duinen, organisator bij het Expohuis 't Hoogt (Hoogt 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "814E1F84E27C5EEA8B015281A12A69A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118960"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het 24 oktoberplein en omgeving te Utrecht, uit het westen, met links de Weg der Verenigde Naties en de Pijperlaan (voorgrond) en rechts de Beneluxlaan met het flatgebouw De Hoogt. Geheel links de flatgebouwen aan het Rachmaninoffplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81CC205EE27A5545AE24CD46E45F9DF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819356"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het monumentale toegangspoortje (anno 1642) van het pand Hoogt 2 te Utrecht.<ZR><ZR>N.B. Dit poortje is omstreeks 1942, na de sloop van het huis Achter Clarenburg 29, verplaatst naar Hoogt 2. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "831C5F561A085166AB95B78763A49BEF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405594"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het terrein van ruitersportvereniging 't Hoogt aan de St. Anthoniedijk te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8390557A049954148F38B864F309A5E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819355"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Hoogt te Utrecht, vanaf de Telingstraat naar het oosten. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8699FF81505B5FB5ABEA5BB27F57DA39"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het noordelijk gedeelte van de wijk Kanaleneiland te Utrecht, vanaf; het flatgebouw De Hoogt (Beneluxlaan 2-6, Van Weerden Poelmanlaan 2-204), uit het noorden links de Vollenhovenlaan en rechts de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87F421B340BC5BECAA1F09E51000D75A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37816"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Ontwerptekening van de achterpoort van de Statenkamer aan het Hoogt te Utrecht. Opmerking: Anonieme ontwerptekening uit 1640."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1640-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1640-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "89D95C6DCBF8512984047E2DED273CD5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58619"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht: winkel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B8E449384385E21B4008F614DBC0DCB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819359"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de panden Hoogt 8 - hoger te Utrecht, van bij het pand Hoogt 6 (Museum voor het Kruideniersbedrijf v.h. Betje Boerhave). Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CCF7017863F5CB7943E7381D3EA7081"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22347"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Hoogt 2 te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D4A858C0F79537AB369A7E9ED94E776"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "78093"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Ziekenhuis Oudenrijn (Van Heuven Goedhartlaan 1) te Utrecht, vanuit het westen. Op de achtergrond de torenflat De Hoogt. Opmerking: Fotonummer 9973-19A"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-09-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-09-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8EC14B4A1F455AB2913682F4F425DB4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129252"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht: winkel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8EC542D5992954C7BCCBCEB0B4959BC4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815340"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht met twee vrijwilligsters van het museum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9234DEF926075D83BCDA4B7DB183957B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84813"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het noordelijk gedeelte van de wijk  Kanaleneiland te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-6), Van Weerden Poelmanlaan 2-204) uit het noorden; links de Vollenhovenlaan en rechts de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93E8D931903C5D3AB20B0CE00C5A1A2E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101509"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het flatgebouw De Hoogt aan de Van Weerden Poelmanlaan te Utrecht door minister ir. W.F. Schut van Volkshuisvesting en Ruimtelijke Ordening, met aan zijn hand de zesjarige Robert Kolmer, die de minister zijn kamer in het flatgebouw heeft laten zien. Opmerking: 't Sticht fotonummer 7150/5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93F9CE8528765D26AF871F3B9679DC1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806117"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de schoorstenen van de electrische centrale van de PEGUS (Provinciaal en Gemeentelijk Utrechts Stroomleveringsbedrijf, Atoomweg 9), vanaf een flatgebouw aan de Azi\u00eblaan. Links het flatgebouw De Hoogt aan de Van Weerden Poelmanlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "95477DEFE7EB590A832688889E7CFB63"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37821"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de achterpoort van de Statenkamer aan het Hoogt te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1840-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1840-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "958F06D208765E69B85D88CFD3034B4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35392"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen aan de Hoogt te Utrecht vanaf de Lange Jansstraat na afbraak van enkele panden in die straat. Opmerking: Fotoreproductie uit 1990 van een aquarel van P. de Jong uit 1970."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99824199DBD95987A654956989234AC3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30170"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Telingstraat te Utrecht op de huizen Hoogt 2-6 met links de Slachtstraat gezien in de richting van de Lange Jansstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9BA80926AFEE58B5948E9A9BC2D246BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37815"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Ontwerptekening van de achterpoort van de Statenkamer aan het Hoogt te Utrecht. Opmerking: Anonieme ontwerptekening uit 1640."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1640-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1640-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DF42FF8677F5FBCA165FF0D3FD98847"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121893"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht, vanuit de Kintgenshaven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A17F0E50DB8A5CD5A416F4ABF7464873"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816853"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Hoogt 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1BB2D2F09A956E099AA78E8A606A5DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2 (links, gedeeltelijk)- hoger te Utrecht Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1C4DF29226359CC93720B353CD23D5A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44037"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Hoogt 2 te Utrecht. Links de Slachtstraat. Opmerking: In 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1944-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1C9C6025CEA5F1EA41C5EEE45E0AB7D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52432"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 4 (links)- hoger te Utrecht. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1D47CB90FA65415879D3A9AB49F1C8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37820"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Ontwerptekening (?) van de achterpoort van de Statenkamer aan het Hoogt te Utrecht. Opmerking: Anonieme (ontwerp)tekening uit ca. 1640."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1640-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1650-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1E996014EE4515BAF7B916D59D8269D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58593"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele panden aan het Hoogt te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A5F4ED844AF7548B8DCA82BB63C86347"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810202"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de wijk Kanaleneiland te Utrecht, vanaf het flatgebouw de Hoogt (Beneluxlaan 2-6, Van Weerden Poelmanlaan 2-204); op de voorgrond de Admiraal Helfrichlaan; rechts de Van Vollenhovenlaan en in het midden de Van Eysingalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A5FEDA498DAB5D2CA4A995320384C038"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600491"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele panden aan de Hoogt te Utrecht, na de afbraak van de bebouwing op de hoek van de Lange Jansstraat en de Slachtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A60D41FE700E5A46A3F0F235444679D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het 24 oktoberplein te Utrecht, vanuit het flatgebouw De Hoogt (Van Weerden Poelmanlaan)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7710A6DB841590DBD96D820F6BABAD1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121765"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2 (links)- hoger te Utrecht met op de achtergrond de achtergevel van de Statenkamer (Janskerkhof 3)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7AF610E2ED958829DFDFF576A4B9BBF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400643"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het 24 oktoberplein te Utrecht, uit het westen, met op de achtergrond een deel van het flatgebouw De Hoogt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A8A7BF114B4C5D2F97DAB217026AF895"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121846"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht met rechts het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) en de achteringang van de Theaterzaal (geheel rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A8C5F0F5B429517AA2484C0FF79BF097"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121878"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 14 (rechts)- lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB63D672F7B15E2D9BA2919E0F2601E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119139"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Hoogt te Utrecht, met op de achtergrond de achtergevel van de voormalige Statenkamer (Janskerkhof 3)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACDE406013855E8F8E05447B503535FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120949"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouwencomplex van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht; rechts de Slachtstraat en Telingstraat, op de achtergrond in het midden de St.-Willibrorduskerk (Minrebroederstraat) en rechts de Domkerk en Domtoren (Domplein)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACDEDF4884F55A7DAFA1208A399A9CD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800175"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht, vanuit de Kintgenshaven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD5F48E8A221520E874C3A5315C802A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73408"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw De Hoogt aan de Van Weerden Poelmanlaan te Utrecht. Op de voorgrond de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B065B45870C3525BBF628AD794074C84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58602"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekhuis Hoogt 2 te Utrecht, na de restauratie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B23461F6141857498C7D77ADCA9465D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58620"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het aan het binnenterrein gelegen Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3B71802A0D15170A20744C36FEC6FFE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31671"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de Statenkamer aan het Hoogt te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1895-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B4141D3043B058468A5BBDAAA3FF7038"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816594"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het poortje anno 1642 in de voorgevel van het huis Achter Clarenburg 29 te Utrecht.<ZR><ZR>N.B. Het poortje is in 1942, na de sloop van het pand, verplaatst naar het pand Hoogt 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1937-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B423B1307A125A22B255035B4DA74C90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123721"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van het aan het binnenterrein gelegen Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5D93B01D3A75B98882FDBA046B8DBE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Huis 't Hoogt (Hoogt 2) te Utrecht: voorhuis (midden 17e eeuw)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B644E8CF50A85134BAC7AFC9042D5715"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404662"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Koos van Duinen van het (met sluiting bedreigde) Expohuis 't Hoogt (Hoogt 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B77EC148DD3059FFB5082B64DED247E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58605"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekhuis Hoogt 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B80ACBB3CCC35E998C3659F2D3C0EBE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58618"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht: winkel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BAA7D47155375617A00F309E673FA945"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121895"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Eethuis in het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht: restaurant.<ZR><ZR>N.B. Het Eethuis was in het huis Hoogt 8, dat onderdeel uitmaakt van het complex, gevestigd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD015B2BA9D850CFB88B329BB3C9D199"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30168"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen aan de noordzijde van de Hoogt te Utrecht, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BDE667AF95BE59EB9AF0FA7F0DEB1A63"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815773"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het poortje in de achtergevel van de voormalige Statenkamer aan het Hoogt te Utrecht.<ZR><ZR>N.B. Boven de deur het provinciewapen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BF605AEAF2E95B6080AE473C38067685"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119117"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het plantsoen tussen de Peltlaan (achtergrond) en de Bevinlaan te Utrecht. Op de achtergrond het in aanbouw zijnde kantoor- en flatgebouw De Hoogt aan de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C08373E9D38256C8AAA915F4EA2AF14C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22164"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Ziekenhuis Oudenrijn (Van Heuven Goedhartlaan 1) te Utrecht met op de achtergrond het flatgebouw De Hoogt met de woningen Beneluxlaan 2-204. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C10318748E585C6C8CFFB21471371823"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404998"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Pijperlaan te Utrecht, met op de achtergrond het flatgebouw De Hoogt aan de Beneluxlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C44FCBBFCD285207B266EC09481D9246"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115134"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2 (links)- hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4B0A490E5645A16AD2C89D120A31546"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602592"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Jetta van Schijndel-Ernst, programmeur van theater 't Hoogt te Utrecht en lid van het Cultureel Overlegorgaan Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-06-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C54AAC68A25558DABF4952410A2F2010"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73407"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw De Hoogt aan de Van Weerden Poelmanlaan te Utrecht. Op de voorgrond het 24 oktoberplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C586D121F0015944920E6C224554DCDC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819364"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegangsdeur naar een achterom, rechts in de pui van het pand Hoogt 3 te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6A6A09D93725B2DA1C1DA904E495356"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "37818"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Ontwerptekening van de achterpoort van de Statenkamer aan het Hoogt te Utrecht. Opmerking: Anonieme ontwerptekening uit 1640."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1640-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1640-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6BFEAF87B8255B38CBA3EFFDE4D9DD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75871"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoor- en flatgebouw De Hoogt aan de Beneluxlaan te Utrecht, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7626308972A5C168B752A9FAA91E3CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819357"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het Hoogt te Utrecht, vanaf het einde van de straat naar het westen; op de achtergrond de Telingstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7C53B4CFD645408B64AE35F417ED859"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121130"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van Sl\u00f6jdschool van de heer H. van Wijland (Hoogt 12) te Utrecht: handvaardigheidsklas. Opmerking: Van Wijland was van 1900 tot 1926 op dit adres gevestigd. Daarna was er het Zo\u00f6logisch Laboratorium gevestigd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CAF63003E9D75DAB82BFD3D6C94E3185"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818717"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Telingstraat te Utrecht met op de achtergrond het huis Hoogt 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBE41E6CE3995FD1AF8DA08FD39401B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800153"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2 (links)- 4 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC1347BCA31D523B81DCFA9CE3AC03BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84814"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het noordelijk deel van de wijk Kanaleneiland te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-6, van Weerden Poelmanlaan 2-204) uit het noordwesten; links op de voorgrond de Admiraal Helfrichlaan, rechts een gedeelte van de Vollenhovenlaan en op de achtergrond Transwijk en het sportpark Welgelegen Opmerking: Fotonummer 1174-6a"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC647519E11C54D8B2FCB92E6268DDE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58597"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele panden aan de Hoogt te Utrecht met op de voorgrond de Lange Jansstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0F0FB3B1706534CBB73735588625A2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819358"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het met een hek afgesloten poortje naar het pand Hoogt 6 (Museum voor het Kruideniersbedrijf v.h. Betje Boerhave) te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D266009843D05467B06FCFDC4199356E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121880"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 4- hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D476ED45CBBD53B5B5C0429DB6624984"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30169"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel en een gedeelte van de voorgevel van het huis Hoogt 2 te Utrecht uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D5D4CD4E700C5D7297C47CF86831FDEE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75870"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde kantoor- en flatgebouw De Hoogt aan de Beneluxlaan te Utrecht, uit het zuidwesten. Opmerking: 't Sticht fotonummer 6132-25."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D876DF3333EC55C0B6FCAC76F300E160"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58622"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Hoogt 12 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E225210E38295E63A9287420C50F7C15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30245"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lange Jansstraat te Utrecht ter hoogte van de Hoogt in de richting van de Neude, met rechts het pand Lange Jansstraat 22 op de hoek van het Jansveld. Opmerking: In het pand Lange Jansstraat 22 is Kunsthandel Jan Juffermans gevestigd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5D670BF30435A7B918832AEF1F1C38D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel en een gedeelte van de zijgevel van het huis Hoogt 2 te Utrecht vanuit de Telingstraat, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E61E71C0AD9E5B439B031CCCCDF64E0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71271"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en linker zijgevel van het huis Telingstraat 15 te Utrecht. Links het Hoogt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E70CB8BF2A365D4DB25B68E6EE86A383"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125113"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E95492D8512459CD8134FFC2DC621092"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58609"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van een deel van het complex van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht, vanuit de Lange Jansstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E9AE29A58682584EB0A8A8ECC9F5B5F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13576"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis De Hoogt (De Hoogt 6) te Maarn.  <ZR><ZR>N.B. De gemeente Maarn is per 1 januari 2006 opgenomen in de nieuw gevormde gemeente Utrechtse Heuvelrug. Opmerking: Lit. MIP Maarn, p. 121-125."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1937-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA1C819D3CF153EEA4C6EBC3058B8D22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58596"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht, uit het noorden; op de voorgrond de Slachtstraat en Telingstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EBC0F218B0D85DCD89A258A165D65533"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121849"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Hoogt 2 (links)- 14 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE4CD3D72C6752E4AEAA7C493D98B4DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het flatgebouw De Hoogt met de woningen Beneluxlaan 2-204 te Utrecht vanuit het zuiden. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEFEB0863A5B5A91B4F73D1954D395ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125114"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF1F7234CA0E507DB895569943D660C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803316"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het 24 oktoberplein te Utrecht, uit het noordwesten, met het flatgebouw De Hoogt aan de Van Weerden Poelmanlaan. Rechts de Beneluxlaan en het Ziekenhuis Oudenrijn (Van Heuven Goedhartlaan 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF2B7E3C6F635E7AB244CA0CC5EFDA20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de doorgang achter het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F45F9537262C57799D16BF83B972405D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128253"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het aan het binnenterrein gelegen Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F60CB147418A54978A27AABDB3FAC1F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85523"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het 24 oktoberplein en omgeving te Utrecht, uit het westen, met links de Weg der Verenigde Naties en de Pijperlaan (voorgrond) en rechts de Beneluxlaan met het flatgebouw De Hoogt. Geheel links de flatgebouwen aan het Rachmaninoffplantsoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F62AE025570B5FF5A0A150D1CF50F182"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800154"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F697C9A69D655C2A8F42E2E0AF7E970C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58603"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het hoekhuis Hoogt 2 te Utrecht vanuit de Telingstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F72FD483DA3A5880A4A4C4D065D21683"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819363"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Hoogt 3 te Utrecht, met rechts in de pui de toegangsdeur naar een achterom. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB4F51EB380D506D93959644B33CF839"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121847"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het Cultureel Centrum 't Hoogt (Hoogt 4) te Utrecht met rechts het Museum voor het Kruideniersbedrijf Erven Betje Boerhave (Hoogt 6) en de achteringang van de Theaterzaal (geheel rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FDFB53CF76215AB1B0AAB641E4178D87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71263"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Telingstraat te Utrecht, uit het zuiden. In het midden het huis Hoogt 2. Opmerking: Fotonr. 33134."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FEAF950DDE0951B882B2FF946C304B7C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101508"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van het flatgebouw De Hoogt aan de Van Weerden Poelmanlaan te Utrecht door minister ir. W.F. Schut van Volkshuisvesting en Ruimtelijke Ordening. Opmerking: 't Sticht fotonummer 7150/2.."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

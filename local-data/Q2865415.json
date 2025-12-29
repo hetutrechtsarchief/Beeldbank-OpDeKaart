@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AE6DDC3273752A792E1962E986F2015"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156089"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een glasappliqu\u00e9 in een wachtruimte op het perron van de halte Palenstein aan de Zoetermeer Stadslijn te Zoetermeer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

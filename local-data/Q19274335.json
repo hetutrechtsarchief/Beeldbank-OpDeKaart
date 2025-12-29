@@ -1,0 +1,828 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "040491A4E97F52E98B7F77E94136DB95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de huizen nrs. 71-75; geheel links een gedeelte van het huis nr. 77."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0470F23061E65BA79B4361A9FC7058AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "63982"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Antonius Matthaeuslaan 114-hoger te Utrecht met links de ingang van de Jacob van der Borchstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06D574B719CA58FE8FBF66BF50C46856"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820864"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de onderpui van Chinees Afhaalcentrum \"Kam Wah\" (Antonius Matthaeuslaan 112) te Utrecht; rechts de Jacob van der Borchstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Chinese winkels en bedrijven te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "099FA326257F56E28CAC77A893A96882"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de huizen nrs. 61-hoger; geheel rechts een gedeelte van het huis nr. 59."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "155EA23B784C52AF8E26124C0C8E3C29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65968"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Thomas van Nykerckenstraat 2-hoger te Utrecht; rechts van het midden het huis nr. 2, links een gedeelte van de voor- en zijgevel van het hoekhuis Jacob van der Borchstraat nr. 38."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24B1D386D8205217B52523F2E431552C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54229"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de huizen nrs. 74 (links)-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29AA3D1CD386537EABB7C27190A7238B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de huizen nrs. 35-hoger; in het midden het huis nr. 35; rechts de ingang van de Maria van Reedestraat met het hoekhuis nr. 21."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D286E93F5BA50C09D66DA693C930E21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Jacob van der Borchstraat 2-hoger te Utrecht met links op de voorgrond het hoekpand Gerard Noodtstraat 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3610256BA1E357C3837E2979862E14D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54223"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacob van der Borchstraat 75-83 te Utrecht met geheel rechts een gedeelte van het huis nr. 73."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5003AC8D26735C828DE02D790DD3F259"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54216"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht, uit het noorden. Opmerking: Uit: Architectura. Bouwkundig weekblad, 1933, nr. 43."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50CF326A409055F4BA9FEEBF3FD25899"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69320"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Maria van Reedestraat 6 te Utrecht op de hoek met de Jacob van der Borchstraat. Links de Dr. D. Bosschool (openbare basisschool, Maria van Reedestraat 4) en links op de achtergrond enkele huizen aan de B. F. Suermanstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50E4FBF1560652FA883DED3F5DA9DF79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820935"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Antonius Matthaeuslaan 112 (Vegetarisch-Aziatisch Afhaalcentrum \"Soy\") te Utrecht; rechts de Jacob van der Borchstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Chinese winkels en bedrijven te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5EF4689AFFB757C38926A2D1473CBA6B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815361"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Maria van Reedestraat te Utrecht vanuit de Jacob van der Borchstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "608FB469CD5252DF97B1AE18E7B4C5C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "63981"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Antonius Matthaeuslaan 112-lager te Utrecht met rechts de ingang van de Jacob van der Borchstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "687BB49C1C2154A89EF7ECEEB9835488"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19382"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Jacob van der Borchstraat 75 (rechts)-83 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83609B214A4F5728AFD015DE1085E89F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54227"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de huizen nrs. 42 (links)-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "890B70855FAF5EDAB0F569276133208F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54220"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de huizen nrs. 47 (rechts)-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "96C2F45A1F345BB7B983CA826353895C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54228"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de huizen nrs. 58 (links)-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A5C65C874A545FCC9C080C59039D59E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54226"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het huis Jacob van der Borchstraat 40 te Utrecht met rechts de huizen nrs. 42-hoger; links de Thomas van Nykerckenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7E3D84410B354E692379A97A7E34E15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54217"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met geheel rechts een gedeelte van het huis nr. 83 met links daarachter een gedeelte van enkele huizen aan de Adriaen Beyerkade; geheel links de ingang van de Antonius Matthaeuslaan met de voor- en rechterzijgevel van het winkelhoekhuis nr. 85."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B191519A20CF55348440AA4CBF3B660C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54224"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de voorgevels van de huizen nrs. 2-hoger; rechts de huizen nrs. 1-hoger; links de voor- en rechterzijgevel van het hoekhuis Gerard Noodtstraat 45."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC3B1A376E0A539ABD2264B437F39213"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69318"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Maria van Reedestraat 21-lager te Utrecht vanaf de hoek met de Jacob van der Borchstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD666430286E505BB7AE1F57A46FA042"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijgevel van het hoekhuis Jacob van der Borchstraat 86 te Utrecht met geheel links een gedeelte van het huis nr. 84 en geheel rechts de ingang van de Adriaen Beyerkade met de huizen nrs. 23-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C272A24E277B59C6A3B33D8FC74D1457"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820863"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van Chinees Afhaalcentrum \"Kam Wah\" (Antonius Matthaeuslaan 112) te Utrecht; rechts de Jacob van der Borchstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Chinese winkels en bedrijven te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C3464FCBE8D659D586D528D820CC31F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820936"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het hoekpand Antonius Matthaeuslaan 112 (Vegetarisch-Aziatisch Afhaalcentrum \"Soy\") te Utrecht; rechts de Jacob van der Borchstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Chinese winkels en bedrijven te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-04-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1F57A92DE685F778AF1DDCABF7F7158"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54218"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de huizen nrs. 1-hoger; links van het midden het huis nr. 1; rechts de ingang van de Gerard Noodtstraat met de linkerzijgevel van het huis nr. 43."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F233AB241412591EAA60926CAD765A55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "63974"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Antonius Matthaeuslaan 85-hoger te Utrecht met rechts de ingang van de Jacob van der Borchstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAC9B83E18DC538D943AA0B3FD6428EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "63973"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Antonius Matthaeuslaan 83-lager te Utrecht; met links het winkelhoekhuis nr. 83 en geheel links op de voorgrond de ingang van de Jacob van der Borchstraat met de huizen nrs. 71-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FEB454988F525CF58C041A7ABF5F8566"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacob van der Borchstraat te Utrecht met de voorgevels van de huizen nrs. 16-hoger; geheel links een gedeelte van het huis nr. 14 en rechts de huizen nrs. 35-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

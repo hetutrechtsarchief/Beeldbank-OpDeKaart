@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B88C84C1A1C759A8A6204DE596E12B69"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160118"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een paal met een reflecterend plaatje langs de spoorlijn bij het N.S.-station IJmuiden Julianakade te IJmuiden. De paal is de laatste van een reeks, voorafgaande aan het dwergsein (achtergrond) dat de overgang dekt van dubbel- naar enkelspoor richting IJmuiden (VCVL, Vereenvoudigde Centrale Verkeersleiding). Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-08-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-08-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFF8DBC3E5DB5DBC97D02A7215641949"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155807"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station IJmuiden Julianakade te IJmuiden met rechts de kop van een electrisch treinstel plan V (mat. 1964) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-09-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

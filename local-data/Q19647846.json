@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B1225B24C745454AED6B30936E71C8C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834659"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama (180 graden) vanaf de parkeerplaats bij Restaurant De Baai (Leidsche Rijn, Weg naar Parkwijk 5) te Utrecht in oostelijke richting."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

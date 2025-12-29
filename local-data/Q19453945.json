@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F954AF0428F505AAE137D425B016E59"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69065"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Queridostraat te Utrecht met de huizen Queridostraat 1-hoger. Op de voorgrond de kruising met de Jaffastraat en op de achtergrond de huizen aan de Louis Couperusstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2456F219D195FEA9E413A94AE8BD184"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69096"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen Queridostraat 10-12 te Utrecht. Opmerking: Overgebracht uit archieven, 10 mei 1988."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAC4AAD0CEC55438A399A5DDBF1BAC13"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Louis Couperusstraat te Utrecht met de huizen nrs. 31-lager; links op de voorgrond een gedeelte van het kinderdagverblijf Skippy (nr. 35) en rechts op de voorgrond de ingang van de Queridostraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

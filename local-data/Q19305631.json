@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E956E00B77CF5A729E0EE0F630257452"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85711"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Koerheuvelweg te Rhenen, uit het zuidoosten, met links de voormalige watertoren annex hotel De Koerheuvel. Op de achtergrond de Toltoren."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2002-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C169774C94CF5AE39296086CAB1E5CFF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165088"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de N.C.S.-halte Ede Gemeentehuis te Ede. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBBE8B49121156798A4E20CBACD5F11C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160274"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het electrische treinstel nr. 281 (mat. 1946) van de N.S. als trein 1428 (Ede=Wageningen-Amersfoort) bij de voormalige halte Ede Gemeentehuis te Ede (hier in gebruik als wachtpost voor de bediening van een aantal overwegen). Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD601877807F5C2C9788701BCFF9216F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165087"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang nabij de N.C.S.-halte Ede Gemeentehuis te Ede. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1907-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1912-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

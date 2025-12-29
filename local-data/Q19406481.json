@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E0514CA8BBA51AA98CFB798435CE2F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802641"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de sportparken De Meern (links, Burgemeester Middelweerd 100) te De Meern (gemeente Utrecht), Fletiomare Novum (rechts, Alendorperweg 72) te Vleuten (gemeente Utrecht) en De Paperclip (boven, Parkzichtlaan 203) in het stadsdeel Leidsche Rijn te Utrecht, uit het zuidwesten; linksonder het Zwembad Fletiomare (Esdoornlaan 5)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C04501D5CD9858629BA94B4AB3660A18"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124261"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het sportcentrum De Paperclip (Parkzichtlaan 201) te Utrecht; op de voorgrond het hoofdvoetbalveld van de Algemene Sportvereniging UVV. Opmerking: De afbeelding staat op een nieuwjaarskaart van de asv UVV."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEA2930DC47154F2823AFE90977F755E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802642"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de sportparken Fletiomare Novum (links, Alendorperweg 72) te Vleuten (gemeente Utrecht) en De Paperclip (boven, Parkzichtlaan 203) in het stadsdeel Leidsche Rijn te Utrecht, uit het zuidoosten; rechts de wijk Het Zand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7ABA6BC9FABC4E1CE0534701000AE1F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838141"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tot appartementen verbouwde fabriek van de N.V. Draadindustrie \"Neerlandia\", bij de Vlechtdraadhof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7ABA6BC9FABD4E1CE0534701000AE1F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838142"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vlechtdraadhof te Utrecht, met links de tot appartementen verbouwde fabriek van de N.V. Draadindustrie \"Neerlandia\" en rechts nieuwbouwhuizen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "935D1F05C33A50F1BD0EBA1B0DC2B724"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62640"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Loonlaan te Utrecht met een gedeelte van een flatgebouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BEA4E94B22B25EB18AD30B0FDADB4480"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402438"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de R.K. school voor lager onderwijs De Beiaard (Van Loonlaan 46) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D69A16F6273C529CACB7670D3527D40F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de wandschildering, voorstellende de oude plattegrond van de stad Utrecht, in de R.K. school voor lager onderwijs De Beiaard (Van Loonlaan 46) te Utrecht. Opmerking: De school is in 1970 geopend."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

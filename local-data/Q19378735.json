@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73FA2C5E7C575E289441ADD4BD9A853B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828294"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het parkeerterrein bij de Schakelstede te Nieuwegein vanuit het zuidoosten, met op de achtergrond de Noordstedeweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

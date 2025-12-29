@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74181DF75E9FDF01E0534701000AF4A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837331"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij Het Nieuwe Hof (Biesbosserweg 21) te Renswoude."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-04-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "409D3EC3EA3B50E6AB8F3F04DC3CC460"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600659"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Ned. Herv. kerk De Hoeksteen (Buys Ballotlaan 2) te Soesterberg (gemeente Soest)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5E72ABAA0B95E908A2DD6303863896E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16649"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-hervormde kerk De Hoeksteen (Buys Ballotlaan 2) te Soesterberg (gemeente Soest)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

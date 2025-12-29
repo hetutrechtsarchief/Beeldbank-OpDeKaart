@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A6E03968695575C96F11D4CD94E1DAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15400"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kerkstraat met bebouwing en beplanting te Woudenberg uit het zuiden; met op de achtergrond de toren van de Nederlands-hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6476F28629E35DEABC30EC257E5BB163"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15401"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kerkstraat met bebouwing en beplanting te Woudenberg uit het zuiden; met in het midden een groepje personen en op de achtergrond de toren van de Nederlands-hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

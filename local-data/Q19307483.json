@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E9FDFB32B695BDEA786CADA5D522B99"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12172"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Koningstraat te Rhenen, uit het zuiden, met rechts de U.L.O.-school."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D6B04A71E27584ABF7E9D32111232C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6173"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gasthuiskapel op de hoek van de Koningstraat en de Gasthuisstraat te Rhenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6050B139A6C597B967073FE62DF4D70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6172"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Gasthuiskapel op de hoek van de Koningstraat en de Gasthuisstraat te Rhenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1909-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

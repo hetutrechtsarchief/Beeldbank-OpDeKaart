@@ -1,0 +1,744 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78FFAEFEB15854F2AD5FDCE2967013A6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56220"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Drakenburgstraat te Utrecht, uit het oosten met de achtergevel van het huis Drakenburch en de voorgevel van het huis Oudaen (Oudegracht 99)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E1C903B3EA80559696E84CACCBA586AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66682"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Drakenburg (Oudegracht 114) te Utrecht met links de ingang van de Drakenburgstraat en rechts de voorgevel van het huis Oudegracht 116."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F22D49DC8BD65944A81A9FA6A9256AC0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Drakenburgstraat te Utrecht met rechts een gedeelte van de zijgevel van het hoofdpostkantoor (Neude 11) en links een gedeelte van de Neudeflat met in het midden op de achtergrond het huis Oudaen (Oudegracht 99)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0106CD317B955837BA910722AC576212"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603567"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een bouwkeet in de Drakenburgstraat te Utrecht, tijdens de bouw van de Neudeflat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "070344B9CC015C63A5E4063CD34E6C4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56223"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Drakenburgstraat 1-3 te Utrecht met links het huis nr. 3; uiterst rechts de ingang van de Oudegracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0716FD0511F35C96AEDE29826639BA14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "97531"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een postbode op klompen in de Drakenburgstraat te Utrecht; op de achtergrond de Neude."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07E60AAAE3D65B708589595AA53D41BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214102"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van de bouwvlak van het nieuwe post-, telegraaf- en telefoonkantoor, gelegen tussen de Oudegracht/Potterstraat/Neude/Drakenburgstraat te Utrecht. Opmerking: Het nieuwe post-, telegraaf- en telefoonkantoor werd gebouwd tussen 1919 en 1925."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FC9DBEC18B35C289A26E586481E48B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44100"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde warenhuis van de Galeries Modernes (Lange Viestraat 2 - 10) te Utrecht, vanuit de Drakenburgstraat. Opmerking: In 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51193FA5B5D65C1FA1F06D8E58BD95FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800368"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Drakenburgstraat te Utrecht, met links de achtergevel van het huis Drakenburg (Oudegracht 114) en op de achtergrond het huis Oudaen (Oudegracht 99)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B66C6D6DE29535A9884EBA455AA1AFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72069"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Vinkenburgstraat 22 (links) -28 te Utrecht met rechts de Drakenburgsteeg.<ZR><ZR>N.B. De straatnaam Drakenburgsteeg is in 1950 gewijzigd in Drakenburgstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BB7EB6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40412"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de winkelwoonhuizen Oudegracht 114 (links, chinees-indisch caf\u00e9-restaurant Drakenburch)-hoger te Utrecht; links de Drakenburgstraat. Opmerking: Afdruk van origineel negatief, 1979"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86BA9E8A8C6F910FE0534701000A1AED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406631"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Neudeflat (Vinkenburgstraat 26) te Utrecht, met rechts de Drakenburgstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B542C669F9E5AE786A7CD89D3CA7354"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833423"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het winkelcentrum De Planeet op de hoek van de Oudegracht en de Lange Viestraat te Utrecht, vanaf de werf aan de oostzijde van de Oudegracht ter hoogte van de Drakenburgstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "935E5872D2ED58509FA55CDE91320E1D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402714"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van worstverkoopster Greetje Muilwijk bij haar tot worstenkraam verbouwde caravan op de Oudegracht te Utrecht, op de hoek met de Drakenburgstraat. Opmerking: Zie ook Utrechts Nieuwsblad, 26 juni 1981: \"Worstverkoopster heeft een nieuwe standplaats, maar mag ze er blijven?\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E562E4E7D795E1FBCF727679F2F02BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818674"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Drakenburgsteeg te Utrecht uit het westen.<ZR><ZR>N.B. De naam Drakenburgsteeg in is 1950 gewijzigd in Drakenburgstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1916-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1916-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7ECA05B6B96569C8098FF70FBDCE622"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30690"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Drakenburgsteeg te Utrecht uit het westen.<ZR><ZR>N.B. De naam Drakenburgsteeg in is 1950 gewijzigd in Drakenburgstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C919F14AE3C3585EAB3BE5B5063BE4F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "39981"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van de bebouwing tussen de Neude en de Oudegracht ten zuiden van de Drakenburgstraat te Utrecht, de locatie voor een daar te bouwen korenbeurs. Opmerking: Ingekleurde pentekening uit ca. 1855. Deze hoort bij nr. 39980."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1850-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1860-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD4B86B52DAC56E89E7C5AF2FAB7C0C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "39980"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van de bebouwing tussen de Neude en de Oudegracht aan de noordzijde van de Drakenburgstraat te Utrecht, de locatie voor een daar te bouwen korenbeurs. Opmerking: Ingekleurde pentekening uit ca. 1855. Deze hoort bij nr. 39981."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1850-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1860-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D956517E87F95D3A85B6F75A0D676AF8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "72039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vinkenburgstraat te Utrecht; vanaf de Neude uit het noordoosten met rechts de Drakenburgstraat. Opmerking: Gepubliceerd in: Jaarboek Oud-Utrecht, Bibl. GAU VV 90 (1988) (blz. 145) zie ook: DOW 138-F (foto vanuit hetzelfde standpunt)"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2B9D20E8BF85F36A8ACF4FB465B0C49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401060"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de panden Vinkenburgstraat 22 (links) -28 te Utrecht, kort voor de sloop in verband met de geplande bouw van de Neudeflat, met rechts de Drakenburgstraat. Opmerking: Zie ook cat. nr. 500039."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2CE21F45206585FB4E022AB582C7A81"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810547"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Diaconie Oude Mannen- en Vrouwenhuis (Huize Oudaen, Oudegracht 99) te Utrecht, vanuit de Drakenburgstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA59A73D52785927857BE976F8438A65"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Drakenburgstraat te Utrecht, uit het oosten met op de achtergrond een gedeelte van het huis Oudaen (Oudegracht 99)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EACB4FAA53C45A4999E3103A6688EB31"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52649"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vinkenburgstraat te Utrecht met de huizen nrs. 28-lager en de rechter zijgevel van het hoekhuis nr. 28; rechts op de voorgrond de Drakenburgstraat. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED80EEE2909E54D2A8997DADA3F7BA77"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vinkenburgstraat te Utrecht, vanaf de Neude, tijdens de sloop van de huizen Vinkenburgstraat 22 - 26 (midden, in verband met de bouw van de Neudeflat), met rechts verfhandel De Verfpot (Vinkenburgstraat 28) op de hoek met de Drakenburgstraat Opmerking: Zie ook cat. nr. 401060."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE67815F5C295CA3988D9D1B477F6D06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Drakenburgsteeg te Utrecht, uit het oosten.<ZR><ZR>N.B. De straatnaam Drakenburgsteeg is in 1950 gewijzigd in Drakenburgstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1929-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3DD20A4C0195CB191C595D3C97E3E08"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810936"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Neudeflat op de hoek van de Vinkenburgstraat (links) en de Drakenburgstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

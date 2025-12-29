@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8A85CB0D20295B63A2555BE7402D8C9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156239"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Heeze te Heeze. Opmerking: De foto is gepubliceerd in De Koppeling nr. 603 (2 juli 1976), p. 3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A4F58260C23B505F920EB8811C447B54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155824"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Heeze te Heeze."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

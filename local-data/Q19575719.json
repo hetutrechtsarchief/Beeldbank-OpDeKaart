@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "528B3495E6875FBE85AE99995C05A426"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een in de berm weggezakte auto ter hoogte van de boerderij Nieuwe Bureveld (Universiteitsweg 1) te De Bilt. Opmerking: De foto is gemaakt in opdracht van Veilig Verkeer Nederland."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

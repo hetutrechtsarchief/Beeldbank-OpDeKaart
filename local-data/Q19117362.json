@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6581C95B78AF50FA871888298DF6A757"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7858"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver in het Wilhelminapark te Baarn uit het oosten, met links het huis Welgelegen (Emmalaan 7)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "88DF890AD457514D8B88C9ED06428207"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8012"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Emmalaan (?) te Baarn uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "974E3038892A50B19C94E623633CFA78"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14237"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Wilhelminavijver met fontein (Emmalaan z.n.) te Baarn. Opmerking: Lit. MIP Baarn, p. 266-267."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C15AFCC79BDA5AB3BAB94DD68F2BB16C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7857"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de vijver in het Wilhelminapark te Baarn uit het oosten, met links het huis Welgelegen (Emmalaan 7)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

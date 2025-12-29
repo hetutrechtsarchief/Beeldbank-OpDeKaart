@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "852CD23428E85F48AB2A03697725CCDF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50874"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een boerderij aan de Hazekade en een gedeelte van de Meijepolder te Zegveld uit het noordwesten.<ZR><ZR>N.B. De gemeente Zegveld is per 1 januari 1989 bij de gemeente Woerden gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

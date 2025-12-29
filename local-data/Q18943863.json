@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A0033BB0763FCEBE0534701000A6B73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835144"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een boerderij aan de Bartolottilaan te Soest. Opmerking: Vermoedelijk is dit het pand nr. 7A en is het later gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A7814FFA496571AE0534701000A6336"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835183"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van enkele huizen aan de Bartolottilaan te Soest; rechts het landhuis Birkstraat 106."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

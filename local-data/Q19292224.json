@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F51DED096CA5E5CA0423F6F389B805D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12165"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kastanjelaan te Rhenen, vanaf de Grebbeweg, met links een gedeelte van het caf\u00e9 't Viaduct (Grebbeweg 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A680222581355ED2B226A811E3E12ECF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12164"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kastanjelaan te Rhenen, vanaf de Grebbeweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

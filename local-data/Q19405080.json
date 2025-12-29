@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "03BC103B479157469D83E65A7ACB16CB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9026"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paltzerweg te Den Dolder uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29867875A5935CF2B237282CBC34DA7F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9055"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechter- en achterzijde van het landhuis De Burght (Paltzerweg 152) te Den Dolder, in gebruik bij het Luthers Buiten Centrum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1A10519503357BD8EB2F667C983F722"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9027"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Paltzerweg te Den Dolder uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

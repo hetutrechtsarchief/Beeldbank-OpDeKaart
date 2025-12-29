@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7999909FC8420182E0534701000ABD21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837827"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de spoorlijn tussen Duivendrecht en Amsterdam Holendrecht, met de situatie na de bouw van de \"Utrechtboog\". Links van het midden het toekomstige N.S.-station Amsterdam Bijlmer ArenA en het stadion Amsterdam ArenA. Opmerking: De tekening (ca. 1 x 5 meter, pen op calquepapier) is gemaakt ten behoeve van een artist's impression voor de spoorverdubbeling Amsterdam-Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7999909FC8440182E0534701000ABD21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837828"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de spoorlijn tussen Duivendrecht en Amsterdam Holendrecht, met de situatie na de bouw van de \"Utrechtboog\". Links van het midden het toekomstige N.S.-station Amsterdam Bijlmer ArenA en het stadion Amsterdam ArenA. Opmerking: De schets (ca. 1 x 5 meter, potlood op calquepapier) is gemaakt ten behoeve van een artist's impression voor de spoorverdubbeling Amsterdam-Utrecht (zie cat. nr. 837827)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "248E777F9D15532095048994B9CC9859"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807548"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele reizigers tijdens het instappen in een electrisch treinstel plan T (mat. 1964) van de N.S. op het perron van het N.S.-station Heiloo te Heiloo. Opmerking: De foto bevindt zich in het archief van de Dienst van Materieel en Werkplaatsen van de N.S. (toegangsnummer 955, inv. nr. 830).<ZR>NS fotonummer 18579"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "105826EC9D9F58B3A93A6145BDE49064"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158520"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het tijdens de oorlog vernielde emplacement van het N.S.-station Goor te Goor. Links op de achtergrond de uitgebrande goederenloods."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "144EED20C40457D2BB4EB4B4146D2845"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165670"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Goor te Goor: plaatskaartenkantoor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DF20A30F8505F079E3BBACE245F75AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158521"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog vernielde emplacement van het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "316B507C87AA51C8853F81C36A094C79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160092"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de wisselsteller met vertragingsmechaniek voor een wissel op grote afstand op het perron van het N.S.-station Goor te Goor. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "362B0B566B7053008136A536857DDC91"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158515"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het tijdens de oorlog beschadigde N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4177A366C8925F7592BE4F58757E40E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812113"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.H.-station Goor te Goor (spoorlijn Neede-Hellendoorn).<ZR><ZR>N.B. De naam van het station is later gewijzigd in Goor West. Opmerking: De afbeelding is afkomstig uit \"Voor Allen der H.IJ.S.M\", 1910, blz. 58.<ZR>Collectie De Pater, bibl. HUA De Pater DK52."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "429DCD4C701B5B21BFBB609D85037096"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158507"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tijdens de oorlog vernielde goederenloods bij het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46E15C6120B250F68EF9EF4FD4ABE994"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158511"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de tijdens de oorlog vernielde goederenloods bij het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "475EAA9C03155D5B99ED15650C6C9A5A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156502"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een merelnest op het kloksein van het N.S.-station Goor te Goor. Opmerking: De foto is gepubliceerd in De Koppeling nr. 1022a (23 mei 1986), p. 1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4830F879EA1C5AEE8AC46E35B6FCBC0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158517"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een gedeelte van de vernielde trein met V2-projectielen op het emplacement van het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55D30D593BC15830AF574B5C77D1FDA8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158509"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de tijdens de oorlog vernielde goederenloods bij het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5AB6D97D2E395B929D92AB1B6FD89034"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158512"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de tijdens de oorlog vernielde goederenloods bij het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D7CA8F6D81052C9B9DCAD06F46AF6E3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153096"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D83A142E8F852F78D47AA8749904D7F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156010"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Goor te Goor met rechts op de voorgrond een medaillon met de beeltenis van H.K.H. Wilhelmina op een hekwerk rond een boom."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "63F05A21F0995D538A66AB18AE901B4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158523"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog vernielde emplacement (westzijde) van het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6885CAFFE38853F2B18F8A9DB6DBB766"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158516"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een gedeelte van de vernielde trein met V2-projectielen op het emplacement van het N.S.-station Goor te Goor. Links het houten rijtuig nr. C 4638 van de N.S. en op de achtergrond het stationsgebouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75A1FF6B92C15C5486BA69AB398C9733"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150317"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Goor te Goor. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "88414273DDF1508F98FE9FCA6C0D2D4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160093"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de wisselsteller met vertragingsmechaniek voor een wissel op grote afstand op het perron van het N.S.-station Goor te Goor. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CCE6CEF88BE5B0496B4DD2D9E358317"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158514"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog vernielde emplacement van het N.S.-station Goor te Goor. Links een deel van de uitgebrande goederenloods, op de achtergrond het stationsgebouw en rechts een vernielde trein met V2-projectielen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "941D91967B025A4391130B22BC803AC8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160094"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het kloksein aan de gevel van het N.S.-station Goor te Goor voor het aankondigen van treinen uit de richting Delden . Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9CA11A6CEEB508A848A2E4C8541DA7D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "159692"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de handelinrichting voor de bediening van wissels en seinen op het perron van het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ABF4EBEE416757AE9709DADD4921A770"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158510"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tijdens de oorlog vernielde goederenloods bij het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B29D24F0A0315988A0BA7165042DCC95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het tijdens de oorlog beschadigde N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE4554CD66155C54BB76A0C1F82C5597"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158506"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tijdens de oorlog vernielde goederenloods bij het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB7AC5D313805318B667CDEB87E9DD24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160162"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het inrijsein van het N.S.-station Goor te Goor (zijde Delden) met plaatselijke snelheidsborden. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E04CC40FBF19513DB536BD5F32EA8EEB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158513"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de tijdens de oorlog vernielde goederenloods bij het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF3E8B7FB5BA5B25B57895BA70B651AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158508"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tijdens de oorlog vernielde goederenloods bij het N.S.-station Goor te Goor. Rechts op de achtergrond het stationsgebouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0EC9123B2045D86BF889AD488092CC3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158522"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tijdens de oorlog vernielde emplacement van het N.S.-station Goor te Goor."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9886B97BE755A0C82CBDA45D16727AA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158519"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tijdens de oorlog beschadigde sporen en perrons van het N.S.-station Goor te Goor. Links de restanten van de watertoren."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE9A87CA6C8F5F06972090EAA520E76A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161592"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het voormalige N.H.-station Goor West te Goor (spoorlijn Neede-Hellendoorn). Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-08-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-08-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

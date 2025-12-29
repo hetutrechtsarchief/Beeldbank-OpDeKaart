@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A4B5C8FA2AA593ABC082CF89361D9CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9543"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het caf\u00e9 Flora aan de Oude Rijksstraatweg 14 te Doorn uit het westen, met twee passerende stoomtrams."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8EC72B02640C53FD973C8DE633B10A27"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9200"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oude Rijksstraatweg te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

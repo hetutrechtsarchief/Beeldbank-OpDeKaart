@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "641FE243F93859CC860C4B43ECCC11CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "29318"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en zijgevel van het huis ''Het Slot',  vanaf  de Eendrachtstraat / hoek Langstraat te Bunnik. Opmerking: Deze boerderij is ook afgebeeld op de nrs. 29317, 206637 en 404325."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-04-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-04-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFE4DF0EFD7455E3AC2F6BD2E0C5772A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "202471"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het huis ' 't Slot', gelegen tussen de Eendrachtstraat, de Langstraat en de Kromme Rijnstraat te Bunnik. Opmerking: Op de andere zijde staat een potloodtekening van J. de Kruijf: nr. 202472."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

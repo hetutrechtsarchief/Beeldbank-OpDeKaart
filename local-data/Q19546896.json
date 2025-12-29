@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "03C0C6EA26405106B9D8916BFED15BCD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein te Roermond, met rechts op de achtergrond het N.S.-station Roermond. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46FD2094BDED5256BC9865ADB2262CC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164969"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein te Roermond, met links het Hotel de la Station en rechts het S.S.-station Roermond. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "535B6D9FBA905A05ACBD797A1BFBF7D9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164971"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein te Roermond, met op de achtergrond het S.S.-station Roermond. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEA65C7551BE5566B43D20A6F65ED48E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164970"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein te Roermond, met op de achtergrond het S.S.-station Roermond. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1903-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1907-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

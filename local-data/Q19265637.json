@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "05DB0354876F59189FAE29F8C5194821"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402430"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het in aanbouw zijde wijkje rond de Joannes J.F. Waplaan en de Reinder Blijstralaan te Utrecht, vanaf een studentenflat aan de Van Lieflandlaan, uit het westen, met op de voorgrond het gebouw van de voormalige Ned. Herv. Gemeenteschool Jhr. Mr. A.R. Falck (Van Lieflandlaan 3). Op de achtergrond de Mr. Tripkade en de wijk Tuindorp. Opmerking: Zie ook Utrechts Nieuwsblad, 6 februari 1987: \"Nieuw woonbuurtje in wijk Tuindorp\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-02-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-02-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

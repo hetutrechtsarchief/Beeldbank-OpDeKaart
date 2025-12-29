@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FCEC23F4C2D5527A7FD65929BAA0377"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de (toekomstige) Neckardreef en de St.-Anthoniedijk te Utrecht, vanaf de watertoren, uit het zuiden, met links de in aanbouw zijnde huizen rond de Hogenhorstdreef. Opmerking: Deze afbeelding is gepubliceerd in het Utrechts Nieuwsblad van 29 februari 1964."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2C64DB6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127325"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de parade van het muziekkorps St.-Caecilia op de Hogenhorstdreef te Utrecht, ter gelegenheid van Koninginnedag, gezien vanaf de Neckardreef. Opmerking: Zie ook Utrechtsch nieuwsblad, zaterdag 1 mei 1965, blz. 4: \"Terugblik op een feestelijke dag\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

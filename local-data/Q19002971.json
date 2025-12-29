@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A43E72C3D7E5434B745A7BB1CCAC832"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21559"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Dampkring te De Meern (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F01EF0BBB8E5265805372ED1BE9E51B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21579"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele huizen aan de Dampkring te De Meern (gemeente Utrecht); op de achtergrond de appartementsgebouwen aan de Windstilte."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FA5FD7E9B1422B7E0534701000A981F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838745"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Dampkring en de Evenaar in herfstsfeer (rechts) in de wijk 't Weer te De Meern (gemeente Utrecht), vanaf de Oosterlengte."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

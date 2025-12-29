@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AD1B3D7DB935188A8167AC8799A138B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814779"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Incadreef te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E6A5CE66AC15D6F9CF95B990FBDD44A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814780"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Incadreef te Utrecht, uit het zuidwesten, met op de achtergrond het flatgebouw aan de Selvasdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8E940F6CA3A5F45A5892405CC5FBE5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117567"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Mayadreef te Utrecht, vanaf de hoek met de Incadreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6773D3DE306E594DBD68A2D7185399D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85604"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van het industrieterrein Lage Weide te Utrecht, uit het zuiden, met op de voorgrond de A2. Links de Hyperonenweg en rechts het distributiecentrum van het warenhuis HEMA (Atoomweg 60). Op de achtergrond de Atoomweg en het Uraniumkanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3E2794E89B25EEAABB0F5C1B1459168"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "76240"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Centraal Magazijn en de expeditie van het warenhuis Vroom & Dreesmann (V&D) aan de Hyperonenweg te Utrecht. Opmerking: Fotonummer 8021-7"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-08-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-08-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

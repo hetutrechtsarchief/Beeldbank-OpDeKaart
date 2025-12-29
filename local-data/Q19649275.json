@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9FB329E416B55126981B9147782EDCC5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94421"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de boerderij De Beug (Werkhovenseweg 1) te Odijk.  <ZR><ZR>N.B. De gemeente Odijk is per 1 september 1964 bij de gemeente Bunnik gevoegd. Opmerking: In circa 1975 vervaardigde reproduktie van een in ca 1960  gemaakte foto. <ZR>Lit. MIP Bunnik, p. 251-253."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

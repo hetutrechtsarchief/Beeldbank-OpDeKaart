@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02C1319E3A165AB794BD6E96E06E601A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816042"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van het huis Bartolomeo Diazlaan 70 te Utrecht, vanaf de Livingstonelaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A4A8CA6777E550DB02D5F802F19A4B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84811"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de wijk Kanaleneiland te Utrecht, in de sneeuw, vanaf de 10e verdieping van een flat in de Livingstonelaan (voorgrond), uit het noordoosten; in het midden de Bartolomeo Diazlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17B744032B6252098611CEBD92619D41"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816043"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de hoek van de Bartolomeo Diazlaan en de Livingstonelaan (voorgrond) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D45F10040C25F69AA720A2AD816D732"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807474"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Bartolomeo Diazlaan te Utrecht, uit het noordoosten, met bloeiende bomen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

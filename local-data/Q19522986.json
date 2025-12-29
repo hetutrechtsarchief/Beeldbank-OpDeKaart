@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BE52DA387825540A46CF55F9F8CD21B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "4600"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Niftarlakeplantsoen te Utrecht met van links naar rechts de flatgebouwen aan de Prinses Irenelaan, Cromwijcklaan en de Soetendaallaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4CF0A2BEB0FD5A6CA1B68C0FBA98CCDF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19698"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het flatgebouw met de woningen Soetendaallaan 2-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD7C7296E0C850EEBA544C66816AEA5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19699"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het flatgebouw met de woningen Soetendaallaan 1-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F72E25F69F0B5E6F8ECDFE3172AE9064"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65576"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Niftarlakeplantsoen 15-lager te Utrecht; rechts daarvan het flatgebouw met de woningen aan de Cromwijcklaan en het flatgebouw aan de Soetendaallaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

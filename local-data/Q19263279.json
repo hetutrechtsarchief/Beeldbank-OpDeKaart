@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17282C0E4D9250348B204A8FD1C0F3DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24437"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het woningencomplex aan de Houtrakgracht te Utrecht gezien vanaf de Groenedijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "26777B1B1E4551B29C4D9F37EC09A8B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802424"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Langerak in het stadsdeel Leidsche Rijn te Utrecht, uit het zuidwesten; op de voorgrond de Oudenrijnseweg, links de Langerakbaan, linksboven het Winkelcentrum Parkwijk (Verlengde Houtrakgracht) en op de voorgrond de wijk De Woerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "896E6DA4165457F09A675E8FCD88E4AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Langerak in het stadsdeel Leidsche Rijn te Utrecht, uit het noordwesten; op de voorgrond de Kreekraklaan, in het midden de Slingeraklaan en links de Houtrakgracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

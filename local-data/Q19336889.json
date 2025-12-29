@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A671A7A6D5C95F3698B8B20DC1DA44BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832981"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Oudheidskamer De Hondsrug op het Marktplein te Emmen (Dr.). Opmerking: NS fotonummer 8249"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9599500F8736509EBFB2E9CC89883098"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11887"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de duiventoren bij het huis Klein Remmerstein (\"Pension Remmerstein\") aan de Geertesteeg te Rhenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC4EA11A9C185A25A1E5702673F8F2EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Klein Remmerstein (\"Pension Remmerstein\") aan de Geertesteeg te Rhenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

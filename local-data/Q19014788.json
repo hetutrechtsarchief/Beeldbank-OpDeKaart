@@ -1,0 +1,5000 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0047F3990D0A566AA32E3D132D3E7331"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92940"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel van het huis Dorpsstraat 2 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06C04C2FF1DA5D4BBEDA27D033A694C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93034"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 55-59 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 159-160."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09F160CE85775FE5AADFBD9EA36EA249"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93036"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 55 (ged.)-57 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 159-160."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0AECADF87BCF5DDFA7DFF32AED0FE645"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92953"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de herenhuizen Duivenveght  (Dorpsstraat 12) en nr.14 (ged.) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 136-137."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1064E66742515A9A8BE7A28B16964AFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93298"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands Hervormde Sint  Ludgeruskerk (Dorpsstraat 49/Torenstraat 4) te Loenen (gemeente Loenen aan de Vecht): de kerkzaal met orgel, preekstoel en banken. Opmerking: Lit. MIP Loenen, p. 152-158."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10CD1FBC578E56F5A183217550FD34C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93052"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de theekoepel aan het Moleneind in de tuin van het landhuis Beek en Hoff (Dorpsstraat 81) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 182-183."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1107AEC8E07559BD871BAE25514FB87C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92963"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de herenhuis Soeterust (Dorpsstraat 26) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 141-143."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "12E64055CF505AB5B395604D1E83ED47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93024"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het pand Dorpsstraat 9 (bankgebouw) te Loenen (gemeente Loenen aan de Vecht); met op de voorgrond enkele auto's."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1468434FCEE95C63BD32CCD55B056320"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Dorpsstraat 82 (voormalig pakhuis De Hoop) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 178-179."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14DA5E288D4C5CB285C1C2214C39B93D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de korenmolen De Hoop met bijbehorende ketel- en machinegebouwtjes en schoorsteen (Dorpsstraat 106) te Loenen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "170345E839AB55F49DBFF5EAE081B8C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93297"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands Hervormde Sint Ludgeruskerk (Dorpsstraat 49/Torenstraat 4) te Loenen (gemeente Loenen aan de Vecht): een deel van het zuidertransept en preekstoel en orgel. Opmerking: Lit. MIP Loenen, p. 152-158."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "170A0D2B06105027B8AFD287617B366E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93020"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 110-108 te Loenen (gemeente Loenen aan de Vecht);  met op de achtergrond de romp van de stellingkorenmolen De Hoop (Dorpsstraat 106) te Loenen. Opmerking: Lit. M.I.P. Loenen, p. 187-190."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17EFB98EF70057BAA647EB8641355B5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92985"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de arbeiderswoningen Dorpsstraat 56-60 (Vischmarkt) te Loenen (gemeente Loenen aan de Vecht) uit het noordwesten. Opmerking: Lit. M.I.P. Loenen, p. 160-162."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17FC23C90FC550A2B3E9879E95484A18"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93295"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands Hervormde Sint  Ludgeruskerk (Dorpsstraat 49/Torenstraat 4) te Loenen (gemeente Loenen aan de Vecht): de kerkzaal  met zuidertransept met banken en orgel. Opmerking: Lit. MIP Loenen, p. 152-158."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "218AB5F4CB305584B47BBDD11C418A06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92946"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Sonderveght (Dorpsstraat 8)-4 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 133-134 (Dorpsstraat 8)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24EB71F3188052428B7F80E7A5B91B30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92948"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 8 (Sonderveght) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 133-134."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25FEA7FA726F53E390EAB47597208924"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127711"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf de Vecht op de St.-Ludgeruskerk (Dorpsstraat 49) te Loenen, uit het zuiden, met rechts de theekoepel behorende bij het huis Vegtlust (Oud Over 3). Opmerking: In 2007 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29D82EAFA8B756198E3E4DFED91087CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92974"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 36 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 144-145."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2AF1F1086FF3541996A2A13E4D3F0A81"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93040"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Welgelegen (Dorpsstraat 61) te Loenen (gemeente Loenen aan de Vecht); met op de voorgrond de overtuin. Opmerking: Lit. M.I.P. Loenen, p. 162-163."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B0F18610C0E59718A28A91A0C577ADD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "200655"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat te Loenen met rechts het geboortehuis van de tekenaar (Dorpsstraat 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1835-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1845-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B7FAD0788465676AEF90994A644BC76"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93002"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 70-74 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 175-176."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2BCD42B90EE75A16BE3C9AB60DC7DEAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92951"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Soeteveght (Dorpsstraat 10) te Loenen (gemeente Loenen aan de Vecht); met op de voorgrond enkele geparkeerde auto's. Opmerking: Lit. MIP Loenen, p. 134-135."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D36A631A79156F1B1C3F716503DC4F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92983"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 52 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F9850B1211A5CA48A576585DDA3DC4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11502"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing in de sneeuw te Loenen uit het zuiden; met links de N.H. kerk (Dorpsstraat 49/Torenstraat 4) en rechts de voorgevels van de huizen Dorpsstraat 62-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3093E44EDA3F59E499D43C846416C267"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92894"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de achtergevels van de panden aan de Dorpsstraat te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten; met op de achtergrond de Nederlands Hervormde Ludgeruskerk. Opmerking: Lit. MIP Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1895-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30C22C0FA80852AFB822824B775EFA97"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93028"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het huis Dorpsstraat 47/hoek Brugstraat/Torenstraat te Loenen (gemeente Loenen aan de Vecht); een politie-agent bedient een pseudo-verkeerslicht in verband met een verkeersexamen. Opmerking: Lit. M.I.P. Loenen, p. 149-151."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30CAFBE293EF579CA66A35FFB0BC562F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93054"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tuinbank aan de Vecht in de overtuin van het landhuis Beek en Hoff (Dorpsstraat 81) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30FB4FFAF2545507A2A95070D743FFF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92960"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 24 (De gekroonde A) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 140-141."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32315EC1CAEF57A48F0017526574B9B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de achtergevels van enkele  huizen aan de Dorpsstraat te Loenen; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3475C27DABA657928A2538D952AEF1ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92958"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het zuidwesten; met links de voorgevels van de huizen nrs. 22 (ged.)-30. Opmerking: Lit. M.I.P. Loenen, p. 139-144."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3774B09A84825B609DE716AEEBFDB408"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602075"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de molen De Hoop (Dorpsstraat 106) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "39984335AF1757BD95831342B672506E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92975"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van het winkelpand Dorpsstraat 38 (slagerij) en van het huis nr. 36 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 144-145 (Dorpsstraat 36)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3BF8268383675F2FBE996C745738A61D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93044"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Leeuwendijk (Dorpsstraat 69) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 171-173."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C0C740D57605D3A8BA61F8AC5A235C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93022"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 110 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 189-190."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C70922761B95EDB98D713D9B3B90147"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11485"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het zuiden; met rechs de voorgevels van de huizen nrs. 16-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D7DA469FF765D7AA1ECFB2B7114D245"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92995"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 64-68 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 168-171."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E389DCAE18957BFB2D5F969655CD06D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92997"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 68  te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 170-171.<ZR>Van 1852-1857 was het huis bewoond door de schrijver Jacobus Jan Cremer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F2AF55E1A4F5E9487F567AF0B6B9ADF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93055"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de overtuin aan de Vecht van het landhuis Beek en Hoff (Dorpsstraat 81) te Loenen (gemeente Loenen aan de Vecht); met in het midden de voor- en rechtergevel van het speelhuisje. Opmerking: Lit. M.I.P. Loenen, p. 183-184."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F77480044C358B2BE5532CE8D9D47C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht te Loenen (gemeente Loenen aan de Vecht), met op de achtergrond de molen De Hoop (Dorpsstraat 106). Opmerking: Fotonummer V 10683<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4495B6C2BA2C583683ACDB19CCE762F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92942"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de schuren op het erf van het huis Dorpsstraat 2 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44A4C22A746F5E78B10CF980DF07A1F4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92930"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de linkergevel van het huis Dorpsstraat 60 (Vischsteeg) en de theekoepel bij nr. 62 te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten; met op de achtergrond de toren van de Nederlands Hervormde Ludgeruskerk. Opmerking: Lit. MIP Loenen, p. 160-162 (Dorpsstraat 60), p. 166-167 (theekoepel bij nr. 62)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "454C9623D29B5A8094272A3A68D2284A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93000"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de gedenksteen voor de schrijver Jacobus Jan Cremer in de voorgevel van het huis Dorpsstraat 68 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 170-171.<ZR>Van 1852-1857 was het huis bewoond door de schrijver Jacobus Jan Cremer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "47B02F6F7F575496AB1EDE4E5A25B757"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93017"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van een schuur en het koetshuis (Dorpsstraat 102) van het landhuis Beek en Hoff te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 186-187."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "49364E480E715FBA8D69387BAD3573B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93050"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het linkergedeelte van de achtergevel van het landhuis Beek en Hoff (Dorpsstraat 81) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 179-182."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4DBD9ECFF3685C2293BF1CF30D28A1B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11490"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het zuiden; met rechts de voorgevels van de huizen nrs. 26-28."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F6F45288FC452D2916D312C10050C4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93001"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het zuidwesten; met links de rechtergevel van het restaurant Tante Koosje (Kerkstraat 1). Opmerking: Lit. M.I.P. Loenen, p. 238-239."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F883B4FFD665AEDA232B5BA4994FA69"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92988"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de theekoepel in de tuin van het huis Dorpsstraat 62 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 166."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4FE0582F24965147AC8B5DA93317292D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11493"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het noorden; met op de voorgrond een groep kinderen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "504FA050FE435952B7BBB7DE2C5E2B8E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93018"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat te Loenen (gemeente Loenen aan de Vecht) uit het zuidwesten; met op de achtergrond de stellingkorenmolen De Hoop (Dorpsstraat 106). Opmerking: Lit. M.I.P. Loenen, p. 187-189."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "508DCB955E1157E2BAD0AF06072BD3C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11484"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing in de sneeuw te Loenen uit het zuiden; met rechs de voorgevels van de huizen nrs. 16-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5125640B3B2159FA98AB2EC5C3193964"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93026"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de voormalige Gereformeerde pastorie (Dorpsstraat 11) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 137-138."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55403F5443FB5DE68E126928612A6E09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93025"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van de Gereformeerde kerk  (Dorpsstraat 11) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 135-136."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "56ECA74B553B53CB94032C8E3B1B0DCC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93042"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 63 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 167-168."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C49D7312CBE5A22972A0976AE7A34CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11488"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het zuiden; met op de voorgrond een groep kinderen en op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CDE0AA0FED95EFB90578BA4BB254ADC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92959"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 24 (De gekroonde A)-26 (Soeterust) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 140-143."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D7F1041DF7E5DBFA9F82F417172870B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92984"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de arbeiderswoningen Dorpsstraat 54-60 (Vischmarkt) te Loenen (gemeente Loenen aan de Vecht) uit het noordwesten; met rechts de linkergevel van het huis Dorpsstraat 52. Opmerking: Lit. M.I.P. Loenen, p. 160-162."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FE5D1CC51F156C3B8D95837B2F43023"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92979"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Dorpsstraat 44  te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 146-147."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6293E602A8DF56B7BEA0113559FECE46"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93023"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de stellingkorenmolen De Hoop (Dorpsstraat 106) en de voorgevel van het huis Dorpsstraat 104 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 187-189."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6370BC527F925B1C85457E77814F7B86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11486"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "65B5C16232F85B61A5F8143709EF5D6A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92945"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Sonderveght (Dorpsstraat 8) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 133-134."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66C8DFAE1FC858F59D3A89221F939421"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93066"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel van het huis Dorpsstraat 47 en de voorgevels van de huizen Grutterstraat 2-hoger te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 149-151 (Dorpsstraat 47) en p. 424-426 (Gruttertstraat 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "67ACE663B4A957259363664BD8C38DFB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93053"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de theekoepel aan de Vecht in de overtuin van het landhuis Beek en Hoff (Dorpsstraat 81) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 183."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69BE2DE6D278586DAE425D630BEE6B38"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11489"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het zuiden; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1901-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6A4CC4B98231504A9B089B02A9F88C03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93041"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 67-lager te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6BA81CB58DF158DEA123F17A3745DD0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11501"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het zuiden; met links de N.H. kerk (Dorpsstraat 49/Torenstraat 4) en rechts de voorgevels van de huizen Dorpsstraat 62-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C1CE761622B5BCC9A3A3E1742E0CAF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93048"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het huis  Dorpsstraat 75 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 176."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EF5AF3E1917540C9F6B208ED657910C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93056"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het noorden; met rechts de voorgevels van de panden nrs. 38-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71B8111CAFDA57AE80DACD83579FB1A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93003"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 70 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73D3481304B15E48B7D6C6F6D90BBCDA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92961"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Soeterust (Dorpsstraat 26) te Loenen (gemeente Loenen aan de Vecht); met rechts een gedeelte van het winkelpand nr. 24 (De gekroonde A). Opmerking: Lit. M.I.P. Loenen, p. 140-143."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75EB3ABDD20B51E787139E4AE2E0C0EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92994"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 66-64 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 168-170."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "788875979A995261A47AC6DE4CF54B2A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93014"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat te Loenen (gemeente Loenen aan de Vecht) uit het noordoosten; met links de voorgevel van het huis nr. 98 (voorheen Hooprust). Opmerking: Lit. M.I.P. Loenen, p. 185-186."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "788D7C02FF035ABCAACCC54FE63A8F5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92957"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 22 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 139-140."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AFEA74BF65B553EA45EB6D7D0D0B464"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11467"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht te Loenen uit het noorden; met in het midden een schip met hout en rechts de achtergevels van de huizen aan de Dorpsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1901-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7C13CA0763F25725B73C82E9484BB25A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824195"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 86 (woonhuis van decoratieschilder  R.E. Kamerling) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Scan uit 2014. De originele foto bevindt zich in particulier bezit. Van deze afbeelding kunnen geen reproducties geleverd worden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1912-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1916-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE87BB3BF875B718F2EB0E12162430E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93019"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de stellingkorenmolen De Hoop (Dorpsstraat 106) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 187-189."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E6F995B6FB15FA1A810B8326EA11533"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92947"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de herenhuizen  (Dorpsstraat 10 (Soeteveght)(ged.)-8 (Sonderveght) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 134-135 (Dorpsstraat 10), p. 133-134 (Dorpsstraat 8)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EE8EB07AE2A5AA0897EA20433EED683"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92972"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het steegje tussen de huizen Dorpsstraat 32 en 36 naar het huis nr. 34 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 144-145."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EF37AB3BAC25E859E9CFC07FEA16A0C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegangsdeur van het herenhuis Welgelegen (Dorpsstraat 61) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 162-163."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F19525B02F45528BB5606033A43E52B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93293"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het schip en transept van de Nederlands Hervormde Sint Ludgeruskerk (Dorpsstraat 49/Torenstraat 4) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 152-158."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "82A70BEFECA65DDD9FA85872B9B22AA0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92939"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 2-4 (ged.) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "837A8039DB8B5E819F56087810192478"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93043"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 65-67 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 168-169."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "841CD1D082E456B086E07AA4973EEBBE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92966"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 28-30 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 143-144."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85933C2C836956368CF58ED93B35F6C4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93051"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Beek en Hoff (Dorpsstraat 81) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 179-182."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85A4946875EE5146A91075305206B76B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93294"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands Hervormde Sint  Ludgeruskerk (Dorpsstraat 49/Torenstraat 4) te Loenen (gemeente Loenen aan de Vecht): de kerkzaal met banken en orgel. Opmerking: De afbeelding is afkomstig uit: Jaarboekje van Oud-Utrecht, 1953.<ZR>Lit. MIP Loenen, p. 152-158."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86A96D37DEB156589F0430B82A1B9563"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95143"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat te Loenen (gemeente Loenen aan de Vecht) uit het zuiden; met op de achtergrond de korenmolen De Hoop. Opmerking: Een in ca 1995 gemaakte reproductie van een in ca 1910 vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87792BD914B657EF826873B157E88051"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95144"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een rijtuig in de Dorpsstraat te Loenen (gemeente Loenen aan de Vecht). Opmerking: Een in ca 1995 gemaakte reproductie van een in ca 1910 vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87812EE3222259038FD84293B2298AD7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92954"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Duivenveght  (Dorpsstraat 12) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 136-137."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "88B45773711D5E40815957B5D6BE4E32"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11524"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de achtergevels van de huizen aan de Grutterstraat/Dorpsstraat te Loenen uit het oosten; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C0726D3B7245D7D850D1AAE8F832B78"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93015"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 98 (voorheen Hooprust) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 185-186."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F13DA78A9B35EFC9A83ABDEDCF6A563"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92980"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelpand Dorpsstraat 44 (bakkerij) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 146-147."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F9DC836DF625A46832CD1C13B05D53B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92982"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het noordoosten; met rechts de voorgevel van de panden Dorpsstraat 47-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "93A3F38D8FFF57EEA72292F47767277F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92990"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de linkergevel van het huis Dorpsstraat 60 en de theekoepel van het huis Dorpsstraat 62 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 160-162 (Dorpsstraat 60) en p. 164-166 (Dorpsstraat 62)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99F36D435BEE538F919044BE330D9417"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11516"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de korenmolen De Hoop (Dorpsstraat 106) te Loenen uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B07C91E6E105DAABF4D70F8FE971F3A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92976"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dorpsstraat 42  (Albert Heijn)-46 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 146-149."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C6D1E0B8F135563BDF2E64BFA46F30B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92965"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dorpsstraat 28 (bakkerij)-30 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 143-144."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DCBB24AB320514BBCF7059BAE84E0C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93032"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de tuinen en de achtergevels van enkele huizen aan de Dorpsstraat te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E7D65C702BF52099D2B01D0043C6FBD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93038"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Welgelegen (Dorpsstraat 61) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 162-163."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F03FBC211765F29AB06FD0E2FBA2310"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11487"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F2CEE34C0F157ED97FB107A9F72FCB7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93004"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dorpsstraat 72-74 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen,  p. 175-176."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F3DC86D5D3051279EC4EBDBA3BA8A44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92992"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 62 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 164-166."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F8B117C687C56249ADE7D672E64FD78"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92964"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de herenhuis Soeterust (Dorpsstraat 26) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 141-143."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9FE2420A410059A2BBED1C6C7022A883"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93035"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 55-59 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 159-160."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A08F28E86498570A934C7A5ADF08BF5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11520"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de korenmolen De Hoop (Dorpsstraat 106) te Loenen uit het noorden; met op de voorgrond de huizen Dorpsstraat 110-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2FC20CBCE905B8B9324236D78DCB335"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11421"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de bebouwing aan de Dorpsstraat te Loenen uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1902-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3BD413E480B56F4B0AA11B52FAE73DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93007"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Dorpsstraat 80 (voormalig pakhuis De Hoop) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 178-179."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6DDB3F030725790888A1CE210C175F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93296"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands Hervormde Sint Ludgeruskerk (Dorpsstraat 49/Torenstraat 4) te Loenen (gemeente Loenen aan de Vecht): de oostelijke wand van het koor met rouwborden. Opmerking: Lit. MIP Loenen, p. 152-158."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A940CE13F6B55F06882427E9E12B55B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93046"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van het herenhuis Vrederust (Dorpsstraat 77) met het aangebouwde voormalige koetshuis te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 176-177."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ABA14FAB02315E48BE665A4D2FB4CB56"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92973"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 36-40 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 144-146."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ABF240E4C1915F8D9CCA5B9FDB8A39DE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92941"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 2 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACF44AD5242E57C491FA3EF77069DEC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11526"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de N.H. kerk (Dorpsstraat 49/Torenstraat 4) te Loenen: de kerkzaal met het orgel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AEA976463E065ADD9134C9279B020042"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dubbele ophaalbrug en de bebouwing aan de Grutterstraat/Dorpsstraat te Loenen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AEDD49213BAD5E519E9D0B5C44DCA78E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92895"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de achtergevels van de panden aan de Brugstraat/Dorpsstraat te Loenen (gemeente Loenen aan de Vecht) uit het oosten; met op de achtergrond de toren van de Nederlands Hervormde Ludgeruskerk. Opmerking: Lit. MIP Loenen"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B276BB8D08025E898B8C7153D3572E4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400229"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de molen De Hoop (Dorpsstraat 106) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Fotonummer 55221<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3135FB1F5A356B191281A18638053F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92969"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 32 en 36 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 144-145."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B361F717FE3657AF8668D8A48D8EE8FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93011"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat te Loenen (gemeente Loenen aan de Vecht) uit het zuidwesten; met rechts de voorgevel van het huis nr. 88 (voorheen tapperij Het Hoefijzer). Opmerking: Lit. M.I.P. Loenen, p. 184-185."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3BECD3BA450513D8E02F207BAE6FC4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92989"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Dorpsstraat 62-66 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 164-166 (Dorpsstraat 62) en p. 168-170 (Dorpsstraat 64-66)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B65A9FB6BD0158DAAD1FE38DCC3D5895"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93596"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Vrederust (Dorpsstraat 77)  te Loenen (gemeente Loenen aan de Vecht). Opmerking: Een in 1990 gemaakte foto van een in 1965 vervaardigd negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6EAF03470EA5500AF7B253D83CF2E14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93047"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Vrederust (Dorpsstraat 77) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 176-177."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B71890263E6056B89FE02B7AFD3FB4B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11527"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de N.H. kerk (Dorpsstraat 49/Torenstraat 4) te Loenen: de kerkzaal met herenbank."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7C3B91EE77559D1B3EC588A367E276C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11494"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het noorden; met rechts de voorgevels van de nieuwe pastorie (Dorpsstraat 71) en de oude pastorie (het herenhuis Leeuwendijk, Dorpsstraat 69)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1907-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8A9772D33C85A41857EE90C85E8CAA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11492"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing in de sneeuw te Loenen uit het noorden; met op de voorgrond een groep kinderen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC2C4F65DF1C5F24B3BB764A7DC713E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92956"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 22 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 139-140."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC7039F7569B5A7A9A7A11328ABA1B01"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93012"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 96-94 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BF9466635C74576ABC2D280D4E844B80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92981"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelpand Dorpsstraat 44 (bakkerij) te Loenen (gemeente Loenen aan de Vecht), tijdens schilderwerkzaamheden. Opmerking: Lit. M.I.P. Loenen, p. 146-147."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C19AAAE49A9C5301AB2FB92789D5600F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92998"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 68-70 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 170-171.<ZR>Van 1852-1857 was het huis Dorpsstraat 68 bewoond door de schrijver Jacobus Jan Cremer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C3505F33A95B58DF90ADF661645F32C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117081"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Ludgeruskerk (Dorpsstraat 49) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C495615F6F8C596E928BC52B7214C5BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92967"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 28, 26 (Soeterust) en 24 (De Gekroonde A) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 140-144."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4D104B22F1358B2926D2135B6F2B1DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93031"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 51-53 (ged.) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 158-159."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5F4EC4523B553D084B35B9BB3F35515"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92987"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het huis Dorpsstraat 62 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 164-166."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C68F7D79C36E5C57AE18F23C384BE6D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92986"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Vischmarkt te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten; met links de voorgevels van de huizen Dorpsstraat 56-60 en rechts de achtergevel (ged.) van het huis Dorpsstraat 62. Opmerking: Lit. M.I.P. Loenen, p. 160-162 (Dorpsstraat 56-60) en 164-166 (Dorpsstraat 62)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C760F11B927951FEAC93389B3BB6A2B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11503"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het zuiden; met links de N.H. kerk (Dorpsstraat 49/Torenstraat 4), rechts de voorgevels van de huizen Dorpsstraat 62-hoger en een groepje kinderen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7F74B78E8465185B0383387D7310724"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93009"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 84-86 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 178-179."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C91B002D15945CB59AE06C1675EDC7D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11517"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de korenmolen De Hoop met bijbehorende ketel- en machinegebouwtjes en schoorsteen (Dorpsstraat 106) te Loenen uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1907-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA93236EDB2A589CB8BF6F8CD99BAE06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92937"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC3C3780245E5C9A8EF951D399499647"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93021"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 108 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 189."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE80FC77C7355E4684C46D4AD37AFAE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel met ingang van de N.H. kerk (Dorpsstraat 49/Torenstraat 4) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CEC891E457695BE0996E57A07665BDD7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92949"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 8 (Sonderveght) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 133-134."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF2AF76535C65273B647116341AAEA72"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93049"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Beek en Hoff (Dorpsstraat 81) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 179-182."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF2BA10400475625BD7BA45C06FAE4C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92993"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 64 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 168."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF85AE9C1C0254FE8041FE056FAF464D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het zuidwesten; met rechts de voorgevels van de huizen nrs. 62-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFC9E7071C845780867D42AD8DD4E5AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11505"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 68-62 te Loenen uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFDD96BB96635C05A69393876095D17C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92970"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat te Loenen (gemeente Loenen aan de Vecht) uit het zuidwesten; met rechts de voorgevels van de huizen nrs. 30 (ged.)-36. Opmerking: Lit. M.I.P. Loenen, p. 143-145."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFE9E55EC583587E9C4F7BE40DEFDDB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11528"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de N.H. kerk (Dorpsstraat 49/Torenstraat 4) te Loenen: de preekstoel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D38C3EB6DC3F5903BB645EBD595E3C0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11417"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de tuinen en achtergevels van de huizen aan de Dorpsstraat te Loenen; met rechts de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4CD8152CDB8540F928BCE1700AC0B5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92955"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing en geparkeerde auto's te Loenen uit het noorden; met links de voorgevel van het herenhuis Dorpsstraat 16 (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 138-139."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4DD0F81C7DE584A9342CD310E6DF7E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92906"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brugstraat/hoek Dorpsstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4DE63CACCF159D2BC3164871A8DD732"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92996"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 66  te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 169-170."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D576BFCBB8D75ABE95FF54003EF83FD7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117080"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de St.-Ludgeruskerk (Dorpsstraat 49) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D58A9E7812915E35B5303AC67408A9DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93029"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het huis Dorpsstraat 47/hoek Brugstraat/Torenstraat te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 149-151."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D733B336EE005565B8257070FE6AD8B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93005"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dorpsstraat 72 (slagerij - ged.)-76 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 175-176."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D812805E406E5D689C269E105493486A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93027"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het noordoosten; met rechts de voorgevels van de panden nrs. 37-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA5E24A9668052668432B4E30F3EE73B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11491"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing in de sneeuw te Loenen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DAE805EF2DB057E4ACC98119F9B281BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92962"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Soeterust (Dorpsstraat 26)-24 (De gekroonde A) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 140-143."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DBD5F613D47154479671DC4EB6BA797A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93016"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevels van een schuur en het koetshuis (Dorpsstraat 102) van het landhuis Beek en Hoff te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 186-187."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DF991E8CDC6157E4B0083C8DD0E43418"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11419"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de achtergevels van enkele  huizen aan de Dorpsstraat te Loenen; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E186B9BC98F75DEB8242AC2B342B7645"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11529"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de N.H. kerk (Dorpsstraat 49/Torenstraat 4) te Loenen: de kerkzaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E491618BC8CF57818447E9659FF40042"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92999"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 68-70 (ged.) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 170-171.<ZR>Van 1852-1857 was het huis Dorpsstraat 68 bewoond door de schrijver Jacobus Jan Cremer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8D7622591DC579D8A5D87FFE7E14E2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92950"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Soeteveght (Dorpsstraat 10) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 134-135."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E97FB355C0F350A1A5059F624E606BCC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92978"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dorpsstraat 46-44 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 146-149."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA6B543E69605D8CAAD0B43AA17E18FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92938"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het huis Dorpsstraat 2 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB4A1E5B90D25E67B7C1EF6CA2237C33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11519"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de korenmolen De Hoop (Dorpsstraat 106) te Loenen uit het noorden; met op de voorgrond de huizen Dorpsstraat 110-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EBD339529B7A58E9A27567C54F247197"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93037"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 59 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 159-160."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ECAC529D3F075B759E968AB04FCF3021"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11457"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht te Loenen uit het zuiden; met links de achtergevels van enkele huizen aan de Dorpsstraat en de korenmolen De Hoop."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED7F4038AD7353A7A8371232B3FA087E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Beek en Hoff (Dorpsstraat 81) te Loenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED830256608254B9B7E058759AF5FC79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92977"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dorpsstraat 46-44 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 146-149."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE209C2F24D851A38D4BEB3E1A8C8CBC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93010"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 88 (voorheen tapperij Het Hoefijzer) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 184-185."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE49D63805AE5D33AB3CCB5C9369A9A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93013"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat te Loenen (gemeente Loenen aan de Vecht) uit het noordoosten; met links de voorgevels van de huizen nrs. 96-94."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF33C30E51895DE5818C82B709741223"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11496"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de voorgevels van de oude pastorie (het herenhuis Leeuwendijk, Dorpsstraat 69) en de nieuwe pastorie (Dorpsstraat 71) te Loenen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F06BB38A72395844ABD9015FB013F779"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93071"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen  (gemeente Loenen aan de Vecht) uit het zuidwesten; met links de rechtergevel van het pand Kerkstraat 1 (later het restaurant Tante Koosje) en in het midden de voorgevels van de huizen Dorpsstraat 51-53. Opmerking: Lit. M.I.P. Loenen, p. 238-239 (Kerkstraat 1) en p. 158-159 (Dorpsstraat 51-53)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F160F6A7D6FF57E6B07CF6456664108D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93045"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis Leeuwendijk (Dorpsstraat 69) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 171-173."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1653566513C598E8240375AD92DBEF7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11495"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het noorden; met rechts de voorgevels van de oude pastorie (het herenhuis Leeuwendijk, Dorpsstraat 69) en de huizen nrs. 67-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F82074806AF75A3E997BD9BB4D602420"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Loenen uit het noorden; met links de voorgevels van de huizen nrs. 70-lager en rechts de Torenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9C22D857F6B562497D14BE5D6A1F359"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92952"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van het herenhuis Soeteveght (Dorpsstraat 10) en nr. 8 (ged.) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 133-134 (Dorpsstraat 8), p. 134-135 (Dorpsstraat 10)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA61D749EE9A5D14BE905122FC5A70CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93006"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dorpsstraat 80-82 (voormalig pakhuis De Hoop) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 178-179."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA8A8BD90A4458C582967093B9ED517B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92971"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Dorpsstraat 32 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 143-144."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAC5017F3E59580388F1657F9B98C962"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92968"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 30-28 (Soeterust)(ged.) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 143-144."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBF3566063A050D4AED79E2B892E67BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11416"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het noordelijke gedeelte van de Dorpsstraat en de Vecht te Loenen vanaf de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FDA927020B39517999DC96439C2E8270"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93033"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dorpsstraat 55-hoger te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 159-160."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

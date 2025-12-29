@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3023246BC7AF52889EC0D92EC7F43E78"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101158"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een autoped-race tijdens een buurtfeest in de 2e Delistraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-08-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-08-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E69C0AC14EB5CB89C8EF3CD4D806F83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53526"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Billitonkade te Utrecht met de huizen nrs. 76-lager, uit het noorden; na het huis nr. 76 de ingang van de 2e Delistraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F990A9B8BBAE5BED9799BB6C8E3BCDF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108549"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het binnenterrein tussen de Padangstraat, 2e Delistraat en Billitonkade te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Binnenterreinen\" van fotograaf Jacquie Wessels en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-07-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

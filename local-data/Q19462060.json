@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "503ED20985BF5143A55305D1A12EDDCE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821526"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de in aanbouw zijnde wijk Overvecht te Utrecht, vanaf het flatgebouw aan de Stroyenborchdreef, uit het noorden, met links op de voorgrond de in aanbouw zijnde flat aan de Scharlakendreef met allerlei gereedliggende prefab-elementen. In het midden de huizen aan de Rapenburchdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

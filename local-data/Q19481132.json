@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1FD8ACBEDBF5E499E8451EFBFE6A145"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het rosarium te Driebergen-Rijsenburg uit het zuidwesten, met op de achtergrond de voorgevels van enkele huizen aan de Rosariumlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F53E0210742B5B228A8F495827879A1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10065"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het rosarium te Driebergen-Rijsenburg uit het zuidwesten, met op de achtergrond de voorgevels van enkele huizen aan de Rosariumlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9EA9C5C599D55DD89AC8EE96998526F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10066"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het rosarium te Driebergen-Rijsenburg uit het zuidwesten, met op de achtergrond de voorgevels van enkele huizen aan de Rosariumlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

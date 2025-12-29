@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07D6364C74D05EE0B35AE8F6465A3D7C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350363"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Liendertseweg te Amersfoort, uit het noordoosten. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51B76EB4A3DD5DEEBD068F2312AEC298"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Liendertseweg en omgeving te Amersfoort, uit het zuidwesten, met op de voorgrond de Eem en de Ringweg Kruiskamp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

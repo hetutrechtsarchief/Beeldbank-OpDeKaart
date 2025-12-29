@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2370F51CB8F9515D84A59A87BC2B7328"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25466"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voormalige sluis tussen de Doorslag en het Merwedekanaal (voorgrond) te Nieuwegein, uit het noorden. In het midden de voormalige brugwachterswoning en de restanten van de gesloopte draaibrug. Links de fabriek van Henkel Nederland B.V. (Vreeswijksestraatweg 3) en rechts de Herenstraat. Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86B88067335A5D35B86276D09051514A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94358"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouw van de Doorslagbrug te Nieuwegein uit het zuidwesten; met op de achtergrond de wipwatermolen (Vreeswijksestraatweg 1-3). Opmerking: Lit. MIP Nieuwegein, p. 315-316."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

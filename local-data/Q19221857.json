@@ -1,0 +1,716 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "18144A0707495F009275D0A7F68D8881"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93248"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Grutterstraat 12 te Loenen (gemeente Loenen aan de Vecht); met op de voorgrond in de tuin aan de Rijksstraatweg de in 1976 de nieuw gebouwde theekoepel. Opmerking: Lit. MIP Loenen, p. 225-226."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "242E565E99095D51B8C81761CC50DB52"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93063"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Grutterstraat 11 (voormalig winkelpand) te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 234."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24D047C00E755E86AEE4613B97E03FF4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93069"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Grutterstraat 14  met aangrenzend hofje te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 427 (Grutterstraat 14)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3164C2FAB8B05C819199635AEDEAAEB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93061"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Grutterstraat 5/7-hoger te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 222-223 (Grutterstraat 5/7)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "334DEBBD455E577B8FA16EE0D720B7E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93065"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelpand Grutterstraat 15 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 226."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50D1D8FF89865EA3A96C14C2B44171D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dubbele ophaalbrug en de bebouwing aan de Grutterstraat te Loenen uit het zuidoosten; met links de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "644077805B645F008F6ED12BD3482114"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11497"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Grutterstraat met bebouwing te Loenen uit het westen; met op de voorgrond enkele spelende kinderen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "64C2E102A84D5A488F7A7F9381091A79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11481"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dubbele ophaalbrug en de bebouwing aan de Grutterstraat te Loenen uit het zuidoosten; met links de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1901-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74DD54ABB6845D54962D9ACF39DE808B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93068"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Grutterstraat 14  te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 427 (Grutterstraat 14)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7BD3A48C6D115B40BFD5819FCEF4F052"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Grutterstraat 15-lager te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 226."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "872FA61BF77053688D3EAE782CB0DFC0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11500"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Grutterstraat met bebouwing te Loenen uit het oosten; met rechts op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9EED00451A6351F59A7C96E304A379CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93060"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Grutterstraat 5/7-hoger te Loenen (gemeente Loenen aan de Vecht) . Opmerking: Lit. M.I.P. Loenen, p. 222-223 (Grutterstraat 5/7)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F7F0F4FE2F8549CB6E0605207815895"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bebouwing aan de Grutterstraat te Loenen uit het oosten; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BA41A262491E52BCB0BB6806A96D38AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de bebouwing aan de Dorpsstraat/Grutterstraat te Loenen uit het zuidoosten; met op de achtergrond de toren van de N.H. kerk en rechts de dubbele ophaalbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA18B1E5DEB555E39C0918F0E9436B2A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11462"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de bebouwing aan de Dorpsstraat/Grutterstraat te Loenen uit het zuiden; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CAC66EC67BDF5B02AD5F60C20CFB2043"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93067"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Grutterstraat 2-hoger te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 424-426 (Gruttertstraat 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D296C710DB31555CB6E769FB9B3E7C96"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93070"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Grutterstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht); met links de voorgevels van de huizen nrs. 10-lager. Opmerking: Lit. M.I.P. Loenen, p. 223 (Grutterstraat 10)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D5B8D7387FDC5D97914DEFDCCEA1DB57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93059"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Grutterstraat 3 te Loenen (gemeente Loenen aan de Vecht); met links een sigarettenautomaat in de voorgevel van nr. 1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9DB82BAC6BA543D9D40595F3CDFE8CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11498"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Grutterstraat met bebouwing te Loenen uit het westen; met op de voorgrond enkele kinderen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E73D98141F385751A97278ADD640D5A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11455"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de bebouwing aan de Dorpsstraat/Grutterstraat te Loenen uit het zuidoosten; met op de achtergrond de toren van de N.H. kerk en rechts de dubbele ophaalbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1903-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F06DEA0C2AD55CF5A146C36E4023C048"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93057"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Grutterstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten; met links de voorgevels van de panden nrs. 1-hoger. Opmerking: Lit.: M.I.P. Loenen"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5244D14C3E057D8BFFDDBAE3ACCBB3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93058"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Grutterstraat 3-5 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. M.I.P. Loenen, p. 222-223 (Grutterstraat 5)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F6F2F903F56358318310D4B05A356A1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11482"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht met dubbele ophaalbrug en de bebouwing aan de Grutterstraat te Loenen uit het zuidoosten; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB5DF1B5351B59808AEB15E5D116FB12"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11499"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Grutterstraat met bebouwing te Loenen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC4698D1542850078FA52EE7140568BA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93062"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Grutterstraat 9 (voormalig winkelpand) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

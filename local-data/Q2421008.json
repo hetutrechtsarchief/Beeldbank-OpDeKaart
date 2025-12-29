@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F6B1291A7D45087836F37FD4AB560B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803522"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van burgemeester M. van Veen (2e van rechts) van Enschede tijdens zijn toespraak in de burgerzaal van het Stadhuis (Langestraat 24) te Enschede, ter gelegenheid van de electrificatie van de spoorlijn naar Twente (Amersfoort-Enschede/Oldenzaal)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

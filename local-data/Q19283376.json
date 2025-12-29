@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1DF77E191B5C5DEEBE5B7BA3259EF077"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24425"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over het Merwedekanaal op het kantoorgebouw en het woningcomplex aan het Jutfasepad te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "56E74D35BC935B1380BA1C4F939324DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24422"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele gebouwen aan het Jutfasepad te Utrecht vanuit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6AE6AC6D1C275F9F847288436241DC85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24421"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over het Merwedekanaal op enkele gebouwen aan het Jutfasepad te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

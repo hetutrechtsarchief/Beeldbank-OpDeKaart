@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "784D14E0D3865C04999F67B3EB852760"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116656"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het binnenterrein van de appartementencomplexen aan de Andrej Sacharowstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B2AC4CA8F585ECD8B91487F93740067"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116655"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het binnenterrein van de appartementencomplexen aan de Andrej Sacharowstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-05-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE48AC17F2FD50689E67C0A4C6F9F320"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19371"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Steve Bikostraat te Utrecht met het flatgebouw met de woningen 399 (links)-lager, vanaf de Andrej Sacharowstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

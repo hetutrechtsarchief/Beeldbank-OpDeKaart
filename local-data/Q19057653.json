@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F33B266EFA4503CB1F2BAD7D0F54988"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "159953"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang tussen de Duitsepoort (voorgrond) en de Heerderweg te Maastricht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

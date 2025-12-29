@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3011CCAA1A959BDA53AE9867D887DA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15392"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing en leilinden te Woudenberg uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD26A987B01A579D8ED3C635FEF55DD5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing en leilinden te Woudenberg uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEDE912164EA54C49317C54C881DE334"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat met bebouwing te Woudenberg uit het westen; met links de linkergevel van het caf\u00e9 De Poort. <ZR><ZR>N.B. Caf\u00e9 De Poort en een aantal andere panden zijn door de Duitsers in mei 1945 vernield."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1918-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1923-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FCBAF545793457E5A77F7C30D088FBA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van vijf huizenblokken met voormalige dienstwoningen van het kasteel Renswoude aan de Dorpsstraat te Woudenberg, de zogeheten Nieuwe Buurt. Opmerking: Tekening van Chris Schut gemaakt ca.1977-1982 in opdracht van het Provinciaal Comit\u00e9 Utrecht Monumentenjaar 1975 voor een map met 20 reproducties getiteld Hedendaagse tekeningen van de Utrechtse Heuvelrug en omstreken, uitgegeven in 1983 (Bibl. HUA DK2013-62)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

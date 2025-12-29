@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35C7ED0B30E15348A28C88C712FA43CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84804"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Kanaleneiland te Utrecht, uit het zuiden; in het midden de Kerk van de Wederkomst der Heren (Marco Pololaan 113), rechts boven de Beneluxlaan en links onder de Cortezlaan. Opmerking: Mil.reg.nr. 8468-289"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4504CAA1D3A050809ECD7F5E195E5327"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "202748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een van de schoolgebouwen aan de Cortezlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-09-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-09-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85C2C683015954D489D9B7CB5BAD83BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "202732"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op vermoedelijk de schoolgebouwen aan de Bontekoelaan en de Cortezlaan te Utrecht, vanaf het plantsoen aan de Rooseveltlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "901A8CA0848A53B9980159C2428C798A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rooseveltlaan te Utrecht, ter hoogte van de kruising met de Cortezlaan (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

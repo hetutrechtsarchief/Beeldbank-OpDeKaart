@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ED52E97DE261570DBC26ED33A3A7DE54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406313"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de werkzaamheden aan het dak van een flatgebouw aan de Jacob van Ruysdaelstraat te Veenendaal. Opmerking: De foto is als zoekplaatje 2423 op de website www.zoekplaatjes.nl ge\u00efdentificeerd als zijnde dit adres."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2406D7A9ED8D5E63804169548505B9D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9517"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het bejaardenhuis Beatrix (Ruysdaellaan 17) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "405A1FA1BC0F5D8CB359D1FBCE657065"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501320"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het bejaardenhuis Huize Beatrix (Jacob van Ruysdaellaan 17) te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

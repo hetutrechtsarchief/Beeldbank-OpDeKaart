@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01F3DEB0CFE953D599023611AC490C43"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat met bebouwing en bomen te Soest uit het noorden; met op de achtergrond de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "031C663466485E568F8CFDAE7EC00C44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-Hervormde kerk (Torenstraat 1) te Soest uit het zuidwesten; met de toren in de steigers tijdens een restauratie. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1902-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "032C61DACF0C566D9A11338704C32983"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat met bebouwing te Soest uit het zuiden; met op de achtergrond de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14FD8C7F631F518483C85CBC52FC34C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14481"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-Hervormde kerk (Torenstraat 1) te Soest uit het zuidoosten. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A8DD9BD4157549386939F453796C765"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14474"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-Hervormde kerk (Torenstraat 1) te Soest uit het zuiden. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F5310E55FEB5D94A26B3A32D8B2DB1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat te Soest, met op de achtergrond de toren van de Oude Kerk (Torenstraat 1). Opmerking: Fotonummer V 10222<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-06-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35D33B25C9005ED1927BC53F122AF615"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14455"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat met bebouwing te Soest uit het zuiden; met op de achtergrond de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F51E3414123580FA5BE718F7F6DDDAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14482"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde kerk (Torenstraat 1) te Soest: de kerkzaal met orgel en stoelen. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "57FFEE59217E5E55840D92769A7BBA58"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14453"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat met bebouwing te Soest uit het zuiden; met op de achtergrond de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CD4A0D27C0C58F68B1EEEF40C4B7AC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94519"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-hervormde kerk (Torenstraat 1) te Soest: de kerkzaal met stoelen, de preekstoel en het orgel. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "65216D53B2D950DAACF050D6FB618F89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14457"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat met bebouwing te Soest uit het zuiden; met op de achtergrond de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "67CC3F91310D51D99BC9DAD3834F1355"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14458"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat met bebouwing en verkeer te Soest uit het zuiden; met op de achtergrond de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69F4DCE0B6E8569DAD867EC911B6A62B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14461"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat met bomen te Soest uit het noorden; met de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E2EB902609C54F293C71316FDB14ADB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94499"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een moestuin te Soest; met op de achtergrond de toren en rechtergevel van de Nederlands-hervormde kerk (Torenstraat 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73B1FB62DAB75826B954B1269034EF4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601175"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-Hervormde kerk (Torenstraat 1) te Soest: de kerkzaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EDD810C244A8FC4E0534701000A7827"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-Hervormde kerk te Soest, met links de Torenstraat en naar rechts de Neerweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8390CA6481BD5A0B81834CA888BCDFB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14476"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-Hervormde kerk (Torenstraat 1) te Soest uit het zuiden; met links op de voorgrond een schuur. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8A6C5EC4DFDE52ACA1ECA71DFE7D4031"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95349"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-hervormde kerk (Torenstraat 1) te Soest uit het westen. Opmerking: Een in 1987 gemaakte reproduktie van een in ca 1870 vervaardigde foto. <ZR>Lit. Soest, geschiedenis en architectuur, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1870-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1875-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "976A1F4B103958DC8483DED5C06D5BA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14479"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-Hervormde kerk (Torenstraat 1) te Soest uit het westen. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D74CB1C52EB568F9065C2200DADE904"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14448"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat en Kerkstraat met bebouwing en bomen te Soest, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B03267016D7D50DC980B998C7CEDF752"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14460"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat met bebouwing en bomen te Soest uit het noorden; met op de achtergrond de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7EE6D3231135AB9B2F98284BD1B97AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601176"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-hervormde kerk (Torenstraat 1) te Soest: de kerkzaal met stoelen, de preekstoel en het orgel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B942FDA188075114819D45151FA77AD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Nederlandse-Hervormde kerk (Torenstraat 1) met omringende bebouwing te Soest uit het zuidwesten; met op de voorgrond de Torenstraat. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA55ED0991C15F718C717988037069EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14475"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-Hervormde kerk (Torenstraat 1) te Soest uit het zuidoosten. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D154F2BD136B502D80AB7185E69BC957"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Nederlands-hervormde kerk (Torenstraat 1) te Soest: de kerkzaal met stoelen, de preekstoel en een klein orgel. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1AB3D75B8CD53BAA82A80C2479E0B4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-Hervormde kerk (Torenstraat 1) te Soest uit het zuidoosten. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D34277BF35C15712A24D952D0186CB5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14443"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Middelwijkstraat/Torenstraat met bebouwing en een rij bomen te Soest uit het noordwesten; met op de achtergrond de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DAC2EF0B21F3551C92DA157D53D58DD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14454"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Torenstraat met bebouwing te Soest uit het zuiden; met op de achtergrond de toren van de Nederlands-Hervormde kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0B4507427905AC4B9E355F516A02556"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14405"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van een huis aan Achter de Kerk te Soest; met op de achtergrond de toren van de Nederlands-Hervormde kerk (Torenstraat 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2A73E0C666D5D87901AB280F3820178"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94517"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nederlands-hervormde kerk (Torenstraat 1) te Soest, uit het zuidoosten. Opmerking: Lit. MIP Soest, p. 272-277."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

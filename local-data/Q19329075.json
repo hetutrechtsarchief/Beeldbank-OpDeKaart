@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8682667A6AE858CC9027FE3ED499A139"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij Sans Souci (Loenenseweg 4) te Vreeland.<ZR><ZR>N.B. De gemeente Vreeland is in 1964 bij de gemeente Loenen aan de Vecht gevoegd. Opmerking: Lit. MIP Loenen, p. 275-276."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D55A6BD9DF5F5C269E4774607F40C986"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93533"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linkergevel van de boerderij Sans Souci (Loenenseweg 4) te Vreeland (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 275-276."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDAE14B8370B5848AD1AF181C422418E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93532"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij Sans Souci (Loenenseweg 4) te Vreeland (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 275-276."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

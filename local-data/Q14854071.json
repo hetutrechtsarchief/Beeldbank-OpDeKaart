@@ -1,0 +1,436 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "11402C69DBDD5D61901342EB24C45C5C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94881"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van omstanders en paarden in de Breedstraat/Parkweg te Maarssen tijdens de vordering van paarden. Opmerking: Een in 1987 gemaakte reproductie van een in 1943  vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1943-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13A8CBACA4445007B54CCDEB79051FC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6666"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het noordelijke gedeelte van de Parkweg te Maarssen uit het zuiden. <ZR><ZR>N.B. Later is de naam van dit gedeelte van de Parkweg gewijzigd in Julianaweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46C4CE54E29A55EB92C29B8D5FBEA31B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6662"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parkweg te Maarssen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6149D44BFE3D5FA0A34A8F0C7BECA00B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6665"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parkweg te Maarssen uit het oosten, met op de achtergrond de toren van de Heilig Hartkerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61A5A6F3D97E52FE9A939A782079135A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94879"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van verkeer en omstanders in de Breedstraat/Parkweg te Maarssen tijdens de vordering van paarden. Opmerking: Een in 1987 gemaakte reproductie van een in 1943  vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1943-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6339D4546B8D5F8CB37CD17189E08A55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6697"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de villa Jacoba met omringende tuin aan de Parkweg te Maarssen uit het zuidwesten.<ZR><ZR>N.B. De straatnaam van dit gedeelte van de Parkweg is later gewijzigd in Julianaweg. De villa Jacoba is in ca. 1972 afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6946AFB6EABE5C88AA53980D41ECCA9B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127502"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van de veearts dr. A. Bos in de woonkamer van zijn huis Parkweg 41 te Maarssen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78F87462A3195B44A4EAE82E9AB4A3BA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6663"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parkweg te Maarssen uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A12F5B8FBF705A709354CAA4AF04156F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93892"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het herenhuis De Haven (Parkweg 51) te Maarssen tijdens de afbraak."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B567EA556E945A9CA7105506F82C7404"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93894"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel van het herenhuis De Haven (Parkweg 51) te Maarssen tijdens de afbraak."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B74DAB17BD2155998617ED0951021E6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93893"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de rechter- en achtergevel  van het herenhuis De Haven (Parkweg 51) te Maarssen tijdens de afbraak; met rechts de achtergevel van een villa."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD868A0F1C145DB3AEB18548606AE2F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93895"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linkergevel van het herenhuis De Haven (Parkweg 51) te Maarssen tijdens de afbraak."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE417F11DD9F5797A8623ED4C7A68F49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94882"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van verkeer, omstanders en paarden in de Breedstraat/Parkweg te Maarssen tijdens de vordering van paarden. Opmerking: Een in 1987 gemaakte reproductie van een in 1943  vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1943-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1943-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CDBC871F2EFE57FF8AEC40EE8A67EA11"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93891"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het herenhuis De Haven (Parkweg 51) te Maarssen tijdens de afbraak."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-03-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E1C7FD88E0405198AB4A63D303C4F260"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6664"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parkweg te Maarssen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "741E3D3D833E5425B52A08ED275B92EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401746"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van jeugdboekenschrijfster Miep Diekmann tijdens een bezoek aan de openbare lagere Graaf Florisschool (Graaf Florisstraat 4) te Everdingen (gemeente Vianen)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-09-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

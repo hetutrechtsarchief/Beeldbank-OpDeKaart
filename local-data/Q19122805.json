@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5596C9A5039B560AA625DCE047771A49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125681"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de met handbediende bomen beveiligde spoorwegovergang in de E. Meysterweg te Amersfoort, met links op de achtergrond de Vermeerstraat. Opmerking: De foto is gemaakt in opdracht van Veilig Verkeer Nederland."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

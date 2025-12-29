@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "96F1495071105E7C8868661B993765EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802627"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de educatieve tuin (schooltuin) aan de Vogelvlinderweg in het stadsdeel Leidsche Rijn te Utrecht, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A32E7830681B5E21B2DB57D663DF031F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802628"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de educatieve tuin (schooltuin) aan de Vogelvlinderweg in het stadsdeel Leidsche Rijn te Utrecht, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

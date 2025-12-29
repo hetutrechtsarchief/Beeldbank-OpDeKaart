@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "133728388BF15640A4BAA99D6973C7A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162290"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de voor sloop bestemde stoomlocomotieven nrs. 2118 (serie 2100), 8218 (serie 8200) en 7727 (serie 7700) van de N.S., met enkele poserende kinderen, op het terrein aan de Industriehaven te Utrecht.<ZR><ZR>N.B. Dit terrein heet tegenwoordig Nijverheidskade. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B05149BBE2C45940B375B54DF01FBA5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162376"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de voor sloop bestemde stoomlocomotief nr. 1913 (serie 1900) van de N.S. op het terrein aan de Industriehaven te Utrecht.<ZR><ZR>N.B. Dit terrein heet tegenwoordig Nijverheidskade. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-03-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

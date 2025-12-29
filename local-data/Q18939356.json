@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1F0200EFC71520BB5BD7DA9F9A43523"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116345"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op \u00e9\u00e9n van de bijgebouwen van het Rijksinstituut voor Volksgezondheid en Milieu (R.I.V.M., Antonie van Leeuwenhoeklaan 9) te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

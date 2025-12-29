@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CC782A4F12354A7A34EF1FF65BA436B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206532"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Nieuwe Molen (Mulderslaan 3) te Veenendaal met rechts de bijbehorende schuur. Opmerking: Tekening van Chris Schut gemaakt ca.1977-1982 in opdracht van het Provinciaal Comit\u00e9 Utrecht Monumentenjaar 1975 voor een map met 20 reproducties getiteld Hedendaagse tekeningen van de Utrechtse Heuvelrug en omstreken, uitgegeven in 1983 (Bibl. HUA DK2013-62)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

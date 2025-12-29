@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "144B29C3B6BF50D98FFFB72F0DE4682A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154633"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het station Laren-Almen van de Staatsspoorwegen te Laren. Opmerking: Gepubliceerd in: Gedenkboek Maatschappij tot Exploitatie van Staatsspoorwegen, 1863-1913, (bibl. HUA NS DF 14)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

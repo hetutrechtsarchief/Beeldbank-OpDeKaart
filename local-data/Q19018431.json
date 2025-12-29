@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "866E353284094BEFE0534701000A2E40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840931"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het in 1971 officieel geopende dorpshuis De Dissel (Disselplein 6) te Hooglanderveen: de bibliotheek. Opmerking: De dia bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 1279."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "866E3532840D4BEFE0534701000A2E40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840935"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het in 1971 geopende dorpshuis De Dissel (Disselplein 6) te Hooglanderveen: de bibliotheek. Opmerking: De dia bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 1279."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "866E3532840E4BEFE0534701000A2E40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840936"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van vermoedelijk medewerkers voor het in 1971 geopende dorpshuis De Dissel (Disselplein 6) te Hooglanderveen. Opmerking: De dia bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 1279."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

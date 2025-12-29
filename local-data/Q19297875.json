@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "469EE3B15DBB5D9697F99F4E6FCEB2BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22838"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een loods van Van Gend & Loos (Kernweg 1)  te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "821CF0773786507F9D08ED953C787056"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156441"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de loods van Van Gend & Loos (Kernweg 1) te Utrech, gebouwd door N.V. Het Spoorwegbouwbedrijf te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE51CC9B90C05D8CA7B999B13823094B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108100"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van een bedrijfsgebouw tussen de Reactorweg en de Atoomweg te Utrecht, vanaf de Kernweg. Opmerking: De foto maakt deel uit van de serie \"Stedelijke landschappen\" van fotograaf Luuk Kramer (1958) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

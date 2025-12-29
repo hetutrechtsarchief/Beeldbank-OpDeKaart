@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "67FDC274DE8E5942887808D96942A2AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19186"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Leeghwaterstraat te Utrecht met de huizen nrs. 12 (links) - lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75D18FD8CA195973A72A0F370BBC2202"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19187"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Leeghwaterstraat te Utrecht met de huizen nrs. 15 (rechts) - lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CA2D4AEDDF25BEC81AF5EB041E742EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19183"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Leeghwaterstraat te  Utrecht met links het huis nr. 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

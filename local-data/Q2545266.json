@@ -1,0 +1,3376 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DFA1F80AEE25F8396783BF686CE0578"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26355"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het noordelijk deel van de binnenstad van Utrecht, vanaf de toren van de Jacobikerk (Jacobskerkhof), uit het westen; op de voorgrond de voorgevels van enkele huizen aan de Oudegracht Weerdzijde met de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1897-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1898-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EBE50D6EB45F5D0683901BEE8C297DCA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42646"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de bebouwing aan de Oudegracht te Utrecht, tussen de Lange Lauwerstraat en de Jacobibrug, vanaf de toren van de Jacobikerk (Jacobskerkhof), uit het westen. Op de voorgrond de kap van de Jacobikerk en rechts op de achtergrond de Jacobijnenstraat. Opmerking: In 1979 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0095D385251A5BBDAB0C59D89C1457EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405626"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de vrijmarkt in de Jacobijnenstraat te Utrecht, tijdens de viering van Koninginnedag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "025C65B1627F551080E5B14B63024321"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52458"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Loeff Berchmakerstraat te Utrecht met de voorgevels van de huizen nrs. 50 (rechts)-lager; rechts op de voorgrond enkele huizen aan de Jacobijnenstraat en links tussen de huizen de ingang van de Breedstraat. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02E48FA8878E55FC9AD5F536DD7E63F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815969"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een dubbel venster in de voorgevel van het pand Jacobijnenstraat 11 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "057829D5A51B5F87A4B1436C476E0287"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116136"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Jacobijnenstraat 11 -13 te Utrecht, tijdens de restauratie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-04-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-04-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "060105490C265717944C42EED3095D8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53400"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevels van de huizen Loeff Berchmakerstraat 48-50 te Utrecht, uit het zuidzuidoosten met geheel rechts de hoek van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0606A7860AAA53EDAE536EB4EA0C9E12"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403713"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de Breedstraat (voorgrond), Loeff Berchmakerstraat (links), Jacobijnenstraat (achtergrond) en het Predikherenkerkhof te Utrecht, met \"voorrangsdriehoeken\" in het wegdek. Opmerking: Zie ook Nieuw Utrechts Dagblad, zaterdag 13 april 1957, blz. 3: \"Voorrang? Nou ja...!\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-04-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A07BCB482065B809F89C51FDAA84D90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21206"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het pand  Jacobijnenstraat 13 te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A5D31A17A535B6BAC7B2DE57357CC5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75244"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekhuis Predikherenkerkhof 2 (Foto-, Fil- en Kunstatelier \"Elf\") te Utrecht. Links de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BFAB673F0775B6DAEBB736F60AD9D3E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59027"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 9-11 te Utrecht; vanuit het noordoosten, met nr. 11 vooraan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DE7BCC2FBEE57FA9620F864E8AF21C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59046"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bovenste deel van de voorgevel van het huis Jacobijnenstraat 22 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E145196D2435B3B99630D872662A1EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601199"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van Slagerij F.A. van Beek (Jacobijnenstraat 1) te Utrecht met links slager F.A. van Beek en zijn zoon F. van Beek."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F4C076B8BD95CF8A89E7F51FF13A138"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59022"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacobijnenstraat te Utrecht met in hoofdzaak de zuidelijke straatwand met de huizen nrs. 1-hoger, vanaf de Oudegracht, uit het westen; rechts de voorgevel en de linker zijgevel van het huis Oudegracht 52."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10D3C147AC0D558E9B2E9C29F3104D74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812377"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: kaarsnis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "149BC77372ED564DB699D6F33EAF189B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69115"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekhuis Predikherenkerkhof 2 te Utrecht met links de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "16CFE779061B552290677C50A3CB5579"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35182"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Loeff Berchmakerstraat 48-50 te Utrecht vanuit de Breedstraat met rechts de zijgevel aan de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "196EBEB69EB65BDC90A85983011022D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pui van het pand Jacobijnenstraat 4 - 6 (Bar \"The Greek Night\") te Utrecht.<ZR><ZR>N.B. Rond 1880 was in het pand bakker R. Kleijn gevestigd; geen nadere gegevens bekend. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CCE8B325D435148B6014617BF47C90C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59030"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Jacobijnenstraat 11, links daarvan het gesloopte pand nr. 13, geheel links de voor- en zijgevel van het huis nr. 15 te Utrecht; uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24077733777E526AB533C9506802A2E0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601196"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de etalage van Slagerij Van Beek (Jacobijnenstraat 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24633F35AF1D5C39A3F60F6B6A96CACF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807517"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Loeff Berchmakerstraat 50 (J.N. Mulder Costumier) te Utrecht, vanaf het Predikherenkerkhof, met rechts ervan het pand Jacobijnenstraat 19. Opmerking: De originele foto bevindt zich in de Verzameling Losse Aanwinsten, toegangsnummer 1111-2, inv. nr. 151."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1890-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "256F209A851A58A28854490D53957EFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812375"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: schouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "296CFCE5C0A35805BA08B27DEA2F3E90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59036"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 17/17bis-19 te Utrecht; uit het noordwesten met rechts een deel van de voorgevel van het huis nr. 15/15 bis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F156765A39353AF9CCCF7B969C1864B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820838"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de onderpui van het pand Jacobijnenstraat 8 te Utrecht.<ZR><ZR>N.B. Tussen 1924 en 1930 was in het pand Banketbakkerij Gebr. Suister gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-07-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-07-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F6AD2781B305010A18C3E8B2BA0C898"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402115"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Eva Zegers in haar winkel in handbeschilderde t-shirts aan de Jacobijnenstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "346B5E174BBE50F29D18A88DBCFC7EDB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815953"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pui van het pand Jacobijnenstraat 16 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "380C731276CA599AB1FA77557EF4FC30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601198"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van F. van Beek in de slagerij van zijn vader, Slagerij F.A. van Beek (Jacobijnenstraat 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3DF95AF766835733B82BFF4DCD4EEB74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809342"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacobijnenstraat te Utrecht, uit het oosten, met links de in aanbouw zijnde huizen Jacobijnenstraat 4-18."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "412B96379E8955A1A62DBDF786D07AB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69158"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Predikherenstraat 31-25 en de zijgevel van het pand Predikherenstraat 32 te Utrecht, vanuit noordwesten. Rechts van het hoekpand Predikherenstraat 31 de voorgevels van de panden Breedstraat 1-11, links de ingang van de Loeff Berchmakerstraat. Links op de voorgrond de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "42E2E5011CED53A6A79C46C3024B8832"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "135273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de gevelsteen met de afbeelding van een vliegende engel met twee wapenschilden in de gevel van het huis Hoge Jacobijnenstraat Wijk H nr. 43 te Utrecht.<ZR><ZR>N.B. Het adres Hoge Jacobijnenstraat H 43 is later gewijzigd in Jacobijnenstraat 16. Opmerking: Tekening in een verzameling van gevelstenen en andere geveldetails aanwezig in Utrechtse huizen, getekend door N. van der Monde, circa 1840."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1839-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1844-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43DEAFB151AC5EED8E6876C5AEBC5434"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814250"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van het gerestaureerde pand Jacobijnenstraat 19 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43FD5D195F0A522DB90BA49902F809B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206841"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van een een te maken riool over de Hoge Jacobijnenstraat en van een overdekte waterloop over het Predikherenkerkhof te Utrecht. Opmerking: Anonieme tekening uit ca. 1760. Bij de tekening hoort een geschreven beschrijving van de kosten, nr. 2016842."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1755-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1765-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "45098498F32C5AE787BDF78F407528E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812374"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: voorkamer op de begane grond."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4610BB48FFAE57179CF0F844AAD1CA67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206842"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Beschrijving van de kosten van een te maken riool over de Hoge Jacobijnenstraat en van een overdekte waterloop over het Predikherenkerkhof te Utrecht. Opmerking: De beschrijving hoort bij een anonieme tekening uit ca. 1760, nr. 2016841."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1755-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1765-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4782C1E451A75399AB7FB0B0A519109B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 8-lager te Utrecht; met links de rechter zijgevel van het hoekhuis Oudegracht 50 uit het oosten met aan het eind de voorgevels van de huizen Oudegracht 45 en 47."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A2A8A2B52C65428AB9E066F396DB89F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21205"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Jacobijnenstraat 13-lager te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B322E7740C45BDFACFB5DB9A8AF572A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124741"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacobijnenstraat te Utrecht met rechts de huizen Oudegracht 52-54 en op de voorgrond de Jacobibrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B70D402DE4454E1ACEA33B33C219B44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66429"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 48-50 en de rechter zijgevel van het huis nr. 50 te Utrecht; rechts de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "517A3C297FDD501DB658F90674D0AD9C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69116"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacobijnenstraat te Utrecht met rechts het hoekhuis Predikherenkerkhof 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51F0D669FB41582EA6B0550AD80A5214"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85120"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijke deel van de binnenstad van Utrecht, uit het zuidwesten. Op de voorgrond de Oudegracht (gedeelte tussen de Zandbrug en de Viebrug), in het midden de Jacobijnenstraat met in het verlengde daarvan de Breedstraat. Rechts de Potterstraat en de Lange Jansstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "54CD6087BB2E5B2C92C672B043F86D7E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het resterende deel van de voorgevel van het pand Jacobijnenstraat 13 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55BCF08DB7A55DB79E45C38FE80CD074"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822875"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Lauwerhof en omgeving te Utrecht, uit het noordwesten. Centraal de watertoren (Lauwerhof 29), links de Van Asch van Wijckskade met de Van Asch van Wijckbrug en de Stadsbuitengracht, van rechts omhoog lopend de Jacobijnenstraat overgaand in de Breedstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5853D7CC116955359C671A054B475321"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59047"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat  22-lager te Utrecht; rechts het huis nr. 22."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5ADC3A9B33515CA184E6002663730366"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66519"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen Oudegracht 62-56 te Utrecht en rechts de achterzijde van enkele huizen aan de Jacobijnenstraat. Op de voorgrond de parkeerplaats aan de Pauwstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B06E017619352628F12618DE3B08973"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59043"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Jacobijnenstraat 16 te Utrecht; v\u00f3\u00f3r de renovatie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5DDF5C02C3D85A5FA12DA15E1E80E183"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53404"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Loeff Berchmakerstraat te Utrecht met de huizen nrs. 50-lager, uit het noorden; rechts de hoek van de Jacobijnenstraat en links vooraan de stoep en de ingang van het huis Predikherenkerkhof 3, daarachter de voorgevel van het huis Predikherenkerkhof 1 met daarachter de linkerzijgevel van het huis Breedstraat 2 met de ingang van de Breedstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E2A939CD483537F8DB04F492FB5F688"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817023"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pui van het hoekpand Oudegracht 52  te Utrecht; links de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FA1DF90A5D15A4B9D34E8C905F8D2EB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59024"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 5-7 (links) te Utrecht, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61843A65C2CE5EE99C328AB7B5C07610"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601197"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee voor de slacht bestemde paarden voor de Slagerij Van Beek (Jacobijnenstraat 1) te Utrecht met v.l.n.r. slager F.A. van Beek, meesterkencht Dirk en F. van Beek (vader van F.A. van Beek)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1926-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61E1315DBD3B53F3AC336620D70B39B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53398"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Loeff Berchmakerstraat 48-50 te Utrecht; rechts gezicht in de Jacobijnenstraat met de zuidelijke straatwand (nrs. 19-lager)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BC2DF6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "42874"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Loeff Berchmakerstraat 48-50 te Utrecht. Rechts de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1923-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1923-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BE6DF6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66444"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 52-54 te Utrecht, met in het midden de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1932-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC90A6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "836285"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Jacobibrug over de Oudegracht te Utrecht, bij avond, tijdens winterse omstandigheden, met op de achtergrond de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-12-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-12-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "664AA2DF5B4C5D6094F383BCB4F5A123"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66514"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 52-54 te Utrecht, met links een gedeelte van de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "671F7CE08E99589592160B9A7C8C4625"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59021"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacobijnenstraat te Utrecht met de huizen nrs. 1-15, uit het noordoosten, in de richting van de Oudegracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "70F4FBBEFD9455BA8B07B434FD1DA09C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812383"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: badkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "72404E58F4235706AC19B039D369640B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59038"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Jacobijnenstraat 4 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75647D33022250AF976C80B64E0B98BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812378"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: voorkamer op de 1e verdieping."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "770922F0086B59A2A280768868836A52"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813229"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Jacobijnenstraat 5 en hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AFB1A5C58365771AA3F923E80D5F264"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812373"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: voorkamer op de 2e verdieping."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85076B2251D156C89A2EE44B71BBF827"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116323"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Jacobijnenstraat 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87302002D8C357DE846430F1668F1C82"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116324"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: schouw."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D0D66D7472759E783DDFB9888721882"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822873"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Lauwerhof en omgeving te Utrecht, uit het zuidwesten. Centraal de watertoren (Lauwerhof 29), op de voorgrond links de Oudegracht, met vandaar naar rechts de Jacobijnenstraat overgaande in de Breedstraat; op de achtergrond de Stadsbuitengracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D4CA5FE9F7D5705B6533CDDEF279F89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812382"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: zolderkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9177C28E32C354078CDEBD671EA37CC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59028"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 9-19 te Utrecht;  het oostelijk deel van de zuidelijke straatwand, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "928C357823AA5FA3B50FF089CFFA81F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66428"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 48-50 te Utrecht; links nr. 48 en de voorgevel en rechter zijgevel (van nr. 50) uit het zuidwesten met rechts daarvan gezicht in de Jacobijnenstraat met de voorgevels van de huizen nrs. 2-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9335D36C345E5CB4BFB5F139BECB925A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59040"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 10-hoger te Utrecht; links nr. 10.<ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR>Gezicht op de voorgevels van de huizen Jacobijnenstraat 10-hoger te Utrecht; links nr. 10."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9712885FD8FA5892AA01359AFB3E699D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69182"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Predikherenstraat 31-23 te Utrecht, vanuit het noordwesten. Links de voorgevel van het pand Breedstraat 1. In het midden de zijgevels van de panden Predikherenstraat 32 (links) en Loeff Berchmakerstraat 25 (rechts) en de ingang van de Loeff Berchmakerstraat. Rechts de hoek van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "971867780C815F18B201ABC8C7212850"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98AD52960AEF581C9C1F3909D315CF2D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59023"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacobijnenstraat te Utrecht met in hoofdzaak de zuidelijke straatwand met de huizen nrs. 3-hoger, uit het westen; rechts een deel van de voorgevel van het huis nr. 1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A3F528CF90B57FF940CAF27229A1FD0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52418"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Jacobijnenstraat te Utrecht met de huizen nrs. 19-lager; links het huis nr. 19. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A99B1B5D8465F10A80E56570FBA1A1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59031"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 13-lager te Utrecht; westelijk deel van de straat met in hoofdzaak de huizen van de zuidelijke straatwand, uit het oosten, het uitgebrande huis vooraan is nr. 13."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D3FDB60E92E584A9F877789C69CE5B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Loeff Berchmakerstraat 50 (J.N. Mulder Costumier) te Utrecht, met rechts de Jacobijnenstraat en links het pand Loeff Berchmakerstraat 48. Opmerking: De originele foto bevindt zich in de Verzameling Losse Aanwinsten, toegangsnummer 1111-2, inv. nr. 151."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A361640EA00453F19D225ADB3D56468D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53405"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechter zijgevel van het Historisch Kostuum Museum (Loeff Berchmakerstraat 50) te Utrecht met rechts de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A77E17F97ADA5AEC9B294B481731964C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Jacobijnenstraat 12 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A96E7871C8535EBC92225977C84B3B18"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59041"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 14-hoger te Utrecht; links het huis nr. 14.<ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR><ZR>Gezicht op de voorgevels van de huizen Jacobijnenstraat 10-hoger te Utrecht; links nr. 10."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACFDF068F80D55EF8F7551B262AB1B16"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812371"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: deel van de kapconstructie op zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD1C6DE8B4E051F1A942D0CFF66D311D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805849"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de huizen aan de Jacobijnenstraat (voorgrond) en Pauwstraat (midden) te Utrecht, vanaf de Watertoren bij het Predikherenkerkhof (Lauwerhof 29); rechts de achtergevels van enkele huizen aan de Oudegracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-08-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-08-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD566E268A7355329EA3D990315214F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812384"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van de zolderverdieping van het huis Jacobijnenstraat 2 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AED4885833DE5658A6AB01F26541B186"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht   40-50 te Utrecht; met rechts de Jacobijnenstraat vanuit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF58A827C3DF5C34837CA8FA9CC06FE8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820533"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Jacobijnenstraat 4 - 6 (Bar \"The Greek Night\") te Utrecht.<ZR><ZR>N.B. Rond 1880 was in het pand bakker R. Kleijn gevestigd; geen nadere gegevens bekend. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AFDDAA28323C56709AE6D4FFD9C3D5A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815956"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de zijgevel van het pand Oudegracht 52 in de Jacobijnenstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B0D32165CBED5A0283C87CA218186F06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820837"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Jacobijnenstraat 8 te Utrecht.<ZR><ZR>N.B. Tussen 1924 en 1930 was in het pand Banketbakkerij Gebr. Suister gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-07-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-07-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B0EA5C02540F58EEBB5F4E71D63B362F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812380"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: zolderkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3F002D9398551B98BCB6AFE0390B890"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813226"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Jacobijnenstraat 11 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B4C7B54E5AC155668EAD88B6C2169A7C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59020"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Jacobijnenstraat 1 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B87A695357BA5A92A18CB4F54DF5A182"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815970"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het deels gesloopte pand Jacobijnenstraat 13 te Utrecht; rechts de panden Jacobijnenstraat 11 -lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BAB8C819C8C45DBD8B48F29C8D47E531"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812376"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: kapconstructie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C14EF26CB7FE54079985EB2D2D69CBFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59025"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Jacobijnenstraat 7 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C19116D56AA55E46AC4F04AD624285B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Jacobijnenstraat 3 (rechts) - hoger te Utrecht, op de achtergrond de Breedstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C33D219B79A0509D926FBD8809806F3F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822874"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Lauwerhof en omgeving te Utrecht, uit het westen. Centraal de watertoren (Lauwerhof 29), op de voorgrond de Oudegracht, met vandaar  rechts omhoog lopend de Jacobijnenstraat overgaande in de Breedstraat, links de Van Asch van Wijckskade en de Stadsbuitengracht"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4419BD945765B7086251A8A0B38FFF5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809397"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 11 (rechts) en 13 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC0BE4591FF153629D6E40D64049595F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59033"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de resten van de voorgevel van het uitgebrande huis Jacobijnenstraat 13 te Utrecht; uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CDBACEDDFA5E54DF8FC13C7E82D5B408"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Loeff Berchmakerstraat 44 (links)-50 te Utrecht, vanaf de Breedstraat (voorgrond), uit het oosten; rechts van het huis nr. 50 gezicht in de Jacobijnenstraat met geheel rechts het begin van het Predikherenkerkhof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE7AD87028CA545D92A83313BCE1717E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66430"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Oudegracht 50 te Utrecht; rechts de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D101688AD2695B53858E498315B4822F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22795"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Loeff Berchmakerstraat 48-50 te Utrecht met rechts de Jacobijnenstraat. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D1449184261152B5AF57B3E3BC0849CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822380"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Jacobijnenstraat 9 (links) - lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D25B9941948054C89AC27BE74E11C2AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66516"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 52-56 te Utrecht, met links de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D340E6E457795969848E213F16CACAAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812372"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: trap."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D49FDF250D8D57AAB775C07FAE6B5855"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66515"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 52-54 te Utrecht, met links een gedeelte van de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D57826FE7C575B85B438771847A94EE6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809175"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de plek van het uitgebrande en gesloopte pand Jacobijnenstraat 13 te Utrecht, met de zijgevel van het huis Jacobijnenstraat 15."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-08-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-08-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D57EA12A05F45825975D6E848602BD45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59035"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Jacobijnenstraat 15 te Utrecht; uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DAE9D4593DB0503283AE28E86C7ACB55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59034"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van  de huizen Jacobijnenstraat  13/13A-15 te Utrecht; rechts het huis nr. 13."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DC4F086BEAA1530A963EFB672A5C805D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809176"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de funderingen van het uitgebrande en gesloopte pand Jacobijnenstraat 13 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-08-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-08-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DCEADCCF384957C8B4E995410912C1CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59029"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Jacobijnenstraat 11 te Utrecht; uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E11811E65A6A53098AF172EA25BB40D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59045"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 16-hoger te Utrecht; links nr. 16."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E23A5721B66C5CD398D54DFB1F1DE965"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59026"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Jacobijnenstraat  7-7bis  te Utrecht; uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-05-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-05-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E32A8902ACFE518C8B7B860BA0C7A0E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53403"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Loeff Berchmakerstraat 50 te Utrecht, uit het oosten met enkele huizen aan de zuidzijde van de Jacobijnenstraat. Opmerking: Uit: Utrecht in woord en beeld 1939."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5041F654BD95E71B125CC722EEA87F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "66513"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 50-54 te Utrecht, met links een gedeelte van de Jacobibrug; in het midden de ingang van de Jacobijnenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E596E5307F6354E1BCB026F88EF2902A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401683"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van het echtpaar Kooyman in hun winkel voor Delfts blauw aardewerk (Jacobijnenstraat 17) te Utrecht. Opmerking: Zie ook Utrechts Nieuwsblad, 29 mei 1986: \"Kooymans zien geen brood meer in Jacobijnenstraat\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5C2988A38605861B306F7309D35A07A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59044"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 16-18  te Utrecht; gezien vanuit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E766DFEF90EA597DB0AC4D190FBBD577"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de plek van het uitgebrande en gesloopte pand Jacobijnenstraat 13 te Utrecht, met rechts de zijgevel van het huis Jacobijnenstraat 15 en links de voorgevels van de huizen Jacobijnenstraat 16 en 18."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-08-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-08-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E777317ACF13575AA1D2972EE41DDD86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59042"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de gevelsteen in het huis Jacobijnenstraat 16 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE90406983B15AEAA3CD679C798CA99E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59032"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de resten van de voorgevel van het uitgebrande huis Jacobijnenstraat 13 te Utrecht; vanuit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0745CF122575F6A88A40D07FE0A37F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59019"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen aan de noordzijde van de Jacobijnenstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F154B4F81D5C5DE3BAF1AB17F5E9A72E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812385"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: trap."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5DCE4CAAC8E5B14841913F049E27DAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59037"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Jacobijnenstraat 2 -6  te Utrecht; links het huis nr. 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F858E5DDF6F35EC68025EEEE4E868D53"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814251"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Detail van de voorgevel van het gerestaureerde pand Jacobijnenstraat 19 te Utrecht: voluut."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9A6A179196E562989AFB9C391F2BD14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814249"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bovenste deel van de voorgevel van het gerestaureerde pand Jacobijnenstraat 19 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-03-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC397EB68B71516880992C6185897FC0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812379"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het huis Jacobijnenstraat 2 te Utrecht: voorkamer op de 1e verdieping."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-05-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

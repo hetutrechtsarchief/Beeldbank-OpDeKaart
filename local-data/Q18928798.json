@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "42F0DA5DD9D65DAE83956B8760F7ADE7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18578"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijgevel van het huis Abraham Keerstraat 32 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81DF0E343EC56374E0534701000A017B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee aangemeerde vrachtschepen (de 'Louise\" en de 'Sterna') langs de Jutfaseweg te Utrecht, met op de achtergrond de achtergevels van huizen aan de Abraham Keerstraat. Opmerking: De foto is gemaakt in opdracht van het Hoogheemraadschap de Stichtse Rijnlanden, vanwege de vervuiling van de wateren in en rond de stad Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-09-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B99F1FD4FAA15F8EBA62279198752493"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18577"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een huis in de Abraham Keerstraat te Utrecht met rechts op de achtergrond enkele huizen aan de Vaartscherijnstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C679730728A75ADE8FFBF3B09DD61FA1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18600"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Abraham Keerstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-04-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

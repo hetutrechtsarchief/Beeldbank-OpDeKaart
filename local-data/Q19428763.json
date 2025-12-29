@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7995184768335F299AA18A00D340F99D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Postmalaan 18 (links) -34 te Utrecht. Opmerking: Digitale reproductie. De originele foto bevindt zich in het archief van de Dienst Bouwen en Wonen (toegangsnummer 1386), voorlopig inv. nr. F262-5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D3B9101E56C5D27A150E97A1327F46E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "45200"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Postmalaan (Transwijk) te Utrecht, uit het zuiden. Opmerking: Circa 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6403B41A7735FB08FCC54A3B3CDB25B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kinderspeelplaats aan de Egginklaan te Utrecht, met links enkele huizen aan de Postmalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-09-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-09-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

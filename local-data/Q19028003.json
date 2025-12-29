@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "075AB53E724D59C8B5E785359C2C15D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19233"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Dr. Schaepmanplein nrs. 2 (links)-8 te Utrecht; rechts op de achtergrond enkele voorgevels van huizen aan de Jan Overdijkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F61A37DDEFD5F5CA03829C8B716198D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405769"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kinderspeelplaats op het Dr. Schaepmanplein te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

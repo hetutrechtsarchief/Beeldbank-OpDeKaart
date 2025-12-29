@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2115E8E14FC25868AABB1C8C3C9E0417"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55324"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Cicerolaan 11 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB4D342196D45CEEA7B45028BA52024A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822335"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Weg tot de Wetenschap te Utrecht naar het noordoosten ter hoogte van de kruising met de Platolaan (links); op de achtergrond geluidswerende schermen achter de huizen aan de Cicerolaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

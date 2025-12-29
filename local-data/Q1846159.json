@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F049FE217FE5912B563CA03C2432F34"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220419"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.B.D.S.-station Oeffelt te Oeffelt. Opmerking: De afbeelding is afkomstig uit het album \"N.B.D.S. - De Noord-Brabantsch-Duitsche Spoorwegmaatschappij in Beeld\", ca. 1910."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1908-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

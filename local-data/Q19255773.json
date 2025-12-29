@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE852BA8C7DA5F8E850BB400583DCE28"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13740"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Hoofdweg Derde Bedijking met bebouwing te Mijdrecht.  <ZR> <ZR>N.B. De gemeente Mijdrecht is per 1 januari 1989 opgenomen in de nieuw gevormde gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

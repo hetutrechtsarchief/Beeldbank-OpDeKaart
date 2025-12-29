@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "19B7001655F95EA38BC762A98F1F79C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5722"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van een rij bejaardenwoningen aan de Karel Martelstraat te Wijk bij Duurstede uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F5D6E3BF1315BFEB4A785391024E4B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5721"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Karel Martelstraat te Wijk bij Duurstede uit het zuidwesten, met links de voorgevels van een rij bejaardenwoningen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

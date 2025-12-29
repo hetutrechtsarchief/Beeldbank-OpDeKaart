@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1207374D531E5B648FF8315FCAD0713E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11681"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sint Jorisstraat met bebouwing en op de  Onze Lieve Vrouwetoren te Amersfoort uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB625C3C94AD543BACE1CCC964F9969A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400053"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de St. Jorisstraat te Amersfoort, vanaf het Westplantsoen, met op de achtergrond de Onze Lieve Vrouwetoren. Opmerking: Fotonummer V 41-728<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-10-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-10-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

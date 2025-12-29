@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "239845042C1B5B33B1016A5B63408E5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van de N.H. Noorderkerk aan de Laurillardlaan 6 te Bilthoven uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "509BF6522A6E5481B1BDA4BC7C1AA753"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Laurillardlaan te Bilthoven uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61AF0EE7DD9556A08B3F24D0DB8EBB1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8535"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en linkerzijde van de N.H. Noorderkerk aan de Laurillardlaan 6 te Bilthoven uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

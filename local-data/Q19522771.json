@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29BBB7E5792652B98BB7072F3DF59E14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56698"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Flamingostraat te Utrecht met de huizen nrs. 3-lager; links op de voorgrond de ingang van de Snipstraat en op de achtergrond enkele huizen aan de Albatrosstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D1DF513C79452FDBDACD3C0D370E7C9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19819"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Snipstraat 19-lager te Utrecht met op de achtergrond de Flamingostraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9995A32B65365E0D94E5E88A77A7ED25"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19818"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Snipstraat 16-lager te Utrecht met links op de achtergrond de Flamingostraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E5B9D9117B865CAC845E8A7C0D378DC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126840"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Groepsportret van de leden van de buurtvereniging De Snip voor aanvang van een 12-daagse busreis naar Zwitserland ter gelegenheid van het 25-jarig bestaan van de vereniging.<ZR><ZR>N.B. De vereniging De Snip bestond uit bewoners van de Snipstraat en de Pelikaanstraat te Utrecht. Opmerking: Zie ook Utrechtsch Nieuwsblad, zaterdag 19 juli 1969, blz. 2: \"We zijn een echte vriendenclub\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-07-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3960D9DA0D7B5E4290BEC1FF9C0C2F2B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5715"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het bejaarden- en verzorgingshuis Ewoud- en Elisabethgasthuis (Gansfortstraat 8) te Wijk bij Duurstede uit het oosten; met op de voorgrond een speeltoestel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "675AA19020D2549A8513A76A63AE5C6A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5714"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het bejaarden- en verzorgingshuis Ewoud- en Elisabethgasthuis (Gansfortstraat 8) te Wijk bij Duurstede uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9250B0034D0C5DF0882A302459C52301"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5713"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het bejaarden- en verzorgingshuis Ewoud- en Elisabethgasthuis (Gansfortstraat 8) te Wijk bij Duurstede uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

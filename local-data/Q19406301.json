@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C9929E3CB545CD6BE23D5B72CE7316A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14446"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Parklaan met bomen en op het plantsoen Parklaan / Nieuweweg te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F28ACCE29CE55E9B8FFCAB11F92D193"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14525"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van het kamphuis De Lichthoek (Parklaan 9) te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

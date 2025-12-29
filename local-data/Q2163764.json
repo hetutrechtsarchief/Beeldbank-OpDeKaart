@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "16AD86F769DF543185A430B226DB626F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825658"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Reykjavikplein te Utrecht, met links een deel van het kantoorgebouw van CapGemini en rechts het N.S.-station Utrecht Leidsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "26FD38BAD0825C8AB415E938575430F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825662"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein voor het toekomstige Leidsche Rijn Centrum, uit het zuiden, met op de achtergrond het N.S.-station Utrecht Leidsche Rijn en het kantoorgebouw van CapGemini aan het Reykjavikplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2BD1A42172BE5BC89A44E076E1ECF31D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834546"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Utrecht Leidsche Rijn aan de Vleutensebaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F876E8292DA517CB195CE44C324275F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834711"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorlijn tussen het N.S.-station Utrecht Leidsche Rijn en de Vleutensespoorbrug, met in het midden de ruimte voor het derde en vierde spoor en de toekomstige nieuwe, tweede spoorbrug. Rechts de Hogeweidebrug en de Vleutensebaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E59AF9E9D0A5FBF9C2D1E95916F785A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825660"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein voor het toekomstige Leidsche Rijn Centrum, uit het zuiden, met op de achtergrond het N.S.-station Utrecht Leidsche Rijn, het kantoorgebouw van CapGemini aan het Reykjavikplein en de electriciteitscentrale van NUON (Atoomweg 9)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E9BDEBF54CC5D109D4EE02B8DC3C2FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834741"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama van de perrons en sporen van het N.S.-station Utrecht Leidsche Rijn te Utrecht, met links de Vleutensebaan en het in aanbouw zijnde Leidsche Rijn Centrum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "449695B3FEA152329E19B1CD953204BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834715"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de A2 te Utrecht (Leidsche Rijn), vanaf het perron van het N.S.-station Utrecht Leidsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "480BB0B01A955953BC0EC65FC1D058DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834755"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sporen bij het N.S.-station Utrecht Leidsche Rijn te Utrecht, met links op de achtergrond de Vleutensespoorbrug en rechts de Hogeweidebrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A097FB2939C55C999E32AA67FA7BA61"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834747"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Utrecht Leidsche Rijn te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "64932C460C835B24B3A0398971AF13C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834543"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Utrecht Leidsche Rijn te Utrecht, met op de voorgrond het in aanbouw zijnde busstation aan de Vleutensebaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68E1F46E4DFB56B4AC71B4DEE9663375"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834714"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een trein bestaande uit twee gekoppelde electrische treinstellen VIRM van de N.S. op de spoorlijn bij het N.S.-station Utrecht Leidsche Rijn, met op de achtergrond de Vleutensespoorbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F401E50D98B5FF69E95C48FDA006389"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834705"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Utrecht Leidsche Rijn te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "717C1693D3FD57D5ABC62A127CCC8B64"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834756"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een naderende intercity bij het N.S.-station Utrecht Leidsche Rijn te Utrecht, met links op de achtergrond de Vleutensespoorbrug en rechts de Hogeweidebrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "775F75E0218E5436B7C1DB1D30911ABD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825657"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het N.S.-station Utrecht Leidsche Rijn te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A87D8D5FDC0591BE0534701000A27BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833973"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde winkelcentrum Leidsche Rijn Centrum aan het Brusselplein te Leidsche Rijn (gemeente Utrecht), vanaf de Vleutensebaan bij Station Utrecht Leidsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A88A83E3593252AE0534701000A0B51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833970"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele pilaren tegenover Station Utrecht Leidsche Rijn, bij de in aanbouw zijnde busterminal Leidsche Rijn Centrum te Leidsche Rijn (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A88A83E35A3252AE0534701000A0B51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833971"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde winkelcentrum Leidsche Rijn Centrum aan het Brusselplein te Leidsche Rijn (gemeente Utrecht), van bij Station Utrecht Leidsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A88A83E35B5252AE0534701000A0B51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833972"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de glazen pui van Station Utrecht Leidsche Rijn langs de Vleutensebaan te Leidsche Rijn (gemeente Utrecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83306C18181A5B149AA3758DF0503D74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834707"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het N.S.-station Utrecht Leidsche Rijn te Utrecht, met een passerende trein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "849DA876000D599C86F0EB79280E5777"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834665"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama (180 graden) vanaf het perron van het N.S.-station Utrecht Leidsche Rijn te Utrecht in oostelijke richting, met links het industrieterrein Lage Weide."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "855274DA559957F19117198A435D0E36"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834713"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een trein op de Vleutensespoorbrug te Utrecht, gezien vanaf het perron van het N.S.-station Utrecht Leidsche Rijn te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85A55DC2A6D2E4D9E0534701000A019F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840733"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bebouwing van Leidsche Rijn Centrum in Leidsche Rijn (gemeente Utrecht) van bij de Hogeweidebrug. Vanaf links de bebouwing rond het Brusselplein, centraal de overkapping van busstation Leidsche Rijn en rechts station Utrecht Leidsche Rijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F5CAFEB020953598C5F0A7D4EFB8CFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834752"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Reykjavikplein te Utrecht (Leidsche Rijn), vanaf het perron van het N.S.-station Utrecht Leidsche Rijn, met rechts het kantoorgebouw van Capgemini (Reykjavikplein 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A35DB995A66553FBA61333974B1618D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834742"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama van de perrons en sporen van het N.S.-station Utrecht Leidsche Rijn te Utrecht, met links de Vleutensebaan en het in aanbouw zijnde Leidsche Rijn Centrum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3B633D9A47851B287CAB249DF958E4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834708"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een trein langs het perron van het N.S.-station Utrecht Leidsche Rijn te Utrecht, met rechts de in aanbouw zijnde busbaan langs de Vleutensebaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA3D47F4429F5E938FC7DB03E8DAF08F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834712"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een trein op de Vleutensespoorbrug te Utrecht, gezien vanaf het perron van het N.S.-station Utrecht Leidsche Rijn te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ACCA32CD14595726ADD1AF7C3985C6D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834709"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een vertrekkende treinv op het N.S.-station Utrecht Leidsche Rijn te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5B9D93892755A519739373709D1D522"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834716"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het restaurant Meet & Eat (Thoriumweg 1) te Utrecht, vanaf het perron van het N.S.-station Utrecht Leidsche Rijn, met rechts het tankstation Tinq (Atoomweg 2) en op de achtergrond de electrische centrale van Eneco (Atoomweg 9)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8969FCC7BA755BCAA4949D8CEE000FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834483"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama vanaf het einde van het perron van het N.S.-station Utrecht Leidsche Rijn te Utrecht in oostelijke richting, met links de spoorlijn Utrecht-Gouda en geheel rechts de bouwkranen voor het in aanbouw zijnde Leidsche Rijn Centrum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD4E0811BA85530BAB461EA247749077"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834666"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama (180 graden) vanaf het perron van het N.S.-station Utrecht Leidsche Rijn te Utrecht in noordoostelijke richting, met links de A2 en in het midden het industrieterrein Lage Weide met het restaurant Meet & Eat Utrecht (Thoriumweg 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DF90AB27170E5E928506683B0E4F3E34"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834710"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons en sporen van het N.S.-station Utrecht Leidsche Rijn te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E32DE8E033275248AF36DBF1F66FC146"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834667"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama (180 graden) vanaf het perron van het N.S.-station Utrecht Leidsche Rijn te Utrecht in oostelijke richting."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F08162F09DF85DE0A6BE973F43C85064"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "825656"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorlijn ter hoogte van het N.S.-station Utrecht Leidsche Rijn te Utrecht, met rechts de parkeergarage aan het Reykjavikplein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-01-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F813E25F0CC15A5DB1BAD45AD34582BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Utrecht Leidsche Rijn te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

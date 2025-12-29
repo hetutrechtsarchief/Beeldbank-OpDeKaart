@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6645504819505DFBA817A99E73DBB4B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402755"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de restanten van een kar (een z.g. ijzeren hond) na een aanrijding met een trein op de spoorwegovergang in de Kampjesweg te Rhenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-09-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-09-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

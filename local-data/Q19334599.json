@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E6C40B9F42F59729805814A68719A09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806489"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de verlaten gebouwen van de faculteit Diergeneeskunde van de Universiteit Utrecht aan de Yalelaan (voorgrond) en de Marburglaan (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C6B169829E15D4E8389B6512FB2E475"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806488"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het universiteitscentrum De Uithof te Utrecht, uit het oosten, vanaf de M\u00fcnsterlaan, met vooraan de verlaten gebouwen van de faculteit Diergeneeskunde van de Universiteit Utrecht aan de Yalelaan en de Marburglaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

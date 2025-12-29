@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CBC5BB6AABC5F65AE073047E0CAE124"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822589"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Oudegracht te Utrecht vanaf de Maartensbrug naar het zuiden; links de Lichte en Donkere Gaard en rechts achtergevels van panden aan de Lijnmarkt"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-08-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-08-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

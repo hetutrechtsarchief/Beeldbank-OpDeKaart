@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FF98C0B73DD70F7E0534701000A97DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835322"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de Loosdrechtse Plassen te Loosdrecht (gemeente Wijdemeren, Noord-Holland), met links de Bloklaan en Veendijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2002-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2002-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9ABA1F7391EE54B48E38007C91B912FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93600"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Verticale luchtfoto van het westelijke gedeelte van de Loosdrechtse Plassen te Loosdrecht uit het westen; met in het midden Fort Spion, de Bloklaan en de Drecht, rechtsonder een gedeelte van de Polder  Mijnden.<ZR><ZR>N.B. De gemeente Loosdrecht is per 1 januari 2003 opgenomen in de nieuw gevormde gemeente Wijdemeren (N.-H.) Opmerking: Een in 1990 gemaakte afdruk een in ca 1925 vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C769A2E5BCBA58318116D92DEAF8AF10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het recreatiecentrum Mijnden (Bloklaan 22A) te Loosdrecht; op de achtergrond Loenen (gemeente Loenen aan de Vecht) en links de Mijndensesluis.<ZR><ZR>N.B. In januari 2002 werden Loosdrecht, 's-Graveland en Nederhorst den Berg en samengevoegd tot de gemeente Wijdemeren (provincie Noord-Holland)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

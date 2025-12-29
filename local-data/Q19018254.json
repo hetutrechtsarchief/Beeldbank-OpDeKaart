@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA54A1DC625E5E9781634902BBBF5232"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5716"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de flatgebouwen aan de Dirk Fockstraat te Wijk bij Duurstede uit het zuiden; met op de voorgrond een zandbak."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

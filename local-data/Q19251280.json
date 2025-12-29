@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "866E353283FF4BEFE0534701000A2E40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840921"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een deel van het interieur van het in 1969 geopende Dorpshuis 'Ons Gebouw' (Hessenweg 214) te Achterveld. Opmerking: De foto bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 1278."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-04-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D6A88448C08B5D60B1F19B32B40E5B1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24744"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Parochiekerk van de Heilige Jozef (Hessenweg 325) te Achterveld (gemeente Leusden)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

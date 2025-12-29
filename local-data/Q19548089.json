@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09AE147DC9AD53A29EC076DA7559E29C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95352"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het klooster St.-Joseph (Steenhoffstraat 46) te Soest; met op de voorgrond  enkele kinderen bij hooischelven. Opmerking: Een in 1987 gemaakte reproduktie van een in ca 1870 vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1870-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1875-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34A085839CE152AEBDD6BA726FA3A15B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94507"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van een blok winkels met woonhuizen (Steenhoffstraat 13 (ged.)-15a) te Soest uit het zuidwesten. Opmerking: Lit. MIP Soest, p. 262."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D10159E4715542A956B691DB0AF9CDD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94506"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van een blok winkels met woonhuizen (Steenhoffstraat 13-15a) te Soest uit het noordwesten. Opmerking: Lit. MIP Soest, p. 262."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90F98A88C3B35509BCBEBF9E35EB0C71"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94505"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kiosk van het gemeentelijk informatiecentrum (Steenhoffstraat) te Soest; met links de voor- en rechtergevel van een herenhuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

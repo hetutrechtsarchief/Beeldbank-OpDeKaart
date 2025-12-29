@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7ABA6BC9FABB4E1CE0534701000AE1F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838140"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Neerlandiakade te Utrecht, met o.a. de tot appartementen verbouwde fabriek van de N.V. Draadindustrie \"Neerlandia\", vanaf de Zeehaenkade. Op de voorgrond het Merwedekanaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2C852F3DECC506D99DCA959F062850C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822910"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de nieuw gebouwde huizenblokken aan de Neerlandiakade te Utrecht.<ZR><ZR>N.B. Deze huizen zijn gebouwd op het terrein van de voormalige N.V. Draadindustrie Neerlandia aan de Verlengde Hoogravenseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-02-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

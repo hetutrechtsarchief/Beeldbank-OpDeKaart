@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4007920A635051F38D74CC080FE5A354"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118765"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen in de Prof. Pullelaan te Maartensdijk.<ZR><ZR>N.B. Deze straat is per 1 januari 1954 bij de gemeente Utrecht gevoegd. Opmerking: De afbeelding bevindt zich in Bibl.HUA LXV A 124, Gedenkboek N.V. Verzekeringmaatschappij St. Petrus, 1921-1946, blz. 26. De huizen zijn eigendom van de verzekeringsmaatschappij St. Petrus."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

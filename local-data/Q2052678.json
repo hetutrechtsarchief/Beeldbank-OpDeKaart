@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02515B3BD15D56FEAEA65387E8AC0889"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163364"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het machinistenhuis van de stoomlocomotief nr. 3902 (serie 3900) van de N.S. op de tentoonstelling \"100 jaar Spoorwegen in Nederland\" op het Frederiksplein te Amsterdam. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Reproductiefoto"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86F815251F1F5E01B0FA02BD00E8111F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163363"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 3902 (serie 3900) van de N.S. met enkele rijtuigen op de tentoonstelling \"100 jaar Spoorwegen in Nederland\" op het Frederiksplein te Amsterdam. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Reproductiefoto"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8859D39B356156C58F3093FE49B9B131"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163365"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de prijsuitreiking van de wedstrijd \"Dieselmodellen\", georganiseerd door de N.S., op de tentoonstelling \"100 jaar Spoorwegen in Nederland\" op het Frederiksplein te Amsterdam. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

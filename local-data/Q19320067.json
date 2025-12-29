@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5E78EEC2321A5044B769457260D632D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89266"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het noorden op de Ringkade en op de Lange Vliet  te De Meern (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A435706D84255B44A711A911CDA1DC81"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "214123"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gedeelte van een kaart van het waterschap Heycop met het afwateringsgebied de Lange Vliet; met weergave van wegen, watergangen en waterstaatkundige objecten en bebouwing in opstand, waaronder de stad Utrecht en een aantal huizen en kastelen. Opmerking: Fotoreproductie van een kaart door Dammis de Hoy uit ca 1650. <ZR>De originele kaart bevindt zich in het RHC Rijnstreek en Lopikerwaard, Archief van het waterschap Heicop, inv. nr 103-2.<ZR>Met uitvoerige getypte toelichting."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1650-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1650-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

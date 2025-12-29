@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3274DF6C8AC752BABEEDF1255B47E158"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803277"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het in aanleg zijnde universiteitscentrum De Uithof te Utrecht, uit het zuidoosten, met links de in aanbouw zijnde Faculteit Diergeneeskunde (Yalelaan 1) en op de voorgrond de Limalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CDB034EE1E9F5BF38A15E66A23F08278"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803276"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de in aanbouw zijnde gebouwen van de Faculteit Diergeneeskunde (Yalelaan 1) in het universiteitscentrum De Uithof te Utrecht, uit het zuidoosten, met op de voorgrond de Limalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEE57898DFDD556B9EDAC4755CADA637"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "806497"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een stal en een weiland met enkele paarden achter het complex van de faculteit Diergeneeskunde van de Universiteit Utrecht aan de Limalaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-08-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

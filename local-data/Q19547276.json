@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A3C864A3864596687EEAE86F2C0B4BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stationsweg te Maarssen uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1894-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C1BC35A4966756FCAABB4B0D4FE5A2FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stationsweg met bebouwing te Maarssen uit het zuidwesten. Opmerking: Een ca 1995 gemaakte reproduktie van een prentbriefkaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DFD284896BEF5D379FE3162BBC0E1C4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93925"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stationsweg met bebouwing te Maarssen uit het noordoosten. Opmerking: Een ca 1995 gemaakte reproduktie van een prentbriefkaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

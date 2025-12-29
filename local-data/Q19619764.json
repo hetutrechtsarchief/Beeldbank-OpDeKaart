@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EDACDE81A36558DB7798B8360E90504"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9184"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Van der Leelaan te Doorn uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CAA7F0AEB15D56678544526756FA06DD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600742"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van mr. I.W. Opstelten tijdens zijn installatie als burgemeester van de gemeente Doorn in de hal van de Willem de Zwijgerschool aan de Van der Leelaan te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

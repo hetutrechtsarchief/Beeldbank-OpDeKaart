@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51878ECFAC705B0BB31B018FD50E1D0D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402086"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van sportfysiotherapeut David Evers van Schrijver Orthopedische Schoentechniek (Oregondreef 5-9) te Utrecht met een speciale voor voetballer marco van Basten ontwikkelde schoen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9924F8747A425A599C486A203DB876F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822182"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van het industrieterrein Overvecht te Utrecht, uit het zuidoosten. Van beneden naar boven: de Californi\u00ebdreef, Oregondreef en Ontariodreef; links de Mississippidreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A982D5CC46795F2D996A00E3D904422D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402082"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de testbaan van Schrijver Orthopedische Schoentechniek (Oregondreef 5-9) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

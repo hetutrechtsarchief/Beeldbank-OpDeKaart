@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F2197C92F24351F98EF10138F52605CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van de wijk Kanaleneiland te Utrecht met op de voorgrond de Rooseveltlaan, Alexander de Grotelaan, Hannolaan en Columbuslaan; links de Vasco da Gamalaan en rechts de Azi\u00eblaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0CDF7FD9EAAE5F2CA630010803E653DC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152874"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van de 65+ reizigers de heer J.H. van Beek en zijn vrouw wonende in de Stuwstraat te Leiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

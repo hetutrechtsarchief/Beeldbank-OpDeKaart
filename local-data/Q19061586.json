@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CE2FABCFC8E5142A0E9182A14366040"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154053"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de plaquette in de tunnel onder het spoor in de 1e van Swindenstraat te Amsterdam (bij het N.S.-station Amsterdam Muiderpoort), aangeboden door de buurtverenigingen Ceram, Linnaeus en Oud-Watergraafsmeer, ter herinnering aan het opheffen van de spoorwegovergang ter plaatse op 15 oktober 1939, met de leus: \"DOORGANG VRIJ OOST IS BLIJ\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "394AE7C3D93C574588CFC7D3D5DBEA99"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13911"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuweweg met bebouwing te Nigtevecht.  <ZR><ZR>N.B. De gemeente Nigtevecht is per 1 januari 1989 grotendeels bij de gemeente Loenen aan de Vecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "562306F063DF54B9B836DC9194427554"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13912"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuweweg met bebouwing te Nigtevecht.  <ZR><ZR>N.B. De gemeente Nigtevecht is per 1 januari 1989 grotendeels bij de gemeente Loenen aan de Vecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

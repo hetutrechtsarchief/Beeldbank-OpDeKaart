@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D42533D2EAF580EA0EC6BF715F9B8D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115243"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Cantondreef 36 (links) -42 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A31439CD786B5BA19998A3EFCC155DF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814762"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Sjanghaidreef te Utrecht, met links de huizen Cantondreef 36-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

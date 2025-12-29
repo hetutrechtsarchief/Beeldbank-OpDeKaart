@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "79F517AE85B254E99ED1E856E2B5264F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814889"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sfinxdreef te Utrecht, uit het noordoosten, met op de achtergrond enkele huizen aan de Nijldreef en daar achter een flatgebouw aan de Ibisdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

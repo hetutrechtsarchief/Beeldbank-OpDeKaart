@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE684A92D7D206FE0534701000A8251"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "835214"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan de Van Vollenhovenlaan (rechts) en Van Eysingalaan (links) te Utrecht, vanaf het flatgebouw De Hoogt (Beneluxlaan 2-204); op de voorgrond de ingang van de Loderlaan. Opmerking: In 2018 vervaardigde scan van een ca. 1966 gemaakt kleinbeeld negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB07A47EE29F5A1F9A732282C4510508"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van in verband met de Voorjaarbeurs in (vermoedelijk) de Loderlaan te Utrecht geparkeerde auto's."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

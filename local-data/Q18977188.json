@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "27E5D5E2A3EF5646B8E3ADA70209D89A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500925"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw van de N.V. Hygi\u00ebnische Melkinrichting en Zuivelfabriek Driebergen (voormalige electriciteitscentrale van de PUEM) aan de Buntlaan te Driebergen-Rijsenburg, met rechts de schoorsteen. Opmerking: De afbeelding is gepubliceerd in: Bibl.HUA XXIX H 8, De Centrale Merwedekanaal van de N.V. Provinciaal en Gemeenetelijk Utrechtsch Stroomleveringsbedrijf, blz. 19."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2D9ED52CC5E58A2837920A9C06BF3AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9832"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Buntlaan te Driebergen-Rijsenburg uit het zuidwesten, met links de ingang van de Vijverlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

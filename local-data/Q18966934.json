@@ -1,0 +1,2452 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C25A678E2D8506493DC29CF314F7CF6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de stad Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het noordoosten. Op de voorgrond het Bartholome\u00efgasthuis (Lange Smeestraat 40) met daarachter de Catharijnesingel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35DAE08EA1F1594AAACB6ECD95CB9064"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84556"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Lange Smeestraat te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het noordoosten. Links het Bartholome\u00efgasthuis (Lange Smeestraat 40). Op de achtergrond het Geertebolwerk en de Catharijnesingel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5BE2CB81AC3B5F7FBC1932681FC6CEE3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84555"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Lange Smeestraat te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het noordoosten. In het midden het Bartholome\u00efgasthuis (Lange Smeestraat 40)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8702FC7C486355CAAD8AF01699C88C20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84578"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de binnenstad van Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het westen; op de voorgrond de Oudegracht en rechts de St.-Catharinakerk (Lange Nieuwstraat)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A246F4B9BC2759CEA0C87DFC3851FA02"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84579"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de binnenstad van Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het westen; op de voorgrond de Oudegracht en in het midden de St.-Catharinakerk (Lange Nieuwstraat)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D3DF2A2166B159419A345F5B62D23431"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84554"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de binnenstad van Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het noorden. Op de voorgrond de Lange Smeestraat, in het midden de Springweg en op de achtergrond de Geertekerk (Geertekerkhof 23)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F4EE5EBA960F55CC915A47CF499F9830"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84553"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de stad Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het noorden. In het midden de Geertekerk (Geertekerkhof 23) en links op de achtergrond de St.-Martinuskerk (Oudegracht 401)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07194723940455F7A5D1F97179E2A1B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70617"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Brandstraat gelegen linker zijgevel van het St.-Andreasgasthuis (Springweg 142) te Utrecht, vanaf de Springweg, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D2EE526D3085411BADB30633435C2D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84565"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht op een deel van het kantorencomplex bij Hoog Catharijne te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuidoosten; op de voorgrond in het midden, het Geertebolwerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0FEF81EC02DF5AAABA825E3EF7536359"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54462"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de muurschildering,met ondermeer Griekse zuilen van de kunstenaar B. Daalderop (Babette), in de Brandstraat te Utrecht. Opmerking: Voor verdere gegevens zie ook  Utrechts Nieuwsblad, 29-11-1925"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1193837DEB465EEB9C16D00636E00408"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67336"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Oudegracht 263 (Vrijwilligerscentrale) te Utrecht; links de ingang van de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1962294084FB5E0E9508B82AC40B7F93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54455"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in een slop in de Brandsteeg te Utrecht.<ZR><ZR>N.B. De straatnaam Brandsteeg is in 1931 gewijzigd in Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "19BA97B9896350EEB7E2F233B923F2B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84548"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de huizen aan de Lange Smeestraat te Utrecht, vanaf een in de Brandstraat geplaatste kraan. Op de achtergrond de huizen aan de Oudegracht (nrs. 298 (links) -320)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CAE09D817F25D678461938F3C79ED86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84572"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voormalige Mieropskameren (Springweg 110-130) te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuiden; links de Springweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F5DAEF058505B359343A644DC5B1033"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819144"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in een zijsteeg tussen de panden Brandstraat 11 - 45 te Utrecht naar het noorden, hier lag vroeger een slop. De steeg loopt door naar het terrein van het voormalige Gereformeerd Burgerweeshuis. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2564884EAAAC534C861B8686D62F7F80"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70445"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Springweg te Utrecht vanuit het zuidoosten met links de huizen Springweg 93-lager en rechts op de voorgrond de ingang van de Brandstraat. In het midden de Marnix kweekschool (Prot. Chr. kleuterleidstersopleiding, Springweg 91)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B4FA90E8F1E5798B93D4C49AB1D322C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84562"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de daken van de huizen Andreasstraat 21 (links)- hoger te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het noordoosten; op de achtergrond de achtergevels van de huizen Geertebolwerk 23 (rechts)- 29."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30A09602FC80533DB4EA8E6E2E5B3979"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819151"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brandstraat te Utrecht, vanaf de Oudegracht naar het westen.<ZR><ZR>N.B. Tot 1931 heette deze straat de Brandsteeg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3176D7BCB2BC5C87A905354A240CE12C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67547"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het huis Oudegracht 263 te Utrecht; rechts de achterzijde van de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3583080A4258598785047EF471E461B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de huizen aan de Oudegracht te Utrecht tussen de Weesbrug en Smeebrug, vanaf een in de Brandstraat geplaatste kraan. Op de voorgrond de huizen Oudegracht 267 (links) -275, op de achtergrond de huizen Oudegracht 274 (links) -302."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "361EDEA8C4FC5D3EA6DB67912CB619F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819149"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brandstraat te Utrecht, vanaf de Oudegracht naar het westen.<ZR><ZR>N.B. Tot 1931 heette deze straat de Brandsteeg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C7D2B286C2352DE8F189A0BB9BB3840"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828697"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Detail van de door Babette Daalderop gemaakte muurschildering met Griekse zuilen, in de Brandstraat op de hoek met de Oudegracht te Utrecht: een waarschuwingsbordje met de tekst: \"Attention chutes de pierres!\" op een schakelkastje."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D72D5AAB6EA5FB8A17B5C20EC7FE65C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Brandstraat 21 te Utrecht; met rechts de aansluitende gevel van de lage aanbouw van het huis aan de binnenplaats, vanuit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "405F40288D32586090BC1386BA629109"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54461"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de muurschildering, met ondermeer Griekse zuilen van de kunstenaar B. Daalderop (Babette), in de Brandstraat te Utrecht. Opmerking: Voor verdere gegevens zie ook Utrechts Nieuwsblad, 29-11-1995."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "413617066DC55F81BB59887FFA92488E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828698"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Detail van de door Babette Daalderop gemaakte muurschildering met Griekse zuilen, in de Brandstraat op de hoek met de Oudegracht te Utrecht: een deurplaatje met de letter 'M' (Utrechts monument)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4292D97CA3FC512AAE2040D634D3E55A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54466"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Brandstraat 45-hoger aan het eind van de noordwestelijke straatwand te Utrecht, uit het oosten; rechts op de voorgrond vijf garageboxen en op de achtergrond de Springweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "491CC00208A5562FBC9105DE9F44AB7D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84570"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Springweg te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuiden; links enkele gebouwen van het Militair Hospitaal Dr. A. Mathijsen, complex Springweg (Geertebolwerk 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "49568CBC0DAB540DA056BB5523C239C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67535"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 253-265 te Utrecht; op de voorgrond de Oudegracht met de werven, trap en de kelders met in het midden tussen de huizen de ingang van de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "52C4708B50FE55518E93635FF6BF937C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84561"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het terrein ten noorden van de Nicolaas Beetsstraat te Utrecht, met enkele gebouwen aan de Catharijnesingel, vanaf een in de Brandstraat geplaatste kraan, uit het oosten; op de voorgrond de achtergevels van enkele huizen aan het Geertebolwerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5943EAD35A80511694F17F948F13D005"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84567"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van het kantoren- en winkelcentrum Hoog Catharijne te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuidoosten; op de voorgrond de Zilverstraat en enkele gebouwen van het Militair Hospitaal Dr. A. Mathijsen, complex Springweg (Geertebolwerk 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "611CF4199770564F8C65BA6F74A2C8B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de bebouwing aan de noordzijde van de Brandstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6239408BE2B653BABFE16487CA6A11BA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70634"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het St.-Andreasgasthuis (Springweg 142) te Utrecht: bejaardenkamer, met een bewoonster, op de eerste verdieping van de aan de Brandstraat gelegen vleugel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "62D3B2609D21531DAB9C81059FED587E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819152"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brandstraat te Utrecht, vanuit de straat naar het oosten; op de achtergrond de Oudegracht.<ZR><ZR>N.B. Tot 1931 heette deze straat de Brandsteeg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68D7BA42250B5BB48CAC331121A2B088"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70616"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Springweg te Utrecht met, in hoofdzaak, de noordoostelijke straatwand met de huizen nrs. 138-lager, uit het zuidoosten; rechts op de voorgrond de ingang van de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DCA633C905D584E859A2191C54EF2C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84573"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het binnenterrein achter de voormalige Mieropskameren (Springweg 110-130) te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuiden; op de achtergrond de parkeergarage Springweg (Strosteeg)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E58E82358C6596791274A833383B0A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70650"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het St.-Andreasgasthuis (Springweg 142) te Utrecht: rectorskamer op de eerste verdieping van de aan de Brandstraat gelegen vleugel; achter het schrijfbureau de rector drs. P.H.L. van de Laan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6F155AAB25905D4B9BB229938DD7AEBE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70632"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het St.-Andreasgasthuis (Springweg 142) te Utrecht: lange gang op de eerste verdieping van de aan de Brandstraat gelegen vleugel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7107F538EDA85EEDAF823C25626BC8C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54454"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brandsteeg te Utrecht.<ZR><ZR>N.B. De straatnaam Brandsteeg is in 1931 gewijzigd in Brandstraat. Opmerking: In 1994 vervaardigde reproductie van een omstreeks 1910 gemaakte foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "729850EA8006568AA8BB1640024676F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84547"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de stad Utrecht, naar het zuiden, vanaf een in de Brandstraat geplaatste kraan. Links de huizen aan de Oudegracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73C6E76974A851F28A85255EDE15EC9A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84549"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de huizen aan de Lange Smeestraat te Utrecht, vanaf een in de Brandstraat geplaatste kraan. Op de achtergrond de huizen aan de Oudegracht tussen de Smeebrug en de Geertebrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73FA42872D395319A30F931A7686D075"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813727"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Oudegracht 263 te Utrecht; links de ingang van de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74D452E7038159059241EC58F387753F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84559"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het terrein tussen de huizen aan de Lange Smeestraat (links), Geertebolwerk (achtergrond) en Andreasstraat (rechts) te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "761AE808DC655D0EA77EA62D39FA39FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67546"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 257-263 te Utrecht; met de trap, werven en de kelders, rechts het huis nr. 257 en links tussen de huizen de ingang van de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83D8B580F1AD556A8FF11D30C16F9AD1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812805"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de woningen Brandstraat 20-34 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85B0EFED42C89059E0534701000AA158"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406569"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een groep jongens in de Brandstraat te Utrecht, met rechts de zijgevel van de Paus Adriaanschool (Oudegracht 265)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "88426EFCE6775178832BAE231E51E33D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84560"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het gebied bij de Nicolaas Beetsstraat te Utrecht met enkele huizen aan de Catharijnesingel, vanaf een in de Brandstraat geplaatste kraan, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B839A4CF21C5E6688D81E59F36850A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84577"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de binnenstad van Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuiden; in het midden de Oudegracht en op de achtergrond de Domtoren en -kerk (Domplein)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8BA837BF7DC85D6296DA6A9D685318AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84546"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de stad Utrecht, naar het zuidoosten, vanaf een in de Brandstraat geplaatste kraan. Op de voorgrond de huizen aan de Oudegracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C00D34DFFE15AFC8649E5260916DAC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54463"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Brandstraat 21 te Utrecht; met rechts de aansluitende gevel van de lage aanbouw van het huis aan de binnenplaats, vanuit het westen,met  op de achtergrond de achtergevels van enkele huizen aan de Oudegracht, rechts de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C32F67CA0FC5E1B937655130032205F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84566"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Springweg 91 (links)- lager te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuidoosten; op de achtergrond de Zilverstraat en de gebouwen van het Militair Hospitaal Dr. A. Mathijsen, complex Springweg (Geertebolwerk 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F34B36DC0E65138BAE7B500975046B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 265-267 te Utrecht; vanaf de overzijde van de gracht met een gedeelte van de werfmuur en geheel rechts de ingang van de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "915821606A5B5A61B8B9C644F8FA672A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84543"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de stad Utrecht, naar het oosten, vanaf een in de Brandstraat geplaatste kraan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91DBE608FBF755489D83E42A69598504"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84550"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijdes en achtertuinen van de huizen Oudegracht 283-hoger te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het noorden. Op de voorgrond de huizen Lange Smeestraat 2 (links) -12."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "983C4A6EC66D5C42A762B60F9022BE92"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54467"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Brandstraat 73-lager te Utrecht (in hoofdzaak de noordwestelijke straatwand); vanaf de Springweg (voorgrond) uit het zuidwesten, links het huis Springweg 138/hoek  Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "998BAFCEF9FB5FE6AA4EBCA0281E6E88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54458"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de bebouwing aan de noordzijde van de Brandstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B84EED14DFD57DA90676EA01B540514"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815973"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het pand Oudegracht 263 ('t Walhalla - kleding en bijouterie) te Utrecht; links de ingang van de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D2A49DEEA9551FE836B2EC2871897B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54460"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brandstraat te Utrecht; vanaf de Oudegracht (voorgrond), uit het noordoosten, links en rechts gedeelten van de huizen Oudegracht 265 en 263/263bis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E8B2AE4D2D6510A8B7D277CCDBE8FA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54457"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brandstraat te Utrecht, uit het oosten. Opmerking: De afbeelding is gepubliceerd in Utrecht in Woord en Beeld, 1934/35, nr. 13"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F64F6FD3EE658CF942648F598019344"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84568"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van het kantoren- en winkelcentrum Hoog Catharijne te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuidoosten; op de voorgrond enkele gebouwen van het Militair Hospitaal Dr. A. Mathijsen, complex Springweg (Geertebolwerk 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A32F180AC3E6559984DD48B9C9E664F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67433"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Brandstraat op de zijgevel van het voormalige N.V.-huis (Oudegracht 245) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A54136C0C3CA5A21AE45DB909128CFEB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84569"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de binnenstad van Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuiden; op de voorgrond enkele gebouwen van het Militair Hospitaal Dr. A. Mathijsen, complex Springweg (Geertebolwerk 1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A7EB51E270325660B61F08374A92E3D7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812806"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Brandstraat 11-13 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A8066B8A4B3B5662BD0F9F38EC19A296"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70386"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de van de panden aan de oostzijde van de Springweg te Utrecht, met links de achterzijde van de panden aan de Brandstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-11-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA6CA5A21FB95A42A307CBDD0B3AE43B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84551"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Lange Smeestraat 16 (links) -26 te Utrecht, vanaf een in de Brandstraat geplaatste kraan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ABCBF99A08B9521D92574F694EBE2E5D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brandsteeg te Utrecht; uit het westen.<ZR><ZR>N.B. De straatnaam Brandsteeg is in 1931 gewijzigd in Brandstraat. Opmerking: De afbeelding is gepubliceerd in Utrecht in Woord en Beeld, 1927, nr. 14"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AEB091943C5B5814B997C2E7DC9321E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70619"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het St.-Andreasgasthuis (Springweg 142) te Utrecht, met de tuin, uit het oostzuidoosten; in het midden de kapel; op de eerste verdieping links de veranda van de wellfare-afdeling; rechts de ramen van het ziekenkoortje; op de begane grond links de sakristie; rechts een gedeelte van de vleugel aan de Brandstraat met op de begane grond de keuken en op de eerste verdieping de bejaardennkamers."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B5528A044AD254A982A24EBA794264CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70640"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het St.-Andreasgasthuis (Springweg 142) te Utrecht: conversatiezaal, op de begane grond van de aan de Brandstraat gelegen vleugel, met enige bewoonsters, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD8EF8B1D79352FEBA8A1708CC7661E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70638"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het St.-Andreasgasthuis (Springweg 142) te Utrecht: afwaskeuken, op de begane grond van de aan de Brandstraat gelegen vleugel; rechts de toegang tot de broodkeuken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4056BD562075A1DB24CCCF58A9F91B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84574"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de binnenstad van Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuiden; op de voorgrond de Zwaansteeg en Haverstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA854D6384185528901CF2E3A5B74746"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819150"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de muurschildering, met onder andere Griekse zuilen, van de kunstenaar B. Daalderop (Babette) in het begin van de Brandstraat te Utrecht, bij de Oudegracht.<ZR><ZR>N.B. Tot 1931 heette deze straat de Brandsteeg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF83C1C9E40B501F9B5964ED0BDE1141"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67549"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oudegracht 263-lager te Utrecht; vanaf de overzijde van de gracht met de werven en de kelders uit het zuidoosten met links van nr. 263 de ingang van de Brandstraat en geheel rechts de Weesbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D0FE2F1274505E53BD208238E873FCAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70637"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het St.-Andreasgasthuis (Springweg 142) te Utrecht: kookkeuken, op de begane grond van de aan de Brandstraat gelegen vleugel, met keukenpersoneel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D51818E426665D3B9F03AA5F9507F7FD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84552"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het terrein tussen de huizen aan de Oudegracht (links), Lange Smeestraat (voorgrond) en Springweg (rechts) te Utrecht, vanaf een in de Brandstraat geplaatste kraan. Rechts van het midden de synagoge van de Isra\u00eblitische Gemeente (Springweg 164)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D5D5590D75265118B1F4B10F2EEA8A20"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84575"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een deel van de binnenstad van Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuiden; op de voorgrond de Haverstraat en de parkeergarage Springweg (Strosteeg)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D60CB0B060CF5AB5B99EAB1E229C6049"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84542"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de huizen aan de Oudegracht te Utrecht tussen de Weesbrug en Smeebrug, vanaf een in de Brandstraat geplaatste kraan, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DBE79AF6E09E5108A2FDDB2F19C17866"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812814"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Brandstraat 15 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-02-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE6D07B65BCF526483CEAD71E7FE248A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84576"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.V. Huis (Oudegracht 245) te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE8C1A7B0C3E574EBB6F1314D0D707BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828696"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de door Babette Daalderop gemaakte muurschildering met Griekse zuilen, in de Brandstraat op de hoek met de Oudegracht te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0E050FA1D2A58CDB9E284F2BBA488AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van een gedeelte van de stad Utrecht, naar het zuidoosten, vanaf een in de Brandstraat geplaatste kraan. Op de voorgrond de huizen aan de Oudegracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0E3269274BA5A56AFB5E88B2BA9D6C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84564"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Springweg 79 (rechts)- 83 te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuidoosten; op de achtergrond de Zilverstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E128D7D844D8540AB115526040B95B14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819153"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brandstraat te Utrecht, vanuit de straat naar het oosten; op de achtergrond de Oudegracht.<ZR><ZR>N.B. Tot 1931 heette deze straat de Brandsteeg. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E29580E8B6285E1CADC348663C8C6957"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54464"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Brandstraat 21 te Utrecht; met rechts de aansluitende gevel van de lage aanbouw van het huis aan de binnenplaats, vanuit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA7BF9B916C95D64861086542CDA4EF7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84563"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het terrein tussen de Andreasstraat (links) en Tuinstraat (rechts van het midden) te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het oosten; op de achtergrond het Geertebolwerk en de Catharijnesingel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EAF759EE6DCE5D909686910F4466A8D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84571"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Militair Hospitaal Dr. A. Mathijsen, complex Springweg (Geertebolwerk 1) te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het zuiden; rechts de Springweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEDF7C0B80C35DD89BF085B3F9C898F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "84558"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van het terrein tussen de huizen aan de Lange Smeestraat (links), Geertebolwerk (achtergrond) en Andreasstraat (rechts) te Utrecht, vanaf een in de Brandstraat geplaatste kraan, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3EB58F9C5FD55C4BF04F6A562C5A159"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70620"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Brandstraat gelegen vleugel van het St.-Andreasgasthuis (Springweg 142) te Utrecht, met de tuin, uit het zuidwesten; op de begane grond de ramen van de eetzaal en de conversatiekamer; op de eerste verdieping de ramen van de bejaardenkamers en van het rektoraat; geheel rechts een gedeelte van de dependance van de scholengemeenschap voor MEAO/MDO (Oudegracht 265)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7EF677E593A5B65887219184F453F2C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "70639"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het St.-Andreasgasthuis (Springweg 142) te Utrecht: eetzaal, op de begane grond van de aan de Brandstraat gelegen vleugel, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

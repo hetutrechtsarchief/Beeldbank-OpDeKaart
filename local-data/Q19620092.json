@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B7D1F9379A45E5E89AFCDA770F67B4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8495"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van de Van Dijckschool aan de Van Dijcklaan 4 te Bilthoven uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E70E1674FA96584C8A379E3B28E10630"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8496"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van de Van Dijckschool aan de Van Dijcklaan 4 te Bilthoven uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

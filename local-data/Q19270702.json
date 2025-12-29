@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1927029132CD5830B93AD50AFA0F7354"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25423"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de watertoren aan de Industrieweg te Mijdrecht, uit het westen. Op de voorgrond de spoorwegovergang van de goederenspoorlijn Uithoorn-Nieuwersluis. Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78E2AC58523BA9DEE0534701000A6868"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837767"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de watertoren aan de Industrieweg te Mijdrecht. Opmerking: De foto (18 x 24 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 384. De foto is gemaakt ten behoeve van de publicatie \"Watertorens\" (Stichtse Monumenten Reeks), door Roland Blijdenstijn. Fotografie: Henk Bol (1992)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

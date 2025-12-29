@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F50106C6C1FC5A59BD9A1332F0D22291"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15340"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Stationsweg met bebouwing en beplanting te Wilnis.<ZR><ZR>N.B. De gemeente Wilnis is per 1 januari 1989 opgenomen in de nieuw gevormde gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

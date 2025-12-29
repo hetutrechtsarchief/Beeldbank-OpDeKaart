@@ -1,0 +1,800 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13EABB1A03EE502C886B57440496DD3B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400906"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plein aan de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "252D81DA2D675CC89281A877F25C6EF4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115677"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34F80445D2B05534BFFB7F205B780CA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108458"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van een jongen bij de garageboxen aan de Camera Obscuradreef te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Jongens in Overvecht\" van fotograaf Hans Traag (1960) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AB043B7409554E48FB38B6501B3AB37"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108457"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van een jongen op de Camera Obscuradreef te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Jongens in Overvecht\" van fotograaf Hans Traag (1960) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E41EC7A0B9B59EEB6ADBAFCA9ABCB26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108460"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van een jongen op de Camera Obscuradreef te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Jongens in Overvecht\" van fotograaf Hans Traag (1960) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "533233ED080B598283B0ACF3C3CEABEF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54830"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plantsoen tussen de flatgebouwen aan de Camera Obscuradreef (links) en de Vader Rijndreef (rechts) te Utrecht; op de achtergrond een flatgebouw aan de Van Brammendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55F3B023505F5A98AE14F0F719F145F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115680"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Camera Obscuradreef te Utrecht, tijdens renovatiewerkzaamheden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "602A88F78D635FF2AF7FFE5EFAEBFB5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115681"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Camera Obscuradreef te Utrecht, met op de voorgrond een kinderspeelplaats."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2B894F6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23046"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op flatgebouwen aan de Camera Obscuradreef te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "67D800F0C6AF5AED8210008853311E7D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AED65CECFB7ABBDE0534701000AD406"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838274"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het binnenterrein tussen de flatgebouwen aan de Taagdreef (links), de Camera Obscuradreef en de Ebrodreef te Utrecht. De flats worden gerenoveerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AED65CECFB8ABBDE0534701000AD406"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838275"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het winkelwoningblok op het binnenterrein tussen de flatgebouwen aan de Taagdreef (links), de Camera Obscuradreef en de Ebrodreef te Utrecht. De flats worden gerenoveerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AEDE978CB7A2BEEE0534701000A8EC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838276"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het 'ingepakte' flatgebouw aan de Taagdreef te Utrecht, vanaf het binnenterrein tussen de flatgebouwen aan de Taagdreef, de Camera Obscuradreef en de Ebrodreef. De flats worden gerenoveerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8B96799121075DE49B73BED164DA5B8C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54831"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de winkel-woonhuizen Camera Obscuradreef 117 - 124 (links) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "987BCFF41CAE50E6A71F917E9AF7CEBE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54832"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kunstwerk op het plein voor de flatgebouwen aan de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A8377A026C159C4903DD3B436C2DC2C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108459"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van een jongen op de Camera Obscuradreef te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Jongens in Overvecht\" van fotograaf Hans Traag (1960) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A73069D872BB5039A95AF1E5B5C12811"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115678"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF9BA7599720502085EF2A040BE0DB83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115682"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Camera Obscuradreef te Utrecht, met op de voorgrond een parkeerplaats."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B95E88A93CCD5839A7CB9D0E7E239A90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115679"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC6B0074415B582D9895756C598EB0E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811561"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele plantsoenen tussen de flatgebouwen aan de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6A4EF35B9AF5804949789027274DE03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108456"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele jongens op de Camera Obscuradreef te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Jongens in Overvecht\" van fotograaf Hans Traag (1960) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7E56186751C5671BF441D95E03B8C43"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817202"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het woonwinkelblok Taagdreef 117 - 124, op het binnenterrein van de Taagdreef en de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9F4BE08DF4452548D71959CA01067AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108455"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van een jongen bij de kelderboxen van een flatgebouw aan de Camera Obscuradreef te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Jongens in Overvecht\" van fotograaf Hans Traag (1960) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF12EA0CE74C5B068BC1F05C112E1597"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817210"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het woonwinkelblok Taagdreef 117 - 124, op het binnenterrein van de Taagdreef en de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7139B764933548DB75EFC25B0808867"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115683"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Camera Obscuradreef te Utrecht, met op de voorgrond het titelloze, door David van de Kop ontworpen hardstenen kunstwerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E70C00D33BC55D6D981B75B2CC72F1D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54833"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kunstwerk op het plein voor de flatgebouwen aan de Camera Obscuradreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E9B3A9D718CC540F8C8FEC652F6424CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54829"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het plein voor de flatgebouwen aan  de Camera Obscuradreef te Utrecht; links een gedeelte van een flatgebouw aan de Taagdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F570BFAC0C465BBEB6F9B82867D64D45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820263"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het winkelcentrum aan de Camera Obscuradreef te Utrecht.<ZR><ZR>N.B. Op Camera Obscuradreef 18 (Snackbar \"Smickel\") was tot ca. 1985 een winkel van Boonzaaijer's Bakkerij (Vlampijpstraat 53) gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-07-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

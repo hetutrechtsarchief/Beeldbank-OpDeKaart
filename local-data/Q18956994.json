@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "57A3FD1F0A3050AA9E81CA4C493F8ADB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832694"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Panorama van het winkelcentrum Vleuterweide te Vleuten (gemeente Utrecht), vanaf het plantsoen aan de Zuiderburcht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E99847425C65E05ABE151C22C7A5747"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832688"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het winkelcentrum Vleuterweide te Vleuten (gemeente Utrecht), vanaf het plantsoen aan de Zuiderburcht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

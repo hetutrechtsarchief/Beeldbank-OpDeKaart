@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "656F0627422E57349859825995E23EE2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166507"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Stationsweg / Rijnsburgerweg te Leiden, met een passerende trein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "988FD74AD61254DCB5DE912EEDEDDDCD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167295"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het spoorviaduct over de Stationsweg te Leiden, met een trein getrokken door een electrische locomotief uit de serie 1200 van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

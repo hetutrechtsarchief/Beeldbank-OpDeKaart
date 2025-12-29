@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AFB68AD476A3578BBD0F343021B46C07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40072"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Lodewijk Napoleonplantsoen te Utrecht, uit het noordoosten; rechts de Bosch van Drakesteinlaan, de Fransestraat en de Kozakkenweg; op de achtergrond de Koningsweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2004-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2004-06-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "30271C290D8E5184937FB01343551F90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802645"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van enkele woonblokken aan de Salavdor Dalistraat, de Joan Mirostraat en de Paul Kleestraat in de wijk Het Zand in het stadsdeel Leidsche Rijn te Utrecht, uit het noordoosten; op de voorgrond de spoorlijn Utrecht - Rotterdam en de Vleutensebaan; in het midden de Utrechtseweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2010-06-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

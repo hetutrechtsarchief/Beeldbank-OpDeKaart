@@ -1,0 +1,548 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "041029F2C87E55A49AFE17DE2E70DACE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124198"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BADC26285AB5711B9DC33131CD2F89A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6968"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het oosten, met links de huizen nrs. 20-26."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D70BF4D077D5975B2B3B0FE81F9E59A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6962"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen, met links de voorgevels van  de huizen nrs. 19-21."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A5B2FF496985AF8854F33F51F2FE9E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6964"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het oosten, met links de voorzijde van het huis nr. 2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "665B6FE76C9751A7B9174B8D78546DA9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6957"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69937E4919C954BBA609E68C2CF427D6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6955"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen, met rechts de voorzijde van het huis nr. 22."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73029E5321055521AE031321BFA35369"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6965"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8332F64C48E55B10A46B86689627B059"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6954"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen, met rechts de voorzijde van de huizen nrs. 20-22."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85B6A800424C5C22BA97A8A77940F018"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6966"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het oosten, met links de voorzijde van het huis nr. 8."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C3A6588490356CB8CFD2FEC8FEA93B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7086"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis De Lindenhof (Overstraat 27) te Amerongen uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1894-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99CC53C7BA9B5C28B1239610CDEEE45D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6960"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2DA0CC328715BDD834028D6AF7BC2A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6969"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A8A39E9FF816595482E5B19DA0629467"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6956"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9FEBAA5ED67589F9875B7E29E8ACADA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6967"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het oosten, met links de linkerzijgevels van de huizen nrs. 20-22."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AD1B01CCE42B50AE8E957A7D86022C4A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7087"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het huis De Lindenhof (Overstraat 27) te Amerongen uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EAFD8E11D2735241ABEFBBC9F4D69E48"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6961"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen, met links het hotel De Posthoorn (Overstraat 21)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F139749E96115028B3DC83F381C45DAA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6959"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F1F16F93853E5501ABDDED2A35EA2FDB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6958"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD122EE9F4BE5E2291497BFE6C63DCB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6963"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overstraat te Amerongen uit het westen, met rechts de voorzijde van  het huis nr. 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

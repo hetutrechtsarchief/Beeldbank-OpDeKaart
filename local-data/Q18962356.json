@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75C5AACD6B1A597DB4871F50DC6D8B1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156909"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Leuvehoofd en de Boompjeskade te Rotterdam met rechts de Nieuwe Maas en de spoor- en verkeersbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1878-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1883-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

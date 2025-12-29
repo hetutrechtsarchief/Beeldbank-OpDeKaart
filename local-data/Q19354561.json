@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1086856D59E95659B1CC4EC9FE2DE4A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154715"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het seinhuis Post I bij de spoorwegovergang in de Aamsestraat te Elst (noordzijde emplacement Elst)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1644C38FD75D53DCBD9FD7AB3F2E3737"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170521"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Aamsestraat te Elst, na de verbreding van de weg en de sloop van het seinhuis Post I. Opmerking: Zie ook De Koppeling nr. 806, 27 februari 1981, blz. 3: \"Van oud naar nieuw...\". Zie ook afb. nr. 170520."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EA7968399875BA69BC911EBF1C995B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170520"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het seinhuis Post I bij de spoorwegovergang in de Aamsestraat te Elst. Opmerking: Zie ook De Koppeling nr. 806, 27 februari 1981, blz. 3: \"Van oud naar nieuw...\". Zie ook afb. nr. 170521."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8639E1DA5255579943C3A6EECC9D4EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169427"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Aamsestraat te Elst. Opmerking: NS fotonummer 28559"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8252A583CB9629DFE0534701000A0BD1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839633"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Bunschoterstraat te Hoogland, ter hoogte van de Oude Hamseweg, uit het noorden. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P13 (Bunschoten-Amersfoort) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 493."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

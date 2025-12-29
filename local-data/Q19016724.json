@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D3D6B9D0372533F8C1C57173CC49A8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10185"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Diederichslaan te Rijsenburg uit het zuidwesten, met rechts de voor- en rechtergevel van de huis Diederichslaan 2a.<ZR><ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-03-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C632760DBA45C6AB1E489E6AA21CF4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10186"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Diederichslaan te Rijsenburg uit het zuidwesten.<ZR><ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D9F2F38377C5E07A40FDB887193E04B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10187"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Diederichslaan te Rijsenburg uit het zuidwesten.<ZR><ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

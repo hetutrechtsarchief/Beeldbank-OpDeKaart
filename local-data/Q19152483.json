@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4ADFA1503E415D4FB30FCE5CC121D045"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108624"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Sahin die in een paal klimt in de Florence Nightingalelaan te Utrecht.<ZR><ZR>N.B. De foto is gemaakt door Alekos Giannas. Hij schrijft erover: \"Sahin klimt voor de lol op een paal. Ik vind dat wij in een mooie wijk wonen, ik speel vaak buiten.\" Opmerking: De foto maakt deel uit van de serie \"Utrecht door de ogen van kinderen\", begeleid door de fotografen Marije van der Hoeven en Marieke Middelkoop en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      }
+    ]
+  }
+}

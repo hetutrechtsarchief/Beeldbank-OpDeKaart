@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D805EBCC7E250FF95BB73CB9C2D3558"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167207"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het spoorviaduct over de Glaslaan te Eindhoven, met op de voorgrond de lage hulpspoorbaan.<ZR><ZR>N.B. De foto is gemaakt in het kader van de werken ten behoeve van het hoogspoor door Eindhoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-07-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-07-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

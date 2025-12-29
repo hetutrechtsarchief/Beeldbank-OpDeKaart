@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "481F61A58B215812855DEBD622895DE3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13713"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Laantje van Steffens (Stationsweg) en de brug over de Achtervaart te Mijdrecht uit het zuiden.  <ZR>N.B. De gemeente Mijdrecht is per 1 januari 1989 opgenomen in de nieuw gevormde gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

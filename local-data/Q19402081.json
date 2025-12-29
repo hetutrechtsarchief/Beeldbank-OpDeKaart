@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CB01F6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169410"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van overwegwachter G.D. van de Broek in zijn tuin met tulpen bij de wachterswoning nr. 24a aan de Oude Rijksweg te Krabbendijke. Opmerking: NS fotonummer 7475.<ZR>Zie ook Nieuw Spoor, juni 1950, blz. 189: \"Tussen U en ons - zo hoort het!\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CB0206B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169411"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van overwegwachter G.D. van de Broek bij het mechanisme voor de bediening van de overwegbomen bij wachtpost 24a aan de Oude Rijksweg te Krabbendijke, met rechts het kloksein. Opmerking: NS fotonummer 7477."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

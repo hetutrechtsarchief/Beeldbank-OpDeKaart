@@ -1,0 +1,548 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F4DD1B04EC758B0BA2CD4A1156D84FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814705"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lichtenberchdreef te Utrecht, uit het zuidwesten, vanaf de Lissensteyndreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "374A7386E7395C1EBA7F37DA544ACBD0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Heilige Geestkerk (Lichtenberchdreef 2) te Utrecht, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3942AB474C155B489461D27249850A22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814697"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lichtenberchdreef te Utrecht, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "53E77F700FAB5DA097525931BC37A232"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62503"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Heilige Geestkerk (Lichtenberchdreef 2) te Utrecht, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "56567010D471555682206D6666D34773"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62498"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Lichtenberchdreef (rechts) te Utrecht, vanaf de bouwspeelplaats aan de Neckardreef; links de Korfoedreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-02-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-02-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "68E6DA644B9E50F7BDA16A3C6D0BAE85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126305"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de wijkpost Overvecht van de Gemeentelijke Geneeskundige en Gezondheidsdienst (G.G. & G.D., Lichtenberchdreef 1) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6EBC5E42164A587198093D2430C50075"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62502"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de Heilige Geestkerk (Lichtenberchdreef 2) te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7529B4DB99D95E8FBCF2E95B47D8943E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62500"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Heilige Geestkerk (Lichtenberchdreef 2) te Utrecht: het orgel tijdens de laatste werkzaamheden van de orgelbouwers van de firma Elbertse."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "79E2789E6271543BBB19719D51D99C1F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814706"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een flatgebouw aan de Lichtenberchdreef te Utrecht, uit het zuidwesten, vanaf de Lissensteyndreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E6491A2915A5257A07A157979906F35"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "80807"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rooms-Katholieke Heilige Geestkerk (Lichtenberchdreef 2) te Utrecht, uit het noorden, tijdens de inwijding."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "858EDD8AAB475082AB02C6B6B34F1287"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62497"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een bejaardenwoning aan de Lichtenberchdreef te Utrecht: het toilet."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87E37477BA8A5D22B9B062537D427B7D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62496"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een bejaardenwoning aan de Lichtenberchdreef te Utrecht: het toilet."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8A92AEC1DDFD55B78C134E2CE561C1E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62501"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van de Heilige Geestkerk (Lichtenberchdreef 2) te Utrecht, uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90712E468F83504C8633B894A4C473D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101358"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de inwijding van de Heilige Geestkerk (Lichtenberchdreef 2) te Utrecht door kardinaal B.J. Alfrink."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-07-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "96FF0106FDB65E1696C333977A08873C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62495"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van een bejaardenwoning aan de Lichtenberchdreef te Utrecht: een slaapkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A5E3E0AD42145FFBA1112720A0CE7387"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "821870"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van spelende kinderen met een rubberboot in de vijver van het Park De Watertoren aan de Moezeldreef te Utrecht. Op de achtergrond de flat aan de Lichtenberchdreef. Opmerking: De afbeelding behoort tot de collectie foto's en dia's aangelegd door P. Vlaanderen en  J.P. van Alff, directeuren van de gemeentelijke plantsoenendienst te Utrecht, resp. van 1926  tot 1954 en van 1954 tot 1978."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6B646522456553ABA6C788151311B54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814707"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het Park De Watertoren te Utrecht, met links een flatgebouw aan de Lichtenberchdreef. Op de achtergrond de St. Rafa\u00c3\u00ablkerk (Lichtenberchdreef 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B9D7AA0F561D570CA4938B3B465533E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62499"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van de Heilige Geestkerk (Lichtenberchdreef 2) te Utrecht. Opmerking: Zie: Utrechts Nieuwsblad, 19 juli 1967."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEC79AB9E77B58999F6EE559C6F8D6A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814695"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het R.K. Kerkcentrum St. Rafa\u00ebl (St. Rafa\u00eblkerk, Lichtenberchdreef 2) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

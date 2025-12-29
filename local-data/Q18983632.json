@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "23CA00E54A105BB4ACA14E70E65A0FB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811855"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Jan Hermanus Verbeek (geb. 9 december 1884, ambtenaar (bureau referent) N.S., overl. 21 november 1962) en zijn vrouw Johanna Cornelia verbeek - van der Burg (geb. 9 juni 1881, overl. 18 januari 1960) in de woonkamer van hun huis Cornelis Drebbelstraat 4 te Utrecht. Opmerking: In 2011 vervaardigde digitale reproductie van een ca. 1940 gemaakte foto, afkomstig uit een particulier fotoalbum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4EE56C16F485547AA5118DF498F8C667"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van J.H. Verbeek, zijn dochter Lisette op zijn nek dragend, in de Cornelis Drebbelstraat te Utrecht. Opmerking: In 2011 vervaardigde digitale reproductie van een rond 1946 gemaakte foto, afkomstig uit een particulier fotoalbum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B2E9C37280875554B7F890CC931A2FB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811857"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Cornelis Drebbelstraat 4 te Utrecht. Opmerking: In 2011 vervaardigde digitale reproductie van een omstreeks 1935 gemaakte foto, afkomstig uit een particulier fotoalbum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA637B6990B851CBBEA26D5BE2646F12"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10341"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oranjelaan te Groenekan (gemeente Maartensdijk) uit het noordoosten.<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente de Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

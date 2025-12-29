@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AD721E0C8915673A122B6521807296E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814484"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het zwembad De Geiser aan de Geiserlaan te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "911BDB67AE2A565488AD867E85A7526B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828301"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het braakliggende terrein aan de Slotlaan-Boulevard te Zeist, vanuit het zuidoosten. Met linksonder het Bethani\u00ebplein, achter het terrein de Geiserlaan en rechts de driewegsplitsing Boulevard-Verlengde Slotlaan-Lyceumlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-05-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

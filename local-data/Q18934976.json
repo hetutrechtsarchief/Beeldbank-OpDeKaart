@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66CD927C1A3C5AF89123A23408B2998B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "25406"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de houten loods van de firma Zuidervaart Bouwmaterialen (Amstelkade 70) te Amstelhoek (gemeente Mijdrecht). Opmerking: Afdruk van origineel negatief, 2003.<ZR>Negatief in bezit van Stichting Groene Hart te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "836DB7F0490D37C8E0534701000A4BD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839748"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Mijdrechtse Zuwe te Amstelhoek (gemeente Mijdrecht), uit het zuidoosten, ter hoogte van de Amstelkade (rechts). Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P19 (Uithoorn-Vreeland) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 498."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

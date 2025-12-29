@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "840C7758B28D4156E0534701000AF188"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839840"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boerderij Weerdenburg aan de Weerdenburgselaan te Werkhoven. Opmerking: De foto bevindt zich in een schetsboek met foto's van de omgeving van Houten, gemaakt door Ph.G. Grisel, in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 530."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

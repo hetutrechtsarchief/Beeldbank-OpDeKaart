@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "09CFFABC22415FCBBD15F037CA5F03A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23301"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Adriaan van Bergenplein te Utrecht, met in het midden de Jacob Simonsz de Rijkstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0C0122709FFA5F57BFA7AD2D66533579"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Zuilen te Utrecht, uit het westen. Op de voorgrond het Adriaan van Bergenplein met links de St.-Salvatorkerk (Adr. van Bergenstraat 63). Op de achtergrond de Vecht met de woonboten langs het Zandpad en de Zweminrichting Het Noorderbad (Boisotstraat).<ZR><ZR>N.B.: De St.-Salvatorkerk heet sinds ca. 1980 Eben Ha\u00ebzerkerk. Het adres is gewijzigd in Pionstraat 3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "895936A43E935AFB9711DE43245D5250"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85223"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de wijk Zuilen te Utrecht, uit het westen. Op de voorgrond het Adriaan van Bergenplein met links de St.-Salvatorkerk (Adr. van Bergenstraat 63). Op de achtergrond de Vecht met de woonboten langs het Zandpad.<ZR><ZR>N.B.: De St.-Salvatorkerk heet sinds ca. 1980 Eben Ha\u00ebzerkerk. Het adres is gewijzigd in Pionstraat 3."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

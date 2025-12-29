@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FC0DD888A46E0D5E0534701000A8ED4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838790"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het fietspad langs het Kloosterpark (links) te De Meern (gemeente Utrecht), met rechts de Tiberiusweg in de wijk De Balije."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-12-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-12-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

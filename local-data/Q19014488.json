@@ -1,0 +1,660 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01A1099BBE7E5264B173DDC52D77C33E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8860"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Dorpsstraat op de brug over de Kromme Rijn te Bunnik uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14DE8A919E6E5E2DADD69C9A6D6FF167"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604179"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het Gemeentehuis (Dorpsstraat 2) te Bunnik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "21C97C124BD6522E85ED4024BE41862D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129797"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat te Bunnik, vanaf de hoek met de Langstraat (rechts), uit het noordoosten. Opmerking: Fotonummer V.41-112<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-02-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-02-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "23561931559F5932ACFEF14087E2B8A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809987"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf de Dorpsstraat te Bunnik op de Nederlands Hervormde kerk en een van de Witte Huisjes (Kerkpad 3). Opmerking: Gedrukte reproductie van een potloodtekening van Chris Schut gemaakt in 1977 in opdracht van het Provinciaal Comit\u00e9 Utrecht Monumentenjaar 1975 voor een map met 20 reproducties getiteld Hedendaagse tekeningen van Kromme Rijn- en Langbroekerweteringgebied (Bibl. HUA DK2013-59)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "28AE97D6E8905D3AA44207D11CEC0EDF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8856"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat te Bunnik uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B47D1B1C03F59D8B56C51ED2E67F25B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "823866"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op restaurant 't Wapen van Bunnik (Dorpsstraat 9) te Bunnik, vanuit de Langstraat; rechts de dorpspomp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C8B2D8B597D5EB5B624BF6A8AF14B4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92237"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Kromme Rijn op de achtergevel van het huis Dorpsstraat 4 te Bunnik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-02-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-02-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "365B9FD0564A5F17A246A9EE3D27DA26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "33016"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de Bunniksebrug over de Kromme Rijn te Bunnik met daarachter de boerderij Dorpsstraat 4 en de toren van de Nederlands Hervormde kerk (Kerkpad 2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3DBB2BA2840E5E09843C3317DFA74FE1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802508"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Oude Raadhuis (Dorpsstraat 8) te Bunnik."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4953E3DAB7B7545398252242D7F73F1B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402644"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het dierendiner tijdens het dierenfeest bij het restaurant Het Wapen van Bunnik (Dorpsstraat 9) te Bunnik, ter gelegenheid van Werelddierendag. Opmerking: Zie ook Utrechts Nieuwsblad, 2 oktober 1989: \"Dieren genieten van speciaal diner in Bunnik\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D5CB69E69C9548FAED0DE3262C3E1B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8891"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het caf\u00e9-restaurant 't Wapen van Bunnik aan de Dorpsstraat 9 te Bunnik uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CD18AF01701532FAC50FEC01CEABD74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402648"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het dierendiner bij het restaurant Het Wapen van Bunnik (Dorpsstraat 9) te Bunnik, ter gelegenheid van Werelddierendag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-10-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-10-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7756323B18C25B3EBE151112D443BFB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402646"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee meisjes met een pony tijdens het dierendiner bij het restaurant Het Wapen van Bunnik (Dorpsstraat 9) te Bunnik, ter gelegenheid van Werelddierendag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-10-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-10-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F7D228DDE410FA9E0534701000AC043"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839211"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het benzinestation van Van Velzen op de hoek van de Dorpsstraat (voorgrond) en de Provincialeweg te Bunnik. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P9 in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr.  487."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83EEF2073F895A33A432522154D8AC38"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dorpsstraat bij de Driesprong te Bunnik uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "890699791156574AB30923966B8AF116"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Dorpsstraat te Bunnik op het Oude Raadhuis (Dorpsstraat 8) en de Nederlands Hervormde kerk (Kerkpad  2)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D5FB447D9735A14B9501B89391A4559"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8865"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Dorpsstraat te Bunnik uit het noorden, met rechts de voorzijde van de school, later genaamd  De Grondslag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "94E8CBF9F28C545299AA0AE26F3731EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "29340"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Kromme Rijn te Bunnik met links de brug over de rivier, rechts daarvan het huis Dorpsstraat 2 en op de achtergrond het bovenste gedeelte van de toren van de Nederlands Hervormde kerk (Kerkpad  2). Opmerking: Op de achterzijde staat een potloodtekening van een prikslee."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1921-08-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1921-08-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98991FE3D69356A9AD4C268488665DE4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206666"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de omgeving van de Nederlands Hervormde kerk te Bunnik: links een gedeelte van het huis Dorpsstraat 2 en het dak van de kerktoren en schuin daarachter de consistoriekamer van de kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A18D5434C6E25E58995537E0004603A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402643"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het dierendiner tijdens het dierenfeest bij het restaurant Het Wapen van Bunnik (Dorpsstraat 9) te Bunnik, ter gelegenheid van Werelddierendag. Opmerking: Zie ook Utrechts Nieuwsblad, 2 oktober 1989: \"Dieren genieten van speciaal diner in Bunnik\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DEF67F040DD45B85B638845FBA23535D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206633"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Kromme Rijn te Bunnik met een gedeelte van de brug over de rivier. Rechts het huis Dorpsstraat 4."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-08-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC5C087DCA485F50A24F3976ABB6855D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206645"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Kromme Rijn te Bunnik met een gedeelte van de brug over de rivier en daarachter de daken van het huis Dorpsstraat 4 en van de toren van de Nederlands Hervormde kerk. Opmerking: De tekening is gemaakt op lichtgrijs papier."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FCABB542F732581590C2FE2CE69651FB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206665"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Bunniksebrug over de Kromme Rijn te Bunnik met daarachter de daken van de huizen Dorpsstraat 4 (links) en 2 (midden). Opmerking: De tekening is gemaakt op lichtbruin papier. Vergelijk de tekeningen van dezelfde locatie: nrs. 206633 en 206645."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

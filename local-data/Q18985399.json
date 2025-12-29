@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AFE362992565C0388F0BAEA78D013C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85492"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het wooncomplex tussen de Graadt van Roggenweg (voorgrond) en Leidseweg te Utrecht, uit het zuiden; op de achtergrond enkele huizen aan de Ceramstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C87747E88F3453ED917F4BBC3A0911B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815502"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van panden op de hoek van de Lombokstraat en Ceramstraat (links) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

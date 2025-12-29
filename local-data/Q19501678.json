@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9BAEA2BB45A54048E8E1CDF99852BF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9065"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Collage van gezichten te Doorn:<ZR>- het postkantoor.<ZR>- de oranjerie van Huis Doorn.<ZR>- het poortgebouw van Huis Doorn.<ZR>- de Schimmelpennck van der Oyelaan.<ZR>- de Langbroekerweg.<ZR>- de Acacialaan.<ZR>- de N.H.-kerk met pastorie.<ZR>- de Dorpsstraat.<ZR>- de Dorpsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

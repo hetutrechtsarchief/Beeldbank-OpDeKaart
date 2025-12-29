@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1813081C86BE5CD5AB2B5136C772D1F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827615"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Shakespearelaan te Utrecht, vanaf de hoek met de Everard Meijsterlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-08-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-08-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2EA67B58B88D579C84E101C5B2DCF6A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802684"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Koningin Julianastraat te Houten; op de achtergrond de toren van de N.H. kerk (Lobbendijk1)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F913921128FCFF4E0534701000AB7BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839246"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Koningin Julianastraat te Houten, bij de aansluiting met de Provincialeweg (achtergrond). Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P8 (Utrecht-Culemborg) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 486."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC91AC52A0A25BB3B0B6AD959A145F86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404234"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van schoenmaker W.J. van Soest in zijn werkplaats (Koningin Julianastraat 7) te Houten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

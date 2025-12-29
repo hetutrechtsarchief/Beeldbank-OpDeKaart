@@ -1,0 +1,940 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01843D61728C5AE5A7B33D1C8FEB205A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "101752"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de opening van de nieuwe clubhuizen van de Dr. van Hoogenhuyzengroep en de Mr. dr. ter Pelkwijkgroep (padvinderij) aan de Rijndijk te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-03-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-03-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06C33E43F5B55597A9751D398E1B1E07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89380"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van de boerderij La Ferme Blanche (Rijndijk 2) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0C4B9D94AC7E57D1ACEC55C30FC76DAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90752"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een verkeersongeval op de Rijndijk te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "151822E2D5C35817A6B298AB87F567ED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124357"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een sloot in de omgeving van de 2e Algemene Begraafplaats Kovelswade (Koningsweg) en de Rijndijk te Utrecht. Opmerking: De foto maakt onderdeel uit van een serie foto's waarin de fotograaf de grenzen van de voormalige stadsvrijheid van Utrecht in het toenmalige stadsbeeld heeft vastgelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17BBF32036445F009FFB515D2C151126"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89382"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising van de Rijndijk met de Lagehaarsedijk (voorgrond) te Haarzuilens (gemeente Vleuten-De Meern); op de achtergrond het Kasteel De Haar (Kasteellaan 1).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1FDC4824A2CE501F922A5E78432DC564"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89385"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en voorgevel van het pand Rijndijk 1-3 te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DC197684C565FDFA6F04B07FD1D2512"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402312"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een wandelpad op een onbekende locatie te Utrecht, vermoedelijk in de omgeving van de Rijndijk. Opmerking: De foto maakt onderdeel uit van een serie foto's waarin de fotograaf de grenzen van de voormalige stadsvrijheid van Utrecht in het toenmalige stadsbeeld heeft vastgelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3D71EDDEFCF85B65BC5A536ECCCA0960"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69723"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf het Houtensepad (ter hoogte van Lunet 4) op het sportveld van F.C. DoFa aan de Rijndijk te Utrecht vanuit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AEB5C2B6C295C44902107080CDBCF0E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89379"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevel van de boerderij La Ferme Blanche (Rijndijk 2) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5415B9781AF758918203490F858B9B8C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85439"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Rijndijk en omgeving te Utrecht, uit het noordoosten, met de splitsing van de spoorlijnen naar Arnhem en 's-Hertogenbosch (achtergrond)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61253E5EA2B55C7E8664879986405BB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89397"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf de Rijndijk op het kruispunt De Bom te Haarzuilens (gemeente Vleuten-De Meern) met v.l.n.r. Polderweg, Gieltjesdorp en Laag-Nieuwkoopsebuurtweg.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6864FED26D055E518A491D5A3437441E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90721"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een brandweeroefening van de brandweerkorpsen van Vleuten, Maarssen en De Meern op de Rijndijk te Haarzuilens (gemeente Vleuten-De Meern), waarbij bij een \"brand\" op het Stalplein de aandacht van een automobilist werd afgeleid met \"fatale gevolgen\". <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69FA4B41AE6C51D5B831AB04F3CEC388"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120165"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijndijk te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2003-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2003-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6BF7A61AE3F653039A2B504C3929AD9B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69724"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf het Houtensepad (ter hoogte van Lunet 4) op de Rijndijk te Utrecht. Rechts het gebouw van F.C. DoFa en geheel op de achtergrond de spoorlijnen Utrecht-Boxtel en Utrecht-Arnhem."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74A606D285095393AF7466A2ACBE52BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89384"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij La Ferme Blanche (Rijndijk 2) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90590F8500A75551B1723875DB403C68"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een in de sloot belande auto na een aanrijding met een boom langs de Rijndijk te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "97E15306374D5DA4BB2E07DD6D44E809"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89386"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het noorden in de Rijndijk te Haarzuilens (gemeente Vleuten-De Meern) ter hoogte van de Lagehaarsedijk.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98801A01D33A53C7BC67DDE7B11F72C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124355"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het dijklichaam van een oude Rijnarm in de weilanden bij boerderij De Ketel (Rijndijk) te Utrecht, uit het noorden; op de achtergrond de spoorlijn Utrecht - 's-Hertogenbosch. Opmerking: De foto maakt onderdeel uit van een serie foto's waarin de fotograaf de grenzen van de voormalige stadsvrijheid van Utrecht in het toenmalige stadsbeeld heeft vastgelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B57A6E4523459C89534E6A177C27250"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89394"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijndijk te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E1CDA49917B51259EF8085295F44261"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404000"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Gerrit Kranenburg (links) en zijn neef Chris Sanders op hun volkstuin aan de Rijndijk te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A0FB5349A7BE5E77BE3F0AAFBE9621D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op twee gevelstenen in de voorgevel van de boerderij La Ferme Blanche (Rijndijk 2) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A31074148D1B5173906871884FADB170"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89383"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijndijk te Haarzuilens (gemeente Vleuten-De Meern) gezien vanaf de Breudijk.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A369A8B55C665CBDBC21A8633B14CDF2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89378"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij La Ferme Blanche (Rijndijk 2) te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB5169D0E6215D5A8E805A5924D3E438"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90720"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een brandweeroefening van de brandweerkorpsen van Vleuten, Maarssen en De Meern op de Rijndijk te Haarzuilens (gemeente Vleuten-De Meern), waarbij bij een \"brand\" op het Stalplein de aandacht van de automobiliste (mw. Hoogdalum van de E.H.B.O.) werd afgeleid met \"fatale gevolgen\". <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C58078E272FE5C74B626BF80F98C5587"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402311"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een wandelpad op een onbekende locatie te Utrecht, vermoedelijk in de omgeving van de Rijndijk. Opmerking: De foto maakt onderdeel uit van een serie foto's waarin de fotograaf de grenzen van de voormalige stadsvrijheid van Utrecht in het toenmalige stadsbeeld heeft vastgelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8985057FD965FBB81AE97646359017E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124356"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijndijk te Utrecht, vanaf de spoorlijn Utrecht - Arnhem, uit het zuidoosten. Opmerking: De foto maakt onderdeel uit van een serie foto's waarin de fotograaf de grenzen van de voormalige stadsvrijheid van Utrecht in het toenmalige stadsbeeld heeft vastgelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CADCA5C2942D5659B1FC3BE2A391A67C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50154"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het kasteel De Haar (Kasteellaan 1) te Haarzuilens (gemeente Vleuten-De Meern), met het omliggende park, uit het zuidwesten. Op de voorgrond de hoek van de Rijndijk (links) en de Bochtdijk.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-07-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-07-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D354BB2B9AF250BEA8225F3AEFA4C4C8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124353"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het dijklichaam van een oude Rijnarm in een weiland langs de Rijndijk te Utrecht, ter hoogte van de spoorlijn Utrecht - 's-Hertogenbosch. Opmerking: De foto maakt onderdeel uit van een serie foto's waarin de fotograaf de grenzen van de voormalige stadsvrijheid van Utrecht in het toenmalige stadsbeeld heeft vastgelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE2B64DB528454609C35EAADFC7A39F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88112"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kruising met links de Rijndijk en op de achtergrond de Laag-Nieuwkoopsebuurtweg te Haarzuilens (gemeente Vleuten- De Meern) gezien vanaf de Polderweg.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd. Opmerking: Tegen de gemeente grens van Kockengen ligt de viersprong De Bom waar de Polderweg, Rijndijk, Laag-Nieuwkoopsebuurtweg en Gieltjesdorp bij elkaar komen. Deze viersprong is in 1960 gereconstrueerd in een kruising van vier wegen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E57F47DAB9E85923857878FEE5C6C1A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89395"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijndijk en het nieuwe fietspad te Haarzuilens (gemeente Vleuten-De Meern) met links de Parkweg.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F21AB18159C9548DB359D0F4E907C6A2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf de Breudijk en op de verlengde Rijndijk te Haarzuilens (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA1D3DB04BBD5D0793B4A85A7738FB78"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124354"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het dijklichaam van een oude Rijnarm in de weilanden tussen de spoorlijnen Utrecht - 's-Hertogenbosch en Utrecht - Arnhem bij boerderij De Ketel (Rijndijk) te Utrecht. Opmerking: De foto maakt onderdeel uit van een serie foto's waarin de fotograaf de grenzen van de voormalige stadsvrijheid van Utrecht in het toenmalige stadsbeeld heeft vastgelegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-07-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FEF120E693015FEBA9F163D0A4EF6A15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88113"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op kruising met links de Polderweg en rechts de Rijndijk te Haarzuilens (gemeente Vleuten- De Meern) gezien vanaf de Laagnieuwkoopsebuurtweg.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd. Opmerking: Tegen de gemeentegrens van Kockengen ligt de viersprong De Bom waar de Polderweg, Rijndijk, Laag-Nieuwkoopsebuurtweg en Gieltjesdorp bij elkaar komen. Deze viersprong is in 1960 gereconstrueerd in een kruising van vier wegen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

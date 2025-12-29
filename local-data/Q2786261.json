@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5EBB8579CF0950E3BAA71F0FF30B8BB3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161899"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Waal en de Waalkade te Nijmegen, met op de achtergrond de spoorbrug. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "658F85AC05985298AA010DE65ADE7867"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160484"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pand Waalkade 27 te Nijmegen, dat dienst doet als tijdelijk verkooppunt voor plaatsbewijzen voor de treinen van Lent naar Arnhem en verder.<ZR><ZR>N.B. Te Lent was in de eerste maanden van de Tweede Wereldoorlog een tijdelijk station ingericht voor treinen richting Arnhem, in verband met de in de meidagen van 1940 onklaar gemaakte spoorbrug over de Waal. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6970614F2D0C5780BC3BB5551D7E7855"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161903"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Waalkade te Nijmegen, met op de achtergrond de spoorbrug over de Waal met in het midden een noodoverspanning. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

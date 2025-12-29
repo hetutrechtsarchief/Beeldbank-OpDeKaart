@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E33FAED14FA51DA81B0A2317F5D2203"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8117"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwstraat te De Bilt uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B40FCCEFCC8F50E8887F8C45CB74EC54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92331"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een braakliggend terrein van gesloopte huizen aan de Nieuwstraat te De Bilt; met links de achtergevels van een rijtje huizen aan de Essenkamp."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-07-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B72A4E3C41F51ADAB39A93C19AC2A8A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9164"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nassaulaan en Julianaweg te Doorn uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24D45346C4A7534EBBE0C6849299E99B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9313"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nassaulaan te Doorn uit het zuidwesten, met links de ingang van de Wilhelminaweg en rechts de ingang van de Julianaweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7444A0B0D5A55FEA990179B45E3FF2A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604217"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis \"De Eekhoorn\" aan de Nassaulaan, vermoedelijk te Doorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A528389A5D90509A9A9C1F1A6C416B05"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9224"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nassaulaan te Doorn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

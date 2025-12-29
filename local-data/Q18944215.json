@@ -1,0 +1,660 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "153C59CF78245F6E9D0D06B59DE191BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53009"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Bastionweg te Blauwkapel (gemeente Utrecht) met rechts de spoorlijn naar Hilversum (verbindingsbaan tussen Blauwkapel West en Blauwkapel Noord)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "265215B5C4F4505EAB10D5D19CE444A9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht, met de spoorlijn naar Hilversum en veel graffiti op de pijlers onder het viaduct. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "48BD4ADBFBC259DCBFD6E0FC6B34A79E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829533"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met verschillende teksten, op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55127A5A6DC8521198B5F86771579896"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829535"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met o.a. de tekst \"MORSE\", op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht, met op de achtergrond de spoorlijn naar Hilversum. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "578FD09C7B4457D9A1FD2F0468F201A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829541"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een WTIP uit 2013 die oprijst uit de verf uit een omgevallen verfbus, op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "581A8B62C99E56BF948C0AB977DEDF51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829542"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met de tekst \"ROMS\" uit 2006, op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht, met op de achtergrond de spoorlijn naar Hilversum. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66D24971E8DA5AA9AC499BD0F0E0085C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108520"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Bastionweg te Utrecht, met rechts de verbindingsboog in de spoorlijn richting Hilversum nabij het knooppunt Blauwkapel. Opmerking: De foto maakt deel uit van de serie \"De IJzeren Weg\" van fotograaf Jaap Bijsterbosch en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-10-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-10-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6CD9CDE16E265061A94A628A632D10B3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "125427"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een te water geraakte auto in de gracht langs de Bastionweg bij het fort Blauwkapel bij Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71FA474903FA5830BC4265066385652F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169422"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Voordorpsedijk te Blauwkapel (gemeente Utrecht), vanaf de Bastionweg. Opmerking: NS fotonummer 19066"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F67D0AE23FF539598FC562724B4161F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829540"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met o.a. WTIP, op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht, met op de achtergrond de spoorlijn naar Hilversum. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "80D3B11152F15AF7A8E3C615B3A5A7E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een blauw figuurtje met een grote kuif, op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8AD446AFC5D15BDD9E621D9FCC465AE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "800655"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Fort Blauwkapel met de Kapelweg te Utrecht; op de voorgrond de Bastionweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9241DD50EFCA5E50A67619A26B20023C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829539"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een sputterende Utrechtse kabouter (KBTR), op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F0B1AFF2ACF5273B451C645A7C065FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829531"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met o.a. de tekst \"HOLA EBOLA\", op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BED5F495E9E9542298DB23A8D4195C70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829532"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een figuur met een opgestoken middelvinger, op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BFD470CC6C4E50CEB92B12718ECA3341"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de spoorwegovergang in de Voordorpsedijk te Utrecht, met op de achtergrond de Bastionweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2014-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2014-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0DDE214526B5270BEDDB379F14F16EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met een 'puffend' figuurtje, op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht, met op de achtergrond de spoorlijn naar Hilversum. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBC9BA06F79054ABA85DA9BDC214C493"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht, met veel graffiti op de pijlers van het viaduct. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CCD41F5CC771503EBD5E98BC27042D6F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829543"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met verschillende cartooneske figuurtjes, op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht, met op de achtergrond de spoorlijn naar Hilversum. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF51F6AAD7A95C2DA254A3077D1D461A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met o.a. kleine Utrechtse kabouters (KBTR), op een pijler onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht, met op de voorgrond de spoorlijn naar Hilversum. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DADFC00B7AB2525699D111B95085B306"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802301"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Fort Blauwkapel te Utrecht; links de spoorlijn Utrecht - Amersfoort en op de voorgrond de spoorlijn Utrecht - Hilversum en de Bastionweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DFC618E152EE5B53AB3360715F2B71B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829538"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van graffiti met veel teksten, op de pijlers onder het viaduct van de A27 over de Bastionweg en Einthovendreef-zuid te Utrecht, met op de voorgrond de spoorlijn naar Hilversum. Opmerking: <ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9AE9D38CFE5573DAB89A48B5DA51910"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85296"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Fort Blauwkapel te Utrecht, uit het zuidwesten. Rechts de Bastionweg en de spoorlijn naar Hilversum. Opmerking: De foto is ook als prentbriefkaart uitgegeven: cat.nr. 603431."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

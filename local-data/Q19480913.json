@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "271FD8E818B65265B642641D91E579EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5720"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rorikstraat te Wijk bij Duurstede uit het westen, met links de achtergevels van enkele huizen aan de Karolingersweg en op de achtergrond de achtergevel van een flatgebouw aan de Karolingersweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

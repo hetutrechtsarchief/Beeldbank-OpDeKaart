@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2BAB2913F04A5317806DCC53999E5F12"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404066"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Veldhuizen te De Meern (gemeente Utrecht, stadsdeel Leidsche Rijn), uit het zuiden, met in het midden de Heldammersingel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4F48AC6B265C56F0B34A9F4F83BC7DAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24440"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de panden aan de  St. Pietersberg te Utrecht met rechts de Heldammersingel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

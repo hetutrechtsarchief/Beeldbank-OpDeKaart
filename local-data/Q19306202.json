@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8206051E300953FD839D7BAB103C50D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602023"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van het ontvangstgebouw van de begraafplaats Zuiderhof (Kolhornseweg 13) te Hilversum. Opmerking: De architect van de begraafplaats is W.M. Dudok (geboren Amsterdam 1884, overleden Hilversum 1974)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D24615DF70AE572EB9778C042E9D20C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602022"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van het ontvangstgebouw van de begraafplaats Zuiderhof (Kolhornseweg 13) te Hilversum. Opmerking: De architect van de begraafplaats is W.M. Dudok (geboren Amsterdam 1884, overleden Hilversum 1974)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FC55D7A3D5157CA832702F510702A12"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9201"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Middenlaan te Doorn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CFEDD0C4C69C5B69A45E4161E0A629B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechterzijde van het huis Daisy Cottage (Middenlaan) te Doorn, in gebruik bij het A.J.M.V.<ZR><ZR>N.B. Omstreeks 1980 is het huis Daisy Cottage afgebroken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

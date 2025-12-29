@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B260607718B5BEF9D976C9CFD5A65AB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802407"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een deel van Parkwijk in het stadsdeel Leidsche Rijn te Utrecht, uit het noorden; op de voorgrond de Agaatvlindersingel en op de achtergrond de atletiekbaan van de Sportcampus (Maartvlinder 11) in het Prinses Amaliapark."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-05-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C27204A00C4D5E1FA21B8D1D99C0FC23"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833265"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een tegel met de tekst 'LEF LIEFDE GELEEFD', in het plaveisel op de Brigittenstraat ter hoogte van de Oudekamp te Utrecht.<ZR><ZR>N.B. De anonieme kunstenaar verwijderde plaveisel ter grootte van een tegel en plaatste daar zijn kunstwerkje terug. Opmerking: De afbeelding maakt deel uit van de inventarisatie van straatpo\u00ebzie in Nederland en Vlaanderen; zie: www.straatpoezie.nl"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-09-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C468836A8D1B561A81A0EC432A77DD92"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833236"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de gevelsteen met de tekst 'DE LETTER LEEFT WAAR DEN DAAS HET PAPIER KUST', boven een poortje tussen de panden Oudekamp 3-5 te Utrecht.<ZR><ZR>N.B. De steen verwijst naar drukkerij Den Daas, die hier tot 1998 gevestigd was en is in 1999 gemaakt door Koos Boomstra en Tsjerk Holtrop.<ZR><ZR> Opmerking: De afbeelding maakt deel uit van de inventarisatie van straatpo\u00ebzie in Nederland en Vlaanderen; zie: www.straatpoezie.nl"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E9568A70764752E08C2335D64A0BBF03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603282"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in op de voorgevel van het huis Oudekamp 1 (midden) te Utrecht; rechts de zijgevel van het huis Herenstraat 21A."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC-ND 4.0"
+        }
+      }
+    ]
+  }
+}

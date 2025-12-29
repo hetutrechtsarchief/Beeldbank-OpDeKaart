@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6284403DFE995A8896A5692F6978D99B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Merwedekanaal te Utrecht, vanaf de Balijebrug, met rechts op de voorgrond het brugwachtershuisje en op de achtergrond de woonboten aan het Merwedeplantsoen en de huizen aan de Merwedekade. Opmerking: De afbeelding behoort tot een serie foto's afkomstig van de Gebr. Simons, uitgevers van prentbriefkaarten te Ubach over Worms."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B0173C1EA0C5C31800DC74D9759BD9B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404798"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Merwedeplantsoen langs het Merwedekanaal te Utrecht, met dagrecreanten. Rechts enkele huizen aan de Merwedekade. Opmerking: De afbeelding behoort tot een serie foto's afkomstig van de Gebr. Simons, uitgevers van prentbriefkaarten te Ubach over Worms.<ZR>De foto is ook uitgegeven als prentbriefkaart; zie cat. nr. 122886."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F089A50CFC80540E8FC823578826F38E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122886"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Merwedekanaal, het Merwedeplantsoen en de Merwedekade te Utrecht. Opmerking: De originele foto is beschreven onder cat. nr. 404798."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

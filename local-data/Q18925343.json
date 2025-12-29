@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "096F885A6036581FBADC36E42410F49F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf de 1e Polderweg te Utrecht op het fort De Klop, uit het westen. Opmerking: Op de achterzijde bevindt zich een potloodschets van de voorstelling van nr. 31545."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5C0A119667A0560E98A18512AF47755A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31545"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegang tot het fort De Klop vanaf de 1e Polderweg te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A08E1329509C5CF88DF6184C865CF4E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31546"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de 1e Polderweg en de fortgracht met de toegangsbrug tot het fort de Klop te Utrecht, uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

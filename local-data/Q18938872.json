@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D5BF73F750F5189A4857FD0298AD4DD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19310"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kleuterschool Klein Duimpje (Mayadreef 3) te Utrecht met links de Aymaradreef en in het midden enkele flatgebouwen aan de Selvasdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-04-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

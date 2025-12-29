@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "80C422AEAD47366BE0534701000A1A81"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839177"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Beursplein te Rotterdam. Opmerking: NS fotonummer 13134"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "813640B5005B2861E0534701000A9E9B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839179"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Beursplein te Rotterdam. Opmerking: NS fotonummer 13136"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8137FCFE7CC70F39E0534701000A178C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839178"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Beursplein te Rotterdam. Opmerking: NS fotonummer 13135"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

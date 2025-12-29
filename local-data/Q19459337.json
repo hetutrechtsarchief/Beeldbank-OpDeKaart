@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4EA4B6A3EE2C510AAF873D3366F68BEC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94722"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het raadhuis (Raadhuisstraat 1) te Wilnis; met op de voorgrond geparkeerde auto's.  <ZR><ZR>N.B. De gemeente Wilnis is per 1 januari 1989 opgenomen in de nieuw gevormde gemeente De Ronde Venen. Opmerking: Lit. MIP De Ronde Venen, geschiedenis en architectuur, p. 208-210."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

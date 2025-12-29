@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "71943CCE7B175042B689D7054447233C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119808"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bedrijf in reingings- en onderhoudsproducten Procar (Industrieweg 30) te Soest. Opmerking: Het betreft een door de Fotodienst van het gemeentearchief vervaardigd reproductienegatief van een omstreeks 1982 gemaakte foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DCD12D671F54568F92772CBD805CC0C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116253"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de broodfabriek van Bakkerij Ben Rademaker (Industrieweg 4) te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06DE498567955B918280BCAD1B444CF1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405300"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een fietstrommel in de Kwartelstraat te Utrecht. Opmerking: De afbeelding is gepubliceerd in het Utrechts Nieuwsblad, 16 maart 1995."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D2CEA8E52D05466BCFBFCC2D92A0679"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60389"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Koekoeksvaart (tussen Kievitstraat en Grietstraat) te Utrecht uit het noordwesten; rechts de achtergevels van de panden aan de Kwartelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15E434E80AB35B6583F0705D64C68BD4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52743"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kwartelstraat 2 (links)-10 te Utrecht met geheel links de ingang van de Nieuwe Koekoekstraat. Opmerking: Omstreeks 1955 vervaardigde reproductie van een rond 1910 gemaakte foto. Afdruk van origineel negatief, 1996."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "21D22258AE625DDC81E164D6731A6F8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61338"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kwartelstraat 2-2A te Utrecht; vanuit het zuiden, links van nr. 2A de hoek van de Nieuwe Koekoekstraat met het huis Nieuwe Koekoekstraat 56. Opmerking: N.B. Op de achterzijde van de foto het stempel met de                datering  29 okt. 1975."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-10-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3E3C54311E375A0E8C75DF1F06B011CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52745"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kwartelstraat 36 (rechts)-lager te Utrecht. Opmerking: Omstreeks 1955 vervaardigde reproductie van een rond 1910 gemaakte foto. Afdruk van origineel negatief, 1996."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46CA9EEA2AE252DFA73EA32282B9792D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60388"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Koekoeksvaart (tussen Nieuwe Koekoekstraat en Kievitstraat) te Utrecht uit het noordwesten; rechts de achtergevels van de panden aan de Kwartelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E15698A619F54389676DFE182B85D22"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21218"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Kwartelstraat 66-lager te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5DB5AC4FAF7952F2BE506391BCCA1BAF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819907"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pui van het pand Kwartelstraat 5 te Utrecht.<ZR><ZR>N.B. Rond 1940 was in dit pand een bakkerswinkel van P.G. Dor gevestigd; in de crisistijd begonnen veel mensen thuis een winkel om nog iets bij te verdienen. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69F2C47DDF725CABB6F5665AFDEFB5B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819909"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de pui van het pand Kwartelstraat 52 te Utrecht.<ZR><ZR>N.B. Rond 1940 was in dit pand een bakkerswinkel van C. van der Kaaij gevestigd; in de crisistijd begonnen veel mensen thuis een winkel om nog iets bij te verdienen. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "734F3EA8E43F590095F53ABA02BD0B71"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "680"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kwartelstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1889-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CAB2D5BB6DF5187B9EA2AD7ED92E10B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819906"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Kwartelstraat 5 te Utrecht.<ZR><ZR>N.B. Rond 1940 was in dit pand een bakkerswinkel van P.G. Dor gevestigd; in de crisistijd begonnen veel mensen thuis een winkel om nog iets bij te verdienen. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81545BC7CE0857BA93BF77EB92FB9D5F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Volkert Stikvoort in de achtertuin van zijn huis Kwartelstraat 57 te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Binnenterreinen\" van fotograaf Jacquie Wessels en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-06-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "850D47BCD7355C72A1F109106AC1B3FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52752"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nieuwe Koekoekstraat te Utrecht met de huizen nrs. 97 (links)-lager; links op de voorgrond de ingang van de Kwartelstraat. Opmerking: Omstreeks 1955 vervaardigde reproductie van een rond 1910 gemaakte foto. Afdruk van origineel negatief, 1996."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A8D73C342D4571DB538D0E5D8C07874"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "86737"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Kwartelstraat 19 (rechts)-hoger te Utrecht. Opmerking: In 1981 vervaardigde reproductie van een omstreeks 1908 uitgegeven prentbriefkaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1911-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8E0BB473A3B5913A830BD91FD7E4EAB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60387"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Koekoeksvaart (tussen Nieuwe Koekoekstraat en Kievitstraat) te Utrecht uit het noordwesten; rechts de achtergevels van de panden aan de Kwartelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BDEE334008D65F3396965061EB3152D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52740"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Grietstraat te Utrecht met de voorgevels van de huizen nr.s 24-lager en de rechter zijgevel van het hoekhuis nr. 24; rechts op de voorgrond de ingang van de Kwartelstraat. Opmerking: Omstreeks 1955 vervaardigde reproductie van een rond 1910 gemaakte foto. Afdruk van origineel negatief, 1996."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C008B9F55B2A58F68C7C8CACA81A7B86"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501979"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een aanrijding op het kruispunt van de Kwartelstraat (voorgrond) en de Kievitstraat te Utrecht. Op de achtergrond staat een Citro\u00ebn HY-bus van de \"Bescherming bevolking Cantinedienst\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C46F454983B45AACB336A2CFCBCBE1DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819908"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Kwartelstraat 52 te Utrecht.<ZR><ZR>N.B. Rond 1940 was in dit pand een bakkerswinkel van C. van der Kaaij gevestigd; in de crisistijd begonnen veel mensen thuis een winkel om nog iets bij te verdienen. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8AE2EEFEED75873B1B0440CFD8DE443"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zijgevels van de voormalige firma Hooghiemstra (Wittevrouwensingel 100-101) te Utrecht gezien vanuit de Kwartelstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CDD59508A4EF578AAAFDE2E91BC227B0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Nieuwe Koekoekstraat 99 te Utrecht; links de sluis in de Koekoeksvaart en rechts de ingang van de Kwartelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D39267C472BF5C06904E4EE63B449749"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52757"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen in de Kwartelstraat te Utrecht. Opmerking: Omstreeks 1955 vervaardigde reproductie van een rond 1910 gemaakte foto. Afdruk van origineel negatief, 1996."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F804DB3B5EA35AF5876307B113819CC4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61337"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het oostelijk deel van de Kwartelstraat te Utrecht; vanaf de speelplaats op het Vaaltterrein uit het oosten met links de huizen nr. 57-lager, rechts de huizen 66-lager en meer naar achteren de kruising met de Grietstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFFC0763674857B99F0812C9C86901DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403017"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van groenteboer en aardappelhandelaar Hein Westerhout met zijn groentekar, getrokken door het paard Nero, in de Kwartelstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "008A40E04347515CB0AF95B8F0D7034F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95145"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gebouw en een loods van de Bilthovensche Metaalindustrie (Rembrandtlaan 22A) te Bilthoven (gemeente De Bilt); met op de voorgrond een bestelwagen. Opmerking: Een in ca 1995 gemaakte reproductie van een in ca 1930 vervaardigde foto. De originele tekening bevindt zich bij de Historische Kring te De Bilt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "883BA82A238057148F1EE854DB01AFDC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95146"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van van de Bilthovensche Metaalindustrie (Rembrandtlaan 22A) te Bilthoven (gemeente De Bilt); werkplaats met assemblage. Opmerking: Een in ca 1995 gemaakte reproductie van een in ca 1930 vervaardigde foto. De originele foto bevindt zich bij de Historische Kring te De Bilt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B0342DB439275EECB719FB11233E3C42"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116784"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Rembrandtlaan 93 te Bilthoven (gemeente De Bilt)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-05-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-05-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DAD538A4696558A8B26294626871ABBB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8399"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rembrandtlaan te Bilthoven uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

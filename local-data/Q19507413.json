@@ -1,0 +1,576 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "041C3383403657EB9BE1E8AFB6C45C74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55613"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de flat met de woningen Santa Cruzdreef 31-hoger te Utrecht, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13D03DF2BE245FC3B9C9E3044E86733D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814782"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de speelplaats aan de Valparaisodreef te Utrecht, met op de achtergrond het flatgebouw aan de Santa Cruzdreef en rechts het flatgebouw aan de Santiagodreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E36971A355B52E9AB72CFC6DF1A6580"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400938"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het plaatsen van een liftschacht in een flatgebouw aan de Santa Cruzdreef te Utrecht.<ZR><ZR>N.B. De plaatsing van de lift vond plaats in het kader van een project waarbij 38 liften in flatgebouwen in de wijk Overvecht geplaatst werden. De lift aan de Santa Cruzdreef was de eerste."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A6846A10F575BA7B48A61898A180090"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813325"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het speelterrein van de Bertha Mullerschool (Santa Cruzdreef 30) te Utrecht met een plastiek van Geer Steijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-09-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50793C5FE7F358D9A4E6A1D9BDB4BB7F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814781"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de speelplaats aan de Valparaisodreef te Utrecht, met rechts de achterzijde van het flatgebouw aan de Santa Cruzdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50BD832EC0DD520DA888BB5B54D94350"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802092"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de wandmoza\u00efek Compositie met Mensen en Dieren, in het overblijflokaal van de openbare school voor slechthorende kinderen en voor kinderen met spraak-/taalmoeilijkheden, de Bertha Mullerschool (Santa Cruzdreef 30) te Utrecht. Opmerking: naam kunstenaar: T. Blom<ZR>datum plaatsing: 1970<ZR>materiaal: baksteen<ZR>literatuur: De Timmerwerf, augustus 1971"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FF340BF27CB5344B5F0EA24F264A464"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55615"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele kleuters in een klas van de Bertha Mullerschool (Santa Cruzdreef 30) te Utrecht. Opmerking: De afbeelding is gepubliceerd in Bibl.HUA XIX F 11, De Timmerwerf, aug. 1971."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "72C4490964535DE98937A0BB642B3CBF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79182"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de maquette voor de Bertha Mullerschool (openbare school voor slechthorende kinderen en voor kinderen met spraak-/taalmoeilijkheden, Santa Cruzdreef 30) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A99A1C22FB655ED8AA639F1291F8902"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79186"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Bertha Mullerschool (openbare school voor slechthorende kinderen en voor kinderen met spraak-/taalmoeilijkheden, Santa Cruzdreef 30) te Utrecht, uit het noordoosten. Opmerking: 't Sticht fotonummer 2549-10A."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-03-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-03-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "840F39D4564D5873939C127FB3E713C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829758"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een op de muur geschilderd doel met daarin een gekroonde kikker, op de zijmuur van het schoolgebouw van Auris Frontaal (Santa Cruzdreef 30) te Utrecht, op het zogenaamde 'Hans Spekmanplein'."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90E435F3EC29584DBAFB8116992FA015"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "46034"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het wandkleed, ontworpen door Marijke Stultiens-Thunissen, in de Bertha Mullerschool (Santa Cruzdreef 30, openbare school voor slechthorende kinderen en voor kinderen met spraak-/taalmoeilijkheden) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "940CC3DD5F3E57D180607D757242B282"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55614"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de Bertha Mullerschool (Santa Cruzdreef 30) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "978C7B4B3B7B50448101E71B97634918"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55616"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de Bertha Mullerschool (Santa Cruzdreef 30) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD76D24A3EB5548D84A477B2E451C395"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69806"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de speelplastiek \"Schip\" bij de Bertha Mullerschool (Santa Cruzdreef 30, openbare school voor slechthorende kinderen en voor kinderen met spraak-/taalmoeilijkheden) te Utrecht. Opmerking: naam kunstenaar: G. Steyn<ZR>datum plaatsing: 1975<ZR>materiaal: biels en touw"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0D37681C44B5477B30E0280BD591CD4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126726"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van wethouder H. van der Vlist (3e van links) van onderwijs tijdens de offici\u00eble opening van de d\u00e9pendance van de Bertha Mullerschool voor kinderen met hoor- en spreekmoeilijkheden in een omgebouwde woonboot aan de Fentener van Vlissingenkade te Utrecht. De wethouder bekijkt samen met schoolhoofd A. van der Lijcke (rechts) de door de leerlingen zelf gemaakte maquette van de nog te bouwen definitieve school aan de Santa Cruzdreef en draagt de clubmuts van de schoolvereniging van onderwijzers van de Bertha Mullerschool. Opmerking: Zie ook: Utrechtsch Nieuwsblad, donderdag 10 oktober 1968, blz. 2: \"Nieuwe Mullerschool wordt snel aanbesteed / Wethouder opent schoolboot\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6927A975CC4568085BC0F41D734124D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814786"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Bertha Mullerschool (Santa Cruzdreef 30) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7A6CB79917A5D7B8F42668898074C74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69805"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de wandversiering \"Compositie met Mensen en Dieren\" in het overblijflokaal van de Bertha Mullerschool (Santa Cruzdreef 30, openbare school voor slechthorende kinderen en voor kinderen met spraak-/taalmoeilijkheden) te Utrecht. Opmerking: naam kunstenaar: T. Blom<ZR>datum plaatsing: 1970<ZR>materiaal: baksteen<ZR>literatuur: De Timmerwerf, augustus 1971"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8A2A542E0E75A98B8D69E408CEC5160"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814784"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het flatgebouw met de woningen Santa Cruzdreef 11 - 117 te Utrecht, vanaf de Valparaisodreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F5C59B8B1D025BA4A840C0BEEB24C685"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400937"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het plaatsen van een liftschacht in een flatgebouw aan de Santa Cruzdreef te Utrecht.<ZR><ZR>N.B. De plaatsing van de lift vond plaats in het kader van een project waarbij 38 liften in flatgebouwen in de wijk Overvecht geplaatst werden. De lift aan de Santa Cruzdreef was de eerste."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-11-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFEFEE9602C658648B21C3D6BAFC5304"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400977"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het plaatsen van een lift in een flat aan de Santa Cruzdreef te Utrecht. Opmerking: Zie ook Utrechts Nieuwsblad, 5 juli 1990: \"Proeflift geplaatst in flatgebouw in Overvecht\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-07-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

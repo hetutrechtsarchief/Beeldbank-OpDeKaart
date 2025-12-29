@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CE33B8478181530DBE8C52DF26AE991B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803527"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de ontvangst van president-directeur dr. ir. F.Q. den Hollander van de N.S. en zijn gevolg op het perron van het N.S.-station Rijssen te Rijssen, ter gelegenheid van de electrificatie van de spoorlijn naar Twente (Amersfoort - Enschede/Oldenzaal)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

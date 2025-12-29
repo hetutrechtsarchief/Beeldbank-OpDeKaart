@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2DC9371CCE655AA985794B52B7219A03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154572"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Amstelveen te Amstelveen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2C74336B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "151281"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het station te Amstelveen en de stoomlocomotief nr. 7001 (serie 7000) van de N.S. met een goederenwagen en een rijtuig."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-02-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

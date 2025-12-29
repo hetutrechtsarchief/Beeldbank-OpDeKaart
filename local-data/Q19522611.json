@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFE5E500D4BF5EB68FA44B76CFA48DB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602036"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de halfronde gevel van het trappenhuis van het Conservatorium (vm. Snelliusschool, Snelliuslaan 10) te Hilversum. Opmerking: De architect van het schoolgebouw is W.M. Dudok (geboren Amsterdam 1884, overleden Hilversum 1974)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

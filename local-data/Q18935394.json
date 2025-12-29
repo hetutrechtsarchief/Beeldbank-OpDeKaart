@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55FBFBA8C7DE50EE87DF94FAF244599B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808889"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tot appartementencomplex verbouwde gebouw van boekbinderij Albracht (Bolstraat 20 / Albrachthof) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B25FC3E16F0503C842E9B4592322892"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805275"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan een binnenplaats gelegen achterzijde van een appartementencomplex aan de Albrachthof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1CE8396DAC85E0C8A66D8AB0741FE04"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809087"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het beeld \"Het Geheim\" van Joop Wouters in de Albrachthof te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

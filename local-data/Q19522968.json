@@ -1,0 +1,996 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0022396A57B45732BDFC8B56DC6F5347"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14468"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soesterbergsestraat met bebouwing en verkeer te Soest uit het zuiden; met links een blok winkels met woningen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15CFF452BDEA5A51A11C3F178B844DC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600663"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het caf\u00e9-restaurant en hotel v.d. Brink (Soesterbergsestraat 122) te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2284E95071A55B36A56E407C3D1E5F4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14511"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het hoofdgebouw van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest. <ZR><ZR>N.B. Het sanatorium is in 2000 gesloopt. Opmerking: Lit. Steendelaar, J. van. Van Zonnegloren tot Molendael, een bewogen geschiedenis. Soest, 1996. <ZR>MIP Soest, p. 71-72."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B09E7DC8BE553F7B54BFA69C713A2C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14469"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soesterbergsestraat met rijen bomen en bebouwing te Soest uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E3430D87D2D5F329907EE375904A84E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824848"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest: kamer van de geneesheer-directeur jhr. P.J.H. Ro\u00ebll. Opmerking: Foto Pers Bureau Utrecht fotonummer 27666"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31C6394EB1F252B0835930F58AE048BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14514"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kerk- en recreatiezaal van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest. <ZR><ZR>N.B. Het sanatorium is in 2000 gesloopt. Opmerking: Lit. Steendelaar, J. van. Van Zonnegloren tot Molendael, een bewogen geschiedenis. Soest, 1996. <ZR>MIP Soest, p. 71-72."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "347D2AAED169565B80EE3FD90E5F00B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14467"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soesterbergsestraat met bebouwing en bomen te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "35F2514C9B915542A50E6F3AE7C63B3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14508"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het gebouwencomplex van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest uit het zuiden.<ZR><ZR>N.B. Het complex is in 2000 gesloopt. Opmerking: Lit. Steendelaar, J. van. Van Zonnegloren tot Molendael, een bewogen geschiedenis. Soest, 1996. <ZR>MIP Soest, p. 71-72.<ZR>Fotonummer 026779zr"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-07-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-07-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37263B8E168855C8AA6AAC62139146E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14466"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soesterbergsestraat met bebouwing te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A61E33AEB0D541C9ED5C28E2411ED64"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14470"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soesterbergsestraat met rijen bomen en bebouwing te Soest uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C0FC369A42D50AEA293A1657AF1BAA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14513"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Doorkijk onder de poort van het hoofdgebouw van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest. <ZR><ZR>N.B. Het sanatorium is in 2000 gesloopt. Opmerking: Lit. Steendelaar, J. van. Van Zonnegloren tot Molendael, een bewogen geschiedenis. Soest, 1996. <ZR>MIP Soest, p. 71-72."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "413756DD12E152BCBF228B2948FBCDBA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14512"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kinderpaviljoen met lighal van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest. <ZR><ZR>N.B. Het sanatorium is in 2000 gesloopt. Opmerking: Lit. Steendelaar, J. van. Van Zonnegloren tot Molendael, een bewogen geschiedenis. Soest, 1996. <ZR>MIP Soest, p. 71-72."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AA171B3816B52F1A3F3A1592014DDE1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824843"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de entree en oprijlaan van de villa Tjemara, sinds 1923 in gebruik als het sanatorium Zonnegloren (Soesterbergsestraat) te Soest. Opmerking: Foto Pers Bureau Utrecht fotonummer 27657"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4CAAC8630AC654F9B5BD8CA82411DD6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824846"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest: behandelruimte. Opmerking: Foto Pers Bureau Utrecht fotonummer 27660"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5DBA104531F1515380BFE626CA5B95FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824845"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest: behandelruimte. Opmerking: Foto Pers Bureau Utrecht fotonummer 27659"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7216A8EE3E0B53FA807B9348B0BD0B26"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600669"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Soesterbergsestraat te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78CF08382A1B50C1BC54311F1E1BE493"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824842"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest: kerkzaal. Opmerking: Foto Pers Bureau Utrecht fotonummer 27656"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85284426A1C05D9A9E6A668C7273FB55"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600664"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het caf\u00e9-restaurant en hotel v.d. Brink (Soesterbergsestraat 122) te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8A831115053B5B3289363E8BFC907848"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14493"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Klein Zwitserland met omringende tuin (Soesterbergsestraat) te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C58ABDDD2E35F9AB51F1FDBC8C4504D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van een tabakswinkel en een drogisterij op de hoek Soesterbergsestraat / Birkstraat te Soest uit het noorden; met rechts een blok winkels met woningen aan de Soesterbergsestraat.."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CECA70490335168A3ADACE57D704757"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14516"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de villa Tjemara (links) met omringend bos, sinds 1923 in gebruik als het zusterhuis van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest. <ZR><ZR>N.B. Het sanatorium is in 2000 gesloopt. Opmerking: Lit. Steendelaar, J. van. Van Zonnegloren tot Molendael, een bewogen geschiedenis. Soest, 1996. <ZR>MIP Soest, p. 71-72."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "925E0C7A687D5640A7F0EFDA6A52C6BC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600671"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de entree van het sanatorium Zonnegloren (Soesterbergsestraat 125) te Soest, met links het zusterhuis villa Tjemara."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "929EF77F620A5FD1B054D2CC3DDD0047"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14502"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Openluchttheater (Soesterbergsestraat 140) te Soest.<ZR><ZR>N.B. Het Openluchttheater is in 1938 gebouwd in het kader van de Werkverschaffing. Het openluchttheater is tegenwoordig bekend als Cabrio Openluchttheater Soest. Opmerking: Lit. MIP Soest, p. 272."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A9B3391C3B251BABEA751612E6B9960"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824844"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest: onderzoeksruimte (voor r\u00f6ntgenologisch onderzoek?). Opmerking: Foto Pers Bureau Utrecht fotonummer 27658"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9E2F9914EF255955B7AB1A737ECACB6F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824849"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest, met enkele zusters. Opmerking: Foto Pers Bureau Utrecht fotonummer 27667"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A163E533E09E5506991A45A77878AC0A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "600670"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegangsweg naar het Vakantiecentrum Het Nest (Soesterbergsestraat 133) te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A43D6B8096105065AF1346886574F85A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "824847"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest. Opmerking: Foto Pers Bureau Utrecht fotonummer 27661"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B17DD61AF8F85BB4B03BB4334808ECFC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50527"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het ziekenhuis Zonnegloren / Molendael aan de Soesterbergsestraat te Soest, uit het zuidwesten.<ZR><ZR>N.B. Het complex is in 2000 gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6C91DA3C9C557AABCD2B0F223B61989"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14515"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de villa Tjemara (rechts) met omringend bos, sinds 1923 in gebruik als het zusterhuis van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest. <ZR><ZR>N.B. Het sanatorium is in 2000 gesloopt. Opmerking: Lit. Steendelaar, J. van. Van Zonnegloren tot Molendael, een bewogen geschiedenis. Soest, 1996. <ZR>MIP Soest, p. 71-72."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB9723CB89275546993528D52C2564A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14509"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het gebouwencomplex van het sanatorium Zonnegloren (Soesterbergsestraat) te Soest uit het zuiden.<ZR><ZR>N.B. Het complex is in 2000 gesloopt. Opmerking: Lit. Steendelaar, J. van. Van Zonnegloren tot Molendael, een bewogen geschiedenis. Soest, 1996. <ZR>MIP Soest, p. 71-72.<ZR>Fotonummer 29640"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-07-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C02BDF819BBF5465B0811A6FF88D693E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50529"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het ziekenhuis Zonnegloren / Molendael aan de Soesterbergsestraat te Soest, uit het zuidwesten.<ZR><ZR>N.B. Het complex is in 2000 gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7CC796831B4540FA01C6E9B3BB81238"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50526"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het ziekenhuis Zonnegloren / Molendael aan de Soesterbergsestraat te Soest, uit het zuiden.<ZR><ZR>N.B. Het complex is in 2000 gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB1A81EFCBF45E3E95C899C39CFD9A03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14510"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de oprijlaan van de villa Tjemara, sinds 1923 in gebruik als het sanatorium Zonnegloren (Soesterbergsestraat) te Soest. <ZR><ZR>N.B. Het sanatorium is in 2000 gesloopt. Opmerking: Lit. Steendelaar, J. van. Van Zonnegloren tot Molendael, een bewogen geschiedenis. Soest, 1996. <ZR>MIP Soest, p. 71-72."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F35685A11C3050F4BAD067928820B14E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14464"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Soesterbergsestraat met bebouwing te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9E8AB7821835F3FA29EDF7BC9ED096D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50528"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het ziekenhuis Zonnegloren / Molendael aan de Soesterbergsestraat te Soest, uit het westen. Op de achtergrond de Korte Duinen.<ZR><ZR>N.B. Het complex is in 2000 gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

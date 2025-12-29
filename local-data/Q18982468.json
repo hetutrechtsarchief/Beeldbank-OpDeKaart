@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E79AD74C9965BD283ED3CD8A5CB5A94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814791"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het plantsoen aan de Pampadreef te Utrecht, met rechts het flatgebouw aan de Camposdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "62E2CF1B6EDE5DB2933DB2794A6E7B94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814793"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Camposdreef te Utrecht, met op de achtergrond een flatgebouw aan de Incadreef, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F5C699914CB592EA206C1A40F071251"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814792"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het plantsoen aan de Camposdreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

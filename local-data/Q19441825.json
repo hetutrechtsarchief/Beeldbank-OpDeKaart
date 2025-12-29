@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07AD1AE342C15FA686E5F495CD6CA731"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "120147"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Provence te Utrecht, uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2003-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2003-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37083CC2FB365EEABFC8F3ACF618EBE2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69208"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de flatgebouwen aan de Provence te Utrecht, uit het westen. Rechts van het midden de achterzijde van de woningen Provence 4-hoger; links daarvan de voorzijde van de woningen 76-lager. Geheel links de zijgevel van het flatgebouw met de woningen Provence 7-47 en de brandtrap."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91ABE3EBCFE5558F9A9A617D8FFE0DF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65714"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele flatgebouwen aan het Normandi\u00eb (links de achtergevels van de woningen nrs. 111-175 en er tegenover de woningen nrs. 78-170) te Utrecht, uit het zuidwesten; op de voorgrond de Furkabaan, links van het midden de zijstraat Bretagne en rechts een gedeelte van een flatgebouw aan de Provence."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

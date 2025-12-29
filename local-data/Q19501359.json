@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "12700A3116B55C0D8C157C43DB36131A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "804305"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een vuurpijl boven Utrecht, gezien vanaf een flatgebouw aan de Scharlakendreef. Op de voorgrond de Rutenberchdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      }
+    ]
+  }
+}

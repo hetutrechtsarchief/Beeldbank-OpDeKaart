@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6E5110B1A9D589C9862E0C8781F6731"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94114"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Molenweg met bebouwing te Maartensdijk uit het noordoosten.<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente De Bilt gevoegd. Opmerking: Een in 1990 gemaakte reproduktie van een in ca 1945 vervaardigde prentbriefkaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D17CF2189E91502EB0FCA5578E5DE0E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13693"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de Christelijke lagere school (Molenweg) te Maartensdijk. <ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente De Bilt gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D6D5776238C757D7A1F6BFA3096C6268"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94113"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de bebouwing aan de Molenweg te Maartensdijk uit het noordoosten.<ZR><ZR>N.B. De gemeente Maartensdijk is per 1 januari 2001 bij de gemeente De Bilt gevoegd. Opmerking: Een in 1990 gemaakte reproduktie van een in ca 1945 vervaardigde prentbriefkaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

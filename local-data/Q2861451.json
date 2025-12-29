@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "183A736D2A805BD7809573E813B89518"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602276"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Dijkhuis van het Hoogheemraadschap van de Lekdijk Bovendams te Schalkwijk.<ZR> <ZR>N.B. Het huidige adres van het pand is Provincialeweg 69, Schalkwijk (gemeente Houten)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2498E3E39831546EA717734D38771E4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10674"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op voorgevel van het gemeentehuis te Schalkwijk (Provincialeweg 41); met op de voorgrond de brug over de Schalkwijkse Wetering.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A5ECB7065ED5DC6AC026DDBD0FA1EF5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5901"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij Sint Pieter  (Provincialeweg 68) te Schalkwijk; met op de achtergrond de voor- en rechtergevel van het dijkhuis van het Hoogheemraadschap van de Lekdijk Bovendams (Provincialeweg 69).<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "52A4721C344455E0B5F04E976F2F6577"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128535"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Schalkwijksche Wetering te Schalkwijk (gemeente Houten), met rechts de Provincialeweg en op de achtergrond de Brinkbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "53AA9D97E62E5B42B4D5112C452E8B92"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10685"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een boerderij aan de Provincialeweg in het gehucht De Heul te Schalkwijk uit het noordoosten. <ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "54D23424EDE35D7287CB20E831668E0D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220721"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Provincialeweg te Schalkwijk, vanaf de Lekdijk, uit het zuidoosten; met op de achtergrond de rechtergevel van de dijkwachterswoning De Heul met dijkmagazijn.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd. Het huidige adres van het pand is Provincialeweg 70. Opmerking: Lit. MIP Houten, historische bebouwing, p. 234.<ZR>Foto nr 16 in een cassette met 30 foto's, samengesteld ter gelegenheid van de bouw van de vergaderzaal van het Lekdijkshuis (Keistraat 9) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1894-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1894-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55ADD12E431650439C5705ED3714195F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5934"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Provincialeweg 12 te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "74ABE80556795E1D923F20767C77A732"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5937"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij Provincialeweg 49 te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "778DFAA2424E56F4AE04B0125F470BD3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5935"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Provincialeweg 22 te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B42F0FBE1A053FF9B3E89DB96D37CCA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220723"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het Dijkhuis van het Hoogheemraadschap van de Lekdijk Bovendams te Schalkwijk uit het zuidwesten.<ZR> <ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd. Het huidige adres van het pand is Provincialeweg 69. Opmerking: Lit. MIP Houten, historische bebouwing, p. 233-234.<ZR>Foto nr 18 in een cassette met 30 foto's, samengesteld ter gelegenheid van de bouw van de vergaderzaal van het Lekdijkshuis (Keistraat 9) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1894-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1894-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F91A12A75AD69F4E0534701000A1960"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839250"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Provincialeweg te Schalkwijk (gemeente Houten), bij de aansluiting met de Jonkheer Ramweg. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P8 (Utrecht-Culemborg) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 486."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F91A12A75B169F4E0534701000A1960"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839254"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Provincialeweg te Schalkwijk (gemeente Houten), bij de aansluiting met de Jonkheer Ramweg. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P8 (Utrecht-Culemborg) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 486."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F91A12A75B369F4E0534701000A1960"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839255"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Provincialeweg te Schalkwijk (gemeente Houten), bij de aansluiting met de Jonkheer Ramweg. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P8 (Utrecht-Culemborg) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 486."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F91A12A75B869F4E0534701000A1960"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839258"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Provincialeweg te Schalkwijk (gemeente Houten), ter hoogte van de aansluiting van de Jonkheer Ramweg. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P8 (Utrecht-Culemborg) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 486."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F91A12A75BC69F4E0534701000A1960"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839259"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Provincialeweg te Schalkwijk (gemeente Houten), ter hoogte van De Heul en de aansluiting van de Pothuizerweg en de Zuwendijk. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P8 (Utrecht-Culemborg) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 486."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7F91A12A75BF69F4E0534701000A1960"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839260"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Provincialeweg te Schalkwijk (gemeente Houten), ter hoogte van De Heul en de aansluiting van de Pothuizerweg en de Zuwendijk. Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's over de provinciale weg P8 (Utrecht-Culemborg) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 486."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "819A9D10C4C252D9AA79E39B19FDCCAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5938"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Provincialeweg 57 te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "864D2BEA3233560A9A891A3C5C930849"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5896"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de boerderij Provincialeweg 36 te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FCEFEE525E950F0BDCEEAEC3C69CBE7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Brinkbrug over de Schalkwijksche Wetering tussen de Provincialeweg en de Brink te Schalkwijk (gemeente Houten), met op de achtergrond de N.H. pastorie (Brink 22)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "993FF98F6D195D9A97090F2B16263ACA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5899"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de boerderij Provincialeweg 44 te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C4E05EC24AC50E7B3E8FE896C656C13"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "33028"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel van het Dijkhuis van het Hoogheemraadschap van de Lekdijk Bovendams (Provincialeweg 69) te Schalkwijk (gemeente Houten)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AAE35AC6B7965213AB46CC5E9F5582D9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10682"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Provincialeweg en de Schalkwijkse Wetering bij de spoorwegovergang te Schalkwijk uit het noordwesten. <ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1918-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC78AD14984C5E3CA454430C9A4BF50E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5898"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Provincialeweg 42 te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE80DFC491D753DEB7D399594E0F2D70"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10684"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een boerderij aan de Provincialeweg in het gehucht De Heul te Schalkwijk uit het noordoosten. <ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BAA891AD1DE7526789A0F070352D0156"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "220722"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van het hoofdmagazijn II en de dijkwachterswoning De Heul te Schalkwijk uit het noordwesten.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd. Het huidige adres van het pand is Provincialeweg 70. Opmerking: Lit. MIP Houten, historische bebouwing, p. 234.<ZR>Foto nr 17 in een cassette met 30 foto's, samengesteld ter gelegenheid van de bouw van de vergaderzaal van het Lekdijkshuis (Keistraat 9) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1894-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1894-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB6B57BD039B5328A16B993F71839B21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5936"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Schalkwijkse Wetering op de  voor- en rechtergevel van de boerderij Provincialeweg 29 te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC5E04CA29F557DBBC26AE4B53E1D3E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5900"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de boerderij Bouwlust (Provincialeweg 63) te Schalkwijk.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6418164387154398D92E255889123E3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10681"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Provincialeweg en het beginpunt van de Schalkwijkse Wetering te Schalkwijk uit het zuidoosten.<ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EDE71C02C0FB5F229B78A26EBDF6BD01"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10687"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de villa Nuijens (Provincialeweg 11) te Schalkwijk.  <ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE4CDEE261945F348A57D43BC32C3E09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "5932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Rustenburg (Provincialeweg 41) te Schalkwijk; met op de voorgrond een brug over de Schalkwijkse Wetering. <ZR><ZR>N.B. De gemeente Schalkwijk is per 1 juli 1961 bij de gemeente Houten gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1958-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

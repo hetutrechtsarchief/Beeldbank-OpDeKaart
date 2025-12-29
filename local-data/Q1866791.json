@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "772E3F6C73B3545DB1FD745D55E0C4EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163047"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het S.S.-station Ressen-Bemmel te Ressen. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1907-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1912-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B0F0320C929A54028FAD6A85DC2CD188"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156904"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het station Ressen-Bemmel van de Staatsspoorwegen te Ressen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1879-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1884-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

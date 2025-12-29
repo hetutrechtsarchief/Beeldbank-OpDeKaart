@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3085F6CE1C25E38AA651D3901739EFA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810262"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op twee flatgebouwen aan het Wenckebachplantsoen te Nieuwegein, vanaf de Sluyterslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDB34C34F8CD5ACAA0E89321F35CC8A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802736"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een schoolgebouw aan de Sluyterslaan te Nieuwegein met links enkele huizen aan de Van Reeslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

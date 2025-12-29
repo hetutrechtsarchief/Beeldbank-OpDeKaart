@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0859D0660CCA54D7A695031756C4BFAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402618"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 1e Atjehstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C2C24990EA3B58698E388501158075AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85569"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van de Vleutenseweg en omgeving te Utrecht, uit het zuiden. Op de voorgrond de 1e Atjehstraat en de 1e Delistraat (midden), in het midden de Kneppelhoutstraat en het Cremerplein met links daarvan de Van Koetsveldstraat en rechts de Hasebroekstraat. Op de achtergrond het terrein van de Spoorstaaflasinrichting (SLI) van de Nederlandse Spoorwegen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0EE8F7522A45505A2352061A8190EB9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20488"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de 1e Atjehstraat te Utrecht met de huizen nrs. 5-lager; rechts op de achtergrond een gedeelte van een huis aan de Jan Pieterszoon Coenstraat.<ZR><ZR>N.B. De offici\u00eble straatnaam die door de gemeente Utrecht gehanteerd wordt is Jan Pieterszoon Koenstraat. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-05-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

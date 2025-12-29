@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "12DDDDA9052952CAAE250022F1A99DC9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88700"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouw van premie-c woningen aan de Houtwerf te Vleuten (gemeente Vleuten-De Meern). <ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "988C3F67143A51F592B7CD2F9152C306"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88698"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gesloopte loodsen van de Houthandel van Dijk (Dorpsstraat) die plaats moeten maken voor de aanleg van de straten Houtwerf en Loswal te Vleuten  (gemeente Vleuten-De Meern) met op de achtergrond de achtergevels van enkele panden aan de Frederik van Eedenstraat.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB3B3C5B4F1B5A09960E9B93718E2F84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21549"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Houtwerf te Vleuten (gemeente Utrecht), uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

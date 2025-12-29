@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D273E844DBB8572BB373CA70343708EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23888"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het St.- Antoniusziekenhuis (Jan van Scorelstraat 2) te Utrecht en omgeving, met in het midden de Prins Hendriklaan en rechtsonder de Hendrick de Keyserstraat. Opmerking: Fotonummer: 28697"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

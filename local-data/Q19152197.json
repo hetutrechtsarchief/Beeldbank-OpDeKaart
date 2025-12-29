@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F38361A936475795B3BCB926CD6739A5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90021"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de in aanleg zijnde wijk Hinderstein te Vleuten (gemeente Vleuten-De Meern), vanaf de toren van de N.H.-kerk (Schoolstraat 5), uit het zuidwesten, met de huizen aan de Fleminglaan en de Curielaan. Op de voorgrond het gemeentelijke gymnastieklokaal (Schoolstraat 3a) en het Van Leeuwenhoekplantsoen.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      }
+    ]
+  }
+}

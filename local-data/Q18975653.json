@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D115B5C08BA57A4BC08E7966D6A45B1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "502252"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de optocht tijdens de bevrijdingsfeesten c.q. Koninginnedag in de Brugstraat te Abcoude; vooraan G.J. Backer (links, voormalig gemeente-ontvanger) en J. Trouw. Opmerking: De foto is afkomstig uit een album met foto's van het bevrijdingsfeest dat tegelijkertijd met Koninginnedag werd gevierd. De foto is om conservatorische redenen losgemaakt uit het album. De zure bladen uit het album zijn vervolgens vernietigd.<ZR>De foto is gepubliceerd in: Bibl.HUA K 1997-341, Else Flim, Dat vergeet je nooit meer ..., blz. 168.<ZR>Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8DB197C46BD544380FC88B53DB96BFE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87868"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van de bistro-petit restaurant 't Regthuys (Brugstraat 1-2/hoek Amsterdamsestraatweg) te Abcoude, uit het zuidoosten. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

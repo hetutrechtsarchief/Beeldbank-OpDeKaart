@@ -1,0 +1,660 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "201FF471118C50E388DCEF1627EBF139"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57381"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goedestraat te Utrecht met in hoofdzaak de huizen nrs. 126-lager aan de westelijke straatwand, vanaf de kruising met de Klaverstraat (voorgrond), uit het noordnoordoosten; vooraan een gedeelte van het hoekhuis Klaverstraat 19/19bis, naar achteren de kruising met de Griftstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2466FE9EB8185ECEAE5257EC79868125"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26909"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Klaverstraat 49 te Utrecht: zolder."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "24751010F93856999DB3F9F42B9C3748"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819652"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Klaverstraat 54 te Utrecht; rechts de Bekkerstraat.<ZR><ZR>N.B. Tot 1938 was in het pand winkel no. 9 van Broodfabriek De Korenschoof gevestigd (vergelijk: catalogusnr. 121186); daarna tot ca. 1950 een depot van De Lubro. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3766D9C05D46564D87371D882A5EAF52"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60272"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Klaverstraat 80-82 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3C72B7A344885E3BAE7794B635CA772B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121186"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Winkel No. 9 van Maatschappij De Korenschoof (Klaverstraat 54) te Utrecht. Opmerking: De foto bevindt zich in het album Maatschappij \"De Korenschoof\" Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1922-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "533BE8273F535985A8E44442194FE741"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403276"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van Jules van Dam, co\u00f6rdinator van de Stichting de Tussenvoorziening die zich inzet voor de opvang van dak- en thuislozen te Utrecht, gefotografeerd op het balkon van zijn huis aan de Klaverstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1995-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5357473F9C8D5902B973B37DFA587447"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26903"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het pand Klaverstraat 49 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B99CEED488052D6A2CDAF5649C1DECF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57344"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goedestraat te Utrecht met in hoofdzaak de huizen nrs. 137-lager aan de oostelijke straatwand, vanaf de kruising met de Bollenhofsestraat (voorgrond), uit het noordnoordwesten; iets naar achteren de kruising met de Klaverstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6A6FF539D8255D11897731349C3AD3DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57382"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goedestraat te Utrecht met in hoofdzaak de huizen nrs. 132-lager aan de westelijke straatwand, vanaf de kruising met de Bollenhofsestraat (voorgrond), uit het noordnoordoosten; vooraan het hoekhuis Bollenhofsestraat 39, meer naar achteren de kruising met de Klaverstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6D00AD362826598E91EF4717401D2F8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60271"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Klaverstraat 80-82 te Utrecht met rechts het huis nr. 82."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E017293BEA65A6C85E1550B63FF7A47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108026"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de aardappelhandel en groentewinkel van de familie Ganseman (Klaverstraat 26) te Utrecht. Opmerking: De foto maakt deel uit van de serie \"De Wijk Wittevrouwen\" van fotograaf Ellen Kok (1958) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "700357949D8C53978E8535CC39862069"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26905"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de binnenplaats van het pand Klaverstraat 49 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CF06D961FCF5033A4EDEFDB4BFD9DCE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26908"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Klaverstraat 49 te Utrecht: voordeur."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91EF1E53E7D051A6B3C09AC66C7B1212"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26906"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Klaverstraat 49 te Utrecht: provisiekast."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9576A62001B65AE9977B7BCC5A232609"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819653"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voormalige winkelpui van het hoekpand Klaverstraat 54 te Utrecht; rechts de Bekkerstraat.<ZR><ZR>N.B. Tot 1938 was in het pand winkel no. 9 van Broodfabriek De Korenschoof gevestigd (vergelijk: catalogusnr. 121186); daarna tot ca. 1950 een depot van De Lubro. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "95EFBA5D9BF959109D342D86F36BCC09"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26910"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Klaverstraat 49 te Utrecht: keuken."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9CCE0F7CA44D5276994174148A310297"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57342"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goedestraat te Utrecht met de huizen nrs. 127-lager aan de oostelijke straatwand, vanaf de kruising met de Klaverstraat (voorgrond), uit het noordnoordwesten; vooraan een gedeelte van het hoekhuis Klaverstraat 21, iets naar achteren de kruising met de Griftstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DE0DEEB9B0F592E9592F8FF3231320D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60273"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Klaverstraat te Utrecht met de voorgevels van de huizen nrs. 84-lager; rechts de ingang van de Bollenhofsestraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A254E1B1B2285DB4BF635461467D5EE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26904"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de binnenplaats van het pand Klaverstraat 49 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CA980CA15B585DC4847D54F7419647DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26907"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het pand Klaverstraat 49 te Utrecht: trap naar de 1e etage."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DD20813F3A725780A1C364BE4FB332F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26902"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Klaverstraat 49 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F3D207C6A7B55C52B643214E18841599"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108003"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de onderpui van het huis Klaverstraat 85 te Utrecht, met de nieuwe eigenaar die zijn huis opknapt. Opmerking: De foto maakt deel uit van de serie \"De Wijk Wittevrouwen\" van fotograaf Ellen Kok (1958) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC9DF7804AA6535082B816E731CEE49B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57343"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Goedestraat te Utrecht met de huizen nrs. 129-hoger aan de oostelijke straatwand (rechts), uit het zuiden; op de voorgrond de kruising met de Klaverstraat met gedeelten van de winkelwoonhuizen Klaverstraat 24 (links) en 26 (rechts); aan het eind de Griftstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

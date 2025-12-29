@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EB9148D1B9F5A68BBC60A87CE76E410"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807735"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het door een ontspoorde trein beschadigde bedieningstoestel voor de afsluitbomen bij de spoorwegovergang aan de Govert van Wijnkade bij Blokpost III te Maassluis. Opmerking: De foto bevindt zich in het archief van de Dienst van Exploitatie van de N.S. (toegangsnummer 943, inv. nr. 1106)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA003945D1C155FE918B0F646E586938"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807734"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het ontspoorde electrische treinstel nr. 306 (mat. 1940) van de N.S. bij de spoorbrug over de Haven te Maassluis, met rechts de door de ontsporing beschadigde blokpost III en op de voorgrond het bedieningstoestel voor de afsluitbomen van de spoorwegovergang in de Govert van Wijnkade. Opmerking: De foto bevindt zich in het archief van de Dienst van Exploitatie van de N.S. (toegangsnummer 943, inv. nr. 1106)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-11-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

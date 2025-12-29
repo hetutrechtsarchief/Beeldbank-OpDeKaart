@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA7C6503696056768C475532E81CDB4D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401747"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van jeugdboekenschrijfster Miep Diekmann tijdens een bezoek aan de openbare basisschool Piet de Springer (Marijkelaan 3) te Langbroek.<ZR><ZR>N.B. De gemeente Langbroek is in 1996 bij de gemeente Wijk bij Duurstede gevoegd. Opmerking: Zie ook Utrechts Nieuwsblad, 2 oktober 1991: \"Langbroekse school sluit thema-maand af\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

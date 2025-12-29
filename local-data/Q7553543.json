@@ -1,0 +1,716 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2B7A3D6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14530"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en linkergevel van het N.C.S.-station Soest (Stationsweg 18) te Soest; met rechts het toiletgebouw. Opmerking: Lit. MIP Soest, p. 256-257."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "12DD0586B2D95751BEEA5542DF59BBB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150685"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Soest te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14056B6C61D459C7A492CB7EDC7CF73C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166148"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Soest te Soest: loket in de hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1967A011CE3658568B91CA8733C3A776"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164264"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het publiek bij de feesttrein ter gelegenheid van de opening van het ge\u00eblectrificeerde baanvak Den Dolder - Baarn, vermoedelijk op het N.S.-station Soest Zuid te Soest. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2203AB8D4B3556C591B25E6DABFFD0AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "801262"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het versierde N.C.S.-station Soest te Soest, tijdens de viering van het 50-jarig jubileum van de N.C.S. (Nederlandse Centraal Spoorweg-Maatschappij). Opmerking: De afbeelding bevindt zich in het jubileumboek \"Nederlandsche Centraal Spoorweg Maatschappij - Dienstorder no. 621 20 augustus 1863 - 1913. (In particulier bezit)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1913-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2CA3DD2B22A45E23A3E17569B766C727"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166358"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bloktoestel in het N.S.-station Soest te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-02-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-02-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "387975699CF4588BA9F6900B0F6A7C60"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501925"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het ontspoorde electrische treinstel nr. 453 (mat. 1936) van de N.S. bij het N.S.-station Soest te Soest. De trein ontspoorde als gevolg van een te vroegtijdige wisselbediening."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "554C8A98496B5F1DBDF14D41A059B1AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164109"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het emplacement van het N.S.-station Soest te Soest. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-10-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-10-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "666F352828155B519A29306DB32C158A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165109"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.C.S.-station Soest te Soest. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "73F2C6C6EA873CB3E0534701000A3E8C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837267"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het bloktoestel voor de bediening van wissels en seinen in Post T in het N.S.-station Soest te Soest. Opmerking: NS fotonummer 12349"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "776501DE5C74D87EE0534701000A0FF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Soest (Stationsweg 18) te Soest. Opmerking: De foto (18 x 24 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 378. De foto is gemaakt ten behoeve van de publicatie \"Spoorwegarchitectuur\" (Stichtse Monumenten Reeks), door Roland Blijdenstijn, J.G.C. van de Meene en Henk Bol (1994)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7776C5A30FC85533BAFCF5FFD61DAC21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14529"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van het N.C.S.-station Soest (Stationsweg 18) te Soest; met links de achtergevel van het toiletgebouw. Opmerking: Lit. MIP Soest, p. 256-257."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AC8D8942CCF533CBBAACF5B6B2E51AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153726"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Soest te Soest: wachtkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CBD6C72A8DE5856831D5F80F8F81878"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161037"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een electrische trein bestaande uit rijtuigen mat. 1924 (\"Blokkendozen\") van de N.S. bij binnenkomst op het N.S.-station Soest te Soest. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D7D7A477D3054AD8D8417665CBA87A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14527"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het N.C.S.-station Soest (Stationsweg 18) te Soest; met rechts op de voorgrond de voorgevel van het stationskoffiehuis. Opmerking: Lit. MIP Soest, p. 256-257 (Stationsweg 18)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9015795511D05B74B853F0594A869157"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Fantasiekaart met als voorstelling een prentbriefkaart  van het station te Soest op een linnen verpakking met een touwtje en een etiket met de tekst: 187 Soest met daaronder 1000 GROETEN."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90E18929506753D29A7C3D60FE1D3CE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803809"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Soest (hier in gebruik als Buro voor Bouwkunst, Stationsweg 18) te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BF7D938EFA1755AABEEF353534ACB4B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153274"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Soest te Soest."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C3EA367E675856628CF6C1BDBED7870B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 5555 (serie 5500) van de N.S. met een lokaaltrein Baarn-Utrecht bij aankomst op het N.S.-station Soest te Soest.<ZR><ZR>N.B. De foto is gemaakt vanwege de electrificatie en het daardoor naderende einde van de stoomtractie (juli 1948) op de 'Stichtse Lijn'. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C480736E08E45F23860F60966EAE4D06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95112"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de dorpskom van Soest met omgeving uit het zuidwesten; met in het midden de Nederlands-hervormde kerk en onder het N.S.-station Soest en de spoorlijn Utrecht-Baarn. Opmerking: Een in ca 1975 gemaakte afdruk van een origineel negatief uit ca 1925."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EDDAE8D2D09F5CF9BBF4851253842B8F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164108"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het uitrijsein aan de noordzijde van het N.S.-station Soest te Soest. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-10-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-10-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEB1F07D1F5C5DD1805FAE005BE46E87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164262"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een versierd electrisch treinstel bestaande uit rijtuigen mat. 1924 (\"Blokkendozen\") van de N.S. ter gelegenheid van de electrificatie van het baanvak Den Dolder - Baarn, vermoedelijk op het N.S.-station Soest Zuid te Soest. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1948-07-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F53D458E5C6A542CA9957ABECCDA394F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166147"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Soest te Soest: loket in de hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F81B056A873E5B0FB913BC45FCA68EA6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "14528"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.C.S.-station Soest (Stationsweg 18) te Soest; met links de achtergevel van het toiletgebouw. Opmerking: Lit. MIP Soest, p. 256-257."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FDCDC41967935AA0A8F815F853D9C96D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Soest te Soest, met twee elkaar kruisende electrische treinstellen mat. 1964 (plan V) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

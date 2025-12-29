@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "330DDA645F7D53399BE222C2351A7656"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350359"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Bloemendalsestraat met bebouwing te Amersfoort uit het noorden; met op de achtergrond de voorgevels van de panden Havik 31-35. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F5238945A11546F99FA5DA2573B144F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11632"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Bloemendalsestraat met bebouwing te Amersfoort uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F0F90831D1050C98C6271CD497F9EF8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402189"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het vegetarische restaurant van natuurvoedingswinkel De Graanschuur aan de Bloemendalsestraat te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1996-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1996-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "95C6C39A0D60524DA91FB043E987A671"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13141"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Bloemendalsestraat te Amersfoort uit het noorden; met op de achtergrond de voorgevels van de panden Havik 31-35 en de Onze Lieve Vrouwetoren."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

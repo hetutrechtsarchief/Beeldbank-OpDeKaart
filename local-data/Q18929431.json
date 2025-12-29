@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4025CB5A87EC5EE19607E25CCB5E821F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119752"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen Mexicodreef 109-215 te Utrecht; op de voorgrond een flatgebouw aan de Acapulcodreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75A8DDFDD0D6573480E5C39093375AAC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50672"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Franciscusdreef en omgeving te Utrecht, uit het zuiden, met op de voorgrond de Acapulcodreef en de Nicaraguadreef en links op de achtergrond het bedrijventerrein Overvecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB004D9A425554B99C81F0F49802D0FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119753"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het flatgebouw met de woningen Acapulcodreef 69-135 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

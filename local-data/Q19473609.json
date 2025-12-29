@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B62A37D99A935FBEBB75DB65C22E75CE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115348"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Sportpark Vechtzoom, vanaf het ziekenhuis Overvecht (Paranadref 2) te Utrecht, met rechts de Rio de Janeirodreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

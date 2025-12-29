@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2EB8A4B7AFF05EF491CB4ED2C60A41C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405544"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe depot van de firma Altrex (fabriek voor klimmateriaal) aan de Coloradodreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9DBBD5B40BC15ACA906B72B03F136BD0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822183"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van het industrieterrein Overvecht te Utrecht, uit het noordwesten. Van beneden naar boven: de Ontariodreef, Oregondreef, Californi\u00ebdreef, Coloradodreef en Nevadadreef; rechts de Mississippidreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB34DAB94E9757BCAC4B3EFA8F64FA5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822185"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van het industrieterrein Overvecht te Utrecht, uit het zuidwesten. Op de voorgrond de Mississippidreef; op de achtergrond de St. Laurensdreef en de Arkansasdreef. Van links naar rechts: de Ontariodreef, Oregondreef, Californi\u00ebdreef en Coloradodreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

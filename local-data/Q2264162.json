@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4EF0A5C4BD9F5AB0A3118972CE586B63"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165142"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het goederenstation Amsterdam Westerdok van de H.S.M. te Amsterdam. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1896-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1901-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7E9EC290ABF57F6A4BA54264D47D4D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165808"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de rijtour van Koning Willem III door Amsterdam, ter gelegenheid van zijn 70ste verjaardag, met op de achtergrond het H.S.M.-station Amsterdam Westerdok."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1887-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1887-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

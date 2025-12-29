@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99DDD601B9EC5930B265306C2A908181"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164816"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Wierden te Wierden. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CEF9D490AB865848A434439C56648FDD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167869"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de aanbieding van geschenken aan president-directeur dr. ir. F.Q. den Hollander van de N.S. en N.S.-directeur drs. D.J. Wansink (rechts) op het perron van het N.S.-station Wierden te Wierden, ter gelegenheid van de electrificatie van de spoorlijn naar Twente. Opmerking: Zie ook Nieuw Spoor, juli 1951, blz. 217: \"Twente electrisch\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-05-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FF90EC4E55E65425900FCE6BB01381C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156041"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het keramiek \"IJzeren wiel op ijzeren spoorstaaf\" in de voorgevel van het N.S.-station Wierden te Wierden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

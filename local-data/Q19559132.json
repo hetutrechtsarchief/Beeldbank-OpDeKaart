@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0CA6350727FA53198A37F1A9944DEA39"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65645"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het kunstwerk Grootmoeder Kegge aan de Suze Noiretdreef te Utrecht. Opmerking: naam kunstenaar:  J. Bronner<ZR>datum plaatsing:  11 november 1969<ZR>gebruikt materiaal:  brons"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99139F1ADA7951089005A4E4AC6D64F2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65644"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het kunstwerk Grootmoeder Kegge aan de Suze Noiretdreef te Utrecht. Opmerking: naam kunstenaar:  J. Bronner<ZR>datum plaatsing:  11 november 1969<ZR>gebruikt materiaal:  brons<ZR>Fotonummer Hulskamp: 20625"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BEE7B6CD6F5C5EE4831788D6A35083D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65643"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het kunstwerk Grootmoeder Kegge langs de Suze Noiretdreef te Utrecht. Opmerking: naam kunstenaar:  J. Bronner<ZR>datum plaatsing:  11 november 1969<ZR>gebruikt materiaal:  brons"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D643AE5FD7D7596581C82785BEB408F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829972"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de graffiti 'Mick' op de deur van de garage behorend bij het pand Suze Noiretdreef 13 in de Teun de Jagerdreef te Utrecht.<ZR>"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

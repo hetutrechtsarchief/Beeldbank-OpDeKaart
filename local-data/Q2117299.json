@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DBF509A75BA504E95CC2288572A8E02"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163650"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de boog in het spoor ter hoogte van het goederenemplacement Rietlanden te Amsterdam, met links de overwegpost CPS (Czaar Peterstraat) en daarachter de verdiepte sporen naar de Oostenburgergracht.<ZR><ZR>N.B. De afbeelding maakt deel uit van een serie foto's met betrekking tot de Spoorwegwerken te Amsterdam. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

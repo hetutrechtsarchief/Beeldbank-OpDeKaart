@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "528B7A0E670454CC9D7370A421B0B4E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6187"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde overdekte zwembad Het Gastland (Groeneweg 58) te Rhenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD77FE6A772C596CB0474CA1A30AA409"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6189"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in aanbouw zijnde overdekte zwembad Het Gastland (Groeneweg 58) te Rhenen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

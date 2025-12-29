@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32C73AA2B43C50619BE6EE95AD50117D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155879"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het Z.H.E.S.M.-station Veenweg bij Nootdorp. Opmerking: De foto is gepubliceerd in \"Rotterdam Hofplein - Den Haag - Scheveningen Kurhaus; hoe het spoor elektrisch werd\" door J. F. Smit, 1989, p. 85. (HUA NS F 99) en in Nieuw Spoor, oktober 1958, p. 8."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

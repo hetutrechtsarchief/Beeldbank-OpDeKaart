@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F83609CAF865026A2DF0D69CEB48D16"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "402625"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele kinderen tijdens een schoonmaakactie in het Spinozaplantsoen te Utrecht. Op de achtergrond enkele huizen aan de Madioenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1994-06-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-06-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A48C9E599319523E95884820C0A9D9C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401956"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Portret van H.G.J.N. van Lier van petit-restaurant en cateringbedrijf Tip-Top (Madioenstraat 2) te Utrecht, met de door hem in de wacht gesleepte prijzen voor de beste bezorgmaaltijden van Nederland."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

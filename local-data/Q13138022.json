@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AC8B2B29B9BD597988A26186F74F47BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160796"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 30 van de N.T.M. met een tram langs het perron van het N.S.-station Tzummarum te Tzummarum. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DCEED98F2AA65429AE1FC6E5F648A34C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161187"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de laatste reizigerstrein op het traject Tzummarum - Stiens, met de stoomlocomotief nr. 7125 (serie 7100, nrs. 7111-7125) van de N.S. met rijtuigen langs het perron van het N.S.-station Tzummarum te Tzummarum. Opmerking: Afbeelding behoort tot de Collectie De Pater.<ZR>Reproductiefoto"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-05-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1936-05-14",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

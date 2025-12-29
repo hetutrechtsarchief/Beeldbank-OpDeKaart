@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0918C4EC8E835980866E8DF2046FA088"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lieve Vrouwestraat te Amersfoort; met links de vishal. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0CC072E8ACD857BF938A10AAC7152E77"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500004"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Grachtkerk (Lieve Vrouwestraat 15) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-04-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D81C4E9A14DC5F3C838126F42FA8B418"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "350397"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lieve Vrouwestraat te Amersfoort, uit het zuidoosten. Opmerking: Gepubliceerd in: Utrecht in Woord en Beeld."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F11D5DAB7D5E52E0A7699C8FCD3F6EE2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6136"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stadskinderhuis (Armekinderhuis) aan de Lieve Vrouwestraat te Amersfoort. Opmerking: Fotoreproductie van een tekening (pen en penseel in kleur, 148 x 198 mm)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1710-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1740-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

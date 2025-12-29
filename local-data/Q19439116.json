@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "949D8A8BCD6F58F4A364308B680DB803"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73134"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het trac\u00e9 van de opgebroken spoorlijn (raccordement) tussen de Prof. Hugo de Vrieslaan en de Dr. J. P. Thijsselaan te Utrecht naar de gemeentelijke gasfabriek aan de Blauwkapelseweg. Op de achtergrond de achterzijdes van enkele huizen aan de Hugo de Vrieslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBDB1DB1ED77553CA6BBF2053AEDC8CD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73133"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het trac\u00e9 van de opgebroken spoorlijn (raccordement) tussen de Prof. Hugo de Vrieslaan en de Dr. J. P. Thijsselaan te Utrecht naar de gemeentelijke gasfabriek aan de Blauwkapelseweg. Op de achtergrond de achterzijdes van enkele huizen aan de Hugo de Vrieslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

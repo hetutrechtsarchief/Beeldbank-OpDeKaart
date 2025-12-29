@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "414B0C7EFD1653F8A393E1A1E09451C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815491"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Minstroom te Utrecht; links de Zonstraat met de ingang van de Zonnehof en rechts het bruggetje naar de Piet Heinstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

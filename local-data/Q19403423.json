@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3DDEC4E751FB546A9080E98E246F8183"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128371"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het huis Overboslaan 57 te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B352D4118E35A3797437716BB559674"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816389"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overboslaan te Bilthoven (gemeente De Bilt), uit het zuidwesten, ter hoogte van de kruising met de Hoflaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD18B6B63B785DBE927154AB864679D9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8392"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het noordelijke gedeelte van de Overboslaan te Bilthoven uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0B3B01C02BA5D2CB3EE7EB02E526B82"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8393"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Overboslaan te Bilthoven uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

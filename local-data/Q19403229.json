@@ -1,0 +1,828 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "17540862D9345022927ADA68FECD9656"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829942"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en achtergevel van de 'The Hive' (Willem Dreeslaan 113) te Utrecht, vanaf de Oudlaan. Dit voormalige Arbeidsbureau is heringericht met 134 'smart city rooms', voor vooral buitenlandse studenten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32537ABAF9A15A43B1F17587FB347E62"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818226"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de besneeuwde Staatsliedenbuurt te Utrecht vanaf het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20), uit het noorden; op de voorgrond het kantoorgebouw Oudlaan 4 en links de Talmalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-12-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43E001283868515B9F146B4663A75633"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829936"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein tussen de Schermerhornstraat, Idenburgstraat en Oudlaan te Utrecht, waar een woongebouw zal verrijzen met koopappartementen en woonstudio's voor begeleid wonen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AB16B68211152C4AFF3573C2B200B54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833040"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de muurschildering van een honingraat met bijen op de muur langs de toegangsweg naar de parkeergarage onder het pand van het voormalige Arbeidsbureau (Willem Dreeslaan 113) aan de Oudlaan te Utrecht. Het gebouw is verbouwd tot 'The Hive', met kamers vooral bestemd voor buitenlandse studenten.<ZR><ZR>N.B. De betekenis van 'Hive' is 'Bijenkorf'."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4B649F4E6AE85BA88C9951ACFAC7E50B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24295"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoor van de NVZ Vereniging van Ziekenhuizen (Oudlaan 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4D49D020A4955452B3894691AC22DEB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829597"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het keramieken moza\u00efek op een wand bij de parkeerplaats van het UWV-kantoor (Willem Dreeslaan 113) te Utrecht, aan de zijde van de Oudlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B5B269EEBD25BD4BA690E8406D1AE0B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828482"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het terrein op de hoek van de Schermerhornstraat en Oudlaan te Utrecht, waar Cultureel Centrum De Mix gesloopt is om plaats te maken voor nieuwbouw, vanaf de Idenburgstraat. Rechts een flatgebouw aan de Schermerhornstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "62A2A41A84335BF9A9B1738EA0BE810F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829598"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Detail van het gehavende keramieken moza\u00efek op een wand bij de parkeerplaats van het voormalige  UWV-kantoor (Willem Dreeslaan 113) te Utrecht, aan de zijde van de Oudlaan. Met graffiti van geloken ogen van 'Rinus'."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC7566B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833890"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe appartementengebouw Tuinwijk op de hoek van de Schermerhornstraat en Oudlaan te Utrecht, vanaf de groenstrook bij de Talmalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-10-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AEDE978CB7B2BEEE0534701000A8EC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838277"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het terrein van het gesloopte kantoor- en bedrijfsgebouw Willem Dreeslaan 14-18, vanaf de Oudlaan te Utrecht. Op de achtergrond gebouwen van de Van der Hoeven Kliniek, centrum voor klinische forensische psychiatrie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AEDE978CB802BEEE0534701000A8EC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838282"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein op de hoek van de Willem Dreeslaan (links) en de Oudlaan (voorgrond) te Utrecht. Er zullen 154 startersappartementen worden gerealiseerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AEDE978CB812BEEE0534701000A8EC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838283"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein op de hoek van de Willem Dreeslaan en de Oudlaan van onder het kantorenverzamelgebouw Oudlaen te Utrecht. Er zullen 154 startersappartementen worden gerealiseerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-11-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AEDE978CB872BEEE0534701000A8EC1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838289"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het met hekken afgesloten bouwterrein op de hoek van de Willem Dreeslaan (links) en de Oudlaan (voorgrond) te Utrecht, waar 154 startersappartementen zullen worden gerealiseerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-02-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-02-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FD51EEE52589445E0534701000AAF9A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838871"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouw van een appartementencomplex op de hoek van de Willem Dreeslaan en Oudlaan (voorgrond, rechts) te Utrecht.<ZR><ZR>N.B. Het complex zal 154 zelfstandige appartementen gaan tellen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-12-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-12-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85A55DC2A6CBE4D9E0534701000A019F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840726"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het appartementengebouw Oudlaan 11-33 in aanbouw, op de hoek van de Willem Dreeslaan (links) en de Oudlaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85A55DC2A6CCE4D9E0534701000A019F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840727"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sloop van het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht, vanaf de Oudlaan.<ZR><ZR>N.B. Het Belastingkantoor is in 2008 gesloten. Op het terrein zullen 487 huurappartementen (200 zelfstandige studentenwoningen en 287 vrije sector huurappartementen) worden gerealiseerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85A55DC2A6CDE4D9E0534701000A019F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840728"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de sloop van het voormalige Centraal Belastingkantoor (Gerbrandystraat 20) te Utrecht, vanaf de Oudlaan.<ZR><ZR>N.B. Het Belastingkantoor is in 2008 gesloten. Op het terrein zullen 487 huurappartementen (200 zelfstandige studentenwoningen en 287 vrije sector huurappartementen) worden gerealiseerd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-03-24",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C26DCC6A9AE5427ACF794AEDE7F1B4C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123700"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Staatsliedenbuurt te Utrecht, vanaf het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20), uit het noorden; op de voorgrond het kantoor van de NVZ (Vereniging van Ziekenhuizen, Oudlaan 4) en links de Talmalaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B0AFF01798856BBB9C305DE41947ADB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833043"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van de muurschildering van een honingraat met bijen op de muur langs de toegangsweg naar de parkeergarage onder het pand van het voormalige Arbeidsbureau (Willem Dreeslaan 113) aan de Oudlaan te Utrecht. Het gebouw is verbouwd tot 'The Hive', met kamers vooral bestemd voor buitenlandse studenten.<ZR><ZR>N.B. De betekenis van 'Hive' is 'Bijenkorf'."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2A9115FA680543B9B191C94CF922A93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828481"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het terrein op de hoek van de Schermerhornstraat en Oudlaan te Utrecht, waar Cultureel Centrum De Mix gesloopt is om plaats te maken voor nieuwbouw. Op de achtergrond panden aan de Idenburgstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2015-10-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A44364EC6DCA59269EA851587188AA7C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "405584"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de Staatsliedenbuurt te Utrecht, vanaf het kantoorgebouw van de Belastingdienst (Gerbrandystraat 20), uit het noorden; op de voorgrond het kantoor van de NVZ (Vereniging van Ziekenhuizen, Oudlaan 4)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-10-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-10-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA39760BF3E55E7D8E729CE300126276"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "75884"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van H.K.H. Prinses Beatrix en prof. J. Th. M. de Vreeze (voorzitter van de Nationale Ziekenhuisraad) in het Ziekenhuiscentrum aan de Oudlaan te Utrecht, tijdens de offici\u00eble opening. In dit gebouw zijn gevestigd de Ziekenhuisraad en het Nationale Ziekenhuisinstituut."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-10-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB42BC3E5A435A41A1E3D60724D5E1FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de muurschildering van een honingraat met bijen op de muur langs de toegangsweg naar de parkeergarage onder het pand van het voormalige Arbeidsbureau (Willem Dreeslaan 113) aan de Oudlaan te Utrecht. Het gebouw is verbouwd tot 'The Hive' (links), met kamers vooral bestemd voor buitenlandse studenten.<ZR><ZR>N.B. De betekenis van 'Hive' is 'Bijenkorf'."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB983F4951C9574D8D7558C9C302ECCE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "829937"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bouwterrein tussen de Schermerhornstraat, Idenburgstraat en Oudlaan te Utrecht, waar een start gemaakt is met de bouw van een woongebouw met koopappartementen en woonstudio's voor begeleid wonen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CADC17D9400850858462F82AF906FED7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "403573"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de maquette van het Ziekenhuiscentrum aan de Oudlaan te Utrecht.<ZR><ZR>N.B. Het gebouw is bestemd voor de Ziekenhuisraad en het Nationale Ziekenhuisinstituut. Opmerking: De foto is gepubliceerd in het Nieuw Utrechts Dagblad, 7 februari 1970."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D90AD039DC215CD59B3DF0837D376C5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een reclamedoek voor het nieuwbouwproject 'Tuinwijk' (42 koop-zorgappartementen), op de hoek van de Oudlaan en Schermerhornstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-02-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-02-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E8897738EC9955B3B524EE8C25DDF78A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833042"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een deel van de muurschildering van een honingraat met bijen op de muur langs de toegangsweg naar de parkeergarage onder het pand van het voormalige Arbeidsbureau (Willem Dreeslaan 113) aan de Oudlaan te Utrecht. Het gebouw is verbouwd tot 'The Hive' (op de achtergrond), met kamers vooral bestemd voor buitenlandse studenten.<ZR><ZR>N.B. De betekenis van 'Hive' is 'Bijenkorf'. De schildering is nog niet helemaal klaar."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FAE69779FAED5461B3230C29B402A8E5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833041"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Detail van de muurschildering van een honingraat met bijen op de muur langs de toegangsweg naar de parkeergarage onder het pand van het voormalige Arbeidsbureau (Willem Dreeslaan 113) aan de Oudlaan te Utrecht. Het gebouw is verbouwd tot 'The Hive', met kamers vooral bestemd voor buitenlandse studenten.<ZR><ZR>N.B. De betekenis van 'Hive' is 'Bijenkorf'."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC1E2EDF465D595A889AB9764C387EE7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "117304"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het kantoorgebouw van de N.V.Z. Vereniging van Ziekenhuizen <ZR>(Oudlaan 4) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

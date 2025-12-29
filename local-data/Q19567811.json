@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78D1D0656C145468A603E4FB71BDBAE4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129799"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Tolhuislaan te Bunnik, uit het noordoosten, tijdens winterse omstandigheden, met op de achtergrond de Witte Huisjes (Kerkpad 3). Opmerking: Fotonummer V.41-109<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-02-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-02-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

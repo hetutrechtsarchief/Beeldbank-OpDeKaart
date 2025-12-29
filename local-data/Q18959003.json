@@ -1,0 +1,940 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "082FC9D9628355B5ABCC2A7ABFCD7006"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16002"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazons te Zeist uit het noordoosten; met op de achtergrond de voorgevels van de huizen nrs. 26-18. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08FD307B6EC65E0093D2BD82999EBD4E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16018"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gracht en de achtergevels van de huizen Zusterplein 22-22A te Zeist uit het westen. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D078103BB9D547BB677AE2C6B25A439"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16026"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kerk van de Evangelische Broedergemeente (Zusterplein 12) te Zeist uit het zuidoosten. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 40-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13F9456447735598AC0A29083E49C1E9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16012"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazons en loofbomen te Zeist uit het oosten; met op de achtergrond de voorgevels van de huizen en kerk nrs. 22-6. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A126E47AC8450D18C2A794BC819CBE9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16010"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazons en loofbomen te Zeist uit het oosten; met op de achtergrond de voorgevels van de huizen en kerk nrs. 22A (ged.)-8 (ged.). Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2274FFA88B5053CB8BADA9AE40B73BA1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "808914"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op \u00e9\u00e9n van de toegangsdeuren van het complex van de Evangelische Broedergmeente aan het Zusterplein te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2327FDDFDB6A578C9A67BC60EFD8C90B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16027"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kerk van de Evangelische Broedergemeente (Zusterplein 12) te Zeist uit het zuidoosten. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 40-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2417156C82D7510BBF21580A5C7C26D4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16028"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kerk van de Evangelische Broedergemeente (Zusterplein 12) te Zeist uit het zuidoosten. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 40-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "26D81BE2363D5009B69C767CDCF4D51B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16000"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazons te Zeist uit het zuidoosten; met op de achtergrond de voorgevels van de huizen en kerk nrs. 22A (ged.)-12. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2C19E05BC78A55508D1C6397FA7CD75B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16004"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazons te Zeist uit het noorden; met op de achtergrond de voorgevels van de huizen en kerk nrs. 24-12. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "323385F27E235930A9C3C6B95E5A6F7B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16022"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kerk van de Evangelische Broedergemeente (Zusterplein 12) te Zeist uit het zuidoosten. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 40-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "326A33378588527D90EABF35A86C7BF4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115663"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het complex van de Evangelische Broedergemeente aan het Zusterplein te Zeist."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1984-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4C3D25FEF36D53A4A176A08BCD2BC576"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16003"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazons te Zeist uit het noorden; met op de achtergrond de voorgevels van de huizen nrs. 26-22A. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "648EDC860CF75EF19F67016E3A1AB64B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604230"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van enkele gebouwen (Zusterplein 16-18) van de Evangelische Broedergemeente te Zeist. Opmerking: De foto is als zoekplaatje 2422 op de website zoekplaatjes.nl ge\u00efdentificeerd als zijnde dit adres."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1855-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1865-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69B13BB21C805F5B8C687B6B951938E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16006"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen  Zusterplein 22-22A te Zeist uit het noordoosten; met op de voorgrond het gazon. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6DA4F1EF807A50EF995479CBAE004EC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16015"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen en de kerk Zusterplein 14-lager te Zeist uit het zuidwesten, met een rij loofbomen. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FC57513F4E1551D877C4D75B0224BDF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16017"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Zusterplein 6-4A te Zeist uit het zuiden; met rechts de bebouwing aan de Lageweg en op de voorgrond het gazon. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "72E098E4C3EA5378AF550526D299DEBA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16030"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de toegangsweg naar het Zusterplein met beplanting te Zeist uit het zuidoosten; met op de achtergrond de voorgevel van de kerk van de  Broedergemeente (Zusterplein 12). Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 40-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8366355ECBDA5CB69E680CB460524C5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15999"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazons te Zeist uit het zuidoosten; met op de achtergrond de voorgevels van de huizen en kerk nrs. 16-8. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91989BC4DCEB5780B5CF44058793A74F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16014"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazon en loofbomen te Zeist uit het oosten; met op de achtergrond de voorgevel van de kerk van de Evangelische Broedergemeente (Zusterplein 12) en links de voorgevels van de naastgelegen huizen. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "949F1D1C48A0576DB94503DD2BE951F7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16011"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazons en een rij loofbomen te Zeist uit het noordoosten; met op de achtergrond de voorgevels van de huizen en kerk nrs. 22A (ged.)-10 (ged.). Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B709E4472E67550CAD05FB2CD9B7C2A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16025"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kerk van de Evangelische Broedergemeente (Zusterplein 12) te Zeist uit het zuidoosten. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 40-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C2C328F86EA257089B918F04419F025C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16007"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen  Zusterplein 22 (ged.)-22A te Zeist uit het noordoosten. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB01CDE570BD594383B56C2D219FE31D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "15998"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein te Zeist uit het zuidoosten; met op de achtergrond de voorgevels van de huizen en kerk nrs. 18-6. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D6F0914C0F2B5DF08BBD870B8E863AB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16013"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazon en loofbomen te Zeist uit het oosten; met op de achtergrond de voorgevels van de huizen en kerk nrs. 18-12. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DCF0D6AD6F7D50CA96C7B8CCBC0D84F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16024"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kerk van de Evangelische Broedergemeente (Zusterplein 12) en aangrenzende bebouwing te Zeist uit het zuidoosten. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 40-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E03FB8C1B3ED5AD38CA7F38DFFC156F3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16029"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de kerk van de Evangelische Broedergemeente (Zusterplein 12) te Zeist: de kerkzaal met banken, preekstoel en orgel. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 40-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E43E9871FB4F50F28757E59DB2216C03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16008"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen  Zusterplein 24-22A te Zeist uit het noorden. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E56A98EC391354E2ACE60325F5BC2980"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16001"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Zusterplein 26-22A (ged.) te Zeist uit het noorden; met op de voorgrond het gazon. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EFAA55AD8BAE5379A2473F065307B71E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16005"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Zusterplein met gazons te Zeist uit het noordoosten; met op de achtergrond de voorgevels van de huizen nrs. 22A (ged.)-14. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F371606F34285C268454C29466ACAA9F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16016"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kerk van de Evangelische Broedergemeente (Zusterplein 12) te Zeist uit het zuiden en de voorgevels van de huizen nrs. 10-lager. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F66F0B71B23859958E8D34CE6299B4F0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16023"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de kerk van de Evangelische Broedergemeente (Zusterplein 12) met aangrenzende bebouwing te Zeist uit het zuidoosten. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 40-42."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC45ED4C60145A3DB899D0975BFBE029"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16009"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen  Zusterplein 22-16 te Zeist uit het noorden. Opmerking: Lit. Zeist, Groei en Bouw, deel Het Slot en omgeving, p. 18-44."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

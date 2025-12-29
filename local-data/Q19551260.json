@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CF2E03BE5DF536AA60777B34DB0914D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89980"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde huizen aan de toekomstige Gouvernantelaan en de Melkmeisjeslaan (rechts) te De Meern (gemeente Vleuten-De Meern) in de wijk Nyevelt III, vanaf de Stoelenmakerslaan.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8541E1C9DD859324E0534701000A1C89"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "840616"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het water achter de woningen aan de Stoelenmakerslaan (links) te De Meern (gemeente Utrecht); rechts de Meernse IJsbaan in het Kloosterpark."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-01-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-01-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F70D149ABA585BADA30DD5C03A8D2FD6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "89977"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouw van de wijk Nyevelt III te De Meern (gemeente Vleuten-De Meern), ter hoogte van de Stoelenmakerslaan en de toekomstige Gouvernantelaan.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "836DF28F83338EDEE0534701000A2726"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "839752"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Mijdrechtse Zuwe te Amstelhoek (gemeente Mijdrecht), uit het zuidoosten, ter hoogte van de Piet Heinlaan (rechts). Opmerking: De foto bevindt zich in een serie op grote bladen geplakte foto's van de provinciale weg P19 (Uithoorn-Vreeland) in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 498."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

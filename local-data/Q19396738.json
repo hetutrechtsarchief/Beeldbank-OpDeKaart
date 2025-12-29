@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ADE4E4042A4553D39E3B4AF8F50CEBD6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "803191"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de Biltsche Duinen te Bilthoven (gemeente De Bilt), uit het westen, met op de voorgrond de Oranje Nassaulaan, haaks daarop (links) de Dillenburglaan en linksonder een stukje van de Paltzerweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D3A6F0D3AE255DDCAE6F1643424EFBEF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "8390"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Oranje Nassaulaan te Bilthoven uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

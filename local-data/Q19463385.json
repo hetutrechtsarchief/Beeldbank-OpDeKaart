@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "026E4F202D7D525B9E91B4C432FB0D9D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812608"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het door G.Th. Rietveld ontworpen huis Reelaan 11 (\"woning Copier\") te Bosch en Duin (gemeente Zeist)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

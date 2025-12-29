@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1D04E06A11515D66A4C1FAFB90D87E14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129795"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Merellaan te Bilthoven (gemeente De Bilt), tijdens winterse omstandigheden. Opmerking: Fotonummer V.41-14<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-01-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-01-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D4B4CF774C5E5A5FBF222346A9656ED0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "129808"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een landhuis in de omgeving van (vermoedelijk) de Merellaan / Nachtegaallaan te Bilthoven (gemeente De Bilt). Opmerking: Fotonummer V.11654<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

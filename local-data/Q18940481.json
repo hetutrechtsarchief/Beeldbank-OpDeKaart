@@ -1,0 +1,408 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01EE789CFFAF5D9688C4FD3FEB8B59CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11290"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van het landgoed De Boom (Arnhemseweg 107) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "083BFC8E07D95574B2C266E3A433E8D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11287"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van het landgoed De Boom (Arnhemseweg 107) te Leusden; met links de achter- en rechtergevel van het landhuis en rechts een tuinhuisje."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1FD4B7D0BC1F5143B1B0EDAD39A25E3B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11286"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het landhuis De Boom (Arnhemseweg 107) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "46D74E625B7559818BB5F6F3FCC57C1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "826225"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis 'De Boom' (Arnhemseweg 107) te Leusden.<ZR><ZR>N.B. De eigenaresse van het huis, mej. A.A. de Beaufort, stelde het huis gedurende jaren open voor rustbehoevende zusters uit de verschillende diaconessenhuizen in het land. Opmerking: De foto bevindt zich in het album X van het archief Beeldmateriaal van het Diakonessenhuis, toegangsnummer 1812, inv.nr. 39."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "52C2ADD25C5E575CB4CCDFF4F92132AE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11284"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en linkergevel van het landhuis De Boom (Arnhemseweg 107) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F48BC6E514355A1B8FE3C926978D9B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11324"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het caf\u00e9 De Mof (Arnhemseweg 95) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66F1869577F55B9E8D83DE8C63A5630A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11289"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van het landgoed De Boom (Arnhemseweg 107) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6CCE799DF1965F798654D50170860534"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11283"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het landhuis De Boom (Arnhemseweg 107) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA68445D0F655ABB8E909510B8F8D970"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11291"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van het landgoed De Boom (Arnhemseweg 107) te Leusden; met rechts het prieel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "ABBB3A65B68A5825BA571903FBF08889"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "826224"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en linkergevel van het landhuis 'De Boom' (Arnhemseweg 107) te Leusden.<ZR><ZR>N.B. De eigenaresse van het huis, mej. A.A. de Beaufort, stelde het huis gedurende jaren open voor rustbehoevende zusters uit de verschillende diaconessenhuizen in het land. Opmerking: De foto bevindt zich in het album X van het archief Beeldmateriaal van het Diakonessenhuis, toegangsnummer 1812, inv.nr. 39."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C6A999E8D08C56F89F5F1807995F8062"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11282"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het landhuis De Boom (Arnhemseweg 107) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1905-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D64D8516F1B15EAEBF80E7E95ACC2D49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11288"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het park van het landgoed De Boom (Arnhemseweg 107) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D87E9BCD72225D2E965D45ADAD44C94A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11285"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achter- en linkergevel van het landhuis De Boom met omringend park (Arnhemseweg 107) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0C14B41179F59D48131C80BEB8C27C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11292"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het landhuis Schutterhoef met omringend park (Arnhemseweg 10) te Leusden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

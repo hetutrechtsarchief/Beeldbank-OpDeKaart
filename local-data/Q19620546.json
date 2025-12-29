@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C32989800331506EA0C6CF04C829C7A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "128466"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een verongelukte auto op de Kardinaal de Jongweg te Utrecht, ter hoogte van de kruising van met de Jan van Galenstraat. Op de achtergrond een flatgebouw aan de Van Ginnekenlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-07-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02DB3743852A58B68506AFB756E548CA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "94730"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Voorstraat met winkelwoonhuizen te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-05-21",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32BB069CFB4B50D193A9054BA0C108DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604222"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Voorstraat te Woerden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE97F3771DD1570FA05C2493462D1470"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "400181"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Voorstraat te Woerden. Opmerking: Fotonummer 85717<ZR>In 2001 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-06-19",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

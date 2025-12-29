@@ -1,0 +1,4440 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "00DC491E1FFD5F479F01AB30D128AA93"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817507"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "02EF567EEF5D5C66B1D0BF582B8A75BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60115"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Keizerstraat 20 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0468DB9B1D655B42BEA45D7C8F8F78AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht vanaf de Nobelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "04CEB68AB56359AE8D9D920E6E840EF4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60126"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: de op de begane grond gelegen werkplaats van de electrici\u00ebn, uit het oostnoordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "06A4BD16294855C7B9132D4ACD74B8B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65629"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het gebouw Nobelstraat 4 te Utrecht; met op de achtergrond rechts het begin van de Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07455F49E4375943934C9A3C70F5BC87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60072"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1906-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1906-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07EA5520BD19550D8686FCBF2940A814"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500788"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Keizerstraat 14 (links)- 16 te Utrecht. Opmerking: Fotonr. KB 3-2."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07F6945662FD5A91B00099DE2DD39871"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60109"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 14 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "08A51DF2715D50EE9C274AFB6BD93C79"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60075"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 35 te Utrecht, uit het zuidwesten na de restauratie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0A32743942B851F88411DACB336EAA1A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74162"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Universiteitsbibliotheek (Wittevrouwenstraat 9-11) te Utrecht: boekenstellingen op de eerste verdieping  van het aan de Keizerstraat gelegen uit 1909 daterende \"nieuwe boekenmagazijn\", vanuit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B576B63FB3B5263B058993B8C102242"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60096"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Keizerstraat 47-49 te Utrecht met rechts tussen de huizen de ingang van de Korte Rietsteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0D51AED9D76C585F8F3ABA44C179F39D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de op de begane grond gelegen oudste, uit ca. 1930 daterende Vomag rotatiepers, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0DD16F783F645C44B3DB91E3988E2B6D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60062"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de voorgevels van de huizen nrs. 5-7; rechts de drukkerij Storm (nr. 5)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0EBC1E1D1E275C9498415573AC942FAB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60130"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: een hoek van de op de eerste verdieping gelegen redactiezaal, uit het oosten met rechts de trap naar de fotodienst."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0FB7ED70D1B7529CBB46FD4A7D1C0D15"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79413"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van de Universiteitsbibliotheek (Wittevrouwenstraat 11) te Utrecht; links de Lange Rietsteeg.<ZR><ZR>N.B.: De straatnaam Lange Rietsteeg is in 1950 gewijzigd in Keizerstraat. Opmerking: De afbeelding is gepubliceerd in Bibl. HUA XLVII B 35, A. Hulshof, Niederl\u00e4ndisches Bibliothekwesen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1914-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0FF864536FA85C3FA6D4E83EED118B3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74159"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Universiteitsbibliotheek (Wittevrouwenstraat 9-11) te Utrecht: kelder met boekenstellingen van het aan de Keizerstraat gelegen uit 1909 daterende \"nieuwe boekenmagazijn\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13303453D50951E1AB5CE5569D479318"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60085"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de op de begane grond tussen de beide rotatiepersen gelegen expeditieafdeling, met de lopende band, uit het westnoordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "13494F3DCAF15E86A99AF55B62A84016"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60074"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voordeur van het huis Keizerstraat 35 te Utrecht voor de restauratie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "16BC3757D74A5BACBBAC5FB627A7FB36"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60093"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de drukmachines."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "18898F8405C95F5D90B1E93DD5BC1B44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60068"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Keizerstraat 21 (rechts)-23 te Utrecht, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1AD9874B383B51A38B4F77B9C132CC75"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123724"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegangsdeur van het huis Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1C489147BEF0506F8692EC9E833DF365"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819019"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Korte Rietsteeg te Utrecht, vanuit de steeg richting Keizerstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F88CDBF5A83511CB2D154F82B236C43"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60108"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 14 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "206A7186377B5C4782A84959FB753933"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen Keizerstraat 47 (links)-hoger te Utrecht, vanaf het dak van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) met in het midden het pand dat met de noordelijke kopgevel aan de Kloksteeg staat; rechts, nauwelijks zichtbaar, de Keizershof en links op de achtergrond het dak van de Utrechtse Universiteitsbibliotheek (Wittevrouwenstraat 11)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2203B2D9349B5C69ADC5BCA73354EC9A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815728"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bovenste gedeelte van de voorgevel van het pand Keizerstraat 35 te Utrecht, met een dakkapel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "25B077ECBABF5321A28F296E08149092"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819013"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de moderne hof achter het pand Keizerstraat 110 - 256 te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "269285FCCCF55337B79C3F80CACF9286"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44160"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 35 te Utrecht. Opmerking: In 1979 vervaardigde afdruk van origineel negatief"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2947FC31E53854988A633DF37DF0BB8B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60076"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 35 te Utrecht, uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2A2ADB04217A5ADF869F028B0E82A228"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815729"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bovenste gedeelte van de voorgevel van het pand Keizerstraat 35 te Utrecht, met een dakkapel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E05B1FE3FA854D39ED7D6EB98C78B2C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "39461"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen aan de zuidzijde van de Wittevrouwenstraat te Utrecht uit het noordoosten, met links de ingang van de Rietsteeg.<ZR><ZR>N.B. De naam Rietsteeg is een oude benaming van het noordelijke deel van de Keizerstraat. Opmerking: Voortekening voor nr. 30762, gedateerd 3 december 1897. Op de achterzijde bevindt zich een schets van het gedenkteken bij de Tolsteegbrug te Utrecht ter herinnering aan het vertrek van de Franse troepen uit Utrecht op 28 november 1813, voortekening voor nr. 39398.<ZR>Deze tekening is afkomstig uit de door de kunstenaar zelf samengestelde Atlas Grolman."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1897-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1897-12-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2EAE52BE3FB551C8B9D2D22222F763F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "76077"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de Rotatiedrukkerij van het Utrechtsch Nieuwsblad (Keizerstraat 31) te Utrecht. Opmerking: Gepubliceerd in: Jaarverslag Bouw- en Woningdienst 1960."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "305AC5A4FFDF5C7493F41A2E473F43CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818915"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van Garage Utrecht/ G.U.V.O. Taxi (Taxibedrijf Garage Utrecht Van Oostrum, Keizerstraat 29) te Utrecht.<ZR><ZR>N.B. De zaal op de eerste verdieping werd verhuurd voor dansen, bruiloften en partijen. Opmerking: Garage Utrecht Van Oostrum was een luxe autoverhuur- en klein taxibedrijf en tevens auto-, motor- en rijwielstalling."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32D80C90CAC3563F998FF5DF67EEA478"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79415"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de Universiteitsbibliotheek (Wittevrouwenstraat 11) te Utrecht; links de ingang van de Lange Rietsteeg.<ZR><ZR>N.B.: De straatnaam Lange Rietsteeg is in 1950 gewijzigd in Keizerstraat. Opmerking: De afbeelding is gepubliceerd in de Bibl. HUA XII B 25, Opstellen ... aangeboden aan G.A. Evers."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "344551C4989450D49F7128E7B2EE5EB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30762"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen aan de zuidzijde van de Wittevrouwenstraat te Utrecht uit het noordoosten, met links de ingang van de Rietsteeg.<ZR><ZR>N.B. De naam Rietsteeg is een oude benaming van het noordelijke deel van de Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1897-12-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1897-12-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "366AFF0176C25733A52E9D547644CBB6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de op de begane grond gelegen nieuwste Koebau rotatiepers met links de inpakafdeling, uit het westnoordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37DAFED67AE655A9A7DE050258ACEC30"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60122"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B9E8B5ACAD555158729050C158BD504"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60119"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het voormalige stalgebouw Keizerstraat 24 te Utrecht, vanaf de overzijde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3CCCD308FC6E5C0486692A39F851C2FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "831430"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de destilleerderij van de Slijterij Wed. & Gebr. Staffhorst (links, Keizerstraat 59) te Utrecht.<ZR><ZR>N.B. Het pand is in 1980 gesloopt. Opmerking: In 2017 vervaardigde scan van een in ca. 1975 gemaakte kleurenfoto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3EBFE5E900B65CBCA4967B1D794DF8F5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119193"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Drukkerij van het Utrechts Nieuwsblad (Rietsteeg) te Utrecht: zetterij.<ZR><ZR>N.B. Het adres is later gewijzigd in Keizerstraat 42-44. Opmerking: De afbeelding bevindt zich in Bibl.HUA XII F 41, Een bezoek aan de drukkerij van het Utrechtsch Nieuwsblad, uitgave Joh. de Liefde, blz. 6."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1899-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3FFB0BCAE78B5561990AA6E3B874055E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60101"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Keizerstraat 51-53 te Utrecht, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4063270FD856550AA06F6CB32A6109DB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35669"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nobelstraat te Utrecht uit het westen met links de ingang van de Keizerstraat. Opmerking: Gedrukte reproductie naar een pentekening van Jan Rodrigo uit 1971."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4072354E48635D2990CF51265AD1E0B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819012"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de onderdoorgang naar een moderne hof in het pand Keizerstraat 110 - 256 te Utrecht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40ECA05A255B5DCD91A1B7A26B4F77D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60137"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: een gang op de tweede verdieping, uit het noordwesten met achter de glaswanden van links naar rechts de telefooncentrale, de kunstredactie en het redactie-archief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4197E205C54A5FF0A9B96419596E0477"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60091"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de loodzetmachines."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "421ACC30573F56E4B2606CEF19B17F58"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60136"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: de op de tweede verdieping gelegen kamer van de hoofdredacteur, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "422DEF80313352A6B2C451365CDE49EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60064"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dichtgetimmerde voorgevel van de aan het binnenterrein gelegen huis Keizerstraat 15 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "42BD0829BA765721AF84C14CF8B906CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79414"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van de Universiteitsbibliotheek (Wittevrouwenstraat 11) te Utrecht; links de Lange Rietsteeg.<ZR><ZR>N.B.: De straatnaam Lange Rietsteeg is in 1950 gewijzigd in Keizerstraat. Opmerking: De afbeelding is gepubliceerd in de Wereldkroniek 1922, nr. 50."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1922-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1922-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "439FFFEE13D654408B7AAE42CEF45E33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60080"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de huizen nrs. 39 (midden)-hoger; rechts de Korte Jufferstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44F93CF7715B5884B80F12094C536E43"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30613"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wittevrouwenstraat te Utrecht uit het westen, in de richting van de Wittevrouwensingel, met rechts de ingang van de Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4955B670A74254D19B0AC4220D730AA3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74164"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Universiteitsbibliotheek (Wittevrouwenstraat 9-11) te Utrecht: boekenstellingen op de eerste en tweede verdieping  van het aan de Keizerstraat gelegen boekenmagazijn in de voormalige kapel van Lodewijk Napoleon, vanuit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4EC165565EB852FA820761DF163A6FE0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44; bovenste drie verdiepingen) te Utrecht, vanaf het dak van de lage aanbouw (voorgrond), uit het westen met links de aanbouw, waarin de hoofdredactie en de fotodienst gevestigd zijn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "51E8B6EAB9235BBD9653D88A0A6D0E29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817560"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het pand Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "52A4C1457C5D5B0A8E071B351AF249A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "33095"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Opstand van de ingang van het huis Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "556BD72FAFF05BA2B8132A4B439DFAD3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60117"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van het voormalige stalgebouw Keizerstraat 22 te Utrecht, vanaf de overzijde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "556F3FA340AB5EB497E0A3B6B9450528"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60071"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 33 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5706DC9340015577984A474066CEB60A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20967"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Keizerstraat 49-hoger te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "58F1DE770A6351EEA215DB4FEF82C26F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Korte Jufferstraat te Utrecht vanuit de Keizerstraat naar de Lange Jufferstraat; rechts het centrale magazijn van Fadega-Denocard BV (Keizerstraat 35)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5CE30A4D52C953EA8B89DEBB57AF8298"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60110"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Keizerstraat 14-16 (vooraan nr. 16) te Utrecht, uit het noordoosten met links een deel van het huis Keizerstraat 12."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5DD7F80E5AF4543D945565323AD580D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60112"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de huizen nrs. 16 (rechts)-lager, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5ED7D109765950CFA2D2D8046500124E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60121"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de huizen nrs. 24-lager, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F086D79BEF757EA994DA0EB7118D96E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815730"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een venster op de eerste verdieping aan de voorzijde van het pand Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FBA3B7C32095A2CBE0787D954F14A00"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60090"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de op de eerste verdieping gelegen werkruimte van de steenredactie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61C1C843CBA05B1D9A869C1459972C4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60070"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 25 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630C95D755A55CF9839BD9E755781F14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60141"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de zijgevel in de Keizerstraat, van de Universiteitsbibliotheek (Wittevrouwenstraat 7-11) te Utrecht"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BDD6E6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "61857"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het huis Lange Rietsteeg 3 te Utrecht.<ZR><ZR>N.B. De straatnaam Lange Rietsteeg is in 1950 gewijzigd in Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC6A66B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833714"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding het kleine bronzen beeldhouwwerk 'Don Quichot' van P.A. ('Tom') Vo\u00fbte, aan het begin van de Keizerstraat bij de Nobelstraat te Utrecht.<ZR><ZR>N.B. Aangeboden aan de stad Utrecht door het Utrechtsch Studentencorps ter ere van het lustrum 'Don Quichot' en 200 jaar PHRM op 9 juli 2016."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC6A76B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833715"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding het kleine bronzen beeldhouwwerk 'Don Quichot' van P.A. ('Tom') Vo\u00fbte, aan het begin van de Keizerstraat bij de Nobelstraat te Utrecht.<ZR><ZR>N.B. Aangeboden aan de stad Utrecht door het Utrechtsch Studentencorps ter ere van het lustrum 'Don Quichot' en 200 jaar PHRM op 9 juli 2016."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2CC6A86B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "833716"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding het kleine bronzen beeldhouwwerk 'Don Quichot' van P.A. ('Tom') Vo\u00fbte, aan het begin van de Keizerstraat bij de Nobelstraat te Utrecht.<ZR><ZR>N.B. Aangeboden aan de stad Utrecht door het Utrechtsch Studentencorps ter ere van het lustrum 'Don Quichot' en 200 jaar PHRM op 9 juli 2016."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2017-08-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "633613E103A55024953662A9DFA7AC73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74163"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Universiteitsbibliotheek (Wittevrouwenstraat 9-11) te Utrecht: boekenstellingen op de eerste en tweede verdieping  van het aan de Keizerstraat gelegen boekenmagazijn in de voormalige kapel van Lodewijk Napoleon, vanuit het zuidoosten"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "634EE0D09491521C8092700FC796BC2C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74161"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Universiteitsbibliotheek (Wittevrouwenstraat 9-11) te Utrecht: kelder met boekenstellingen van het aan de Keizerstraat gelegen uit 1909 daterende \"nieuwe boekenmagazijn\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66031DE495255055B5CB6F9A143E3B35"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24164"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht vanuit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "66BB5990AE905C17945E3B81212D8F94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60078"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B90DC347A0555AF8F3C98759F1D7FF4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116419"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwbouwcomplex Keizerstraat 39 -hoger te Utrecht, op de hoek met de Korte Jufferstraat (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-04-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6E34AD340F7A5B3E88B70E2F75F3DDFD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52481"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de huizen nrs. 18-hoger; geheel links een gedeelte van het huis nr. 16. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6FA02B8555625712ACB3E455515D6D06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60066"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 21 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "714968C18D8D5543B37162AA6276FE4B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60111"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het voormalige stalgebouw Keizerstraat 16 te Utrecht, vanaf de overzijde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75E0C16C89EB50C99DF74011AB8FF03E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "810878"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met links de zijgevel van de Universiteitsbibliotheek (Wittevrouwenstraat 7-11) en op de achtergrond de Wittevrouwenstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "768FD25A1BC056A9A0E149BADAD634B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65635"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het winkelwoonhuis Nobelstraat 6 te Utrecht, uit het zuiden; links de ingang van de Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76C276D6523C83FAE0534701000A8F94"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "604426"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van Wim van der Hurk, lid van de Utrechtse afdeling van de Nederlandse Vereniging van Geluidsjagers tijdens het opnemen van geluiden van een zetmachine bij de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht. Opmerking: In het laatste kwart van de 20e eeuw vervaardigde reproductie van een in 1964 gemaakte foto.<ZR>De naam van de in 1956 opgerichte vereniging is in 1965 gewijzigd in Nederlandse Vereniging voor Geluids- en Beeldregistratie en in 2013 in Nederlandse Vereniging voor Beeld en Geluid."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7722B17160E45A3A80530FA77E5041D2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60138"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: de op de tweede verdieping gelegen redactiezaal, uit het zuidoosten met links achter de glaswand de kunstredactie en rechts de deur van de sportredactie"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7755D7E7DFF051E6A577689C37DBF27A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108670"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van de gebouwen aan de Drift (rechts), Wittevrouwenstraat (onder) en Keizerstraat (links) te Utrecht, die zijn aangekocht voor het paleiscomplex van koning Lodewijk Napoleon met aanduiding van de mogelijke bestemming van de vertrekken. Opmerking: De gebouwen zijn later deel gaan uitmaken van de Universiteitsbibliotheek (Wittevrouwenstraat 7-11).<ZR>Fotoreproductie van een pentekening als bijlage bij een brief van de Intendant van Het Loo aan de chef de bureau van de Intendant G\u00e9n\u00e9ral da la Maison du Roi, d.d. 26 juni 1808 (Nationaal Archief, Archief Kroondomein Lodewijk Napoleon, inv.nr. 103).<ZR>Literatuur van G.A. Evers over het paleiscomplex:<ZR>Utrecht als koninklijke residentie (bibl. HUA VIII C 37).<ZR>\"Koning Lodewijks paleis te Utrecht\", overdruk uit Het huis oud en nieuw, afl. 8, 1915 (bibl. HUA X B 25).<ZR>Het paleis van Koning Lodewijk Napoleon te Utrecht en zijne inrichting tot universiteitsbibliotheek (bibl. HUA in: XLVII C 3, pag 154-174)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1807-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1807-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78197F764E765ECCB7CA5775D7C86110"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60098"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Keizerstraat 49 (rechts)-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "79E07F7CEE7F582CB93F9D802ED3EB49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60105"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pakhuis Keizerstraat 59 te Utrecht, tijdens de afbraak, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "79EDC47D95B958E2849F5E8ED67446E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60135"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: een hoekje op de tweede verdieping, vanuit de deuropening van de kamer van de hoofdredacteur, uit het noordwesten met in het midden doorzicht in het redactiesecretariaat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A1C4B7ED2355092A2BDEE8905C3E261"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30720"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een pleintje aan de oostzijde van de Lange Rietsteeg te Utrecht uit het westen.<ZR><ZR>N.B. De naam Lange Rietsteeg is een oude benaming voor het noordelijke deel van de Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1895-07-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B682ACC4A295CE98978E4991BA0258F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60069"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Keizerstraat 23-25 te Utrecht, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CD38B7FBA0957DF8E3394265959574A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "401632"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee krakers in het kraakpand Keizerstraat 14 te Utrecht, tijdens de ontruiming."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "814F23FF1D8CB6E0E0534701000A431B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108671"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Plattegrond van een gedeelte van de gebouwen aan de Drift (rechts), Wittevrouwenstraat (onder) en Keizerstraat (links) te Utrecht, die zijn aangekocht voor het paleiscomplex van koning Lodewijk Napoleon met aanduiding van de mogelijke bestemming van de vertrekken en van de te maken toegangspoort aan de Wittevrouwenstraat. Opmerking: De gebouwen zijn later deel gaan uitmaken van de Universiteitsbibliotheek (Wittevrouwenstraat 7-11).<ZR>Fotoreproductie van een pentekening als bijlage bij een brief van de Intendant van Het Loo aan de chef de bureau van de Intendant G\u00e9n\u00e9ral da la Maison du Roi, d.d. 26 juni 1808 (Nationaal Archief, Archief Kroondomein Lodewijk Napoleon, inv.nr. 103).<ZR>Literatuur van G.A. Evers over het paleiscomplex:<ZR>Utrecht als koninklijke residentie (bibl. HUA VIII C 37).<ZR>\"Koning Lodewijks paleis te Utrecht\", overdruk uit Het huis oud en nieuw, afl. 8, 1915 (bibl. HUA X B 25).<ZR>Het paleis van Koning Lodewijk Napoleon te Utrecht en zijne inrichting tot universiteitsbibliotheek (bibl. HUA in: XLVII C 3, pag 154-174)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1807-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1807-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "81E371172EFC51D7BF60953C2B3F1ED6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119195"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Drukkerij van het Utrechts Nieuwsblad (Rietsteeg) te Utrecht: drukkerij.<ZR><ZR>N.B. Het adres is later gewijzigd in Keizerstraat 42-44. Opmerking: De afbeelding bevindt zich in Bibl.HUA XII F 41, Een bezoek aan de drukkerij van het Utrechtsch Nieuwsblad, uitgave Joh. de Liefde, blz. 17."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1899-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83613D69B9425F529E167E725E242265"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828509"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een deel van de grote muurschildering met Griekse taferelen, die loopt vanaf de Wittevrouwenstraat tot en met het pand Keizerstraat 63 te Utrecht.<ZR><ZR>N.B. De afbeelding is later overgeschilderd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83705E10B5E15663A064A01DB11DBD76"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60059"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerspoort in de Keizerstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85579192CC6154F8A9625E0BAE7A66E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24797"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht, uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1995-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "86821A155ED1552AAD0F60F16098462B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828488"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een muurschildering op de hoek van de Keizerstraat en de Wittevrouwenstraat te Utrecht. Om de hoek bevindt zich een wasserette (Wittevrouwenstraat 13).<ZR><ZR>N.B. De afbeelding is later overgeschilderd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2008-11-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2008-11-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "883520EE60EF579D8CEF0543996B1E29"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60099"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het noordelijk gedeelte van de Keizerstraat met de voorgevels van de huizen nrs. 49-53 te Utrecht, kort voor de afbraak van de huizen nrs. 51-53, uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8876574EC86D25D8E0534701000A87DA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "841163"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het op 6 mei 2019 uitgebrande pand Nobelstraat 6 (New York Pizza) te Utrecht, op de hoek met de Keizerstraat (links)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-05-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "891A48FCF386530C91342E0FF0849E49"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de krantenpers."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "89AF71C4B9CC584A9ED2D128128C9A83"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60061"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het bedrijfspand Keizerstraat 5 te Utrecht, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "89B5CC56F45158E2A014FAB6ECEBBDE5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60139"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: de op de derde verdieping gelegen postkamer, uit het oosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CF5F7770B6353A7A763EC59E27D2EBE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60104"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het in vervallen staat verkerende huis Keizerstraat 53 te Utrecht, kort voor de afbraak, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8EF16F9B5E4357ACAFFC8DAA00442DA3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee politieagenten bij de voordeur van het kraakpand Keizerstraat 43 bis te Utrecht, tijdens de ontruiming.<ZR><ZR>N.B. Prentbriefkaart maakt deel uit van de set prentbriefkaarten \"Kraken in Utreg\" (Atlantis nrs. 26476 - 26484)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "901209FB8B205A929246C8A6F05FBAA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65634"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het huis Nobelstraat 6 te Utrecht, uit het zuidwesten; links de ingang van de Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92FED1814EE0515D8F79B72BFBDB2907"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818917"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van twee auto's voor de Garage Utrecht/ G.U.V.O. Taxi (Taxibedrijf Garage Utrecht Van Oostrum, Keizerstraat 29) te Utrecht.<ZR><ZR>N.B. De zaal op de eerste verdieping werd verhuurd voor dansen, bruiloften en partijen. Opmerking: Garage Utrecht Van Oostrum was een luxe autoverhuur- en klein taxibedrijf en tevens auto-, motor- en rijwielstalling."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1932-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "94777CE9CB915129B043DE907E8849E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31689"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en de zijgevel van het huis Nobelstraat 8 op de hoek van de Keizerstraat te Utrecht, het winkel/woonhuis van de broodbakker P.H. van Gendt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1892-04-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1892-04-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9722B566A7AD5A9986CC9058AEC2ED1E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819020"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de Korte Rietsteeg te Utrecht, vanaf de Keizerstraat richting Lange Jufferstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9A7F9A0E745657C89D039A74DB32C9FA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24162"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het studentencomplex Keizerstraat 110-256 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B916D9AA06E5B359EA0138DC2A51490"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74180"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het pand Wittevrouwenstraat 13 te Utrecht, vanuit het noordwesten. Rechts de ingang van de Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9D362929E61651CAB538C60D1E3E992A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de huizen nrs. 59 (geheel links)-lager; rechts van het midden op de achtergrond een gedeelte van een huis aan de Korte Jufferstraat. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A35661C2877857B1B799A20495DB9E73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60123"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de rechter zijgevel en de voorgevel van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44), uit het noordoosten met rechts een parkeerterrein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9103D28CD2359498CF37880DC4A8FD1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819018"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bestrating van de Korte Rietsteeg te Utrecht, vanuit de steeg richting Keizerstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A97AFF52883658CCB895046D4864F85D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60114"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van de voorgevel van het voormalige stalgebouw Keizerstraat 18-22 te Utrecht, uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A98166B572595E37A52403C2F2CF8C2C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60124"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de voorgevel en de linker zijgevel van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44), uit het zuidoosten met links de toegang tot een parkeerterrein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1532B4FFE945F499E2E56B863E481E8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60132"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: een gedeelte van de op de eerste verdieping gelegen redactiezaal, uit het zuidoosten met rechts de toegang tot de zaal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B166BCCA0D835DFFB61B7F7C138370D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820069"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Nobelstraat 6 (\"New York\"-Pizza) te Utrecht; links de Keizerstraat.<ZR><ZR>N.B. Vanaf ca. 1820 tot 1930 was op deze locatie de Brood-, Beschuit- en Kleingoedbakkerij van de Gebroeders Van Gendt gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B1E2CEA35FD4510F8927C53C4000E5EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60102"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen Keizerstraat 51-53 (vooraan nr. 53) te Utrecht, tijdens de sloopwerkzaamheden, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B3C358D99FC65B86BF46F2A2F5B69226"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819011"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Keizerstraat 3 te Utrecht, met links in de pui de toegang tot het verdwenen slop de Keizerspoort (vgl. catalogusnr. 60059). Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B9B6B8327D2E58CBB034BE2DF626451F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818916"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met rechts de Garage Utrecht/ G.U.V.O. Taxi (Taxibedrijf Garage Utrecht Van Oostrum, Keizerstraat 29) te Utrecht; geheel links W.P.A. van Oostrum met zijn oudste dochter Ria. Opmerking: Garage Utrecht Van Oostrum was een luxe autoverhuur- en klein taxibedrijf en tevens auto-, motor- en rijwielstalling."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BB432DD1E4735F2EAA8B62CDD43649F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "79410"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de funderingswerkzaamheden ten behoeve van de nieuwbouw van de Universiteitsbibliotheek (Wittevrouwenstraat 11) te Utrecht; rechts de Lange Rietsteeg en op de achtergrond de huizen Wittevrouwenstraat 32 (rechts)-lager.<ZR><ZR>N.B. De straatnaam Lange Rietsteeg is in 1950 gewijzigd in Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1906-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1906-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BBC74C1237915572A4FF901D593B46EC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60107"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Keizerstraat 14 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC2A0B8F71F858EB836ADDEF59B2F506"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "39383"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Zonstraat te Utrecht in de Keizerstraat v\u00f3\u00f3r de afbraak van het hoekhuis links, het winkel/woonhuis van de broodbakker P.H. van Gendt, ten behoeve van de verbreding van de Zonstraat (tot aan het huis met de groene staldeuren). <ZR><ZR>N.B. De straatnaam Zonstraat is bij de verbreding in 1886 gewijzigd in Nobelstraat. De  Vuile Sloot werd in 1861 Keizerstraat genoemd. Opmerking: Tekening van Anthony Grolman uit 1889 (6 maart?) met commentaar uit 1917. Zie ook nr. 31689.<ZR>Deze tekening is afkomstig uit de door de kunstenaar zelf samengestelde Atlas Grolman."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1889-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1889-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BEAD90E6BA655670945181BA222D6B9A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "41371"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Incassobank (Nobelstraat 4) te Utrecht; rechts de ingang van de Keizerstraat. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C07D88196A9D5616BC5FB6EC244BB7F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60097"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Keizerstraat 47-49 te Utrecht, uit het zuidwesten met rechts een gedeelte van het huis nr. 45 (drukkerij Utrechts Nieuwsblad) met daartussen de Korte Rietsteeg en links de achterzijde van een nieuw gebouwd huis aan de Kloksteeg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0B7CD6FF87B525E8074FFF65DB91EAB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60082"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht met rechts de ingang van de Korte Jufferstraat, uit het zuidwesten; op de verdieping de zetterij en op de dakverdieping de kantine."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C23F00724D85567AA0C31595FF988744"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "828510"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de muurschildering van een antieke zuilengalerij op de garagedeur bij het pand Keizerstraat 63 te Utrecht. Dit paneel maakt deel uit van een grote muurschildering die loopt vanaf de Wittevrouwenstraat tot en met het pand Keizerstraat 63.<ZR><ZR>N.B. De afbeelding is later overgeschilderd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C2FB6835FA245BF58AACE7D857E678DD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60079"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de huizen nrs. 35 (rechts van het midden)-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C78AD8EFDDAC59428E38804831A032BA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60077"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang en de toegangstrap van het huis Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C85F3CFF9045527AAFE2B8D8AF13A550"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60067"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de gevels van enkele huizen aan de binnenplaats, vanuit de poort onder het huis Keizerstraat 21 te Utrecht met op de achtergrond een huis aan de Lange Jufferstraat. Opmerking: Zie voor situatie en beschrijving ook: Maandblad Oud-Utrecht 1976, blz. 116-117"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8EC2052B45A58AF8322970705F9D07B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "816311"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Nobelstraat te Utrecht, met links de ingang van de Keizerstraat. Opmerking: De foto is gemaakt in verband met de tentoonstelling \"Utrecht rond 1900 door de ogen van Anthony Grolman\" in Het Utrechts Archief, 2008/2009. De foto toont het zelfde gezichtsstandpunt als cat. nr. 35659."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2008-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2008-10-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C95FC7A3C0B95ABAB16E4C77A2D9953F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60065"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dichtgetimmerde voorgevel van de aan het binnenterrein gelegen huis Keizerstraat 17 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CC340E52DD275F6E8D879CDACD7C8FD6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60131"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: de op de eerste verdieping gelegen redactiezaal, vanaf de trap naar de fotodienst, uit het noordwesten met links op de achtergrond de trap naar de tweede verdieping."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD81C695FD705B8ABA6B2AA58CAF9211"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30719"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lange Rietsteeg te Utrecht uit het noorden.<ZR><ZR>N.B. De naam Lange Rietsteeg is een oude benaming voor het noordelijke deel van de Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-06-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1895-06-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD98FF2F56425F63881E2F6F826B376F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60103"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het noordelijk gedeelte van de Keizerstraat met de voorgevels van de huizen nrs. 51-hoger te Utrecht, kort voor de afbraak, uit het zuidwesten. Opmerking: Afdruk Gemeentelijke Fotodienst van kleurennegatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF62884A522550EC99A99F9EC340108E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60058"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Lange Rietsteeg te Utrecht, uit het noorden.<ZR><ZR>N.B. De straatnaam Lange Rietsteeg is in 1950 gewijzigd in Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D252C881987D551ABEB80737CCD41150"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "406219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Universiteitsbibliotheek (Wittevrouwenstraat 11) te Utrecht; links de ingang van de Keizerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D2FA2BD1AD525EC6BE70112BA9946941"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74160"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Universiteitsbibliotheek (Wittevrouwenstraat 9-11) te Utrecht: kelder met boekenstellingen van het aan de Keizerstraat gelegen uit 1909 daterende \"nieuwe boekenmagazijn\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D53EF3F8FF0B5540B4D5710DB402EE6B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60116"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Keizerstraat 20-24 (rechts het huis nr. 24) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D55FEA2D812053B1B872F48468523540"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60133"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: een gedeelte van de op de eerste verdieping gelegen redactiezaal, uit het westnoordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7076426C65E56DE84D2D624B1C31E57"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60089"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de op de dakverdieping gelegen kantine met links op de achtergrond het buffet met de erachter gelegen keuken, uit het oostzuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7D3E9F293BD5D468D56B3D7888F8E44"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "103330"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van leden van de Mobiele Eenheid in de Keizerstraat te Utrecht, tijdens de op handen zijnde ontruiming van het gekraakte pand Drift 13."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-07-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D83544372B6F55BFAC0E7F5371163116"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "818679"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de fietsenfabriek Rivertown (H. Verheul, Keizerstraat 35) te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1934-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1934-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D926BFB5F3145D17AA60A6EA5704A1C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60118"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Keizerstraat 22 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DBC816847F20597E94136203070D9C6B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60106"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het voormalige stalgebouw Keizerstraat 2 te Utrecht met links de ingang van de Nobelstraat.<ZR><ZR>N.B. Het gebouwtje is in 1919 gesloopt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDC70C85AF6E55DAB3F3C97D62A4A8F1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820070"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het hoekpand Nobelstraat 6 (\"New York\"-Pizza) te Utrecht; links de Keizerstraat.<ZR><ZR>N.B. Vanaf ca. 1810 tot 1930 was op deze locatie de Brood-, Beschuit- en Kleingoedbakkerij van Van Gendt gevestigd. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DE0E89C08BAE5318867BACE2FBE37AB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60063"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan het binnenterrein gelegen huizen Keizerstraat 11-13 te Utrecht met links het huis nr. 13."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DF7053BF58155670B5B7CD3282345598"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60094"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de redactieruimte."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2D2622CDE365BACB299418A8EEAB0BB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119194"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Drukkerij van het Utrechts Nieuwsblad (Rietsteeg) te Utrecht: stereotypie-inrichting.<ZR><ZR>N.B. Het adres is later gewijzigd in Keizerstraat 42-44. Opmerking: De afbeelding bevindt zich in Bibl.HUA XII F 41, Een bezoek aan de drukkerij van het Utrechtsch Nieuwsblad, uitgave Joh. de Liefde, blz. 14."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1899-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E3F755F888A753359C476F00BCE7A063"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "119192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de Drukkerij van het Utrechts Nieuwsblad (Rietsteeg) te Utrecht: redactiekamer.<ZR><ZR>N.B. Het adres is later gewijzigd in Keizerstraat 42-44. Opmerking: De afbeelding bevindt zich in Bibl.HUA XII F 41, Een bezoek aan de drukkerij van het Utrechtsch Nieuwsblad, uitgave Joh. de Liefde, blz. 5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1899-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E44FA887F79F57C596E30FCF1A18B6E4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60086"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de op de verdieping gelegen afdeling kopyvoorbereiding, uit het oostnoordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E50FAD69B62C53398FE0E08A7E62AE11"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60088"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: de op de verdieping gelegen pagina-opmaakafdeling, uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E564484953B85E7385F575E31E53745F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "39384"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit de Nobelstraat in de Zonstraat te Utrecht in de richting van het Janskerkhof v\u00f3\u00f3r de afbraak van de huizen rechts ten behoeve van de verbreding van de Zonstraat. <ZR><ZR>N.B. De straatnaam Zonstraat is bij de verbreding in 1886 gewijzigd in Nobelstraat. De  Vuile Sloot werd in 1861 Keizerstraat genoemd. Opmerking: Deze tekening is afkomstig uit de door de kunstenaar zelf samengestelde Atlas Grolman."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1889-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1889-03-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6B51E51EBEC57508B7AEA98D6CAF56F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60092"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van de drukkerij van het Utrechts Nieuwsblad (Keizerstraat 45) te Utrecht: het maken van letters."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EE97AB92D92D5A8C93E1C428547ED28A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60073"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voordeur van het huis Keizerstraat 35 te Utrecht voor de restauratie."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1939-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F03BB30B3C0954318BC74C932091B20C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123725"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een deel van de versierde deurstijl en de naambordjes bij de deurbel van het huis Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F0646B4208705D2482234ADA3A02B94C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60060"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het in afbraak zijnde komplex huizen tussen de Keizerstraat (voorgrond, buiten beeld) en Kloksteeg (achtergrond) te Utrecht, uit het westen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F104746ABA24544D8D38C0C8993EBF21"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20966"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Keizerstraat 14-lager te Utrecht. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9D6C851D7125313A9DC74911A8101A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60120"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Keizerstraat te Utrecht met de huizen nrs. 24 (rechts van het midden)-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC8B9D4091E45A3FA38399060E462773"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60113"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Keizerstraat 18 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1989-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1989-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FCF8317DE151581B9F350077DFC45DA3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "817239"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingangspartij van het pand Keizerstraat 35 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-11-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-11-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FFC2952348E35663888707D02760FB47"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60134"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het kantoor van de redactie van het Utrechts Nieuwsblad (Keizerstraat 42-44) te Utrecht: een hoekje op de tweede verdieping, uit het zuidoosten met links het trapje, dat toegang geeft tot de kamer van de hoofdredacteur en rechts de toegang tot de kamer van de adjuncthoofdredacteur."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1982-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

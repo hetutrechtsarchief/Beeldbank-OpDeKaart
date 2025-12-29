@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2E4BFD14C8A2580AB89938FA1A903EA3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60239"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een stratenmaker bezig met bestratingswerkzaamheden aan de Keulsekade te Utrecht ter hoogte van de Loggerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "337F10A457A3566AB236FABB18AB5E6E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404451"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de achtertuin van een woning aan de Loggerstraat te Utrecht, met op de achtergrond enkele huizen aan de Fregatstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D41696AFF0E15BFEA47EA7A718D300CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "60238"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een stratenmaker bezig met bestratingswerkzaamheden aan de Keulsekade te Utrecht ter hoogte van de Loggerstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA1B56FAD1FD53E5A3BAB1B5C3CE3F40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23832"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Loggerstraat te Utrecht; op de voorgrond de Galjoenstraat en op de achtergrond de PEGUS (Provinciaal en Gemeentelijk Utrechts Stroomleveringsbedrijf, Keulsekade 189)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

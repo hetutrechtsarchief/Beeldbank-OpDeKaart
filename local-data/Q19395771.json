@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F8ED1C9251B57879B26B1F1961D4DDB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832979"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Gemeentelijk Lyceum aan de Oosterstraat te Emmen (Dr.). Opmerking: NS fotonummer 8242"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-04-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

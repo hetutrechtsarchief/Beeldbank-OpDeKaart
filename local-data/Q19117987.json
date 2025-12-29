@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D1DD1CABE4255E080070B780FB57B91"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68191"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de dichtgetimmerde achtergevels van de huizen Oude Pijlsweerdstraat 44 (links)-lager te Utrecht, na het slopen van de uitbouwen, vanaf de Engelen van Pijlsweertstraat (voorgrond), uit het zuidwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "851C9C21353458CCAEBD1CA7731CEF67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68190"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het oostelijk deel van de Oude Pijlsweerdstraat te Utrecht, met de huizen nrs. 44-lager aan de zuidelijke straatwand, uit het westnoordwesten; links op de voorgrond de zuidrand van het Noordse Park, met de huizen aan het begin van de Kokkenhoflaan; rechts een plantsoen met de ingang van de Engelen van Pijlsweertstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "230B11D70ECC57BA8F2236738E474AEF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155955"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Schiedam Nieuwland te Schiedam."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C9BCC2442F085872B92D1944396BCEED"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156280"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het nieuwe N.S.-station Schiedam Nieuwland te Schiedam met links op de voorgrond een versierde tram van de R.E.T. ter gelegenheid van de feestelijke opening van het station."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-09-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-09-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FE7710471AE151578D7B30AFFD359C34"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "168644"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een electrisch treinstel plan Y (\"Sprinter\") langs het perron van het N.S.-station Schiedam Nieuwland te Schiedam."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

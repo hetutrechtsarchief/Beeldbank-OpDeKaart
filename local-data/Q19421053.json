@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3AE0BE4BE5B156A1A5965AE117C72D9E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "122995"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pijnboomstraat te Utrecht, uit het noordoosten; links van het midden het huis Amandelstraat 33 en daarnaast de huizen Pijnboomstraat 7-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F9D505B5A8E5932B63826F04676333E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19648"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Royaards van den Hamkade 53-hoger te Utrecht met rechts de ingang van de Pijnboomstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2000-04-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4FBD45B22A95FFE900C9FAF4710223C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123000"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Pijnboomstraat te Utrecht, vanaf de Royaards van den Hamkade, uit het zuidwesten; links het huis Royaards van den Hamkade 53 en op de achtergrond de Amandelstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2005-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

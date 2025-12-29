@@ -1,0 +1,884 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1262670832B95E6098ABBC1BC76D6508"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90128"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de wijk Over het Spoor te Vleuten (gemeente Vleuten-De Meern), vanaf de toren van de Sint-Willibrordkerk (Pastoor Ohllaan 34), met rechts op de voorgrond de kruising van de Bottensteinweg met de Stationsstraat en het N.S.-station Vleuten. Links op de achtergrond de Julianalaan.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "16062A73D2BD57B3A8BA7166CE40E7E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124424"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Julianalaan te Utrecht met de huizen aan de westelijke straatwand."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1920-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "165D94793221551993F4BB66EC6CFC28"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603518"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het sneeuwruimen in de Julianalaan te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-01-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F6E6E960C8D5C9697EEED1EB2A6A6C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "805865"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van Bunnik met rechts de Stationsweg en de R.K. St.-Barbarakerk (Stationsweg 36), op de voorgrond de Koningin Julianalaan, in het midden de spoorlijn Utrecht-Arnhem en op de achtergrond de A12."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-07-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "225DC10B03095457B37053D69DCB6098"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40917"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op twee electrische trams van lijn 2 en lijn 3 ter hoogte van de rotonde aan de zuidkant van het Wilhelminapark te Utrecht, vanuit de Julianalaan. Opmerking: Afdruk afkomstig uit archief DOW<ZR><ZR>Litt: Gedenkboek uitgegeven ter gelegenheid van het 25-jarig bestaan van het Electriciteits- en Trambedrijf, Bibl. HUA LXVI A 110"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "293C33ACDCB65A5594D2B66EB054FD45"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12570"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prinses Julianalaan met bebouwing te Amersfoort uit het zuidoosten; met links de voorgevel van het hotel Rusthof (Utrechtseweg 127).<ZR><ZR>N.B. De straatnaam Prinses Julianalaan is later gewijzigd in De Bosch Kemperlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "29BFB6A104965837A70ECBA058305BC3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90126"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de wijk Over het Spoor (achtergrond) te Vleuten (gemeente Vleuten-De Meern), vanaf de toren van de Sint-Willibrordkerk (Pastoor Ohllaan 34), met op de voorgrond de Bottensteinweg en links op de achtergrond de Julianalaan.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2F93FDCA8AAB5500B2A5C83592C1E451"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90124"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de wijk Over het Spoor te Vleuten (gemeente Vleuten-De Meern), uit het zuiden, met op de voorgrond de Vleuterweideweg, links de Prins Hendrikweg, in het midden de Julianalaan en rechts de Wilhelminalaan.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1963-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2FA21D6616235B079C5A2C3A83993D4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88734"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het zuidwesten op de Julianalaan te Vleuten (gemeente Vleuten-De Meern) met op de achtergrond de toren van de R.K. kerk.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1960-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "375846F968275BD2B3C2DFC8C42417C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88730"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het zuidwesten in de Julianalaan te Vleuten (gemeente Vleuten-De Meern) met op de achtergrond de toren van de R.K. kerk.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "630EAF2BB6CE6B2DE0534701000AE1E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40140"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Openbare Lagere School Mecklenburglaan 3 te Utrecht met rechts de achtergevels van de huizen aan de zuidoostelijke zijde van de Julianalaan. Opmerking: Afdruk van origineel negatief, 1979"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1917-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1918-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "63617CD3AD4D5FA480ABF53E1A401449"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802055"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de rioleringswerkzaamheden in de Julianalaan te Utrecht; op de achtergrond het Wilhelminapark."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "673BC2024A015BCFBED13B518AF3ED2A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "26115"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de familie Huis in 't Veld uit Utrecht tijdens de eerste steenlegging voor het filiaal van de melkinrichting De Landbouw aan de Julianalaan te Bilthoven."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1922-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "687FA225A8065813A5F4F54F85E71BF2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "832701"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Julianalaan te Vleuten (gemeente Utrecht), uit het noorden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7D2F18833E8656EE95FCB74E98F0D9E1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834443"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Julianalaan te Vleuten (gemeente Utrecht), vanaf de hoek met de Prins Hendrikweg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2016-09-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7E68CE701C375476BF06767D9F6B0D41"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88731"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het zuidwesten in de Julianalaan te Vleuten (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C85C44A86B558DEB561231B46EDAA10"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "812604"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Julianalaan 10 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1990-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E15BDC5AFC551D18538D0EA4DF50543"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802054"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de rioleringswerkzaamheden in de Julianalaan te Utrecht; op de achtergrond het Wilhelminapark."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "95D9503AB7B05C2F80D6AED8AB9EC2DF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "576"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Julianalaan te Utrecht met op de achtergrond het Wilhelminapark. Opmerking: achterzijde poststempel 1930"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9EF4A913A8C55BA3AC8BF7E0166D0202"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88733"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het zuidwesten op de Julianalaan te Vleuten.<ZR><ZR>N.B. De gemeente Vleuten is per 1 januari 1954 opgenomen in de gemeente Vleuten-De Meern; deze gemeente is per 1 januari 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1AAA755D31A578BA6181D6E438AF931"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90123"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de wijk Over het Spoor te Vleuten (gemeente Vleuten-De Meern), vanaf de toren van de Sint-Willibrordkerk (Pastoor Ohllaan 34), met links de Julianalaan.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B402C6D15D7756B8AD778EB53596A3E3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118495"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de watertoren aan de Burgemeester Van der Borchlaan te Bilthoven; links de Julianalaan en de spoorlijn Utrecht-Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B8CD19088ADB585FA50493A694A6148D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12571"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Prinses Julianalaan met bebouwing te Amersfoort uit het zuidoosten; met links de voorgevel van het hotel Rusthof (Utrechtseweg 127).<ZR><ZR>N.B. De straatnaam Prinses Julianalaan is later gewijzigd in De Bosch Kemperlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC3D6DE8022C5742AD6DA2685222B355"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90905"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de uitreiking van de eerste prijs van de Zonnebloemwedstrijd voor de jeugd door burgemeester mr. H. A. C. Middelweerd aan Martin van Rooijen (Julianalaan 11 te Vleuten) in het caf\u00e9-restaurant Het Oude Raadhuis (Hindersteinlaan 2) te Vleuten (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd. Opmerking: De Zonnebloemwedstrijd voor de jeugd was een onderdeel van de jaarlijkse tuinwedstrijden, georganiseerd door tuinvereniging De Gaard te Vleuten. De zonnebloem van Martin van Rooijen bereikte een hoogte van 4.35 mtr."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-10-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BE2464D82C7B5211AFDA8072E0FCEF5C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19090"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Julianalaan 10 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-04-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "783BB75E115857EBB6ACE3690187F840"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "90125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Overzicht van de wijk Over het Spoor te Vleuten (gemeente Vleuten-De Meern), vanaf de toren van de Sint-Willibrordkerk (Pastoor Ohllaan 34), met op de voorgrond de kruising van de Bottensteinweg met de Stationsstraat en het N.S.-station Vleuten. Links op de achtergrond de Julianalaan.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY-NC 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C098246D78CE5E20A838024A694E3316"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "59575"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Julianalaan te Utrecht met de voorgevels van de huizen nrs. 17-lager (rechts van het midden); links de Mecklenburglaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1974-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1974-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C8CADF325D24587B9FEB012327B955A1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "44903"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Julianalaan te Utrecht, uit het zuiden, na de asfaltering van het wegdek. Opmerking: Afdruk afkomstig uit archief DOW"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EB2FB22610C75BAA8CACF755B1B8C875"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "88732"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanuit het zuidwesten in de Julianalaan te Vleuten (gemeente Vleuten-De Meern).<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F59F9A6E2BF75DBC89D9C9264C028969"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "807394"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het zuidelijke deel van de Koningslaan te Utrecht, met links op de achtergrond enkele huizen aan de Julianalaan. Opmerking: Digitale reproductie van een prentbriefkaart. Het origineel is in particulier bezit."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FBD6E1038D2F5009979880D6870D760A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "40916"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rotonde ten zuiden van het Wilhelminapark te Utrecht, vanuit de Julianalaan. Opmerking: Afdruk van origineel negatief, 1979"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

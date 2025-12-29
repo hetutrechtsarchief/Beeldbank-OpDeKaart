@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "648E26B68ECA5C2897B3DB384E4CCFC6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13075"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van de jeugdherberg annex conferentieoord De Grasheuvel (De Genestetlaan 9) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "75738A2CE93C57919BD575153F16E995"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13074"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingangspartij aan de voorgevel van de jeugdherberg annex conferentieoord De Grasheuvel (De Genestetlaan 9) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CAAA25837A725A60A9BB7662C1D3D12E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "13073"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de jeugdherberg annex conferentieoord De Grasheuvel (De Genestetlaan 9) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1956-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

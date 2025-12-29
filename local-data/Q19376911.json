@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E98862B2BB305DBAAC3CE967860D19CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "603000"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de bossen bij het landgoed Noordhout te Maarn.<ZR><ZR>N.B. De gemeente Maarn is per 1 januari 2006 opgenomen in de nieuw gevormde gemeente Utrechtse Heuvelrug. Opmerking: De prentbriefkaart is uitgegeven ter gelegenheid van de jaarlijkse kerstwandeling van de A.N.W.B."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

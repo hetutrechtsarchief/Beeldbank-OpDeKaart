@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2B9B6DD412535AB5BC1EE80351FCF493"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166192"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aanleg van het perron voor het nieuwe N.S.-station Driehuis te Driehuis."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1957-07-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-07-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

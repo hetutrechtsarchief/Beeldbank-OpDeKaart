@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "208EA55E3E7656D989AB091123DDE068"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814777"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Victoria Regiadreef te Utrecht, vanaf de Japur\u00e1dreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5031DCF84195475BCEABCD3DC7E4979"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814806"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het winkelcentrum De Klop te Utrecht, vanaf de Andesdreef, met op de achtergrond het appartementencomplex De Clophaemer aan de Victoria Regiadreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FD2DD5A01AC156618DB3EB7CF80E2E39"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814807"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het appartementencomplex De Clophaemer aan de Victoria Regiadreef te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-18",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8E4DBC64433950F8B7A74DCAF1E162E7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92639"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding een aantal volwassenen en kleine kinderen bij de start van de buurtloop aan de Koningin Julianaweg te Kockengen. <ZR> <ZR>N.B. De gemeente Kockengen is per 1 januari 1989 bij de gemeente Breukelen gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-03-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-03-27",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "295B1153C3F05FC1A388D99E3A7DC9C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "23503"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Rika Hopperlaan 4 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "481BAEB2A315587B9FFE91D1F5BAA256"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "54398"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen Louis Bouwmeesterlaan 151-171 te Utrecht, uit het westen met rechts de achterzijde van het huis Rika Hopperlaan 15."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "559A8C6A5D815ADF91645936CABE66F8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "58656"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijde van de huizen Rika Hopperlaan te Utrecht; nr. 46 (midden) en 52 (links van het midden) uit het westen met op de voorgrond een speelplaats."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

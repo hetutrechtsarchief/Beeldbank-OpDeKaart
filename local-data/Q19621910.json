@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "520BC2E09C9F561A9A5763B4D44C3FC2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "121185"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Winkel No. 8 van Maatschappij De Korenschoof (Van Leeuwenhoeckstraat 2) te Utrecht. Opmerking: De foto bevindt zich in het album Maatschappij \"De Korenschoof\" Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1922-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1925-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE7E34CABAF5C638F29E6EC57E7779C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "19505"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Van Leeuwenhoeckstraat 6 te Utrecht met rechts een gedeelte van het huis nr. 8."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1977-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1977-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "92C23148A31F586C9675169C75B2AA07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "62221"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Leeuwenhoeckstraat met de voorgevels van de huizen 9 (midden)-lager te Utrecht; links het hoekhuis Nieuwe Koekoekstraat 115; geheel rechts op de achtergrond enkele huizen aan de Van Humboldtstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "97B2715F50E35006A721AC0973986242"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819645"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Van Leeuwenhoeckstraat 2  te Utrecht; op de voorgrond de Van Humboldtstraat.<ZR><ZR>N.B. Tot 1938 was in dit pand winkel no. 8 van Broodfabriek De Korenschoof gevestigd (vergelijk: catalogusnr. 121185). Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-03-05",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

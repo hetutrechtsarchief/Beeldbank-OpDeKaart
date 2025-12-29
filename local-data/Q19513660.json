@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4A099690E42159F0A3A125F7A12BF51C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "10209"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Secretarislaan te Driebergen-Rijsenburg uit het noorden.  <ZR><ZR>N.B. De gemeenten Driebergen en Rijsenburg zijn per 1 mei 1931 samengevoegd tot de gemeente Driebergen-Rijsenburg."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1932-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

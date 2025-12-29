@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D33F2866FE1C5B5294CD51E5AFF7625E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "9094"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van Bennekomweg te Doorn uit het zuiden. <ZR><ZR>N.B. De straatnaam Van Bennekomweg is later gewijzigd in het Maarnse Voetpad."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A9214A3175A07A9E0534701000A9956"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838002"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Vasalisplantsoen te De Meern (gemeente Utrecht), met het kunstwerk 'Meet you at the mountains' van Maja von Hanno uit 2008, vanaf de Vicuslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2018-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FC130CB5A06E883E0534701000A6197"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "838810"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zuidoosthoek van Castellum Hoge Woerd (Hoge Woerdplein 1) te De Meern (gemeente Utrecht), vanaf de Vicuslaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2019-01-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2019-01-09",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

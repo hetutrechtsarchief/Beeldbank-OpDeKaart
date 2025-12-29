@@ -1,0 +1,884 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "121B794CD8E55EBBB30A631D7F1A5FD2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819591"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het dakterras van het nieuwgebouwde pand Rondpoort 1, aan de Twijnstraat aan de Werf te Utrecht; op de achtergrond bomen aan de Oudegracht en een gedeelte van de voorgevel van de voormalige St.-Martinuskerk (Oudegracht 401)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "156B9C212E1753BBA9AEC2B8ACF610B6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "73129"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rondpoort te Utrecht met op de achtergrond de Oudegracht. Opmerking: De afbeelding is gepubliceerd in Bibl. HUA LXXXVI D 55-71 (NIET RAADPLEEGBAAR!), Utrecht in Woord en Beeld, een ge\u00efllustreerd familieweekblad voor stad en provincie, jrg. 1931, nr. 8."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1931-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1931-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "19E07B22367D5302A6661BE2F7D1A057"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "35906"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Werf aan de Twijnstraat te Utrecht met de Rondpoort. In het midden een gedeelte van het huis Twijnstraat 29. <ZR><ZR>N.B. De straatnaam Werf aan de Twijnstraat is in 1956 gewijzigd in Twijnstraat aan de Werf. Opmerking: Reproductie (autotypie) van een tekening van Rein Hoowy afgebeeld in de Tandheelkundige Studentenalmanak 1937, tegenover pag. 222 (bibl. LI F 17)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2342C6F2918052748AD25CC3B95B10C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "1988"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rondpoort aan de Twijnstraat aan de Werf te Utrecht"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1915-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "253B721C2D395F0B90C536793F61C74F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71719"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Twijnstraat aan de Werf gelegen achtergevels van de panden Twijnstraat 25-lager te Utrecht, vanuit het zuidwesten. Rechts van de achtergevel van het pand Twijnstraat 25 de Rondpoort. Op de voorgrond de Oudegracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "36EBADFB9BF65B1D95F31E3FE8860F0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71682"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang van de Rondpoort met rechts een klein gedeelte van het huis Twijnstraat 25 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "387E1E6C7217574B9EADB492D88D43AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het pand Twijnstraat 25 (Loodgieters- en Installatiebedrijf Fa. J. Bolwidt en Zn.) te Utrecht; links daarvan de ingang van de Rondpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38F2C029063F5DD0ACFFCBAC82396956"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "22632"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stenen trap naar de Rondpoort aan Twijnstraat aan de Werf te Utrecht. Opmerking: Afdruk van dia, 2002"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3F8F513B18B95CA4A4182F7C3AA84137"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Twijnstraat aan de Werf te Utrecht, met de achtergevels van de panden Twijnstraat 25 (links) - hoger; in het midden het in 1998 gebouwde pand Rondpoort 1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4167191959705DF89D4C8D7AF6B0A102"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69588"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rondpoort te Utrecht vanaf de Twijnstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-05-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "462C5E1DDBBF513EAD4D2D8C43C26462"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "1989"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Werf aan de Twijnstraat te Utrecht met de Rondpoort.<ZR><ZR>N.B. De straatnaam Werf aan de Twijnstraat is in 1956 gewijzigd in Twijnstraat aan de werf."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55411A2EE4675E60A693BDD48769B12E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "98219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rondpoort te Utrecht met op de achtergrond de Oudegracht. Opmerking: De afbeelding is gepubliceerd in Bibl. HUA LXXXVI D 55-71 (NIET RAADPLEEGBAAR!), Utrecht in Woord en Beeld, een ge\u00efllustreerd familieweekblad voor stad en provincie, jrg. 1940/ 1941, nr. 7."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5DA8D8A072435D8FAE3E94175EA2CB13"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30470"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Oudegracht te Utrecht op de Rondpoort, de verbinding tussen de Twijnstraat aan de Werf en de Twijnstraat (op de achtergrond), met rechts de voorgevel van het huis Twijnstraat aan de Werf 2, in het midden het huis Rondpoort 29 en op de achtergrond het bovenste gedeelte van het huis Twijnstraat 35."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1917-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1917-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F171828E0F0590AB8BFD3896DC9CB3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819589"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Oudegracht door een venster van het nieuwgebouwde pand Rondpoort 1, aan de Twijnstraat aan de Werf te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6776FF522C815A2ABC0F4BF8A41A7DBA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "69586"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rondpoort te Utrecht met op de achtergrond het huis Twijnstraat 35 en op de voorgrond de Oudegracht en de Twijnstraat aan de Werf. Opmerking: Afdruk van origineel negatief, ca. 1980."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "763B107884075FFD96B2FE40E6F74D06"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71725"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het bovenste gedeelte van de aan de Twijnstraat aan de Werf gelegen achtergevels van de panden Twijnstraat 35-37-39  te Utrecht, vanuit het westen. Links van het midden de Rondpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "905E84D063A75B2CB2DBC0D61819E30B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819592"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het nieuwgebouwde pand Rondpoort 1, aan de Twijnstraat aan de Werf te Utrecht: de glazen pui op de bovenste verdieping; op de achtergrond bomen aan de Oudegracht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A2E789950C44513FA6078566C39EFC84"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "36140"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Werf aan de Twijnstraat te Utrecht met de Rondpoort. In het midden een gedeelte van het huis Twijnstraat nr. 29 en op de achtergrond een gedeelte van de achtergevel van het huis Twijnstraat nr. 35.<ZR><ZR>N.B. De straatnaam Werf aan de Twijnstraat is in 1956 gewijzigd in Twijnstraat aan de Werf. Opmerking: Linoleumsnede uit ca. 1930; onleesbaar gesigneerd (\"J. Schuddeboom\" ?)"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A41819545B4A5E9AA7F75B960C2EABAD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67907"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Twijnstraat aan de Werf gelegen voorgevel van het huis Twijnstraat 27 te Utrecht; links de Rondpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B9F92750D8945C7CB908C1A35ADB7FA1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30549"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Twijnstraat 35 te Utrecht met rechtsonder de met een hek afgesloten toegang tot de Rondpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C19B91443B6E5BF29126FB2A8507D870"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71723"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Twijnstraat aan de Werf gelegen achter- en zijgevel van het pand Twijnstraat 25 te Utrecht, vanuit het zuidwesten. Rechts de Rondpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5B03124391D5465ADB1AF4D24282825"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819590"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Oudegracht door de openstaande deuren van het nieuwgebouwde pand Rondpoort 1, aan de Twijnstraat aan de Werf te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-06-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CB808BFF56B25997AF18028AE199E319"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "404075"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Twijnstraat aan de Werf te Utrecht, met de achtergevels van de panden Twijnstraat 25 (rechts) -lager. Rechts de Rondpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DA150F2AAB4154EABF70C848EBE659FC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "86735"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rondpoort te Utrecht met in het midden het huis Twijnstraat 29 en op de achtergrond de achtergevel van het huis Twijnstraat 35; op de voorgrond de Werf aan de Twijnstraat.<ZR><ZR>N.B. De straatnaam Werf aan de Twijnstraat is in 1956 gewijzigd in Twijnstraat aan de Werf. Opmerking: In 1983 vervaardigde reproductie van een omstreeks 1905 uitgegeven prentbriefkaart."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1909-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E40831AE16B95A5091B4E2573813FD69"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819060"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de toegang van de voormalige Rondpoort (Twijnstraat 27-33) aan Twijnstraat aan de Werf te Utrecht; op de voorgrond de Oudegracht. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2011-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E42365D84A5A5CEFAA7FEDF7D2E70E77"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67931"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op voorgevel van het huis Twijnstraat aan de Werf 2 te Utrecht, met in het midden de ingang van de Rondpoort. Links de achtergevel van het pand Twijnstraat 25."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-09-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-09-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E57554C3840F57BD82B72D94FB36F3CF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "1987"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Werf aan de Twijnstraat te Utrecht met de Rondpoort.<ZR><ZR>N.B. De straatnaam Werf aan de Twijnstraat is in 1956 gewijzigd in Twijnstraat aan de werf."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E9052B3E044D5844B9A0D3A626BF2BC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "206617"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Werf aan de Twijnstraat te Utrecht met de Rondpoort. In het midden een gedeelte van het huis Twijnstraat 29 en op de achtergrond de achtergevel van het huis Twijnstraat 35.<ZR><ZR>N.B. De straatnaam Werf aan de Twijnstraat is in 1956 gewijzigd in Twijnstraat aan de Werf."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1925-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F549965F22A6519282C6AAEA60286247"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "809811"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Twijnstraat aan de Werf te Utrecht, met in het midden de Rondpoort en links de achtergevel van het pand Twijnstraat 25."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F8264F12593C57A783CC7317C4190F8F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "31743"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Twijnstraat 35 te Utrecht met rechtsonder de door een hek afgesloten toegang tot de Rondpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1999-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F84ED28E59FC545F9CB7231C87641043"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "67912"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de aan de Twijnstraat aan de Werf gelegen voorgevel van het huis Twijnstraat 27 te Utrecht; links de Rondpoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

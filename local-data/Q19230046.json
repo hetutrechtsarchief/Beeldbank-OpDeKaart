@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4922F62BCAD65D1081E8763972AD4783"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18760"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de H. Wijnmalenstraat te Utrecht met de huizen nrs. 18 (links)-hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7109FE80C3415C0AB91532F2A1D9738E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18741"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de H. Wijnmalenstraat te Utrecht met de huizen nrs. 33-hoger; geheel rechts een gedeelte van de voorgevel van het huis nr. 31; links op de achtergrond enkele huizen aan de Adriaan Mulderstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C90D2165018352C59A717C79AC68C8A7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18742"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen H. Wijnmalenstraat 44-hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

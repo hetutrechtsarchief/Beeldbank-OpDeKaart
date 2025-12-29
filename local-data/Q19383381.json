@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "40EE4BB13B93577797234C410717A9AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85605"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van een gedeelte van het industrieterrein Lage Weide te Utrecht, uit het zuiden, met op de voorgrond de A2. Links het distributiecentrum van het warenhuis HEMA (Atoomweg 60) en rechts de kantoren van het Gasbedrijf Centraal Nederland NV (Atoomweg 50). Links van het midden de Nucleonenweg. Op de achtergrond het Uraniumkanaal met het Mesonkanaal (midden) en de Protonhaven (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2001-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

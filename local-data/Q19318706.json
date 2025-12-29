@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4975758D7784531C9553D21AC35DD2E2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "64539"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Neckardreef te Utrecht; links de ingang van de Landskroondreef en rechts de ingang van de Theemsdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6AF91EA7E0665CFCA6231D6D84928B51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802902"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Neckardreef te Utrecht met links het winkelcentrum Theemsdreef, rechts de achtergevels van enkele huizen aan de Landskroondreef en op de achtergrond een flatgebouw aan de Scharlakendreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD8D8BBA8698550093D06A3C627764FE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "814701"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de flatgebouwen aan de Stroyenborchdreef (links) en de Schooneggendreef (rechts) te Utrecht, vanaf de Landskroondreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-04-16",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

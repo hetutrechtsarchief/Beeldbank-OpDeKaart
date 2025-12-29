@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C3CAAFC8C7E1590F943763EBC1CB6289"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150200"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht vanaf het Stationsplein op het N.S.-station Dieren-Doesburg te Dieren.<ZR><ZR>N.B. De stationsnaam Dieren-Doesburg is op 30 mei 1976 gewijzigd in Dieren."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C95BDFAA7F8D57ADB0F0A7B392563C02"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "169391"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het overwegpad voor de toegang naar het perron van het N.S.-station Dieren-Doesburg te Dieren, met rechts de rijwielstalling. Op de achtergrond de villa Welgelegen (Stationsplein 10).<ZR><ZR>N.B. De stationsnaam Dieren-Doesburg is op 30 mei 1976 gewijzigd in Dieren. Opmerking: NS fotonummer 20606"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

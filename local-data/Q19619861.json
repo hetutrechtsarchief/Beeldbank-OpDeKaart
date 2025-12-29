@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14B1D2683CCA5C1095465DE87B677993"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68555"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Van der Pekstraat 56-68 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5FC4C4DE7FE258B8B99C9AC75597ABB0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "68599"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Van der Pekstraat te Utrecht, vanaf de De Bazelstraat. Links de linkerzijgevel van het pand De Bazelstraat 64, rechts daarvan de plaats van de gesloopte panden De Bazelstraat 62-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "857901F613A355309F93B5D9BA3DAE74"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "18819"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele huizen aan de Hanrathstraat te Utrecht uit het zuidwesten met links op de achtergrond de Van der Pekstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1998-12-12",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "99DFA31698DA50CD8EB52AC2EFB6F3F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "53026"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen De Bazelstraat 64-66 te Utrecht en de linker zijgevel van het huis nr. 64, vanuit de Van der Pekstraat (voorgrond), uit het zuidoosten met links de plaats van de gesloopte huizen nrs. 62-lager; op de achtergrond de achterzijde van enkele huizen aan de Van Heukelomlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

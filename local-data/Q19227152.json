@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5EEA7E10DA015FA699C4A937BE66537D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "601924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de H\u00e4ndelstraat te Utrecht ter hoogte van de kruising met de Gustav Mahlerstraat (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9C95BED4313E5AC6A32ABBBE9F18FD59"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "115557"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het draaiorgel De Arabier in de Franz Schubertstraat te Utrecht; op de achtergrond de Gustav Mahlerstraat. Opmerking: Litt.: Bibl.HUA UAT 513, GM Kwadraat, 2007 nr. 28, P. Notermans, Nico Jesse: het stadsleven zoals zich dat aan het oog van tijdgenoten in de bezettingsjaren vertoonde."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1942-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1942-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Studiezaal HUA 1.0"
+        }
+      }
+    ]
+  }
+}

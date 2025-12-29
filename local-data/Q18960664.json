@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "526927BD401550209B2B4A303DE9D3A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "50245"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van enkele bedrijfsgebouwen aan de Zwarte Goorderweg te Stoutenburg Noord (gemeente Amersfoort), met daarachter de Esvelderbeek en de Koedijkerweg. Links de Stoutenburgerlaan en op de achtergrond de Rijksweg A1 en de spoorlijn Amersfoort-Apeldoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1987-11-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

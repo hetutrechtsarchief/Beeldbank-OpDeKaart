@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "01C1A556488154B9A9EA9B8C54B2E376"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827404"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Groenmarktstraat te Utrecht, vanaf de Veilinghavenkade, met links op de achtergrond de torens van het Hoofdkantoor Rabobank Nederland (Croeselaan 18)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C0E282EA23F15630965DF5AF0A2482B2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827394"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het binnenterrein van de woningen aan de Veilingstraat te Utrecht. Op de achtergrond de achterzijdes van de huizen aan de Groenmarktstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D61ADDE1615D552E94AB4BEB955B17A0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "827396"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in het binnenterrein van de woningen aan de Veilingstraat te Utrecht, met links de achterzijdes van de huizen aan de Groenmarktstraat en op de achtergrond de torens van het Hoofdkantoor Rabobank Nederland (Croeselaan 18)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2013-11-07",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

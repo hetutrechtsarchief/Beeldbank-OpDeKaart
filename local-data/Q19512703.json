@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "61F2F4C570775DE0B9F525B9822D02B5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "12979"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het wijkcentrum De Brug (Schuilenburgerweg 2) te Amersfoort: het orgel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1985-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EEFE6AF7F8CD503A9AFA54EAA880FD14"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500012"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Sterflat (Schuilenburgerweg 4-54) te Amersfoort."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-03-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-03-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0172BA3DBD7E5944965E904720E9A1AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820559"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het hoekpand Rijnlaan 8 (Versbakkerij Stellaard) te Utrecht; rechts de Dollardstraat.<ZR><ZR>N.B. Voorheen waren vanaf ca. 1930 in het pand gevestigd: Bakkerij H.L.J. Mensink en daarna een winkel van Bakkerij van Eekeren. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "072F453F9E0D5B3DA8F6E61030F3BD75"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55839"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dollardstraat te Utrecht uit het westen. Opmerking: Uit: Utrecht in woord en beeld, 1927, nr. 46"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1927-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "15CF9A88E66F5BFD870C8CA2DABF650D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21819"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dollardstraat te Utrecht. Opmerking: Afdruk van dia, 2001"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1D3BA0BE64C251EBB83ED3A8E4B3E0D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "74924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Zijpestraat 24 (rechts) -lager te Utrecht. Links op de achtergrond de huizen aan de Dollardstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1E3FF968285C5765B023E3483F95AF85"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "116827"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen Rijnlaan 6 -8 te Utrecht, met de daaronder gelegen winkels van Bakkerij Van Eekeren en Jamin, op de hoek met de Dollardstraat (rechts)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-10-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1993-10-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "235DD114A33A5767AC97C6DD145DF5C5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55847"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het hoekpand Grebbestraat nr. 2  te Utrecht met links de voorgevels van de panden Dollardstraat nrs. 27-29."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2ACEDC7098245A64ACB161D8C2A53F90"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55852"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dollardstraat nrs. 44 (links)- 46 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "2D7440AE54FE580E87FE3C3C985B5584"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "28279"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijnlaan te Utrecht vanaf de Balijelaan met links het begin van de Dollardstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1928-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1928-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B14653BC136553B9BD1FE5D932AE980"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55842"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dollardstraat te Utrecht uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "421F5800BDCB5A0ABBD1258478951CCD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "21848"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dollardstraat te Utrecht met links de Noordzeestraat. Opmerking: Afdruk van dia, 2001"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-02-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-02-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "436374D24DA155AB9924B76A0DD4F794"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820560"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het hoekpand Rijnlaan 8 (Versbakkerij Stellaard) te Utrecht; rechts de Dollardstraat.<ZR><ZR>N.B. Voorheen waren vanaf ca. 1930 in het pand gevestigd: Bakkerij H.L.J. Mensink en daarna een winkel van Bakkerij van Eekeren. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2007-04-02",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "460780F4407A5FD39E9714B7AA082DE7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57465"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Grebbestraat te Utrecht met op de achtergrond de voorgevels van enkele panden aan de Dollardstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4BE214E43BD25FB88E2BDA4934C46F58"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "1999"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Rijnlaan te Utrecht uit het noorden ter hoogte van de Dollardstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1922-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "502786C206435E4E920759E9520408A8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55848"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dollardstraat nrs. 8 (links)- hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "568B56747BE35B5E88F333261871E5FB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55851"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dollardstraat nrs. 44 (rechts)- lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5D6E615F72B35231984D891AA4703282"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55841"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Dollardstraat te Utrecht. Opmerking: Uit: Architectura, bouwkundig weekblad, 1933, nr. 43"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5F0D6E18C8C65867BF52585B789BB1F6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55844"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dollardstraat nrs. 14- lager te Utrecht uit het zuidoosten. Op de achtergrond de Rijnlaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "718D5F4ED3115814B8D6C9C8651D5734"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820998"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht het hoekpand Rijnlaan 8 (Versbakkerij Stellaard) te Utrecht; rechts de Dollardstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A9F14243AB75D60A8372F0A6C39AFB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24380"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dollardstraat te Utrecht gezien vanaf de Amaliadwarsstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1999-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2001-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7AE198EAFD0A51CF8812D4F5D11059AF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55849"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dollardstraat nrs. 8 (links)- hoger te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7B4077810A2054799102CC8405AD4F7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55846"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het hoekpand Dollardstraat nr. 25 te Utrecht met links de voorgevels van enkele panden Grebbestraat nrs. 1 (midden)- lhoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CFC2066C1BB5F2A9244E6F0AC62FB04"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "57466"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Grebbestraat nrs. 2 (midden)- hoger te Utrecht met links de ingang van de Dollardstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "847396D9C1955DFF93AA1B4B40A8014D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65686"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Noordzeestraat te Utrecht; op de achtergrond de Dollardstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "91ECE15919A75073B3960F5848043D68"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "232"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dollardstraat te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1944-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1954-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA0971B3F7BA51BDADFD4438CFF1BABE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55840"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van enkele panden aan de Dollardstraat te Utrecht. Opmerking: In 1980 vervaardigde reproductie van een in 1930 gemaakte foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B55994197F1F596893EC97A46C48C1C6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55843"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dollardstraat te Utrecht uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B63961DB985757138F017D7DBCF43479"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55845"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Dollardstraat te Utrecht uit het noordwesten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-03-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B96013D33FB55DCA84031CC38BDB1009"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55850"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Dollardstraat nrs. 42 (links)- 46 te Utrecht met in het verlengde van de Dollardstraat de Amaliastraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F134122242FE5D3189C8FE61693B81D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65689"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Noordzeestraat te Utrecht met de huizen nrs. 18 (rechts)-lager; rechts het huis Zijpestraat 25 en op de achtergrond de Dollardstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1991-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1991-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F9F37FBA5E055005B0FB7B903F529172"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "820999"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de winkelpui van het hoekpand Rijnlaan 8 (Versbakkerij Stellaard) te Utrecht; rechts de Dollardstraat. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van (voormalige) bakkerijen en bakkerswinkels te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2006-04-08",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

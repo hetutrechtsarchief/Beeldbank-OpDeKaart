@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "37642DD24B8D513B98D4A4B41262AD5A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "127917"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de kleuterschool De Springplank (Ibisdreef 5) te Utrecht, vanaf de Bantoedreef. Op de achtergrond de flatgebouwen van de Ibisdreef."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

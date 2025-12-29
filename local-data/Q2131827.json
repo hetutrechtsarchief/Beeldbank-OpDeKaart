@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "584FCA6449745970A12552755AE1E2D8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154661"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Feyenoord te Rotterdam met een menigte stadionbezoekers en een trein bestaande uit rijtuigen van het electrisch buffermaterieel (mat. 1924, \"blokkendozen\") van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A6C38408B8F2588484584B112A9F46B9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163321"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het administratiegebouw van het goederenstation Feyenoord van de N.S. te Rotterdam. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AB1F3A436CBE5E35B6E2E6C7D41DAB9D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163320"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het administratiegebouw van het goederenstation Feyenoord van de N.S. te Rotterdam. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1936-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

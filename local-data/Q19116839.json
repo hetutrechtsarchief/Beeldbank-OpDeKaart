@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CBCFE75FF3B35D46BB7F6D912CF51C0F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154730"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het seinhuis Esw (Elspeterweg) bij het N.S.-station Nunspeet te Nunspeet."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-03-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

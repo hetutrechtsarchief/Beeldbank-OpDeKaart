@@ -1,0 +1,940 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "046C985CD3D15F4884929BC9664AC12B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92920"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de linkergevel en de schuur van het huis Brugstraat 8 te Loenen (gemeente Loenen aan de Vecht); met links een pleziervaartuig."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0584C07D1FFF56878387AA90F706A240"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92897"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de klapbrug te Loenen (gemeente Loenen aan de Vecht) uit het noordoosten; met links enkele panden aan de Brugstraat. Opmerking: De foto is afkomstig uit: Van Dokkum; gids voor Utrecht, stad en provincie, 1900.<ZR>Lit. MIP Loenen, p. 126-127."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07DFA21FDCFC51D1A4252A713C916345"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92908"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Brugstraat 5-7 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "093B732A2CE059A195DA2AEB84414EE4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11478"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in Brugstraat met bebouwing te Loenen uit het oosten; met op de achtergrond de dubbele ophaalbrug."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1898-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1900-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B4935ED209054CD8F74E1F6D2011F73"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92907"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Brugstraat 3 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "21CC1407B9385C08A4259EA3ACC5B189"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92915"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het huis Brugstraat 23/hoek Oud Over te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 129-130."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "273D8DF4BF8556DD897D1B6404F80319"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93162"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Oud Over 11-9/Brugstraat 23  te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 304-305."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "33E49E52967C5F9394A47D518F7D53B4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92916"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het huis Brugstraat 23/hoek Oud Over te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 129-130."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3DBDE5F24DCA5106AE9C1F0BA75AD2C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92904"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de klapbrug over de Vecht te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten; met op de achtergrond de bebouwing aan de Brugstraat en de toren van de Nederlands Hervormde Ludgeruskerk. Opmerking: Lit. MIP Loenen, p. 126-127."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "43EF0144C06057AF89CD6A8B72C33A40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "93164"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het erf en de voorgevel van de timmerwerkplaats (aan  de Brugstraat) van het huis Oud Over 11 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 305."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "45868E9384545C45BFC6E007CBCE56EA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92932"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de rechtergevel van een huis aan de Brugstraat, de linkergevel van het huis Dorpsstraat 60 (Vischsteeg) en de theekoepel bij nr. 62 te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "48F9DF52A2BC54FF9E6906C5587E323B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11483"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brugstraat en op de dubbele ophaalbrug te Loenen uit het oosten; met op de achtergrond de bebouwing aan de Grutterstraat en de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4AAFDDD307A35AFAAEEE6AB036D25B54"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92919"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brugstraat te Loenen (gemeente Loenen aan de Vecht); met rechts de voorgevels van de panden Brugstraat 2-hoger en de zijgevel van het winkelpand Dorpsstraat 48 te Loenen. Opmerking: Lit. MIP Loenen, p. 127-128."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5127D68A5AAB5ADBB34B192EC21D818B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167189"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht te Loenen (gemeente Loenen aan de Vecht), met links de toren van de N.H. Ludgeruskerk en rechts de klapbrug ter hoogte van de Brugstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-09-29",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "64EE892CF9965BBAB85D23AC2C287815"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92914"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het winkelpand Brugstraat 23/hoek Oud Over te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 129-130."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6B6EE9F4F81F5F8B82E4A87AB7F53928"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92917"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevels van de huizen Oud Over 9/Brugstraat 23 te Loenen (gemeente Loenen aan de Vecht) uit het noordwesten. Opmerking: Lit. MIP Loenen, p. 129-130 (Brugstraat 23), p. 304 (Oud Over 9)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C6FFC9935BD5949A31F62EEF71D483A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "602074"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de klapbrug over de Vecht te Loenen (gemeente Loenen aan de Vecht) met op de achtergrond de bebouwing aan de Brugstraat en de toren van de Nederlands Hervormde Ludgeruskerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1997-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1997-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "714EFF710BB756938C7CEAEB68E14D07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92905"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brugstraat met bebouwing te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten; met op de achtergrond de toren van de Nederlands Hervormde Ludgeruskerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "770CE4346A4757CFA06523E6460FEA77"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "16587"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Vecht met ophaalbrug te Loenen (gemeente Loenen aan de Vecht) uit het zuiden; met links de bebouwing aan de Dorpsstraat/Brugstraat en rechts de bebouwing aan de Brugstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7FD22234D10C53ADB2B4B6A1BC4AFE24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92931"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de rechtergevel van een huis aan de Brugstraat en de linkergevel van het huis Dorpsstraat 60 (Vischsteeg) te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten; met op de achtergrond de toren van de Nederlands Hervormde Ludgeruskerk. Opmerking: Lit. MIP Loenen, p. 160-162 (Dorpsstraat 60)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85E49EF964A15C86ABB37819D5041DA0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92913"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Brugstraat te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten; met links de linkergevel van het huis Brugstraat 18, rechts de voorgevel van het huis Brugstraat 23 en op de achtergrond de toren van de Nederlands Hervormde Ludgeruskerk. Opmerking: MIP Loenen, p. 128-130."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "877F9786153E50C4835EED07188B5F17"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92896"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de klapbrug en de voor- en achtergevels van enkele huizen aan de Brugstraat te Loenen (gemeente Loenen aan de Vecht) uit het zuidoosten; met links op de achtergrond  de toren van de Nederlands Hervormde Ludgeruskerk en rechts de achtergevels van enkele panden aan de Dorpsstraat. Opmerking: Een ca 1980 gemaakte afdruk van een origineel negatief.<ZR>Lit. MIP Loenen, p. 126-127."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "98A70259D0705A988B20807702FA2FB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92918"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Brugstraat 2-hoger en de zijgevel van het winkelpand Dorpsstraat 48 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 127-128."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9BEBBBE710D557C2A89A068F74F64533"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92921"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Brugstraat 18 (Centrawinkel)-16 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 128-129."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9F6E2A464C4850AABE79599DCBA6AC51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92922"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het huis Brugstraat 16 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 128-129."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3B5E50D115757B68AAA0E585E607F67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92912"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van het pand Brugstraat 21 te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC4D9494C6395FF092D3A11F32FAFA7A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92923"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de uitbouw van het huis Brugstraat 16 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 128-129."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C1C76E30AEAC50AF90DE61A8C52C6E5E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92911"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de brugwachterswoning (Brugstraat 11) en het huis Brugstraat 13 te Loenen (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 128 (Brugstraat 13)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D957FE1316C35AE5ADFD3645DC0BCEC7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11477"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in Brugstraat met bebouwing te Loenen uit het oosten; met op de achtergrond de toren van de N.H. kerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB1259084D2F568BB685B2E92192C56F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de rechtergevel van het huis Brugstraat 18 en de voorgevel van het huis Brugstraat 16 te Loenen  (gemeente Loenen aan de Vecht). Opmerking: Lit. MIP Loenen, p. 128-129."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DDE05B7EED9D5E65ADEEA6E8E44039C0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92909"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linkergevel van de brugwachterswoning (Brugstraat 11) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F15E10436701582783BD44D7B5B12909"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92910"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van de brugwachterswoning (Brugstraat 11) te Loenen (gemeente Loenen aan de Vecht)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F86214B51EA45FF88C5C29851AF67871"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "811534"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de Vecht op de klapbrug en enkele huizen aan de Brugstraat te Loenen (gemeente Loenen aan de Vecht); op de achtergrond  de toren van de N.H. Ludgeruskerk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

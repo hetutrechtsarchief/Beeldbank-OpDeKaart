@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D5E99733C31852DB850A3A5B3F423225"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170330"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de grondwerkzaamheden aan de spoordijk nabij de Ossenweerdstraat te Deventer ten behoeve van de vervanging van de spoorbrug over de IJssel te Deventer, met een passerend electrisch treinstel mat. 1954 van de N.S. Opmerking: De foto is gepubliceerd in De Koppeling nr. 731 (18 mei 1979), blz. 5.<ZR>Fotonummer 468-34."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1979-05-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

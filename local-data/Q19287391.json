@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3EE3A4DE3951548FB9A7980001C42854"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7359"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in De Kamp te Baarn uit het zuiden.<ZR><ZR>N.B. De straatnaam De Kamp is in 1904 gewijzigd in Kampstraat."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "5B37B7810E69557297FEA55B2BA2DD95"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7360"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Kampstraat te Baarn uit het zuiden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1903-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "83424820DCFA5144B3287AFAD1DC1D68"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7611"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het kerkgebouw van de Nederlandse Protestantenbond (Kampstraat 8) te Baarn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1909-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

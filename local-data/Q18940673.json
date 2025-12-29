@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A316C64086F95D809CFC637DDCE82F8F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "802321"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de experimentele flats aan de Cayennedreef en Marowijnedreef (rechts) te Utrecht, tijdens de bouw; rechts het huis Arubadreef 21."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C5C0ADCFBB075AC9B9B8D81D379E7CA1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "108421"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op enkele garageboxen aan de Arubadreef te Utrecht. Opmerking: De foto maakt deel uit van de serie \"Veranderend Stadsbeeld\" van fotograaf Nico Bick (1964) en behoort tot de collectie Stichting Stedelijke Fotografie Utrecht (SFU)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1993-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1994-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

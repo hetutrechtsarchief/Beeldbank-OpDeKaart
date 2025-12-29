@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "53D529C3A9E05E9397FA24CFD73BCCD8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "87992"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op Voetangelweg te Abcoude met links de Angstel, uit het noordwesten; op de achtergrond de bebouwde kom van Abcoude. Opmerking: Per 1 januari 2011 is Abcoude samengevoegd met de gemeente De Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6F8BE1C8C055A5E98E53CF3FECA0C0A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6824"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Voetangelweg en de Angstel te Abcoude (gemeente Abcoude-Proostdij), uit het zuidoosten, met op de achtergrond het Abcoudermeer. Opmerking: De gemeenten Abcoude-Proosdij en Abcoude-Baambrugge zijn per 1 mei 1941 samengevoegd tot de gemeente Abcoude. Per 1 januari 2011 is Abcoude samengevoegd met de gemeente Ronde Venen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1914-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

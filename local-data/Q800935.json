@@ -1,0 +1,968 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0F5626385B515F5FA52B3820954B2741"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "168298"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de gekostumeerde gastvrouwen en het treinpersoneel van de extra trein van Amsterdam naar Hoorn op het perron van het N.S.-station Hoorn, in verband met de Oudhollandse Markt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-06-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "10D2726EC3D35E4EBF4921035401FC17"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161747"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Hoorn te Hoorn. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1939-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "32E04F3AFC4D5BEDAF8004F17AAA556F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161271"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotieven nrs. 1708 en 1798 (serie 1700/1800) van de N.S. met een trein naar Alkmaar op het N.S.-station Hoorn te Hoorn. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1938-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1938-03-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3460899FA3FC51059B8E0382595C7266"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165220"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Hoorn te Hoorn.<ZR><ZR>N.B. De centrale afbeelding van het stationsgebouw wordt omringd door een reeks kleinere afbeeldingen met typisch Hollandse taferelen, voornamelijk molens. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1906-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1906-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3B2E12B7440A562D90151F2635DC5B34"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152977"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van treinreizigers tijdens een N.S. dagtocht met een markttrein op het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "497672C11F1755A583E75AA3A7D99184"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161282"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 914 (serie 900) van de N.S. met een trein op het N.S.-station Hoorn te Hoorn. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "4E09573D6D9456FD97C8B3D4F8478D6E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161283"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 914 (serie 900) van de N.S. met een trein op het N.S.-station Hoorn te Hoorn. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1935-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "50280429D6605A049096E654CF7B5913"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152973"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van treinreizigers tijdens een N.S. dagtocht met een markttrein op het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "524125267D4F50B09B5225FBBA5E21FF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 6725 \"Colibri\" (serie 6700) van de N.S. tijdens waternemen op het N.S.-station Hoorn te Hoorn.<ZR><ZR>N.B. De foto is gemaakt op de laatste dag dat de serie 6700 reed. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1933-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1933-05-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6336C08DFD3159EE99A8234547F8DF03"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166084"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Hoorn te Hoorn: wachtkamer 3e klasse."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6808B29CC4B154998E11BB7FFD3A18C7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154051"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de houtsculptuur van G. van Meurs in de stationshal van het N.S.-station Hoorn te Hoorn. Opmerking: Lit.:W. van Leeuwen & H. Romers, Een spoor van verbeelding. 150 Jaar monumentale kunst en decoratie aan Nederlandse stationsgebouwen (Zutphen 1988), 115."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "882F18E1C96951EA997074CDAD765A0D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166990"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voormalige rijtuigenloods voor bezinemotorrijtuigen op het emplacement van het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8CAFA200B99455F1B3043B0C1375F1A4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "170537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de in aanbouw zijnde voetbrug over de sporen van het N.S.-station Hoorn te Hoorn. Opmerking: Zie ook De Koppeling nr. 821, 24 juli 1981, blz. 3: \"Voetbrug Hoorn eind oktober in gebruik\"."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-07-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "97BD8D1FC6DF52B1A81300B4F8F3FAB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161746"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Hoorn te Hoorn. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "989F56A822B95BF3814425A40F448BA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Hoorn te Hoorn: wachtkamer 1e en 2e klasse."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9FC7D422BB20535FA1A55437C2467BF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163096"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 749 (serie 700, nrs. 701-755) van de H.S.M. (later vernummerd tot nr. 5549, serie 5500 van de N.S.) bij binnenkomst op het H.S.M.-station Hoorn te Hoorn. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1908-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1913-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A3BC4EAD2E3352AA835250C424383C40"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152976"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van treinreizigers tijdens een N.S. dagtocht met een markttrein op het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AA6B71C528A55878B4C66040E0F9BA9C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153128"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AF0C4291E0665CB1B1DB37E7C903719E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150450"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B7A69FA1F1CE5F8CB13FD9C126815420"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152974"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van treinreizigers tijdens een N.S. dagtocht met een markttrein op het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B94037D14AEE5AC89F11B7104BC162AD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150449"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Hoorn te Hoorn. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BD22EAC71E9450BD9E557FC4C108F480"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de stoomlocomotief nr. 1828 (serie 1700/1800) van de N.S. met een trein langs het perron van het N.S.-station Hoorn te Hoorn. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1949-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1949-05-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C629DEE7E06D5B9B8BCC633B31A46B36"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165217"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Hoorn te Hoorn. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1900-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C7AACED8BB465F4FB6E45FC8D6BF2AF3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165218"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Hoorn te Hoorn. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C847BC12E29F5629AAA1419A77D23F48"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153129"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het tweede perron van het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CABCBAE4BAD25088BB26CB869F82276B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153130"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CD58170A463153B1B058BF489D015C65"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155420"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de electrische locomotief nr. 1157 (serie 1100) van de N.S. met nieuwe ICR-rijtuigen langs het perron van het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF3BBFF11F2F562EA060AF21DB41C32D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153131"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons en de perronzijde van het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8BA597913D05CF790C7921FC643C0D1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161745"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Hoorn te Hoorn. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1940-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1950-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E2779A3F83F55DB6802CB9FB8D6C76E6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166859"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Hoorn te Hoorn, met een vrachtauto van Van Gend & Loos / A.T.O."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E6EF6CFE682A53F1BF1C6AE44A3C6333"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153127"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Hoorn te Hoorn met rechts een electrisch treinstel mat. 1964 (plan V) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E9B3B22E660459AA853FCD1846949215"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154857"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Hoorn te Hoorn met op de voorgrond het emplacement."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1967-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F7D05FD40EC153ACB470B2C7DAA51704"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152975"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van treinreizigers tijdens een N.S. dagtocht met een markttrein op het N.S.-station Hoorn te Hoorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1969-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC684BC274235538BDA95547EE24EDB5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "165219"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het H.S.M.-station Hoorn te Hoorn. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1895-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1905-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0787373411EA59059A5CAFA0DF25E693"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "159220"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de opslagplaats van bouwmaterialen bij de voormalige halte Willemsdorp ten behoeve van de herstelwerkzaamheden aan de spoorbrug over het Hollands Diep bij Moerdijk. Rechts het tijdens de oorlog vernielde seinhuis (post T) bij de spoorwegovergang."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BBF2C893D3B1533FB73C0FD8FB513FA7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158763"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het seinhuis (post T) bij de spoorwegovergang in de spoorlijn Lage Zwaluwe - Dordrecht, bij de voormalige halte Willemsdorp die als bouwplaats is ingericht voor de te herstellen spoorbrug over het Hollands Diep bij Moerdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "CF5CE471CB65584B85CE93FF30C0E90F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "158764"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het seinhuis (post T) bij de spoorwegovergang in de spoorlijn Lage Zwaluwe - Dordrecht, bij de voormalige halte Willemsdorp die als bouwplaats is ingericht voor de te herstellen spoorbrug over het Hollands Diep bij Moerdijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1945-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1945-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

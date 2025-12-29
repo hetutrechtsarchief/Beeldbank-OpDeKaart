@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38F13E106EB0583089D84F194B9B759F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "155637"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een electrisch treinstel plan Y (\"Sprinter\") van de N.S. langs het perron van het N.S.-station Den Haag Laan van N.O.I. te Den Haag."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1984-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "53E4BA19EAD9543192876736D90EF0EF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160923"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een olietrein getrokken door de diesel-electrische locomotief nr. 2520 (serie 2400/2500) van de N.S. bij doorkomst op het N.S.-station Den Haag Laan van N.O.I. te Den Haag. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1964-02-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8C07B40162555C70B609AF0A7121F669"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153139"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perrons van het N.S.-station Den Haag Laan van N.O.I. te Den Haag met langs het perron een trein bestaande uit electrische treinstellen mat. 1954."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

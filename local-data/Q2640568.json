@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC1F23C2E2735C0A8BBAD91795519EA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160266"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een diesel-electrisch treinstel Reihe VT 11.5 (later VT 601) van de D.B. als T.E.E. \"Rhein-Main\" bij de wachterswoning van de voormalige stopplaats Buunderkamp tussen Wolfheze en Ede. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1962-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

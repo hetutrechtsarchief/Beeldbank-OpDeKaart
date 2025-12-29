@@ -1,0 +1,128 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BE52DA387825540A46CF55F9F8CD21B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "4600"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Niftarlakeplantsoen te Utrecht met van links naar rechts de flatgebouwen aan de Prinses Irenelaan, Cromwijcklaan en de Soetendaallaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "177E14FD976D5EE8A3EDEFB479774B3F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "500907"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de School voor Huishoud- en Nijverheidsonderwijs Zuilenburg (Huis te Zuylenlaan 9) te Utrecht. Op de achtergrond de flatgebouwen aan de Cromwijcklaan en omgeving."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-02-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-02-10",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "251A58BE07B754C998470FC7E454A61D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "55612"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Cromwijcklaan te Utrecht met rechts de huizen nrs. 1-33."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1986-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1986-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F72E25F69F0B5E6F8ECDFE3172AE9064"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "65576"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de panden Niftarlakeplantsoen 15-lager te Utrecht; rechts daarvan het flatgebouw met de woningen aan de Cromwijcklaan en het flatgebouw aan de Soetendaallaan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

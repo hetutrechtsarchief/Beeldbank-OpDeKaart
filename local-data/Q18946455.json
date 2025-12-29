@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "040502F612D65DAC9FE4DE09907FAF5B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "123770"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van het bejaardencentrum Huize Mari\u00ebnstein (Benschopperweg 14) te IJsselstein. Opmerking: Fotonummer 18582."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1964-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1966-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "785F33D618DC5B1C82B28B0BFEF55427"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "126924"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de fontein in de vijver voor het bejaardencentrum Huize Mari\u00ebnstein (Benschopperweg 52) te IJsselstein.<ZR><ZR>N.B. Het adres Benschopperweg 52 is later gewijzigd in Benschopperweg 14."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-08-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AFCC7086A0275D0DAAD18EDBB0C38D58"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "95297"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van enkele schaatsende jongens op de ijsbaan Nova Zembla aan de Benschopperweg te IJsselstein."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1978-02-11",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

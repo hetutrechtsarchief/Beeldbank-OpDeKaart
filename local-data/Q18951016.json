@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "AE24A96539A759B3A09116A82A1CCE33"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30714"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achtergevel van het huis Beukenburg (Kromme Nieuwegracht F 381) te Utrecht vanuit de tuin, uit het zuidoosten, met rechts op de achtergrond het dak van de St.-Hieronymuskapel.<ZR><ZR>N.B. Het adres Kromme Nieuwegracht F 381 is in 1890 gewijzigd in Kromme Nieuwegracht 66."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1884-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1884-05-03",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F593290459FA59C9B62472F870FBCB76"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30715"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen aan de Kromme Nieuwegracht te Utrecht met links het huis Beukenburg (Kromme Nieuwegracht F 381) en rechts daarvan het huis nr. F 382 <ZR><ZR>N.B. De adressen Kromme Nieuwegracht F 381-282 zijn in 1890 gewijzigd in Kromme Nieuwegracht 66-68."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1884-04-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1884-04-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

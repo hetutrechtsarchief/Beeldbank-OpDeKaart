@@ -1,0 +1,716 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "00D550BE75BE5E528BCEAFAF84CDC0BF"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "52536"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sterrenhof te Utrecht met de voorgevels van de huizen nrs. 6 (rechts op de achtergrond)-hoger; op de voorgrond het Sterrenbos. Opmerking: Afdruk van origineel negatief, 1996"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1957-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "07EE06A6A98655548AF4A32B91E60C51"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71060"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Sterrenhof 9 (links)-lager te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0BCA3BA50416529BBD65A1C87223520E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "822116"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Sterrenbos en omgeving te Utrecht, uit het zuidoosten. In het midden de Sterrenhof met daarachter het 3e Hoofdgebouw van de Nederlandse Spoorwegen (HGB III, Moreelsepark), linksonder de Sterrenbos Studio's (Sterrenbos 18, voormalige tramremise)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3A10602D915F5197A3F8A925CA863035"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71058"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de zij- en voorgevel van het huis Sterrenhof 2-3 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3FA1264D905E56359A92FCE5DF6A4D8C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813597"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sterrenhof te Utrecht vanaf het Sterrenbos naar het noorden; rechts Sterrenhof 1 en hoger."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "414B37F6AF36596896A8D2A13EB4DBAA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85187"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Sterrenbos en omgeving te Utrecht, uit het zuidwesten. Rechtsboven het 3e Hoofdgebouw van de Nederlandse Spoorwegen (HGB III, Moreelsepark), in het midden de Sterrenhof en rechts de Sterrenbos Studio's (Sterrenbos 18, voormalige tramremise)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "41E778EEF3CA58A2932A99C62DC06797"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819502"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Sterrenhof te Utrecht, vanaf het Vrouwe Justitiaplein naar het noorden; op de achtergrond het 3e Administratiegebouw (HGB III) van de Nederlandse Spoorwegen (Moreelsepark 58).<ZR><ZR>N.B. De Sterrenhof is in 1873 gesticht door de Liefdadige Vereeniging van de Heilige Joseph voor de huisvesting van minvermogende RK-parochianen. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "42567480386E5C82B715ABF79DD10249"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501176"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Sterrenhof te Utrecht, vanaf het Vrouwe Justitiaplein, uit het zuiden; op de achtergrond het 3e Administratiegebouw (HGB III) van de Nederlandse Spoorwegen (Moreelsepark 58). Opmerking: Fotonummer: 33192."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "563EF5BDB34E5555A319BAA49FE037B8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819503"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Sterrenhof te Utrecht, vanaf het Vrouwe Justitiaplein naar het noorden; op de achtergrond het 3e Administratiegebouw (HGB III) van de Nederlandse Spoorwegen (Moreelsepark 58).<ZR><ZR>N.B. De Sterrenhof is in 1873 gesticht door de Liefdadige Vereeniging van de Heilige Joseph voor de huisvesting van minvermogende RK-parochianen. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "616A9CA56CE0512D852CB1AEC7DD327A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24718"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouwput in het voormalige park Nieuweroord te Utrecht ten behoeve van de bouw van het 3e Administratiegebouw van de Nederlandsche Spoorwegen (Hoofdgebouw III van de N.S., Moreelsepark 1), uit het noordwesten. Op de achtergrond de achterzijdes van de huizen aan de Sterrenhof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1919-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1919-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "63DAF84414185E3F8379B4BE3C191F35"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71056"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen aan de Sterrenhof te Utrecht, uit het zuiden; rechts en links de voorgevels van de huizen Sterrenbos 8 en 9; op de achtergrond een gedeelte van het 3e Administratiegebouw van de Nederlandse Spoorwegen (Moreelsepark 58)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-06-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7017734B3C4E58218565D16556C608D3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124754"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de metalen plaquette met de tekst: \"Pastoor van Zeeland o.p., oprichter v.d. St. Jozefstichting, 1876\" in de voorgevel van de huizen Sterrenhof 6 - 7 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1963-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7890B6063C5E561D8DFB9A301D58B7C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "813596"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sterrenhof te Utrecht vanaf het Sterrenbos naar het noordwesten; in het midden op de achtergrond Sterrenhof 4 -9."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D0C572F09E55502812E18D0EBCAE23D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71036"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het huis Sterrenbos 9 te Utrecht; rechts de Sterrenhof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8D9D4505DE4056F1976D11F993D4D1A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71034"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het huis Sterrenbos 8 te Utrecht; links de Sterrenhof."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9134992560AB5722A62696A89F054AD7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71055"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de huizen aan de Sterrenhof te Utrecht, uit het zuiden; rechts en links de voorgevels van de huizen Sterrenbos 8 en 9; op de achtergrond een gedeelte van het 3e Administratiegebouw van de Nederlandse Spoorwegen (Moreelsepark 58). Opmerking: Afdruk van origineel negatief, 1978<ZR><ZR>Fotonummer G 2522"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A72CA7858C0A59D4B60E700EEBA9E9AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819506"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de metalen plaquette met de tekst: \"Pastoor van Zeeland o.p., oprichter v.d. St. Jozefstichting, 1876\" in de voorgevel van de huizen Sterrenhof 6 - 7 te Utrecht.<ZR><ZR>N.B. De Sterrenhof is in 1873 gesticht door de Liefdadige Vereeniging van de Heilige Joseph voor de huisvesting van minvermogende RK-parochianen. De in 1872 opgerichte vereniging werd in 1876 feitelijk een stichting. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2009-04-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2009-04-06",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BCEBD0A7E30D599187EB9C6727AF6879"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "124739"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sterrenhof te Utrecht met de voorgevels van de huizen nrs. 7 (links op de achtergrond)-lager."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1962-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C901059973655BBC8719C7CAB1D6B9C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "20183"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Sterrenhof te Utrecht met de voorgevels van de huizen nrs. 7 (links op de achtergrond)-lager; op de voorgrond het Sterrenbos. Opmerking: Afdruk van dia, 2000"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1968-09-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D7D520EECA4D52E380E08E758EAF7A67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "30537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen aan de Sterrenhof te Utrecht uit het zuidoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1960-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D8BE1EF62AEF554B9CD4905351068023"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "501174"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Sterrenhof te Utrecht, vanaf het Vrouwe Justitiaplein, uit het zuiden; op de achtergrond het 3e Administratiegebouw (HGB III) van de Nederlandse Spoorwegen (Moreelsepark 58). Opmerking: Fotonummer: 33192."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2000-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2005-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D9747EBFEF6252B69F0037A82F44A909"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819505"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de topgevel van de huizen Sterrenhof 6 - 7  te Utrecht; op de achtergrond het 3e Administratiegebouw (HGB III) van de Nederlandse Spoorwegen aan het Moreelsepark.<ZR><ZR>N.B. De Sterrenhof is in 1873 gesticht door de Liefdadige Vereeniging van de Heilige Joseph voor de huisvesting van minvermogende RK-parochianen. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "DB32DC0340765C68B77AC546F2DDCAB2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "71039"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevels van de huizen Sterrenhof 10-12 te Utrecht."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1988-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1988-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FA488BA02CA557A9AB92B8D779C28E88"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "819504"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de oostelijke vleugel van de Sterrenhof te Utrecht, vanaf het Vrouwe Justitiaplein; op de achtergrond het 3e Administratiegebouw (HGB III) van de Nederlandse Spoorwegen (Moreelsepark 58).<ZR><ZR>N.B. De Sterrenhof is in 1873 gesticht door de Liefdadige Vereeniging van de Heilige Joseph voor de huisvesting van minvermogende RK-parochianen. Opmerking: De foto maakt deel uit van een door de fotograaf uitgevoerde inventarisatie van Utrechtse stegen, sloppen en hofjes."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "2012-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FC59EE9FAB03531C97A377ABCA03518D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "85186"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het Sterrenbos en omgeving te Utrecht, uit het noordwesten. Links op de voorgrond het 3e Hoofdgebouw van de Nederlandse Spoorwegen (HGB III, Moreelsepark), rechts het park Nieuweroord, in het midden de Sterrenhof en middenboven de Sterrenbos Studio's (Sterrenbos 18, voormalige tramremise)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-08-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

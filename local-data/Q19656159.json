@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1F99C5E6CE1954E789DC7C4B32FF499F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24762"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht in de Wilhelminastraat te Wijk bij Duurstede, uit het noordoosten."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "55F2F26016E4565AB86134ED71DE724D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24764"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijden van enkele huizen aan de Wilhelminastraat te Wijk bij Duurstede."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C10746A6C16E53048105DCC243D3AE2F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "24763"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de achterzijden van enkele huizen aan de Wilhelminastraat te Wijk bij Duurstede."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1946-06-13",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

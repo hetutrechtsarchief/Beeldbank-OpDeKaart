@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D92670E34CA456988055BA2CB8D07A63"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "49946"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het noordelijke gedeelte van de bedrijventerreinen Industriekwartier en Isselt te Amersfoort uit het zuidoosten; met in het midden de Eem en rechts de Industrieweg/Maatweg. Opmerking: De witte vlek geeft de locatie van het MC Hoogland aan."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-03-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

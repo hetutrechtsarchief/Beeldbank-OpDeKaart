@@ -1,0 +1,744 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "048212E552995449985FDF702530C3F4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150704"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de ingang het N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0C107C789E6E527F98E7FD3129B4E09F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153287"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron met \"Leidse Abri\" van het N.S.-station Steenwijk te Steenwijk met links de oude goederenloods."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "14026C47E2E85DE3AA3B65E519ABEA07"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150701"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en zijgevel van het N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "207F7198140F5C5283E06418BC5BA604"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153289"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van reizigers op het perron van het N.S.-station Steenwijk te Steenwijk met een electrisch treinstel mat. 1954 (plan F) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "21A4824B28085B0DB7F3347B5953AFF4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150703"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "282A74EDDBFC541C8476EECB8268FA32"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153288"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Steenwijk te Steenwijk met langs het perron een electrisch treinstel mat. 1954 van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "31360192AC7157B8BC9C834D662FEAB4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150706"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een voetgangersoversteekplaats voor het N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "38A3E502C7C8599386371385CEED3AB8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150708"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het kunstwerk voor het N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1976-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1976-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "44E21E872B9A5D65A7EB872B8744DAA8"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150707"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gecombineerde postkantoor en N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "539F286B085A5D019E481CE4127469BE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163122"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Steenwijk te Steenwijk. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1954-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6057648424225A8893B280366DB89B0B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164690"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Steenwijk te Steenwijk. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1935-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "610AE8B854C25BDD9D563787CFBFADB6"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160071"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het inrijsein (bordesseinpaal met drievoudig vertakkingssein, waarvan \u00e9\u00e9n met voorsein) bij het N.S.-station Steenwijk te Steenwijk (zijde Meppel). Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1972-12-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C2F79019D965CCF909C46B0AB0B889E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150705"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het kunstwerk voor het N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-25",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "76DD99A2F4C45D88B924316EA6B2685E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150700"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7A3E357FE62C58779AB307F7375DAC4F"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163020"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Steenwijk te Steenwijk. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1972-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7EA4414659AB530F90045508641FB83B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167327"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de festiviteiten op het perron van het N.S.-station Steenwijk te Steenwijk ter gelegenheid van de electrificatie van de spoorlijn Zwolle-Leeuwarden."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-06-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "920B28EC3245506EB208C526CD4619B7"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150702"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voormalige laad- en losplaats en de goederenloods bij het N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "9B716965E14B59B6B6DA534062C57D9D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150698"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het perron van het N.S.-station Steenwijk te Steenwijk met rechts de kop van het electrische treinstel nr. 725 (mat. 1954, plan F) van de N.S."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B2B675DA2F7F5F8BADBCF16592CEB7C2"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164691"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Steenwijk te Steenwijk. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1948-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1953-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B74B949F50805214BB3E62EC85CECAA4"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154038"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de loketbalie van het N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "D66E9D01ED455B06AB405EEE13DF9556"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "163123"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Steenwijk te Steenwijk, met een trein getrokken door een stoomlocomotief uit de serie 2100 van de N.S. Opmerking: Afbeelding behoort tot de Collectie De Pater"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1930-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1940-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E504231357655D17952697AC6FB8B168"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167278"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de festiviteiten bij het N.S.-station Steenwijk te Steenwijk ter gelegenheid van de electrificatie van de spoorlijn Zwolle-Leeuwarden, met rechts president-directeur dr. ir. F.Q. den Hollander die door de burgemeester J. Voetelink van Steenwijk gefeliciteerd wordt."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA5BAA2666445516B4105C755A1BF1C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164992"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het Stationsplein te Steenwijk, met rechts het S.S.-station Steenwijk. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1911-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1916-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EF66BB48F29952FAA5C905F18D8DB539"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164991"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het S.S.-station Steenwijk te Steenwijk. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1915-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F16B259E16EA5EC98882094A366A1EAB"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166170"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Steenwijk te Steenwijk: hal."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-11-23",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "F6534ADF574F5EA39E88CA3F9C3D41A3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150699"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het gecombineerde gebouw met het postkantoor en N.S.-station Steenwijk te Steenwijk."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "3586103BDF0F5364B3AB15B42C26E78D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92638"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een drumband tijdens een optreden ter gelegenheid van de opening van het tennispark aan de Sportweg te Kockengen; met veel publiek.<ZR> <ZR>N.B. De gemeente Kockengen is per 1 januari 1989 bij de gemeente Breukelen gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A9626AA9B55F535CB2713C5D9D3E92C1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92636"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een meisje, bezig met ringsteken op de fiets op de Sportweg te Kockengen; met vele toeschouwers. <ZR> <ZR>N.B. De gemeente Kockengen is per 1 januari 1989 bij de gemeente Breukelen gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

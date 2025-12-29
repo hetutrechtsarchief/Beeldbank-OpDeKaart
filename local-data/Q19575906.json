@@ -1,0 +1,44 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0EBFD9FC5B9C54838EAF6A09E28ADA39"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "91968"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de bouw van de huizen aan de Utenhamstraat in de toekomstige \"Hamwijk\" te Vleuten (gemeente Vleuten-De Meern), vanaf het gemeentehuis (Dorpsstraat 9), met op de achtergrond de Den Hamstraat.<ZR><ZR>N.B. De gemeente Vleuten-De Meern is per 1 jan. 2001 bij de gemeente Utrecht gevoegd."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1961-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

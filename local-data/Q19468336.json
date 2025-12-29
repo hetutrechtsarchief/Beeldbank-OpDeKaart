@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "357232D9C3C552F79DF502570C2EE1CC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "6970"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Rijksstraatweg bij de Burgwal te Amerongen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1929-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C4A2AF1E693D5E95B4F9EE9C284635BD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "7113"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorzijde van het grafmonument van de familie Van Reede op de Algemene Begraafplaats (Rijksstraatweg 25) te Amerongen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1899-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1904-11-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      }
+    ]
+  }
+}

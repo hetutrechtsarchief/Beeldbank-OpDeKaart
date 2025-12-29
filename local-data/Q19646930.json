@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "78E2AC585265A9DEE0534701000A6868"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "837769"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de Watertoren aan de Watertorenweg te Werkhoven (gemeente Bunnik). Opmerking: De foto (18 x 24 cm.) bevindt zich in de \"Collectie beeldmateriaal afkomstig van de Provincie Utrecht 1880-2007\", toegang 6371, inv.nr. 384. De foto is gemaakt ten behoeve van de publicatie \"Watertorens\" (Stichtse Monumenten Reeks), door Roland Blijdenstijn. Fotografie: Henk Bol (1992)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1990-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1992-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "90E3071AE44A520CAA840E88FB76FD9A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "118480"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van de watertoren (Watertorenweg) te Werkhoven (gemeente Bunnik)."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "A1CFDEABC32559DBB326D2F50E2D23D0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "815618"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de watertoren (Watertorenweg 1) te Werkhoven.."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "69077CD5AB1957A380BB672D51491356"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11167"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het hoofdgebouw van het kampeercentrum Nieuw Wildenburg (Boven Haarweg 10) te Leersum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "85243A34BF7B50B1B852DE230CA3539C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11168"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de linker- en voorgevel van een vakantiehuisje in het kampeercentrum Nieuw Wildenburg (Boven Haarweg 10) te Leersum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E0C3932E5A6851E0AB523E8F13733826"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "11166"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voor- en rechtergevel van het hoofdgebouw en de ingang van het kampeercentrum Nieuw Wildenburg (Boven Haarweg 10) te Leersum."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1950-04-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1955-04-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

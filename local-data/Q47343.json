@@ -1,0 +1,604 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0333EEA80FDC5FA1B422F97B06231CC0"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156774"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Meppel te Meppel tijdens de restauratie. Opmerking: De foto is gepubiceerd in De Koppeling nr. 830 (16 oktober 1981), p. 5."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1981-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1981-10-15",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0B4B1E50CF78568C8A2EFA202E74FE87"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161866"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Meppel te Meppel. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1CCE5F46DD5C5F5F86C6DD9643125240"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "152058"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van de nieuwe motorpostrijtuigen nrs. 3001, 3003 en 3004 (plan mP) van de P.T.T. tijdens een belastingsproefrit met 13 rijtuigen mat. 1924 (\"Blokkendozen\") van de N.S. bij het N.S.-station Meppel te Meppel. Opmerking: Zie ook De Koppeling, nr. 128 (17 september 1965), p. 1."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "254DD99168B45E828548A34913DC4CB1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160081"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het tweevoudige vertakkingssein bij het N.S.-station Meppel te Meppel ten behoeve van de splitsing van de lijnen naar Leeuwarden en Groningen. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-20",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "34D5D753767752F1A82C4F44A73D032B"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160125"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het inrijsein van het N.S.-station Meppel te Meppel (zijde Steenwijk). Op de achtergrond het inrijsein aan de zijde Hoogeveen. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "517AF5BE75F758CBA5CF741750C9A717"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150537"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Meppel te Meppel. Opmerking: In 2002 vervaardigde afdruk van origineel negatief."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1973-03-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1973-03-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "602183F8AA80571FA4401BCCC86274AC"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160083"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het tweevoudige vertakkingssein bij het N.S.-station Meppel te Meppel ten behoeve van de splitsing van de lijnen naar Leeuwarden en Groningen, met voor de richting Leeuwarden in de stand \"veilig\".. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "6C86BEDAB09151A2B17C01FD29012889"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "162983"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het S.S.-station Meppel te Meppel. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1910-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1910-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "72FBB56D6FEB51D49317EF5D5CA9AF3D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161864"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Meppel te Meppel. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1927-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1932-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "7CE7909F6EED5BE8904AD4675EA7200E"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834088"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de perronzijde van het N.S.-station Meppel te Meppel. Opmerking: NS fotonummer 8435"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-09-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-09-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "87FE0D2F5C86523D86B853902B258F67"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160954"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het motorrijtuig omBC 1903 (serie omBC 1901-1903) van de N.S. langs het perron van het N.S.-station Meppel te Meppel. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1924-08-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1924-08-26",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8F6AB476A4F6568AB83BA2B66807E56D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161867"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Meppel te Meppel. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1953-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1958-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "8FA51B3F0B4B5C5C8A1EA0B5FEB868C3"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "834086"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van een werktrein ten behoeve van de electrificatie op het N.S.-station Meppel te Meppel. Opmerking: NS fotonummer 8433"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1951-09-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1951-09-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "970D0FF4A1935FAEB13C48A9C0689E66"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "154046"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van diverse plaquettes in het N.S.-station Meppel te Meppel: het gedenkteken ter nagedachtenis aan de tijdens de oorlog 1940-1945 gevallen personeelsleden van de N.S. te Meppel (H. Braamskamp, L. Eshuis en B. van der Veen), de plaquette ter herinnering aan de electrificatie van de Noorder Lijnen (18 mei 1952), de plaquette ter herinnering aan de legging van de eerste steen voor het stationsgebouw door burgemeester A.Th. Hosteyn op 4 juni 1867 en een steen ter herinnering aan de renovatie van het stationsgebouw in 1982."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1983-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1983-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "97501201271F59EEB6095C5C141098F9"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166082"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Meppel te Meppel: wachtkamer 1e en 2e klasse."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1941-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1941-03-04",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "B6004DC8244D5E2B84165065D550DDF1"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160124"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het inrijsein van het N.S.-station Meppel te Meppel (zijde Hoogeveen). Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-12-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BC4B108695795AE69374A9107037DC3C"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "156006"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Meppel te Meppel. Opmerking: De foto is gepubliceerd in De Kopeling nr. 785 (3 oktober 1980), p. 7."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1980-09-30",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "C1B2AAE6CD5E54BAB9C5B34E44031515"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "167282"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van president-directeur dr. ir. F.Q. den Hollander van de N.S. tijdens zijn toespraak op het perron van het N.S.-station Meppel te Meppel tijdens de festiviteiten ter gelegenheid van de electrificatie van de spoorlijn Meppel-Groningen, met links de burgemeester van Meppel."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1952-05-17",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC BY 4.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "E23CBA8C54995E7C9497C80C84115943"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "168711"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Luchtfoto van het N.S.-station Meppel te Meppel. Opmerking: KLM fotonummer 16972"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1947-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1947-10-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Publiek Domein 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EA8F2664F39D59CFA0AB3BDACC43593A"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "160082"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Afbeelding van het tweevoudige vertakkingssein bij het N.S.-station Meppel te Meppel ten behoeve van de splitsing van de lijnen naar Leeuwarden en Groningen, met voor de richting Groningen in de stand \"veilig\".. Opmerking: De foto behoort tot de collectie van de Stichting Spoor- en Tramwegverzamelingen."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1975-05-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "FB109C0087E85C0EA73F8B3261C0B9D5"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "161865"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Meppel te Meppel. Opmerking: Afbeelding behoort tot de Collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1956-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1961-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Licentie onbekend 1.0"
+        }
+      }
+    ]
+  }
+}

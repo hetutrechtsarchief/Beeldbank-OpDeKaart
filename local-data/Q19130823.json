@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "0E01FA0CE10C5A379BAFDA8181CECF24"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "164749"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het oorspronkelijke, lage trac\u00e9 van de spoorlijn Amsterdam-Utrecht te Utrecht (km. 32.6, hier in gebruik als overgavesporen voor de DEMKA), uit het zuidoosten, ter hoogte van de Julianaparklaan, met links de bierlosplaats van brouwerij Grolsch en rechts op de achtergrond het flatgebouw aan de Fahrenheitlaan. Opmerking: De afbeelding behoort tot de collectie De Pater."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1959-10-28",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "84A7A399D29951E497BF24A8CD6F4EFD"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "56687"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op een gedeelte van een flat en enkele huizen aan de Fahrenheitlaan te Utrecht, uit het zuidoosten; opgespoten wegens verhoging van de spoorbaan; rechts op de achtergrond Demka"
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1965-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1965-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Gebruikslicentie HUA 1.0"
+        }
+      }
+    ]
+  }
+}

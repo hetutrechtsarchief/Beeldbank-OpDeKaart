@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1B604CE63E1258099957178A083D5792"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92463"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op de voorgevel van de oranjerie (Hydeparklaan 10) in het park van de buitenplaats Hydepark (Driebergsestraatweg) te Doorn; met op de voorgrond een gazon met broderies.<ZR><ZR>N.B.Het huis is in 1942 door brand verwoest. Opmerking: Een ca 1980 gemaakte fotoreproductie van een ca 1925 vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "BF436EEAAC9C5C038AA017B2379A0C82"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "92464"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht over de vijver op de voorgevel van de oranjerie (Hydeparklaan 10) in het park van de buitenplaats Hydepark (Driebergsestraatweg) te Doorn; met op de voorgrond een gazon met broderies.<ZR><ZR>N.B.Het huis is in 1942 door brand verwoest. Opmerking: Een ca 1980 gemaakte fotoreproductie van een ca 1925 vervaardigde foto."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1920-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1930-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "Verweesd werk 1.0"
+        }
+      }
+    ]
+  }
+}

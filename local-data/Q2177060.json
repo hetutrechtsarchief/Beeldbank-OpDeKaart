@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "uuid",
+      "catalogusnummer",
+      "description",
+      "beginTimeStamp",
+      "endTimeStamp",
+      "rights"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "1A4EF6580CDB5E79802CB55663A83A8D"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "166127"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Zuidhorn te Zuidhorn: hal met loket."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1971-01-22",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "906191EB114058A0A39A5209D5237BBA"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "153742"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Interieur van het N.S.-station Zuidhorn te Zuidhorn: wachtkamer."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      },
+      {
+        "uuid": {
+          "type": "literal",
+          "value": "EBEAC20290C45B859691DC2AA4A080EE"
+        },
+        "catalogusnummer": {
+          "type": "literal",
+          "value": "150880"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Gezicht op het N.S.-station Zuidhorn te Zuidhorn."
+        },
+        "beginTimeStamp": {
+          "type": "literal",
+          "value": "1970-01-01",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "endTimeStamp": {
+          "type": "literal",
+          "value": "1970-12-31",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "rights": {
+          "type": "literal",
+          "value": "CC0 1.0"
+        }
+      }
+    ]
+  }
+}
